@@ -16,6 +16,6 @@ server {
   proxy_send_timeout 120s;
   proxy_buffering off;
  }
- location / { try_files $uri $uri/ =404; }
+ location / { add_header Cache-Control "no-cache"; try_files $uri $uri/ =404; }
  location ~* \.(json|js|css)$ { add_header Cache-Control 'no-cache'; }
 }

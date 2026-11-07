@@ -1,5 +1,5 @@
-import {fresh,status,weak,past,queue,mockQueue,rate,readProgress,saveProgress,parseProgress,normalize,filterQuestions,KEY} from './core.js';
-import {guideConfig,sendGuideMessage} from './guide-client.js';
+import {fresh,status,weak,past,queue,mockQueue,rate,readProgress,saveProgress,parseProgress,normalize,filterQuestions,KEY} from './core.js?v=20261107-2';
+import {guideConfig,sendGuideMessage} from './guide-client.js?v=20261107-2';
 const $=s=>document.querySelector(s),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let db,p,storage,storageOk=true,reviewFilter='weak',filters={courses:[],mode:'mixed',count:20},timer,chat=[],chatContext={},guideBusy=false,resultsLimit=50,searchTimer;
 const app=$('#app'),modal=$('#overlay');
