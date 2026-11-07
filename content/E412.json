@@ -1,0 +1,2694 @@
+{
+  "id": "E412",
+  "title": "Psycholinguistics",
+  "shortTitle": "Psycholinguistics",
+  "overview": "Psycholinguistics connects language knowledge with mental processing, development and the brain. Begin with how people comprehend and produce language, then compare explanations of L1 and L2 learning, individual differences and patterns of language impairment.",
+  "journey": [
+    "Observe the processes: comprehension, production and acquisition.",
+    "Trace development: early communication, words and increasingly complex patterns.",
+    "Compare explanations: biological, cognitive and social learning accounts.",
+    "Explain variation: age, motivation, memory, context and neural organisation."
+  ],
+  "sources": [
+    {
+      "id": "E412",
+      "title": "E412.pdf",
+      "file": "E412.pdf",
+      "kind": "pdf",
+      "pageCount": 92
+    },
+    {
+      "id": "e412-cph-research",
+      "kind": "web",
+      "title": "Hartshorne, Tenenbaum and Pinker (2018): A critical period for second language acquisition",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6559801/"
+    },
+    {
+      "id": "e412-styles-review",
+      "kind": "web",
+      "title": "Pashler et al.: Learning styles, concepts and evidence",
+      "url": "https://www.psychologicalscience.org/journals/pspi/j.1539-6053.2009.01038.x/"
+    },
+    {
+      "id": "e412-aphasia-nidcd",
+      "kind": "web",
+      "title": "NIDCD: Aphasia",
+      "url": "https://www.nidcd.nih.gov/health/aphasia"
+    }
+  ],
+  "groups": [
+    {
+      "id": "e412-intro",
+      "title": "Introduction to psycholinguistics",
+      "syllabus": [
+        "Definition of psycholinguistics",
+        "History and development",
+        "Scope of psycholinguistics",
+        "Branches of psycholinguistics"
+      ]
+    },
+    {
+      "id": "e412-child",
+      "title": "Child language acquisition",
+      "syllabus": [
+        "Pre-linguistic stage",
+        "Babbling stage",
+        "Sensori-motor stage",
+        "Holophrastic stage",
+        "Two-word stage",
+        "Telegraphic stage"
+      ]
+    },
+    {
+      "id": "e412-l1",
+      "title": "L1 acquisition theories",
+      "syllabus": [
+        "Behaviourist theory",
+        "Mentalist theory",
+        "Biological theory",
+        "Cognitive theory",
+        "Sociological theory"
+      ]
+    },
+    {
+      "id": "e412-l2",
+      "title": "L2 learning theories",
+      "syllabus": [
+        "Monitor Model",
+        "Interlanguage theory",
+        "Linguistic universals",
+        "Acculturation theory",
+        "Cognitive theory of L2 learning"
+      ]
+    },
+    {
+      "id": "e412-individual",
+      "title": "Individual factors in L2 learning",
+      "syllabus": [
+        "Age",
+        "Aptitude",
+        "Attitude",
+        "Motivation",
+        "Personality",
+        "Cognitive style",
+        "Memory",
+        "Transfer of training",
+        "Intelligence",
+        "Fossilization"
+      ]
+    },
+    {
+      "id": "e412-neuro",
+      "title": "Neurolinguistics",
+      "syllabus": [
+        "Aphasia",
+        "Dyslexia",
+        "Language therapy"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "e412-psycholinguistics",
+      "groupId": "e412-intro",
+      "title": "Psycholinguistics",
+      "aliases": [],
+      "core": "Psycholinguistics studies the mental knowledge and processes involved in acquiring, understanding and producing language.",
+      "explanation": "It examines how linguistic representations interact with attention, memory and other cognitive processes; mental processes are inferred from evidence rather than directly read from behaviour.",
+      "example": "Teaching example: A listener rapidly combines word meanings with sentence structure to understand a spoken question.",
+      "confusion": "Knowing grammatical rules explicitly is different from using tacit linguistic knowledge.",
+      "syllabusTerms": [
+        "Definition of psycholinguistics",
+        "Scope of psycholinguistics"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            4,
+            5,
+            6,
+            9,
+            10
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-psycholinguistics-core",
+          "prompt": "Explain psycholinguistics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Psycholinguistics studies the mental knowledge and processes involved in acquiring, understanding and producing language.",
+          "answer": "Psycholinguistics studies the mental knowledge and processes involved in acquiring, understanding and producing language. It examines how linguistic representations interact with attention, memory and other cognitive processes; mental processes are inferred from evidence rather than directly read from behaviour.",
+          "keyPoints": [
+            "Psycholinguistics studies the mental knowledge and processes involved in acquiring, understanding and producing language."
+          ],
+          "followUps": [
+            "e412-psycholinguistics-apply"
+          ]
+        },
+        {
+          "id": "e412-psycholinguistics-apply",
+          "prompt": "Why can fluent speakers use a grammatical pattern without explaining its rule?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Much linguistic knowledge is tacit.",
+          "answer": "Much linguistic knowledge is tacit. Psycholinguistics distinguishes the representations that support use from a person's ability to state those representations consciously.",
+          "keyPoints": [
+            "Much linguistic knowledge is tacit.",
+            "Psycholinguistics distinguishes the representations that support use from a person's ability to state those representations consciously."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-history-of-psycholinguistics",
+      "groupId": "e412-intro",
+      "title": "History of psycholinguistics",
+      "aliases": [],
+      "core": "Psycholinguistics developed through exchanges between psychology and linguistics, with a major mid-twentieth-century revival.",
+      "explanation": "Early work examined language and thought; behaviourist approaches stressed learning histories, while cognitive and generative work renewed interest in internal representations.",
+      "example": "Teaching example: The contrast between Skinner's account and Chomsky's critique helped shape debates about language learning.",
+      "confusion": "The field did not begin with one person or a single experiment.",
+      "syllabusTerms": [
+        "History and development"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-history-of-psycholinguistics-core",
+          "prompt": "Explain history of psycholinguistics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Psycholinguistics developed through exchanges between psychology and linguistics, with a major mid-twentieth-century revival.",
+          "answer": "Psycholinguistics developed through exchanges between psychology and linguistics, with a major mid-twentieth-century revival. Early work examined language and thought; behaviourist approaches stressed learning histories, while cognitive and generative work renewed interest in internal representations.",
+          "keyPoints": [
+            "Psycholinguistics developed through exchanges between psychology and linguistics, with a major mid-twentieth-century revival."
+          ],
+          "followUps": [
+            "e412-history-of-psycholinguistics-apply"
+          ]
+        },
+        {
+          "id": "e412-history-of-psycholinguistics-apply",
+          "prompt": "Why was the cognitive turn important for psycholinguistics?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It made internal representations and mental processes legitimate targets of explanation, encouraging experimental models of comprehension, production and acquisition beyond observable stimulus–response descriptions.",
+          "answer": "It made internal representations and mental processes legitimate targets of explanation, encouraging experimental models of comprehension, production and acquisition beyond observable stimulus–response descriptions.",
+          "keyPoints": [
+            "It made internal representations and mental processes legitimate targets of explanation, encouraging experimental models of comprehension, production and acquisition beyond observable stimulus–response descriptions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-branches-of-psycholinguistics",
+      "groupId": "e412-intro",
+      "title": "Branches of psycholinguistics",
+      "aliases": [],
+      "core": "Psycholinguistic branches include experimental, developmental and neurolinguistic approaches to language.",
+      "explanation": "Experimental work studies processing through tasks; developmental work studies acquisition and change; neurolinguistics relates language to brain organisation.",
+      "example": "Teaching example: A child-language recording and an adult reaction-time experiment investigate different dimensions of language processing.",
+      "confusion": "The branches overlap rather than forming sealed disciplines.",
+      "syllabusTerms": [
+        "Branches of psycholinguistics"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-branches-of-psycholinguistics-core",
+          "prompt": "Explain branches of psycholinguistics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Psycholinguistic branches include experimental, developmental and neurolinguistic approaches to language.",
+          "answer": "Psycholinguistic branches include experimental, developmental and neurolinguistic approaches to language. Experimental work studies processing through tasks; developmental work studies acquisition and change; neurolinguistics relates language to brain organisation.",
+          "keyPoints": [
+            "Psycholinguistic branches include experimental, developmental and neurolinguistic approaches to language."
+          ],
+          "followUps": [
+            "e412-branches-of-psycholinguistics-apply"
+          ]
+        },
+        {
+          "id": "e412-branches-of-psycholinguistics-apply",
+          "prompt": "How can one study be both developmental and experimental?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It can compare children at different stages using a controlled language task.",
+          "answer": "It can compare children at different stages using a controlled language task. Developmental describes the growth question, while experimental describes how the evidence is obtained.",
+          "keyPoints": [
+            "It can compare children at different stages using a controlled language task.",
+            "Developmental describes the growth question, while experimental describes how the evidence is obtained."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-speech-production",
+      "groupId": "e412-intro",
+      "title": "Speech production",
+      "aliases": [],
+      "core": "Speech production transforms a communicative intention into a planned and articulated utterance.",
+      "explanation": "A useful model distinguishes conceptualisation, formulation and articulation, with monitoring of the output. Real-time coordination is complex and partly automatic.",
+      "example": "Teaching example: A speaker chooses a message, selects words and grammatical patterns, then produces their sounds.",
+      "confusion": "An occasional speech error does not mean the speaker lacks the relevant grammar.",
+      "syllabusTerms": [
+        "Scope of psycholinguistics"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            12,
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-speech-production-core",
+          "prompt": "What is speech production?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Speech production transforms a communicative intention into a planned and articulated utterance.",
+          "answer": "Speech production transforms a communicative intention into a planned and articulated utterance. A useful model distinguishes conceptualisation, formulation and articulation, with monitoring of the output. Real-time coordination is complex and partly automatic.",
+          "keyPoints": [
+            "Speech production transforms a communicative intention into a planned and articulated utterance."
+          ],
+          "followUps": [
+            "e412-speech-production-apply"
+          ]
+        },
+        {
+          "id": "e412-speech-production-apply",
+          "prompt": "What can a slip of the tongue reveal about production?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A systematic slip can show that speakers plan and organise linguistic units before articulation.",
+          "answer": "A systematic slip can show that speakers plan and organise linguistic units before articulation. The specific error pattern supplies evidence about representations and timing.",
+          "keyPoints": [
+            "A systematic slip can show that speakers plan and organise linguistic units before articulation.",
+            "The specific error pattern supplies evidence about representations and timing."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-comprehension-and-context",
+      "groupId": "e412-intro",
+      "title": "Comprehension and context",
+      "aliases": [],
+      "core": "Comprehension builds an interpretation from linguistic input using knowledge and context.",
+      "explanation": "Listeners and readers identify forms, assemble structure and integrate meanings. Bottom-up input and top-down expectations can interact.",
+      "example": "Teaching example: The context of a river helps select the intended meaning of bank.",
+      "confusion": "Context can guide interpretation but does not make the acoustic or written input irrelevant.",
+      "syllabusTerms": [
+        "Scope of psycholinguistics"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            5,
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-comprehension-and-context-core",
+          "prompt": "Explain comprehension and context briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Comprehension builds an interpretation from linguistic input using knowledge and context.",
+          "answer": "Comprehension builds an interpretation from linguistic input using knowledge and context. Listeners and readers identify forms, assemble structure and integrate meanings. Bottom-up input and top-down expectations can interact.",
+          "keyPoints": [
+            "Comprehension builds an interpretation from linguistic input using knowledge and context."
+          ],
+          "followUps": [
+            "e412-comprehension-and-context-apply"
+          ]
+        },
+        {
+          "id": "e412-comprehension-and-context-apply",
+          "prompt": "Why can the same word be recognised differently in different contexts?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Context activates different expectations and meanings, which interact with the incoming form.",
+          "answer": "Context activates different expectations and meanings, which interact with the incoming form. The listener must still connect that interpretation with the linguistic evidence.",
+          "keyPoints": [
+            "Context activates different expectations and meanings, which interact with the incoming form.",
+            "The listener must still connect that interpretation with the linguistic evidence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-pre-linguistic-development",
+      "groupId": "e412-child",
+      "title": "Pre-linguistic development",
+      "aliases": [],
+      "core": "Pre-linguistic development includes early perception, vocalisation and communicative behaviour before stable words.",
+      "explanation": "Infants attend to speech, participate in interaction and gradually tune perception to the languages around them. These abilities develop at varying rates.",
+      "example": "Teaching example: A baby alternates gaze and vocalisation with a caregiver before producing recognisable words.",
+      "confusion": "The absence of spoken words does not imply the absence of communicative learning.",
+      "syllabusTerms": [
+        "Pre-linguistic stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            16,
+            17,
+            18
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-pre-linguistic-development-core",
+          "prompt": "What is pre-linguistic development?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Pre-linguistic development includes early perception, vocalisation and communicative behaviour before stable words.",
+          "answer": "Pre-linguistic development includes early perception, vocalisation and communicative behaviour before stable words. Infants attend to speech, participate in interaction and gradually tune perception to the languages around them. These abilities develop at varying rates.",
+          "keyPoints": [
+            "Pre-linguistic development includes early perception, vocalisation and communicative behaviour before stable words."
+          ],
+          "followUps": [
+            "e412-pre-linguistic-development-apply"
+          ]
+        },
+        {
+          "id": "e412-pre-linguistic-development-apply",
+          "prompt": "Why is early turn-taking relevant before a child has words?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It provides experience of coordinated communication, attention and response.",
+          "answer": "It provides experience of coordinated communication, attention and response. Language learning involves these interactional patterns as well as learning sound forms.",
+          "keyPoints": [
+            "It provides experience of coordinated communication, attention and response.",
+            "Language learning involves these interactional patterns as well as learning sound forms."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-babbling",
+      "groupId": "e412-child",
+      "title": "Babbling",
+      "aliases": [],
+      "core": "Babbling is early production of speech-like syllabic patterns before stable meaningful words.",
+      "explanation": "Repeated and varied consonant–vowel sequences provide experience with articulation and interact with the ambient language. Babbling and later words show continuities and changes.",
+      "example": "Teaching example: Repeated ba-ba or varied ba-da are possible babbling patterns.",
+      "confusion": "A repeated sound becomes a word only when it has a sufficiently stable meaningful use.",
+      "syllabusTerms": [
+        "Babbling stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            18,
+            19
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-babbling-core",
+          "prompt": "What is babbling?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Babbling is early production of speech-like syllabic patterns before stable meaningful words.",
+          "answer": "Babbling is early production of speech-like syllabic patterns before stable meaningful words. Repeated and varied consonant–vowel sequences provide experience with articulation and interact with the ambient language. Babbling and later words show continuities and changes.",
+          "keyPoints": [
+            "Babbling is early production of speech-like syllabic patterns before stable meaningful words."
+          ],
+          "followUps": [
+            "e412-babbling-apply"
+          ]
+        },
+        {
+          "id": "e412-babbling-apply",
+          "prompt": "Why is a baby's repeated mama not automatically its first word?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It may be a babbled sound sequence without a consistent referential or communicative meaning.",
+          "answer": "It may be a babbled sound sequence without a consistent referential or communicative meaning. Meaningful use in context is needed to identify a word.",
+          "keyPoints": [
+            "It may be a babbled sound sequence without a consistent referential or communicative meaning.",
+            "Meaningful use in context is needed to identify a word."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-sensori-motor-development",
+      "groupId": "e412-child",
+      "title": "Sensori-motor development",
+      "aliases": [],
+      "core": "In Piaget's account, sensori-motor development concerns learning through perception and action during early life.",
+      "explanation": "Object permanence, intentional action and symbolic capacities provide a cognitive context for language development. Cognitive stages should not be treated as exact universal language timetables.",
+      "example": "Teaching example: A child searching for a hidden object shows an understanding relevant to representing absent things.",
+      "confusion": "Sensori-motor stage is a cognitive-development label, not a specific grammatical stage.",
+      "syllabusTerms": [
+        "Sensori-motor stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-sensori-motor-development-core",
+          "prompt": "What is sensori-motor development?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "In Piaget's account, sensori-motor development concerns learning through perception and action during early life.",
+          "answer": "In Piaget's account, sensori-motor development concerns learning through perception and action during early life. Object permanence, intentional action and symbolic capacities provide a cognitive context for language development. Cognitive stages should not be treated as exact universal language timetables.",
+          "keyPoints": [
+            "In Piaget's account, sensori-motor development concerns learning through perception and action during early life."
+          ],
+          "followUps": [
+            "e412-sensori-motor-development-apply"
+          ]
+        },
+        {
+          "id": "e412-sensori-motor-development-apply",
+          "prompt": "How might object permanence support later language use?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Representing objects that are out of sight helps support reference beyond the immediate scene, though it does not by itself explain the acquisition of grammar.",
+          "answer": "Representing objects that are out of sight helps support reference beyond the immediate scene, though it does not by itself explain the acquisition of grammar.",
+          "keyPoints": [
+            "Representing objects that are out of sight helps support reference beyond the immediate scene, though it does not by itself explain the acquisition of grammar."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-holophrastic-stage",
+      "groupId": "e412-child",
+      "title": "Holophrastic stage",
+      "aliases": [],
+      "core": "At the holophrastic stage, a single word can perform a communicative act that adults express more fully.",
+      "explanation": "Context, gesture and intonation help an adult interpret the intention; an adult paraphrase does not prove that the child represents a complete adult sentence internally.",
+      "example": "Teaching example: Milk may function as a request for milk, depending on the setting.",
+      "confusion": "One-word speech need not correspond to one fixed sentence meaning.",
+      "syllabusTerms": [
+        "Holophrastic stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            21,
+            22,
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-holophrastic-stage-core",
+          "prompt": "What is holophrastic stage?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "At the holophrastic stage, a single word can perform a communicative act that adults express more fully.",
+          "answer": "At the holophrastic stage, a single word can perform a communicative act that adults express more fully. Context, gesture and intonation help an adult interpret the intention; an adult paraphrase does not prove that the child represents a complete adult sentence internally.",
+          "keyPoints": [
+            "At the holophrastic stage, a single word can perform a communicative act that adults express more fully."
+          ],
+          "followUps": [
+            "e412-holophrastic-stage-apply"
+          ]
+        },
+        {
+          "id": "e412-holophrastic-stage-apply",
+          "prompt": "Why can the word more count as a complete communicative act in child speech?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "In an interaction it can request continuation or an additional item.",
+          "answer": "In an interaction it can request continuation or an additional item. Context supplies information that an adult might express through a longer utterance.",
+          "keyPoints": [
+            "In an interaction it can request continuation or an additional item.",
+            "Context supplies information that an adult might express through a longer utterance."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-two-word-combinations",
+      "groupId": "e412-child",
+      "title": "Two-word combinations",
+      "aliases": [],
+      "core": "Two-word speech combines lexical items to express relationships such as agent–action or possession.",
+      "explanation": "Early combinations show emerging organisation, often without the full set of adult function words and inflections.",
+      "example": "Teaching example: Mummy go can link an agent with an action; daddy shoe can signal possession.",
+      "confusion": "Two adjacent words are not necessarily evidence of complete adult-like syntax.",
+      "syllabusTerms": [
+        "Two-word stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-two-word-combinations-core",
+          "prompt": "Explain two-word combinations briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Two-word speech combines lexical items to express relationships such as agent–action or possession.",
+          "answer": "Two-word speech combines lexical items to express relationships such as agent–action or possession. Early combinations show emerging organisation, often without the full set of adult function words and inflections.",
+          "keyPoints": [
+            "Two-word speech combines lexical items to express relationships such as agent–action or possession."
+          ],
+          "followUps": [
+            "e412-two-word-combinations-apply"
+          ]
+        },
+        {
+          "id": "e412-two-word-combinations-apply",
+          "prompt": "How can two-word speech reveal more than vocabulary growth?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The child combines words into meaningful relations and often uses language-appropriate ordering patterns, showing emerging structural knowledge rather than isolated naming alone.",
+          "answer": "The child combines words into meaningful relations and often uses language-appropriate ordering patterns, showing emerging structural knowledge rather than isolated naming alone.",
+          "keyPoints": [
+            "The child combines words into meaningful relations and often uses language-appropriate ordering patterns, showing emerging structural knowledge rather than isolated naming alone."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-telegraphic-speech",
+      "groupId": "e412-child",
+      "title": "Telegraphic speech",
+      "aliases": [],
+      "core": "Telegraphic speech uses short multiword combinations with many content words but fewer function words or inflections.",
+      "explanation": "It can express increasingly varied meanings while grammatical detail continues to develop. The term describes a broad pattern, with substantial individual variation.",
+      "example": "Teaching example: Mummy give ball communicates an event while omitting several adult grammatical elements.",
+      "confusion": "Missing function words do not imply that the utterance lacks organisation.",
+      "syllabusTerms": [
+        "Telegraphic stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            24,
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-telegraphic-speech-core",
+          "prompt": "What is telegraphic speech?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Telegraphic speech uses short multiword combinations with many content words but fewer function words or inflections.",
+          "answer": "Telegraphic speech uses short multiword combinations with many content words but fewer function words or inflections. It can express increasingly varied meanings while grammatical detail continues to develop. The term describes a broad pattern, with substantial individual variation.",
+          "keyPoints": [
+            "Telegraphic speech uses short multiword combinations with many content words but fewer function words or inflections."
+          ],
+          "followUps": [
+            "e412-telegraphic-speech-apply"
+          ]
+        },
+        {
+          "id": "e412-telegraphic-speech-apply",
+          "prompt": "Why is telegraphic speech not simply a random list of nouns and verbs?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its words often follow meaningful ordering patterns and express relationships among participants and events.",
+          "answer": "Its words often follow meaningful ordering patterns and express relationships among participants and events. It is reduced relative to adult grammar, not necessarily unstructured.",
+          "keyPoints": [
+            "Its words often follow meaningful ordering patterns and express relationships among participants and events.",
+            "It is reduced relative to adult grammar, not necessarily unstructured."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-overgeneralisation-and-the-wug-test",
+      "groupId": "e412-child",
+      "title": "Overgeneralisation and the Wug test",
+      "aliases": [],
+      "core": "Overgeneralisation applies a learned pattern beyond its conventional range; novel-word tasks test productive knowledge.",
+      "explanation": "Children can use inflections on unfamiliar forms, supporting the idea that they generalise patterns rather than merely memorise all complete words.",
+      "example": "Teaching example: A child who says goed applies a regular past-tense pattern to an irregular verb.",
+      "confusion": "A developmental error can provide evidence of learning, not just failure.",
+      "syllabusTerms": [
+        "Telegraphic stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            26,
+            27,
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-overgeneralisation-and-the-wug-test-core",
+          "prompt": "Explain overgeneralisation and the wug test briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Overgeneralisation applies a learned pattern beyond its conventional range; novel-word tasks test productive knowledge.",
+          "answer": "Overgeneralisation applies a learned pattern beyond its conventional range; novel-word tasks test productive knowledge. Children can use inflections on unfamiliar forms, supporting the idea that they generalise patterns rather than merely memorise all complete words.",
+          "keyPoints": [
+            "Overgeneralisation applies a learned pattern beyond its conventional range; novel-word tasks test productive knowledge."
+          ],
+          "followUps": [
+            "e412-overgeneralisation-and-the-wug-test-apply"
+          ]
+        },
+        {
+          "id": "e412-overgeneralisation-and-the-wug-test-apply",
+          "prompt": "What does the Wug test show about children's morphological knowledge?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Successful pluralisation of a novel noun indicates that children can generalise a morphological pattern beyond familiar memorised words.",
+          "answer": "Successful pluralisation of a novel noun indicates that children can generalise a morphological pattern beyond familiar memorised words. Performance also depends on task and developmental factors.",
+          "keyPoints": [
+            "Successful pluralisation of a novel noun indicates that children can generalise a morphological pattern beyond familiar memorised words.",
+            "Performance also depends on task and developmental factors."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-caretaker-speech",
+      "groupId": "e412-child",
+      "title": "Caretaker speech",
+      "aliases": [],
+      "core": "Caretaker or child-directed speech is speech adapted to interaction with a child.",
+      "explanation": "It may involve exaggerated prosody, repetition, shorter utterances and responsive interaction, but its forms vary across cultures and contexts.",
+      "example": "Teaching example: A caregiver repeats a label while following the child's attention to an object.",
+      "confusion": "One culturally familiar style of baby talk is not a universal prerequisite for acquisition.",
+      "syllabusTerms": [
+        "Pre-linguistic stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            28,
+            29,
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-caretaker-speech-core",
+          "prompt": "What is caretaker speech?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Caretaker or child-directed speech is speech adapted to interaction with a child.",
+          "answer": "Caretaker or child-directed speech is speech adapted to interaction with a child. It may involve exaggerated prosody, repetition, shorter utterances and responsive interaction, but its forms vary across cultures and contexts.",
+          "keyPoints": [
+            "Caretaker or child-directed speech is speech adapted to interaction with a child."
+          ],
+          "followUps": [
+            "e412-caretaker-speech-apply"
+          ]
+        },
+        {
+          "id": "e412-caretaker-speech-apply",
+          "prompt": "Why should child-directed speech not be defined as universally ungrammatical baby talk?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Much child-directed speech is grammatical, and caregiver styles vary.",
+          "answer": "Much child-directed speech is grammatical, and caregiver styles vary. Its relevant properties include attention, responsiveness and accessibility rather than one obligatory simplified code.",
+          "keyPoints": [
+            "Much child-directed speech is grammatical, and caregiver styles vary.",
+            "Its relevant properties include attention, responsiveness and accessibility rather than one obligatory simplified code."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-critical-and-sensitive-periods",
+      "groupId": "e412-child",
+      "title": "Critical and sensitive periods",
+      "aliases": [],
+      "core": "A critical-period hypothesis proposes age-related constraints on language acquisition; sensitive-period accounts allow more gradual changes.",
+      "explanation": "Different language abilities may show different age patterns. Age-related outcomes interact with experience and learning opportunities, so a single rigid cutoff is too simple.",
+      "example": "Teaching example: Early and late learners may differ in ultimate pronunciation even when older beginners initially progress quickly.",
+      "confusion": "A decline in average attainment does not mean adults cannot learn a language successfully.",
+      "syllabusTerms": [
+        "Pre-linguistic stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "e412-cph-research"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-critical-and-sensitive-periods-core",
+          "prompt": "Explain critical and sensitive periods briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A critical-period hypothesis proposes age-related constraints on language acquisition; sensitive-period accounts allow more gradual changes.",
+          "answer": "A critical-period hypothesis proposes age-related constraints on language acquisition; sensitive-period accounts allow more gradual changes. Different language abilities may show different age patterns. Age-related outcomes interact with experience and learning opportunities, so a single rigid cutoff is too simple.",
+          "keyPoints": [
+            "A critical-period hypothesis proposes age-related constraints on language acquisition; sensitive-period accounts allow more gradual changes."
+          ],
+          "followUps": [
+            "e412-critical-and-sensitive-periods-apply"
+          ]
+        },
+        {
+          "id": "e412-critical-and-sensitive-periods-apply",
+          "prompt": "Why does evidence for an age effect not establish one absolute deadline for all language learning?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Age patterns can differ by skill, task and experience, and observational findings require interpretation.",
+          "answer": "Age patterns can differ by skill, task and experience, and observational findings require interpretation. A sensitive period can involve gradual changes rather than total loss of learning ability.",
+          "keyPoints": [
+            "Age patterns can differ by skill, task and experience, and observational findings require interpretation.",
+            "A sensitive period can involve gradual changes rather than total loss of learning ability."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-deprivation-evidence",
+      "groupId": "e412-child",
+      "title": "Deprivation evidence",
+      "aliases": [],
+      "core": "Language-deprivation cases inform age questions but contain major confounds.",
+      "explanation": "Severe isolation often involves trauma, poor care and uncertain developmental histories. Such cases cannot cleanly isolate age from every other influence.",
+      "example": "Teaching example: A late first-language learner's difficulties may reflect both timing and broader deprivation.",
+      "confusion": "One unusual case cannot by itself prove a universal biological cutoff.",
+      "syllabusTerms": [
+        "Pre-linguistic stage"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-deprivation-evidence-core",
+          "prompt": "What is deprivation evidence?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Language-deprivation cases inform age questions but contain major confounds.",
+          "answer": "Language-deprivation cases inform age questions but contain major confounds. Severe isolation often involves trauma, poor care and uncertain developmental histories. Such cases cannot cleanly isolate age from every other influence.",
+          "keyPoints": [
+            "Language-deprivation cases inform age questions but contain major confounds."
+          ],
+          "followUps": [
+            "e412-deprivation-evidence-apply"
+          ]
+        },
+        {
+          "id": "e412-deprivation-evidence-apply",
+          "prompt": "Why is the case of Genie not a controlled experiment on language timing?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Language deprivation was accompanied by severe abuse and other developmental risks.",
+          "answer": "Language deprivation was accompanied by severe abuse and other developmental risks. These factors prevent a simple causal inference that age alone explains the outcome.",
+          "keyPoints": [
+            "Language deprivation was accompanied by severe abuse and other developmental risks.",
+            "These factors prevent a simple causal inference that age alone explains the outcome."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-behaviourist-acquisition-theory",
+      "groupId": "e412-l1",
+      "title": "Behaviourist acquisition theory",
+      "aliases": [],
+      "core": "Behaviourist accounts explain language learning through environmental associations, imitation and reinforcement.",
+      "explanation": "Skinner's operant account emphasises consequences that shape verbal behaviour. It highlights input and learning history, while simple imitation struggles to explain productive novelty.",
+      "example": "Teaching example: A caregiver's response can reinforce a useful request, yet the child also creates unfamiliar utterances.",
+      "confusion": "Negative reinforcement removes an aversive condition; it is not the same as punishment.",
+      "syllabusTerms": [
+        "Behaviourist theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-behaviourist-acquisition-theory-core",
+          "prompt": "What is behaviourist acquisition theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Behaviourist accounts explain language learning through environmental associations, imitation and reinforcement.",
+          "answer": "Behaviourist accounts explain language learning through environmental associations, imitation and reinforcement. Skinner's operant account emphasises consequences that shape verbal behaviour. It highlights input and learning history, while simple imitation struggles to explain productive novelty.",
+          "keyPoints": [
+            "Behaviourist accounts explain language learning through environmental associations, imitation and reinforcement."
+          ],
+          "followUps": [
+            "e412-behaviourist-acquisition-theory-apply"
+          ]
+        },
+        {
+          "id": "e412-behaviourist-acquisition-theory-apply",
+          "prompt": "Why do forms such as goed challenge a pure imitation account?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Children normally hear went, not goed.",
+          "answer": "Children normally hear went, not goed. Such errors indicate generalisation beyond remembered adult forms, requiring an account of how productive patterns emerge.",
+          "keyPoints": [
+            "Children normally hear went, not goed.",
+            "Such errors indicate generalisation beyond remembered adult forms, requiring an account of how productive patterns emerge."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-mentalist-and-innatist-theory",
+      "groupId": "e412-l1",
+      "title": "Mentalist and innatist theory",
+      "aliases": [],
+      "core": "Mentalist or innatist approaches propose that language learning depends partly on inborn linguistic capacities.",
+      "explanation": "Chomskyan accounts connect acquisition with Universal Grammar and the problem of explaining abstract knowledge from limited evidence. Particular formulations and empirical claims remain debated.",
+      "example": "Teaching example: Children learn structural dependencies that are not taught as explicit rules.",
+      "confusion": "Innateness does not mean learning occurs without linguistic experience.",
+      "syllabusTerms": [
+        "Mentalist theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            37,
+            38,
+            39
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-mentalist-and-innatist-theory-core",
+          "prompt": "Explain mentalist and innatist theory briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Mentalist or innatist approaches propose that language learning depends partly on inborn linguistic capacities.",
+          "answer": "Mentalist or innatist approaches propose that language learning depends partly on inborn linguistic capacities. Chomskyan accounts connect acquisition with Universal Grammar and the problem of explaining abstract knowledge from limited evidence. Particular formulations and empirical claims remain debated.",
+          "keyPoints": [
+            "Mentalist or innatist approaches propose that language learning depends partly on inborn linguistic capacities."
+          ],
+          "followUps": [
+            "e412-mentalist-and-innatist-theory-apply"
+          ]
+        },
+        {
+          "id": "e412-mentalist-and-innatist-theory-apply",
+          "prompt": "What does poverty of the stimulus argue, and what is debated?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It argues that some acquired knowledge exceeds what input alone straightforwardly explains, motivating innate constraints.",
+          "answer": "It argues that some acquired knowledge exceeds what input alone straightforwardly explains, motivating innate constraints. Researchers debate the input evidence, learning mechanisms and the nature of those constraints.",
+          "keyPoints": [
+            "It argues that some acquired knowledge exceeds what input alone straightforwardly explains, motivating innate constraints.",
+            "Researchers debate the input evidence, learning mechanisms and the nature of those constraints."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-biological-theory",
+      "groupId": "e412-l1",
+      "title": "Biological theory",
+      "aliases": [],
+      "core": "Biological accounts relate language acquisition to species-specific capacities, maturation and brain development.",
+      "explanation": "Lenneberg connected language development with biological timing. Modern interpretation requires attention to plasticity, distributed networks and continuing learning rather than an all-or-nothing developmental switch.",
+      "example": "Teaching example: Children's capacity to acquire accessible spoken or signed language shows biological preparedness interacting with experience.",
+      "confusion": "Biological contribution does not exclude social or cognitive explanation.",
+      "syllabusTerms": [
+        "Biological theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            39,
+            40,
+            41
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-biological-theory-core",
+          "prompt": "What is biological theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Biological accounts relate language acquisition to species-specific capacities, maturation and brain development.",
+          "answer": "Biological accounts relate language acquisition to species-specific capacities, maturation and brain development. Lenneberg connected language development with biological timing. Modern interpretation requires attention to plasticity, distributed networks and continuing learning rather than an all-or-nothing developmental switch.",
+          "keyPoints": [
+            "Biological accounts relate language acquisition to species-specific capacities, maturation and brain development."
+          ],
+          "followUps": [
+            "e412-biological-theory-apply"
+          ]
+        },
+        {
+          "id": "e412-biological-theory-apply",
+          "prompt": "How can a biological capacity and environmental learning both be necessary?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A capacity provides the ability to develop language, while accessible interaction and input shape which language and patterns are acquired.",
+          "answer": "A capacity provides the ability to develop language, while accessible interaction and input shape which language and patterns are acquired. Neither alone fully specifies an individual's development.",
+          "keyPoints": [
+            "A capacity provides the ability to develop language, while accessible interaction and input shape which language and patterns are acquired.",
+            "Neither alone fully specifies an individual's development."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-cognitive-acquisition-theory",
+      "groupId": "e412-l1",
+      "title": "Cognitive acquisition theory",
+      "aliases": [],
+      "core": "Cognitive approaches connect language development with general processes such as categorisation, memory and pattern learning.",
+      "explanation": "Piagetian accounts emphasise links with conceptual development; other cognitive learning views focus on meaningful learning and information processing.",
+      "example": "Teaching example: A learner connects a new word to an existing concept and uses recurring patterns to extend its use.",
+      "confusion": "Cognitive approaches are a family of explanations, not one identical theory.",
+      "syllabusTerms": [
+        "Cognitive theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            41,
+            42
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-cognitive-acquisition-theory-core",
+          "prompt": "What is cognitive acquisition theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Cognitive approaches connect language development with general processes such as categorisation, memory and pattern learning.",
+          "answer": "Cognitive approaches connect language development with general processes such as categorisation, memory and pattern learning. Piagetian accounts emphasise links with conceptual development; other cognitive learning views focus on meaningful learning and information processing.",
+          "keyPoints": [
+            "Cognitive approaches connect language development with general processes such as categorisation, memory and pattern learning."
+          ],
+          "followUps": [
+            "e412-cognitive-acquisition-theory-apply"
+          ]
+        },
+        {
+          "id": "e412-cognitive-acquisition-theory-apply",
+          "prompt": "Why might meaningful learning help retain vocabulary better than isolated repetition alone?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Connecting a word to concepts and experiences supplies richer retrieval relations.",
+          "answer": "Connecting a word to concepts and experiences supplies richer retrieval relations. Repetition can still contribute, but its effects depend on how it is organised and used.",
+          "keyPoints": [
+            "Connecting a word to concepts and experiences supplies richer retrieval relations.",
+            "Repetition can still contribute, but its effects depend on how it is organised and used."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-social-interactionist-theory",
+      "groupId": "e412-l1",
+      "title": "Social interactionist theory",
+      "aliases": [],
+      "core": "Social interactionist accounts explain acquisition through communication, joint activity and responsive support.",
+      "explanation": "Vygotskian approaches emphasise mediation and development through interaction; usage-based perspectives also examine how shared attention and recurring constructions support learning.",
+      "example": "Teaching example: A caregiver expands a child's request while maintaining the shared activity.",
+      "confusion": "Interaction is more than the physical presence of another speaker.",
+      "syllabusTerms": [
+        "Sociological theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            43,
+            44
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-social-interactionist-theory-core",
+          "prompt": "What is social interactionist theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Social interactionist accounts explain acquisition through communication, joint activity and responsive support.",
+          "answer": "Social interactionist accounts explain acquisition through communication, joint activity and responsive support. Vygotskian approaches emphasise mediation and development through interaction; usage-based perspectives also examine how shared attention and recurring constructions support learning.",
+          "keyPoints": [
+            "Social interactionist accounts explain acquisition through communication, joint activity and responsive support."
+          ],
+          "followUps": [
+            "e412-social-interactionist-theory-apply"
+          ]
+        },
+        {
+          "id": "e412-social-interactionist-theory-apply",
+          "prompt": "Why is joint attention useful in learning a new word?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It helps establish what participants are referring to and doing together, narrowing the possible interpretation of the label within a meaningful interaction.",
+          "answer": "It helps establish what participants are referring to and doing together, narrowing the possible interpretation of the label within a meaningful interaction.",
+          "keyPoints": [
+            "It helps establish what participants are referring to and doing together, narrowing the possible interpretation of the label within a meaningful interaction."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-nature-and-nurture",
+      "groupId": "e412-l1",
+      "title": "Nature and nurture",
+      "aliases": [],
+      "core": "The nature–nurture debate concerns how biological preparedness and experience contribute to language development.",
+      "explanation": "Acquisition theories differ in what they treat as built in and which mechanisms they assign to learning. A useful comparison identifies the evidence each explains and its limits.",
+      "example": "Teaching example: Input supplies language-specific patterns, while human learners bring cognitive and biological capacities to that input.",
+      "confusion": "Showing that input matters does not settle exactly what is innate.",
+      "syllabusTerms": [
+        "Behaviourist theory",
+        "Mentalist theory",
+        "Biological theory",
+        "Cognitive theory",
+        "Sociological theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            45,
+            46
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-nature-and-nurture-core",
+          "prompt": "Explain nature and nurture briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "The nature–nurture debate concerns how biological preparedness and experience contribute to language development.",
+          "answer": "The nature–nurture debate concerns how biological preparedness and experience contribute to language development. Acquisition theories differ in what they treat as built in and which mechanisms they assign to learning. A useful comparison identifies the evidence each explains and its limits.",
+          "keyPoints": [
+            "The nature–nurture debate concerns how biological preparedness and experience contribute to language development."
+          ],
+          "followUps": [
+            "e412-nature-and-nurture-apply"
+          ]
+        },
+        {
+          "id": "e412-nature-and-nurture-apply",
+          "prompt": "Why is simply choosing nature or nurture a weak answer about acquisition?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Language development involves both capacities and experience.",
+          "answer": "Language development involves both capacities and experience. The theoretical question concerns their specific contributions and mechanisms, not whether only one exists.",
+          "keyPoints": [
+            "Language development involves both capacities and experience.",
+            "The theoretical question concerns their specific contributions and mechanisms, not whether only one exists."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-krashen-s-monitor-model",
+      "groupId": "e412-l2",
+      "title": "Krashen's Monitor Model",
+      "aliases": [],
+      "core": "Krashen's Monitor Model proposes five hypotheses concerning acquisition, learning, monitoring, natural order, input and affect.",
+      "explanation": "The model distinguishes acquired competence from conscious learning and stresses comprehensible input. Its strong separation of learning and acquisition and the testability of its concepts have been criticised.",
+      "example": "Teaching example: A learner may know a rule explicitly yet fail to use it spontaneously in rapid conversation.",
+      "confusion": "Knowing a rule and using it fluently are different facts; that distinction alone does not prove the model's full claims.",
+      "syllabusTerms": [
+        "Monitor Model"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            47,
+            48,
+            49
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-krashen-s-monitor-model-core",
+          "prompt": "What is krashen's monitor model?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Krashen's Monitor Model proposes five hypotheses concerning acquisition, learning, monitoring, natural order, input and affect.",
+          "answer": "Krashen's Monitor Model proposes five hypotheses concerning acquisition, learning, monitoring, natural order, input and affect. The model distinguishes acquired competence from conscious learning and stresses comprehensible input. Its strong separation of learning and acquisition and the testability of its concepts have been criticised.",
+          "keyPoints": [
+            "Krashen's Monitor Model proposes five hypotheses concerning acquisition, learning, monitoring, natural order, input and affect."
+          ],
+          "followUps": [
+            "e412-krashen-s-monitor-model-apply"
+          ]
+        },
+        {
+          "id": "e412-krashen-s-monitor-model-apply",
+          "prompt": "Name the five hypotheses in Krashen's model.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The acquisition–learning distinction, Monitor hypothesis, natural order hypothesis, Input hypothesis and Affective Filter hypothesis.",
+          "answer": "The acquisition–learning distinction, Monitor hypothesis, natural order hypothesis, Input hypothesis and Affective Filter hypothesis.",
+          "keyPoints": [
+            "The acquisition–learning distinction, Monitor hypothesis, natural order hypothesis, Input hypothesis and Affective Filter hypothesis."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-acquisition-learning-and-monitoring",
+      "groupId": "e412-l2",
+      "title": "Acquisition, learning and monitoring",
+      "aliases": [],
+      "core": "In Krashen's account, acquisition is subconscious development and learning is conscious rule knowledge used for monitoring.",
+      "explanation": "Monitoring is proposed to require time, attention to form and knowledge of a rule. These conditions constrain its usefulness during spontaneous communication.",
+      "example": "Teaching example: A learner checks subject–verb agreement while editing a written sentence.",
+      "confusion": "The claim that conscious knowledge cannot become acquired competence is theoretically disputed.",
+      "syllabusTerms": [
+        "Monitor Model"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            47,
+            48,
+            49
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-acquisition-learning-and-monitoring-core",
+          "prompt": "Explain acquisition, learning and monitoring briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "In Krashen's account, acquisition is subconscious development and learning is conscious rule knowledge used for monitoring.",
+          "answer": "In Krashen's account, acquisition is subconscious development and learning is conscious rule knowledge used for monitoring. Monitoring is proposed to require time, attention to form and knowledge of a rule. These conditions constrain its usefulness during spontaneous communication.",
+          "keyPoints": [
+            "In Krashen's account, acquisition is subconscious development and learning is conscious rule knowledge used for monitoring."
+          ],
+          "followUps": [
+            "e412-acquisition-learning-and-monitoring-apply"
+          ]
+        },
+        {
+          "id": "e412-acquisition-learning-and-monitoring-apply",
+          "prompt": "Why might a learner edit writing accurately but make similar errors when speaking quickly?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Editing permits time and attention to form, while rapid production draws on readily available processing.",
+          "answer": "Editing permits time and attention to form, while rapid production draws on readily available processing. This difference is compatible with monitoring but does not uniquely confirm Krashen's whole model.",
+          "keyPoints": [
+            "Editing permits time and attention to form, while rapid production draws on readily available processing.",
+            "This difference is compatible with monitoring but does not uniquely confirm Krashen's whole model."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-comprehensible-input-and-affect",
+      "groupId": "e412-l2",
+      "title": "Comprehensible input and affect",
+      "aliases": [],
+      "core": "Krashen proposes that acquisition is supported by comprehensible input beyond the learner's current level and facilitated by lower affective barriers.",
+      "explanation": "The notation i+1 is a conceptual description, not a simple measurable syllabus step. Input is important, while output, interaction and attention are also relevant in wider SLA research.",
+      "example": "Teaching example: A comprehensible story introduces a few unfamiliar forms in a meaningful context.",
+      "confusion": "Comprehensibility does not mean a text contains no new language.",
+      "syllabusTerms": [
+        "Monitor Model"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            48,
+            49
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-comprehensible-input-and-affect-core",
+          "prompt": "Explain comprehensible input and affect briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Krashen proposes that acquisition is supported by comprehensible input beyond the learner's current level and facilitated by lower affective barriers.",
+          "answer": "Krashen proposes that acquisition is supported by comprehensible input beyond the learner's current level and facilitated by lower affective barriers. The notation i+1 is a conceptual description, not a simple measurable syllabus step. Input is important, while output, interaction and attention are also relevant in wider SLA research.",
+          "keyPoints": [
+            "Krashen proposes that acquisition is supported by comprehensible input beyond the learner's current level and facilitated by lower affective barriers."
+          ],
+          "followUps": [
+            "e412-comprehensible-input-and-affect-apply"
+          ]
+        },
+        {
+          "id": "e412-comprehensible-input-and-affect-apply",
+          "prompt": "What is a limitation of using i+1 as an exact classroom formula?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The learner's i and the next step are difficult to specify precisely.",
+          "answer": "The learner's i and the next step are difficult to specify precisely. Teachers can provide meaningful, accessible challenge, but the formula does not mechanically determine individual learning.",
+          "keyPoints": [
+            "The learner's i and the next step are difficult to specify precisely.",
+            "Teachers can provide meaningful, accessible challenge, but the formula does not mechanically determine individual learning."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-interlanguage",
+      "groupId": "e412-l2",
+      "title": "Interlanguage",
+      "aliases": [],
+      "core": "Interlanguage is a learner's developing linguistic system, with patterns distinct from both the first language and target norms.",
+      "explanation": "It can be systematic, changing and variable across contexts. Selinker related its development to transfer, training, strategies, communication and overgeneralisation.",
+      "example": "Teaching example: A learner consistently omits third-person -s but changes usage as experience and context change.",
+      "confusion": "Learner language is more than a random collection of mistakes.",
+      "syllabusTerms": [
+        "Interlanguage theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            49,
+            50,
+            51,
+            52
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-interlanguage-core",
+          "prompt": "What is interlanguage?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Interlanguage is a learner's developing linguistic system, with patterns distinct from both the first language and target norms.",
+          "answer": "Interlanguage is a learner's developing linguistic system, with patterns distinct from both the first language and target norms. It can be systematic, changing and variable across contexts. Selinker related its development to transfer, training, strategies, communication and overgeneralisation.",
+          "keyPoints": [
+            "Interlanguage is a learner's developing linguistic system, with patterns distinct from both the first language and target norms."
+          ],
+          "followUps": [
+            "e412-interlanguage-apply"
+          ]
+        },
+        {
+          "id": "e412-interlanguage-apply",
+          "prompt": "Why does a repeated learner error sometimes support an interlanguage analysis?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A regular pattern suggests a developing rule or representation.",
+          "answer": "A regular pattern suggests a developing rule or representation. Analyse where the form occurs and how it changes rather than treating each instance as unrelated failure.",
+          "keyPoints": [
+            "A regular pattern suggests a developing rule or representation.",
+            "Analyse where the form occurs and how it changes rather than treating each instance as unrelated failure."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-linguistic-universals",
+      "groupId": "e412-l2",
+      "title": "Linguistic universals",
+      "aliases": [],
+      "core": "Linguistic universals are proposed cross-linguistic properties or constraints, studied through typology and theories such as Universal Grammar.",
+      "explanation": "Typological approaches examine language samples and implicational patterns; generative approaches investigate constraints on possible grammars. L2 access to UG is a debated issue.",
+      "example": "Teaching example: A typological implication predicts that one structural property is associated with another across languages.",
+      "confusion": "A frequent cross-linguistic tendency is not automatically an exceptionless universal.",
+      "syllabusTerms": [
+        "Linguistic universals"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            52,
+            53,
+            54
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-linguistic-universals-core",
+          "prompt": "Explain linguistic universals briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Linguistic universals are proposed cross-linguistic properties or constraints, studied through typology and theories such as Universal Grammar.",
+          "answer": "Linguistic universals are proposed cross-linguistic properties or constraints, studied through typology and theories such as Universal Grammar. Typological approaches examine language samples and implicational patterns; generative approaches investigate constraints on possible grammars. L2 access to UG is a debated issue.",
+          "keyPoints": [
+            "Linguistic universals are proposed cross-linguistic properties or constraints, studied through typology and theories such as Universal Grammar."
+          ],
+          "followUps": [
+            "e412-linguistic-universals-apply"
+          ]
+        },
+        {
+          "id": "e412-linguistic-universals-apply",
+          "prompt": "How do typological universals and Universal Grammar differ as approaches?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Typology infers patterns from comparisons of languages.",
+          "answer": "Typology infers patterns from comparisons of languages. Universal Grammar proposes constraints or principles of the language faculty; their explanations and methods differ.",
+          "keyPoints": [
+            "Typology infers patterns from comparisons of languages.",
+            "Universal Grammar proposes constraints or principles of the language faculty; their explanations and methods differ."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-acculturation-theory",
+      "groupId": "e412-l2",
+      "title": "Acculturation theory",
+      "aliases": [],
+      "core": "Schumann's acculturation account links aspects of second-language development to social and psychological relations with the target-language community.",
+      "explanation": "Social distance, attitudes and opportunities for contact can constrain learning. The theory offers a contextual perspective but does not fully explain cognitive mechanisms or every classroom setting.",
+      "example": "Teaching example: A learner may have extensive residence but limited access to interaction with target-language users.",
+      "confusion": "Residence length does not automatically measure meaningful contact or social inclusion.",
+      "syllabusTerms": [
+        "Acculturation theory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            54,
+            55,
+            56
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-acculturation-theory-core",
+          "prompt": "What is acculturation theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Schumann's acculturation account links aspects of second-language development to social and psychological relations with the target-language community.",
+          "answer": "Schumann's acculturation account links aspects of second-language development to social and psychological relations with the target-language community. Social distance, attitudes and opportunities for contact can constrain learning. The theory offers a contextual perspective but does not fully explain cognitive mechanisms or every classroom setting.",
+          "keyPoints": [
+            "Schumann's acculturation account links aspects of second-language development to social and psychological relations with the target-language community."
+          ],
+          "followUps": [
+            "e412-acculturation-theory-apply"
+          ]
+        },
+        {
+          "id": "e412-acculturation-theory-apply",
+          "prompt": "Why might years in an L2 environment fail to predict high proficiency?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Access, social distance, identity, work patterns and interaction opportunities differ.",
+          "answer": "Access, social distance, identity, work patterns and interaction opportunities differ. Time alone does not reveal the quality or range of language experience.",
+          "keyPoints": [
+            "Access, social distance, identity, work patterns and interaction opportunities differ.",
+            "Time alone does not reveal the quality or range of language experience."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-mclaughlin-s-cognitive-theory",
+      "groupId": "e412-l2",
+      "title": "McLaughlin's cognitive theory",
+      "aliases": [],
+      "core": "McLaughlin treats L2 learning as complex skill development involving controlled and increasingly automatic processing.",
+      "explanation": "Practice can reorganise knowledge and processing; restructuring can produce temporary performance changes. Attention is limited, so fluency involves efficient access rather than simply more explicit rules.",
+      "example": "Teaching example: An initially effortful pattern becomes easier to retrieve in a familiar communicative task.",
+      "confusion": "Automaticity is not identical to perfect accuracy or absence of meaning.",
+      "syllabusTerms": [
+        "Cognitive theory of L2 learning"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            56,
+            57
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-mclaughlin-s-cognitive-theory-core",
+          "prompt": "What is mclaughlin's cognitive theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "McLaughlin treats L2 learning as complex skill development involving controlled and increasingly automatic processing.",
+          "answer": "McLaughlin treats L2 learning as complex skill development involving controlled and increasingly automatic processing. Practice can reorganise knowledge and processing; restructuring can produce temporary performance changes. Attention is limited, so fluency involves efficient access rather than simply more explicit rules.",
+          "keyPoints": [
+            "McLaughlin treats L2 learning as complex skill development involving controlled and increasingly automatic processing."
+          ],
+          "followUps": [
+            "e412-mclaughlin-s-cognitive-theory-apply"
+          ]
+        },
+        {
+          "id": "e412-mclaughlin-s-cognitive-theory-apply",
+          "prompt": "How can a temporary performance decline occur during learning?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Restructuring can change an earlier system and temporarily disrupt performance.",
+          "answer": "Restructuring can change an earlier system and temporarily disrupt performance. A brief decline need not mean that no learning is taking place.",
+          "keyPoints": [
+            "Restructuring can change an earlier system and temporarily disrupt performance.",
+            "A brief decline need not mean that no learning is taking place."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-sociocultural-theory-and-zpd",
+      "groupId": "e412-l2",
+      "title": "Sociocultural theory and ZPD",
+      "aliases": [],
+      "core": "Sociocultural theory explains development through mediation and participation in social activity.",
+      "explanation": "The zone of proximal development concerns what learners can achieve with appropriate support beyond independent performance. Scaffolding should respond to need and be adjusted over time.",
+      "example": "Teaching example: A partner's prompt helps a learner complete an explanation they cannot yet produce alone.",
+      "confusion": "ZPD is not simply every task that is difficult.",
+      "syllabusTerms": [
+        "Cognitive theory of L2 learning"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            58,
+            59
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-sociocultural-theory-and-zpd-core",
+          "prompt": "Explain sociocultural theory and zpd briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Sociocultural theory explains development through mediation and participation in social activity.",
+          "answer": "Sociocultural theory explains development through mediation and participation in social activity. The zone of proximal development concerns what learners can achieve with appropriate support beyond independent performance. Scaffolding should respond to need and be adjusted over time.",
+          "keyPoints": [
+            "Sociocultural theory explains development through mediation and participation in social activity."
+          ],
+          "followUps": [
+            "e412-sociocultural-theory-and-zpd-apply"
+          ]
+        },
+        {
+          "id": "e412-sociocultural-theory-and-zpd-apply",
+          "prompt": "What distinguishes scaffolding from giving a learner the full answer?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Scaffolding supports the learner's own activity with contingent prompts or tools and can be reduced as independence grows.",
+          "answer": "Scaffolding supports the learner's own activity with contingent prompts or tools and can be reduced as independence grows. Supplying the answer may leave the learner's processing unchanged.",
+          "keyPoints": [
+            "Scaffolding supports the learner's own activity with contingent prompts or tools and can be reduced as independence grows.",
+            "Supplying the answer may leave the learner's processing unchanged."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-age-and-ultimate-attainment",
+      "groupId": "e412-individual",
+      "title": "Age and ultimate attainment",
+      "aliases": [],
+      "core": "Age can relate differently to initial learning rate and ultimate attainment.",
+      "explanation": "Older beginners may progress quickly in some instructed tasks, while earlier sustained exposure can favour later attainment in some domains. Experience, skill and context shape the pattern.",
+      "example": "Teaching example: An adult may learn classroom vocabulary faster initially while a child develops more target-like pronunciation over time.",
+      "confusion": "Younger is not automatically better on every measure at every stage.",
+      "syllabusTerms": [
+        "Age"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            63,
+            64
+          ]
+        },
+        {
+          "id": "e412-cph-research"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-age-and-ultimate-attainment-core",
+          "prompt": "Explain age and ultimate attainment briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Age can relate differently to initial learning rate and ultimate attainment.",
+          "answer": "Age can relate differently to initial learning rate and ultimate attainment. Older beginners may progress quickly in some instructed tasks, while earlier sustained exposure can favour later attainment in some domains. Experience, skill and context shape the pattern.",
+          "keyPoints": [
+            "Age can relate differently to initial learning rate and ultimate attainment."
+          ],
+          "followUps": [
+            "e412-age-and-ultimate-attainment-apply"
+          ]
+        },
+        {
+          "id": "e412-age-and-ultimate-attainment-apply",
+          "prompt": "Why distinguish rate from ultimate attainment when comparing child and adult learners?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A group can learn faster initially yet reach a different long-term outcome.",
+          "answer": "A group can learn faster initially yet reach a different long-term outcome. A short course and many years of exposure answer different age-related questions.",
+          "keyPoints": [
+            "A group can learn faster initially yet reach a different long-term outcome.",
+            "A short course and many years of exposure answer different age-related questions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-language-aptitude",
+      "groupId": "e412-individual",
+      "title": "Language aptitude",
+      "aliases": [],
+      "core": "Language aptitude refers to abilities that help explain differences in the ease or rate of language learning.",
+      "explanation": "Classic components include phonetic coding, grammatical sensitivity, inductive learning and associative memory. Aptitude interacts with tasks and instruction.",
+      "example": "Teaching example: One learner quickly detects an unfamiliar grammatical pattern; another excels at remembering sound–word associations.",
+      "confusion": "Aptitude is not a total measure of a person's worth or a fixed guarantee of success.",
+      "syllabusTerms": [
+        "Aptitude"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            64,
+            65
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-language-aptitude-core",
+          "prompt": "What is language aptitude?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Language aptitude refers to abilities that help explain differences in the ease or rate of language learning.",
+          "answer": "Language aptitude refers to abilities that help explain differences in the ease or rate of language learning. Classic components include phonetic coding, grammatical sensitivity, inductive learning and associative memory. Aptitude interacts with tasks and instruction.",
+          "keyPoints": [
+            "Language aptitude refers to abilities that help explain differences in the ease or rate of language learning."
+          ],
+          "followUps": [
+            "e412-language-aptitude-apply"
+          ]
+        },
+        {
+          "id": "e412-language-aptitude-apply",
+          "prompt": "How does aptitude differ from motivation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Aptitude concerns abilities relevant to learning; motivation concerns goals, effort and persistence.",
+          "answer": "Aptitude concerns abilities relevant to learning; motivation concerns goals, effort and persistence. They can interact, but they are different constructs.",
+          "keyPoints": [
+            "Aptitude concerns abilities relevant to learning; motivation concerns goals, effort and persistence.",
+            "They can interact, but they are different constructs."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-attitude",
+      "groupId": "e412-individual",
+      "title": "Attitude",
+      "aliases": [],
+      "core": "Attitude is an evaluative orientation toward a language, its users or the learning situation.",
+      "explanation": "Attitudes can influence engagement and be reshaped by experience and social context. Associations with success need careful causal interpretation.",
+      "example": "Teaching example: A learner's positive view of a classroom community may encourage participation.",
+      "confusion": "An attitude is not identical to proficiency or an observable amount of effort.",
+      "syllabusTerms": [
+        "Attitude"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            65,
+            66
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-attitude-core",
+          "prompt": "What is attitude?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Attitude is an evaluative orientation toward a language, its users or the learning situation.",
+          "answer": "Attitude is an evaluative orientation toward a language, its users or the learning situation. Attitudes can influence engagement and be reshaped by experience and social context. Associations with success need careful causal interpretation.",
+          "keyPoints": [
+            "Attitude is an evaluative orientation toward a language, its users or the learning situation."
+          ],
+          "followUps": [
+            "e412-attitude-apply"
+          ]
+        },
+        {
+          "id": "e412-attitude-apply",
+          "prompt": "Can successful learning change attitude as well as attitude influencing learning?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. The relationship can be reciprocal: experience and achievement may strengthen positive attitudes, while attitudes can affect engagement.",
+          "keyPoints": [
+            "Yes.",
+            "The relationship can be reciprocal: experience and achievement may strengthen positive attitudes, while attitudes can affect engagement."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-motivation",
+      "groupId": "e412-individual",
+      "title": "Motivation",
+      "aliases": [],
+      "core": "Motivation concerns the direction, intensity and persistence of effort toward language-learning goals.",
+      "explanation": "Instrumental and integrative orientations concern reasons for learning; intrinsic and extrinsic distinctions concern the source or character of engagement. Motivation changes over time.",
+      "example": "Teaching example: A learner studies for employment and also enjoys communicating in the language.",
+      "confusion": "Instrumental reasons do not automatically produce weak learning.",
+      "syllabusTerms": [
+        "Motivation"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            67,
+            68
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-motivation-core",
+          "prompt": "What is motivation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Motivation concerns the direction, intensity and persistence of effort toward language-learning goals.",
+          "answer": "Motivation concerns the direction, intensity and persistence of effort toward language-learning goals. Instrumental and integrative orientations concern reasons for learning; intrinsic and extrinsic distinctions concern the source or character of engagement. Motivation changes over time.",
+          "keyPoints": [
+            "Motivation concerns the direction, intensity and persistence of effort toward language-learning goals."
+          ],
+          "followUps": [
+            "e412-motivation-apply"
+          ]
+        },
+        {
+          "id": "e412-motivation-apply",
+          "prompt": "Can instrumental and intrinsic motivation coexist?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. A learner may want a qualification and also enjoy the activity itself. Motivational orientations can overlap and change with experience.",
+          "keyPoints": [
+            "Yes.",
+            "A learner may want a qualification and also enjoy the activity itself.",
+            "Motivational orientations can overlap and change with experience."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-personality-anxiety-and-willingness-to-communicate",
+      "groupId": "e412-individual",
+      "title": "Personality, anxiety and willingness to communicate",
+      "aliases": [],
+      "core": "Personality-related factors and anxiety can affect participation and learning opportunities, with effects depending on task and setting.",
+      "explanation": "Extraversion may support some interaction, while introverted learners may succeed in other tasks. Willingness to communicate changes by topic, partner and perceived safety.",
+      "example": "Teaching example: A learner speaks freely with a friend but stays silent before an examiner.",
+      "confusion": "A quiet learner is not necessarily unmotivated or less capable.",
+      "syllabusTerms": [
+        "Personality"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            68,
+            69,
+            70
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-personality-anxiety-and-willingness-to-communicate-core",
+          "prompt": "Explain personality, anxiety and willingness to communicate briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Personality-related factors and anxiety can affect participation and learning opportunities, with effects depending on task and setting.",
+          "answer": "Personality-related factors and anxiety can affect participation and learning opportunities, with effects depending on task and setting. Extraversion may support some interaction, while introverted learners may succeed in other tasks. Willingness to communicate changes by topic, partner and perceived safety.",
+          "keyPoints": [
+            "Personality-related factors and anxiety can affect participation and learning opportunities, with effects depending on task and setting."
+          ],
+          "followUps": [
+            "e412-personality-anxiety-and-willingness-to-communicate-apply"
+          ]
+        },
+        {
+          "id": "e412-personality-anxiety-and-willingness-to-communicate-apply",
+          "prompt": "Why should an examiner-facing silence not be treated as proof of poor language knowledge?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Anxiety, processing pressure and the social setting can limit access or willingness to speak.",
+          "answer": "Anxiety, processing pressure and the social setting can limit access or willingness to speak. Performance reflects more than underlying knowledge alone.",
+          "keyPoints": [
+            "Anxiety, processing pressure and the social setting can limit access or willingness to speak.",
+            "Performance reflects more than underlying knowledge alone."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-cognitive-style-and-learning-style-claims",
+      "groupId": "e412-individual",
+      "title": "Cognitive style and learning-style claims",
+      "aliases": [],
+      "core": "Cognitive style describes habitual approaches to processing information; preferences do not establish that matching instruction to a style improves learning.",
+      "explanation": "Field dependence and independence are classic constructs in the guide. Measures overlap with other abilities, and style categories should not be treated as fixed prescriptions.",
+      "example": "Teaching example: A learner may prefer diagrams while still benefiting from explanations suited to the subject matter.",
+      "confusion": "Preference and demonstrated instructional effectiveness are different kinds of evidence.",
+      "syllabusTerms": [
+        "Cognitive style"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            70,
+            71
+          ]
+        },
+        {
+          "id": "e412-styles-review"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-cognitive-style-and-learning-style-claims-core",
+          "prompt": "Explain cognitive style and learning-style claims briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Cognitive style describes habitual approaches to processing information; preferences do not establish that matching instruction to a style improves learning.",
+          "answer": "Cognitive style describes habitual approaches to processing information; preferences do not establish that matching instruction to a style improves learning. Field dependence and independence are classic constructs in the guide. Measures overlap with other abilities, and style categories should not be treated as fixed prescriptions.",
+          "keyPoints": [
+            "Cognitive style describes habitual approaches to processing information; preferences do not establish that matching instruction to a style improves learning."
+          ],
+          "followUps": [
+            "e412-cognitive-style-and-learning-style-claims-apply"
+          ]
+        },
+        {
+          "id": "e412-cognitive-style-and-learning-style-claims-apply",
+          "prompt": "What evidence would support teaching each student only through a preferred learning style?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It would require a credible interaction showing that learners with different assessed styles benefit from different matched methods.",
+          "answer": "It would require a credible interaction showing that learners with different assessed styles benefit from different matched methods. Preference reports alone do not establish that benefit.",
+          "keyPoints": [
+            "It would require a credible interaction showing that learners with different assessed styles benefit from different matched methods.",
+            "Preference reports alone do not establish that benefit."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-memory-and-working-memory",
+      "groupId": "e412-individual",
+      "title": "Memory and working memory",
+      "aliases": [],
+      "core": "Memory supports storage and retrieval of language; working memory maintains and manipulates information during ongoing activity.",
+      "explanation": "Phonological memory can support unfamiliar word forms, while meaningful connections and retrieval affect longer-term access. Capacity is task-dependent rather than a single explanation of success.",
+      "example": "Teaching example: A learner holds earlier words in mind while interpreting the end of a long sentence.",
+      "confusion": "Remembering a rule explicitly is not the same as accessing it efficiently in conversation.",
+      "syllabusTerms": [
+        "Memory"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            71,
+            72
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-memory-and-working-memory-core",
+          "prompt": "Explain memory and working memory briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Memory supports storage and retrieval of language; working memory maintains and manipulates information during ongoing activity.",
+          "answer": "Memory supports storage and retrieval of language; working memory maintains and manipulates information during ongoing activity. Phonological memory can support unfamiliar word forms, while meaningful connections and retrieval affect longer-term access. Capacity is task-dependent rather than a single explanation of success.",
+          "keyPoints": [
+            "Memory supports storage and retrieval of language; working memory maintains and manipulates information during ongoing activity."
+          ],
+          "followUps": [
+            "e412-memory-and-working-memory-apply"
+          ]
+        },
+        {
+          "id": "e412-memory-and-working-memory-apply",
+          "prompt": "Why can a long sentence be difficult despite containing familiar words?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Maintaining and integrating its parts places processing demands on working memory and structural interpretation.",
+          "answer": "Maintaining and integrating its parts places processing demands on working memory and structural interpretation. Vocabulary familiarity alone does not remove those demands.",
+          "keyPoints": [
+            "Maintaining and integrating its parts places processing demands on working memory and structural interpretation.",
+            "Vocabulary familiarity alone does not remove those demands."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-transfer-and-transfer-of-training",
+      "groupId": "e412-individual",
+      "title": "Transfer and transfer of training",
+      "aliases": [],
+      "core": "Transfer uses prior knowledge in new learning; transfer of training concerns influences of previous teaching or practice.",
+      "explanation": "Similarity can support performance, while differences or learned routines can encourage non-target patterns. Not every learner error originates in L1.",
+      "example": "Teaching example: A repeatedly drilled answer format may be overused in conversation even where it is unnatural.",
+      "confusion": "L1 transfer and transfer of training have different sources.",
+      "syllabusTerms": [
+        "Transfer of training"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            72,
+            73
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-transfer-and-transfer-of-training-core",
+          "prompt": "Explain transfer and transfer of training briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Transfer uses prior knowledge in new learning; transfer of training concerns influences of previous teaching or practice.",
+          "answer": "Transfer uses prior knowledge in new learning; transfer of training concerns influences of previous teaching or practice. Similarity can support performance, while differences or learned routines can encourage non-target patterns. Not every learner error originates in L1.",
+          "keyPoints": [
+            "Transfer uses prior knowledge in new learning; transfer of training concerns influences of previous teaching or practice."
+          ],
+          "followUps": [
+            "e412-transfer-and-transfer-of-training-apply"
+          ]
+        },
+        {
+          "id": "e412-transfer-and-transfer-of-training-apply",
+          "prompt": "A learner answers every casual question with a full rehearsed sentence. What may explain it?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Transfer of training may be involved if classroom routines strongly reinforced that response pattern.",
+          "answer": "Transfer of training may be involved if classroom routines strongly reinforced that response pattern. Examine teaching history rather than automatically attributing it to the first language.",
+          "keyPoints": [
+            "Transfer of training may be involved if classroom routines strongly reinforced that response pattern.",
+            "Examine teaching history rather than automatically attributing it to the first language."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-intelligence-and-language-learning",
+      "groupId": "e412-individual",
+      "title": "Intelligence and language learning",
+      "aliases": [],
+      "core": "Intelligence measures can relate to some language-learning tasks, especially academic and analytical ones, without explaining all communicative development.",
+      "explanation": "Different abilities and opportunities contribute to outcomes. Multiple-intelligences proposals should not be treated as proof that matching fixed learner types improves instruction.",
+      "example": "Teaching example: An analytic test score may relate to grammar study more directly than to comfortable conversation.",
+      "confusion": "A low score on one intelligence test does not imply inability to acquire or use language.",
+      "syllabusTerms": [
+        "Intelligence"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            73,
+            74
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-intelligence-and-language-learning-core",
+          "prompt": "Explain intelligence and language learning briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Intelligence measures can relate to some language-learning tasks, especially academic and analytical ones, without explaining all communicative development.",
+          "answer": "Intelligence measures can relate to some language-learning tasks, especially academic and analytical ones, without explaining all communicative development. Different abilities and opportunities contribute to outcomes. Multiple-intelligences proposals should not be treated as proof that matching fixed learner types improves instruction.",
+          "keyPoints": [
+            "Intelligence measures can relate to some language-learning tasks, especially academic and analytical ones, without explaining all communicative development."
+          ],
+          "followUps": [
+            "e412-intelligence-and-language-learning-apply"
+          ]
+        },
+        {
+          "id": "e412-intelligence-and-language-learning-apply",
+          "prompt": "Why does an IQ score fail to provide a complete prediction of conversational proficiency?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Conversation also involves exposure, interaction, motivation, contextual support and other abilities.",
+          "answer": "Conversation also involves exposure, interaction, motivation, contextual support and other abilities. A general score cannot represent every process or opportunity involved.",
+          "keyPoints": [
+            "Conversation also involves exposure, interaction, motivation, contextual support and other abilities.",
+            "A general score cannot represent every process or opportunity involved."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-fossilization-and-stabilisation",
+      "groupId": "e412-individual",
+      "title": "Fossilization and stabilisation",
+      "aliases": [],
+      "core": "Fossilization describes persistent stabilisation of interlanguage features despite opportunities for further development.",
+      "explanation": "Permanence is difficult to establish; a long-lasting pattern may change with new conditions. Distinguish a short plateau from stronger claims of fossilization.",
+      "example": "Teaching example: A learner persistently omits an inflection over many contexts and years.",
+      "confusion": "One repeated error or brief learning plateau is insufficient evidence of permanent cessation.",
+      "syllabusTerms": [
+        "Fossilization"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            75,
+            76
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-fossilization-and-stabilisation-core",
+          "prompt": "Explain fossilization and stabilisation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Fossilization describes persistent stabilisation of interlanguage features despite opportunities for further development.",
+          "answer": "Fossilization describes persistent stabilisation of interlanguage features despite opportunities for further development. Permanence is difficult to establish; a long-lasting pattern may change with new conditions. Distinguish a short plateau from stronger claims of fossilization.",
+          "keyPoints": [
+            "Fossilization describes persistent stabilisation of interlanguage features despite opportunities for further development."
+          ],
+          "followUps": [
+            "e412-fossilization-and-stabilisation-apply"
+          ]
+        },
+        {
+          "id": "e412-fossilization-and-stabilisation-apply",
+          "prompt": "Why is fossilization difficult to prove empirically?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It requires a strong claim about persistence, yet researchers cannot observe all future development.",
+          "answer": "It requires a strong claim about persistence, yet researchers cannot observe all future development. Longitudinal evidence can document stabilisation without guaranteeing permanent impossibility of change.",
+          "keyPoints": [
+            "It requires a strong claim about persistence, yet researchers cannot observe all future development.",
+            "Longitudinal evidence can document stabilisation without guaranteeing permanent impossibility of change."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-identity-investment-and-learner-strategies",
+      "groupId": "e412-individual",
+      "title": "Identity, investment and learner strategies",
+      "aliases": [],
+      "core": "Learner identity and access to valued activities shape how motivation can be put into practice.",
+      "explanation": "Investment relates participation to social identities and resources. Strategies include deliberate ways of organising learning or communication, whose effectiveness depends on task and context.",
+      "example": "Teaching example: An interested learner may speak little because peers exclude their contributions.",
+      "confusion": "Low participation is not always an individual motivational failure.",
+      "syllabusTerms": [
+        "Motivation",
+        "Personality"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            76,
+            77
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-identity-investment-and-learner-strategies-core",
+          "prompt": "Explain identity, investment and learner strategies briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Learner identity and access to valued activities shape how motivation can be put into practice.",
+          "answer": "Learner identity and access to valued activities shape how motivation can be put into practice. Investment relates participation to social identities and resources. Strategies include deliberate ways of organising learning or communication, whose effectiveness depends on task and context.",
+          "keyPoints": [
+            "Learner identity and access to valued activities shape how motivation can be put into practice."
+          ],
+          "followUps": [
+            "e412-identity-investment-and-learner-strategies-apply"
+          ]
+        },
+        {
+          "id": "e412-identity-investment-and-learner-strategies-apply",
+          "prompt": "How can a learner be motivated but have little chance to improve through interaction?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Social exclusion or unequal access can restrict participation despite strong desire.",
+          "answer": "Social exclusion or unequal access can restrict participation despite strong desire. Learning opportunities depend partly on relationships and institutions, not only individual effort.",
+          "keyPoints": [
+            "Social exclusion or unequal access can restrict participation despite strong desire.",
+            "Learning opportunities depend partly on relationships and institutions, not only individual effort."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-neurolinguistics-and-lateralisation",
+      "groupId": "e412-neuro",
+      "title": "Neurolinguistics and lateralisation",
+      "aliases": [],
+      "core": "Neurolinguistics investigates relationships between language processes and brain organisation.",
+      "explanation": "Language is often left-lateralised, but multiple regions and pathways contribute; right-hemisphere processes can support prosody and discourse. Individual patterns vary.",
+      "example": "Teaching example: A language task can involve a network rather than one isolated point in the brain.",
+      "confusion": "Lateralisation does not mean one hemisphere performs all language alone.",
+      "syllabusTerms": [
+        "Aphasia"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            80,
+            81,
+            82
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-neurolinguistics-and-lateralisation-core",
+          "prompt": "Explain neurolinguistics and lateralisation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Neurolinguistics investigates relationships between language processes and brain organisation.",
+          "answer": "Neurolinguistics investigates relationships between language processes and brain organisation. Language is often left-lateralised, but multiple regions and pathways contribute; right-hemisphere processes can support prosody and discourse. Individual patterns vary.",
+          "keyPoints": [
+            "Neurolinguistics investigates relationships between language processes and brain organisation."
+          ],
+          "followUps": [
+            "e412-neurolinguistics-and-lateralisation-apply"
+          ]
+        },
+        {
+          "id": "e412-neurolinguistics-and-lateralisation-apply",
+          "prompt": "Why is left-lateralised language not equivalent to saying the right hemisphere has no role?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Lateralisation describes relative specialisation, not exclusive control.",
+          "answer": "Lateralisation describes relative specialisation, not exclusive control. Language activity involves interacting systems, including functions often associated with the right hemisphere.",
+          "keyPoints": [
+            "Lateralisation describes relative specialisation, not exclusive control.",
+            "Language activity involves interacting systems, including functions often associated with the right hemisphere."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-aphasia",
+      "groupId": "e412-neuro",
+      "title": "Aphasia",
+      "aliases": [],
+      "core": "Aphasia is an acquired language disorder associated with brain damage that can affect speaking, comprehension, reading or writing.",
+      "explanation": "Profiles vary with the affected network and individual history. Language impairment should not be equated with global loss of intelligence.",
+      "example": "Teaching example: A person may struggle to retrieve words after a stroke while retaining many other abilities.",
+      "confusion": "Aphasia is not simply a disorder of the speech muscles.",
+      "syllabusTerms": [
+        "Aphasia"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            83,
+            84
+          ]
+        },
+        {
+          "id": "e412-aphasia-nidcd"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-aphasia-core",
+          "prompt": "What is aphasia?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Aphasia is an acquired language disorder associated with brain damage that can affect speaking, comprehension, reading or writing.",
+          "answer": "Aphasia is an acquired language disorder associated with brain damage that can affect speaking, comprehension, reading or writing. Profiles vary with the affected network and individual history. Language impairment should not be equated with global loss of intelligence.",
+          "keyPoints": [
+            "Aphasia is an acquired language disorder associated with brain damage that can affect speaking, comprehension, reading or writing."
+          ],
+          "followUps": [
+            "e412-aphasia-apply"
+          ]
+        },
+        {
+          "id": "e412-aphasia-apply",
+          "prompt": "How can aphasia affect a person who can still move the speech organs?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The impairment concerns language representations or processing, such as word retrieval or comprehension, rather than only the motor ability to produce sound.",
+          "answer": "The impairment concerns language representations or processing, such as word retrieval or comprehension, rather than only the motor ability to produce sound.",
+          "keyPoints": [
+            "The impairment concerns language representations or processing, such as word retrieval or comprehension, rather than only the motor ability to produce sound."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-broca-type-and-wernicke-type-profiles",
+      "groupId": "e412-neuro",
+      "title": "Broca-type and Wernicke-type profiles",
+      "aliases": [],
+      "core": "Classic Broca-type aphasia often involves effortful nonfluent production; Wernicke-type profiles often involve fluent but impaired meaningful communication and comprehension.",
+      "explanation": "These are useful historical clinical patterns, not perfectly separate language boxes. Symptoms and lesion locations do not map one to one in every individual.",
+      "example": "Teaching example: An effortful short utterance and a fluent jargon-filled utterance can reflect contrasting language difficulties.",
+      "confusion": "Fluent speech does not guarantee intact comprehension, and nonfluency does not guarantee fully intact comprehension.",
+      "syllabusTerms": [
+        "Aphasia"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            83,
+            84
+          ]
+        },
+        {
+          "id": "e412-aphasia-nidcd"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-broca-type-and-wernicke-type-profiles-core",
+          "prompt": "Explain broca-type and wernicke-type profiles briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Classic Broca-type aphasia often involves effortful nonfluent production; Wernicke-type profiles often involve fluent but impaired meaningful communication and comprehension.",
+          "answer": "Classic Broca-type aphasia often involves effortful nonfluent production; Wernicke-type profiles often involve fluent but impaired meaningful communication and comprehension. These are useful historical clinical patterns, not perfectly separate language boxes. Symptoms and lesion locations do not map one to one in every individual.",
+          "keyPoints": [
+            "Classic Broca-type aphasia often involves effortful nonfluent production; Wernicke-type profiles often involve fluent but impaired meaningful communication and comprehension."
+          ],
+          "followUps": [
+            "e412-broca-type-and-wernicke-type-profiles-apply"
+          ]
+        },
+        {
+          "id": "e412-broca-type-and-wernicke-type-profiles-apply",
+          "prompt": "Why should a fluent aphasic utterance not be taken as evidence of intact language?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Fluency concerns flow.",
+          "answer": "Fluency concerns flow. Word selection, meaningfulness and comprehension may still be impaired, so several language components must be assessed.",
+          "keyPoints": [
+            "Fluency concerns flow.",
+            "Word selection, meaningfulness and comprehension may still be impaired, so several language components must be assessed."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-dyslexia",
+      "groupId": "e412-neuro",
+      "title": "Dyslexia",
+      "aliases": [],
+      "core": "Dyslexia involves persistent difficulty with accurate or fluent word reading and related literacy processes.",
+      "explanation": "Developmental and acquired reading difficulties should be distinguished. Phonological processing often matters, while profiles vary; intelligence alone does not define reading skill.",
+      "example": "Teaching example: A learner may understand spoken explanations well but struggle to decode unfamiliar written words.",
+      "confusion": "Dyslexia is not adequately explained as laziness or simply seeing letters backwards.",
+      "syllabusTerms": [
+        "Dyslexia"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            84,
+            85
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-dyslexia-core",
+          "prompt": "What is dyslexia?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Dyslexia involves persistent difficulty with accurate or fluent word reading and related literacy processes.",
+          "answer": "Dyslexia involves persistent difficulty with accurate or fluent word reading and related literacy processes. Developmental and acquired reading difficulties should be distinguished. Phonological processing often matters, while profiles vary; intelligence alone does not define reading skill.",
+          "keyPoints": [
+            "Dyslexia involves persistent difficulty with accurate or fluent word reading and related literacy processes."
+          ],
+          "followUps": [
+            "e412-dyslexia-apply"
+          ]
+        },
+        {
+          "id": "e412-dyslexia-apply",
+          "prompt": "Why can strong oral understanding coexist with reading difficulty?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Word recognition and decoding place demands that differ from understanding accessible spoken language.",
+          "answer": "Word recognition and decoding place demands that differ from understanding accessible spoken language. Uneven development shows that these abilities should be considered separately.",
+          "keyPoints": [
+            "Word recognition and decoding place demands that differ from understanding accessible spoken language.",
+            "Uneven development shows that these abilities should be considered separately."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-language-therapy",
+      "groupId": "e412-neuro",
+      "title": "Language therapy",
+      "aliases": [],
+      "core": "Language therapy aims to support communication by restoring skills where possible and developing compensatory strategies.",
+      "explanation": "Intervention follows assessment of the individual's needs and goals and may involve family, educational or clinical support. Outcomes vary and improvement can continue beyond an early recovery phase.",
+      "example": "Teaching example: Practising word retrieval and using communication aids can address different functional needs.",
+      "confusion": "Language therapy is not one universal drill for every language difficulty.",
+      "syllabusTerms": [
+        "Language therapy"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            86
+          ]
+        },
+        {
+          "id": "e412-aphasia-nidcd"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-language-therapy-core",
+          "prompt": "What is language therapy?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Language therapy aims to support communication by restoring skills where possible and developing compensatory strategies.",
+          "answer": "Language therapy aims to support communication by restoring skills where possible and developing compensatory strategies. Intervention follows assessment of the individual's needs and goals and may involve family, educational or clinical support. Outcomes vary and improvement can continue beyond an early recovery phase.",
+          "keyPoints": [
+            "Language therapy aims to support communication by restoring skills where possible and developing compensatory strategies."
+          ],
+          "followUps": [
+            "e412-language-therapy-apply"
+          ]
+        },
+        {
+          "id": "e412-language-therapy-apply",
+          "prompt": "Why should therapy goals be individualised rather than based only on a diagnostic label?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "People with the same broad label can have different strengths, difficulties and communication needs.",
+          "answer": "People with the same broad label can have different strengths, difficulties and communication needs. Assessment guides which tasks or compensatory tools are appropriate.",
+          "keyPoints": [
+            "People with the same broad label can have different strengths, difficulties and communication needs.",
+            "Assessment guides which tasks or compensatory tools are appropriate."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-brain-imaging-and-behavioural-methods",
+      "groupId": "e412-neuro",
+      "title": "Brain imaging and behavioural methods",
+      "aliases": [],
+      "core": "Neurolinguistic research combines behavioural evidence with methods that examine brain structure or activity.",
+      "explanation": "MRI can show anatomy; functional methods examine task-related signals; EEG and event-related potentials provide fine temporal information. Each method has limits of inference.",
+      "example": "Teaching example: A behavioural task and an ERP measure can address different aspects of a meaning-processing question.",
+      "confusion": "Activation does not by itself prove that a region is exclusively responsible for a function.",
+      "syllabusTerms": [
+        "Aphasia"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            87,
+            88
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-brain-imaging-and-behavioural-methods-core",
+          "prompt": "Explain brain imaging and behavioural methods briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Neurolinguistic research combines behavioural evidence with methods that examine brain structure or activity.",
+          "answer": "Neurolinguistic research combines behavioural evidence with methods that examine brain structure or activity. MRI can show anatomy; functional methods examine task-related signals; EEG and event-related potentials provide fine temporal information. Each method has limits of inference.",
+          "keyPoints": [
+            "Neurolinguistic research combines behavioural evidence with methods that examine brain structure or activity."
+          ],
+          "followUps": [
+            "e412-brain-imaging-and-behavioural-methods-apply"
+          ]
+        },
+        {
+          "id": "e412-brain-imaging-and-behavioural-methods-apply",
+          "prompt": "Why combine reaction-time evidence with a brain measure?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They provide complementary observations about performance and neural processes.",
+          "answer": "They provide complementary observations about performance and neural processes. Converging evidence can constrain an explanation more effectively than interpreting either measure alone.",
+          "keyPoints": [
+            "They provide complementary observations about performance and neural processes.",
+            "Converging evidence can constrain an explanation more effectively than interpreting either measure alone."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e412-plasticity-and-modularity",
+      "groupId": "e412-neuro",
+      "title": "Plasticity and modularity",
+      "aliases": [],
+      "core": "Plasticity concerns change in brain organisation; modularity concerns the degree to which language processes are specialised.",
+      "explanation": "Recovery and developmental adaptation show flexibility, while dissociations suggest partially distinguishable abilities. Neither observation requires completely isolated, fixed modules.",
+      "example": "Teaching example: Different patterns of impairment can help distinguish word retrieval from other cognitive abilities.",
+      "confusion": "A dissociation supports a distinction but does not automatically prove total independence.",
+      "syllabusTerms": [
+        "Aphasia",
+        "Language therapy"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            88,
+            89,
+            90,
+            91
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e412-plasticity-and-modularity-core",
+          "prompt": "Explain plasticity and modularity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Plasticity concerns change in brain organisation; modularity concerns the degree to which language processes are specialised.",
+          "answer": "Plasticity concerns change in brain organisation; modularity concerns the degree to which language processes are specialised. Recovery and developmental adaptation show flexibility, while dissociations suggest partially distinguishable abilities. Neither observation requires completely isolated, fixed modules.",
+          "keyPoints": [
+            "Plasticity concerns change in brain organisation; modularity concerns the degree to which language processes are specialised."
+          ],
+          "followUps": [
+            "e412-plasticity-and-modularity-apply"
+          ]
+        },
+        {
+          "id": "e412-plasticity-and-modularity-apply",
+          "prompt": "Why can a dissociation between language and another ability be informative without proving an isolated language organ?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Different performance patterns suggest separable components or demands.",
+          "answer": "Different performance patterns suggest separable components or demands. The tasks may still depend on interacting networks, so stronger anatomical and theoretical claims require additional evidence.",
+          "keyPoints": [
+            "Different performance patterns suggest separable components or demands.",
+            "The tasks may still depend on interacting networks, so stronger anatomical and theoretical claims require additional evidence."
+          ],
+          "followUps": []
+        }
+      ]
+    }
+  ]
+}

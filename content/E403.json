@@ -1,0 +1,3568 @@
+{
+  "id": "E403",
+  "title": "Critical and Cultural Theories",
+  "shortTitle": "Critical Theory",
+  "overview": "Critical theories offer different questions about how texts and cultural practices make meaning. Move from form and signs to readers, then power and identity, and finally the instability and social life of meaning. Use each approach as a justified interpretive lens.",
+  "journey": [
+    "Notice form and signifying relations.",
+    "Ask what readers bring and how interpretation happens.",
+    "Examine institutions, material conditions, gender and colonial power.",
+    "Test fixed meanings and identities through texts and cultural practices."
+  ],
+  "sources": [
+    {
+      "id": "E403",
+      "title": "E403.pdf",
+      "kind": "pdf",
+      "file": "E403.pdf",
+      "pageCount": 84
+    },
+    {
+      "id": "marx-capital-fetishism",
+      "title": "Marx: Capital, Volume I, Chapter 1, section 4",
+      "kind": "web",
+      "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm"
+    },
+    {
+      "id": "derrida-differance",
+      "title": "Derrida: Differance (Stanford course text)",
+      "kind": "web",
+      "url": "https://web.stanford.edu/class/history34q/readings/Derrida/Differance.html"
+    }
+  ],
+  "groups": [
+    {
+      "id": "e403-form",
+      "title": "Formalism and New Criticism",
+      "syllabus": [
+        "Defamiliarization (Shklovsky)",
+        "Foregrounding (Mayakovsky)",
+        "Practical criticism (Richards)"
+      ]
+    },
+    {
+      "id": "e403-structural",
+      "title": "Structuralism and Semiotics",
+      "syllabus": [
+        "Sign and signification",
+        "Paradigm and syntagm",
+        "Binary oppositions",
+        "Mythoi",
+        "Archetypal criticism (Frye)",
+        "Narratology (Todorov)",
+        "Mythology (Barthes)"
+      ]
+    },
+    {
+      "id": "e403-reader",
+      "title": "Reader-Oriented Theories",
+      "syllabus": [
+        "Hermeneutics",
+        "Phenomenology",
+        "Horizon of expectations (Jauss)",
+        "Reception theory (Iser)",
+        "Speech act theory"
+      ]
+    },
+    {
+      "id": "e403-marx",
+      "title": "Marxist Literary Theory",
+      "syllabus": [
+        "Dialectical materialism",
+        "Base and superstructure",
+        "Ideology",
+        "Alienation",
+        "Commodity fetishism",
+        "Hegemony (Gramsci)",
+        "ISA (Althusser)"
+      ]
+    },
+    {
+      "id": "e403-feminist",
+      "title": "Feminist Literary Theory",
+      "syllabus": [
+        "Androgyny (Woolf)",
+        "Other (Beauvoir)",
+        "Images of Women criticism (Millett)",
+        "Gynocriticism (Showalter)",
+        "Ecriture feminine (Cixous)",
+        "Black feminist criticism (Smith)",
+        "Postcolonial feminism (Spivak)"
+      ]
+    },
+    {
+      "id": "e403-psycho",
+      "title": "Psychoanalytic Criticism",
+      "syllabus": [
+        "Oedipus complex",
+        "The unconscious",
+        "Drives and defenses",
+        "Dream-work",
+        "Object relations theory",
+        "Imaginary, Symbolic and Real",
+        "Trauma"
+      ]
+    },
+    {
+      "id": "e403-poststructural",
+      "title": "Post-structuralism and Deconstruction",
+      "syllabus": [
+        "Logocentrism",
+        "Differance and aporia (Derrida)",
+        "Jouissance (Kristeva)",
+        "Death of the author (Barthes)",
+        "Rhizome",
+        "Deterritorialization",
+        "Becoming",
+        "Disciplinary discourse (Foucault)"
+      ]
+    },
+    {
+      "id": "e403-postmodern",
+      "title": "Postmodernism",
+      "syllabus": [
+        "Capitalism (Eagleton)",
+        "Grand narrative (Lyotard)",
+        "Intertextuality (Kristeva)",
+        "Hyperreality (Baudrillard)",
+        "Pastiche (Jameson)"
+      ]
+    },
+    {
+      "id": "e403-postcolonial",
+      "title": "Postcolonialism",
+      "syllabus": [
+        "Othering",
+        "Diaspora",
+        "Hybridity",
+        "Double consciousness",
+        "Subaltern",
+        "Mimicry",
+        "Neocolonialism"
+      ]
+    },
+    {
+      "id": "e403-culture",
+      "title": "Cultural Theory",
+      "syllabus": [
+        "Culture",
+        "Popular culture",
+        "Consumption",
+        "Representation (Hall)"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "e403-defamiliarization",
+      "groupId": "e403-form",
+      "title": "Defamiliarization",
+      "aliases": [],
+      "core": "Defamiliarization makes familiar things seem unfamiliar, renewing perception.",
+      "explanation": "Shklovsky associates art with slowing habitual perception through unusual perspective, description or form.",
+      "example": "Teaching illustration: Describe a lift as a small room that carries people through a building; the unfamiliar wording renews attention.",
+      "confusion": "It concerns an effect on perception, not simply using difficult vocabulary.",
+      "syllabusTerms": [
+        "Defamiliarization (Shklovsky)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            3,
+            49
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-defamiliarization-core",
+          "prompt": "Explain defamiliarization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Defamiliarization makes familiar things seem unfamiliar, renewing perception.",
+          "answer": "Defamiliarization makes familiar things seem unfamiliar, renewing perception. Shklovsky associates art with slowing habitual perception through unusual perspective, description or form.",
+          "keyPoints": [
+            "Defamiliarization makes familiar things seem unfamiliar, renewing perception.",
+            "Shklovsky associates art with slowing habitual perception through unusual perspective, description or form."
+          ],
+          "followUps": [
+            "e403-defamiliarization-apply"
+          ]
+        },
+        {
+          "id": "e403-defamiliarization-apply",
+          "prompt": "How could a familiar bus journey be defamiliarized?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Describe it through someone encountering buses for the first time, attending to its sounds and rituals.",
+          "answer": "Describe it through someone encountering buses for the first time, attending to its sounds and rituals. The unusual perspective interrupts habitual recognition.",
+          "keyPoints": [
+            "Describe it through someone encountering buses for the first time, attending to its sounds and rituals. The unusual perspective interrupts habitual recognition."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-form-approach",
+          "prompt": "What is Formalism?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Formalism studies the devices and organisation that create literary effects.",
+          "answer": "Formalism studies the devices and organisation that create literary effects. It foregrounds how a work uses language and form, including literariness and defamiliarization.",
+          "keyPoints": [
+            "Formalism studies the devices and organisation that create literary effects.",
+            "It foregrounds how a work uses language and form, including literariness and defamiliarization."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                3
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-defamiliarization-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-foregrounding",
+      "groupId": "e403-form",
+      "title": "Foregrounding",
+      "aliases": [],
+      "core": "Foregrounding makes features of language especially noticeable.",
+      "explanation": "Deviation or patterned repetition can draw attention to sound, syntax or wording. Mayakovsky illustrates startling poetic language; the concept is associated with Prague School work.",
+      "example": "Teaching illustration: Repeated initial sounds in a slogan make its wording prominent.",
+      "confusion": "Foregrounding can occur outside poetry and need not depend only on deviation.",
+      "syllabusTerms": [
+        "Foregrounding (Mayakovsky)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            4,
+            49,
+            50
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-foregrounding-core",
+          "prompt": "Explain foregrounding briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Foregrounding makes features of language especially noticeable.",
+          "answer": "Foregrounding makes features of language especially noticeable. Deviation or patterned repetition can draw attention to sound, syntax or wording. Mayakovsky illustrates startling poetic language; the concept is associated with Prague School work.",
+          "keyPoints": [
+            "Foregrounding makes features of language especially noticeable.",
+            "Deviation or patterned repetition can draw attention to sound, syntax or wording. Mayakovsky illustrates startling poetic language; the concept is associated with Prague School work."
+          ],
+          "followUps": [
+            "e403-foregrounding-apply"
+          ]
+        },
+        {
+          "id": "e403-foregrounding-apply",
+          "prompt": "Does repeated alliteration count as foregrounding even without unusual grammar?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Repetition can make a sound pattern salient. Foregrounding includes parallelism as well as departures from expected language.",
+          "keyPoints": [
+            "Yes. Repetition can make a sound pattern salient. Foregrounding includes parallelism as well as departures from expected language."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-practical-criticism",
+      "groupId": "e403-form",
+      "title": "Practical criticism",
+      "aliases": [],
+      "core": "Practical criticism closely analyses a text with external identifying information withheld.",
+      "explanation": "Richards used anonymous poems to investigate readers' responses and misunderstandings. Attention falls on words, tone, imagery and their relations.",
+      "example": "Teaching illustration: Read a poem without knowing its author, then justify a reading from its wording.",
+      "confusion": "A reading exercise without biography does not establish that historical context never matters.",
+      "syllabusTerms": [
+        "Practical criticism (Richards)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            4,
+            5
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-practical-criticism-core",
+          "prompt": "Explain practical criticism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Practical criticism closely analyses a text with external identifying information withheld.",
+          "answer": "Practical criticism closely analyses a text with external identifying information withheld. Richards used anonymous poems to investigate readers' responses and misunderstandings. Attention falls on words, tone, imagery and their relations.",
+          "keyPoints": [
+            "Practical criticism closely analyses a text with external identifying information withheld.",
+            "Richards used anonymous poems to investigate readers' responses and misunderstandings. Attention falls on words, tone, imagery and their relations."
+          ],
+          "followUps": [
+            "e403-practical-criticism-apply"
+          ]
+        },
+        {
+          "id": "e403-practical-criticism-apply",
+          "prompt": "Why did Richards withhold authors' names in his reading experiments?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It reduced reliance on reputation and background knowledge, making readers' textual judgments and interpretive difficulties more visible.",
+          "answer": "It reduced reliance on reputation and background knowledge, making readers' textual judgments and interpretive difficulties more visible.",
+          "keyPoints": [
+            "It reduced reliance on reputation and background knowledge, making readers' textual judgments and interpretive difficulties more visible."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-new-criticism-and-close-reading",
+      "groupId": "e403-form",
+      "title": "New Criticism and close reading",
+      "aliases": [],
+      "core": "New Criticism studies the internal relations of literary language through close reading.",
+      "explanation": "It often seeks organic unity through tensions, paradoxes and irony. Form and meaning are understood as closely interdependent.",
+      "example": "Teaching illustration: Explain how a poem's opposing images contribute to an overall interpretation.",
+      "confusion": "Close reading is a method used by many approaches, not the exclusive property of New Criticism.",
+      "syllabusTerms": [
+        "Practical criticism (Richards)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            5,
+            6
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-new-criticism-and-close-reading-core",
+          "prompt": "Explain new criticism and close reading briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "New Criticism studies the internal relations of literary language through close reading.",
+          "answer": "New Criticism studies the internal relations of literary language through close reading. It often seeks organic unity through tensions, paradoxes and irony. Form and meaning are understood as closely interdependent.",
+          "keyPoints": [
+            "New Criticism studies the internal relations of literary language through close reading.",
+            "It often seeks organic unity through tensions, paradoxes and irony. Form and meaning are understood as closely interdependent."
+          ],
+          "followUps": [
+            "e403-new-criticism-and-close-reading-apply"
+          ]
+        },
+        {
+          "id": "e403-new-criticism-and-close-reading-apply",
+          "prompt": "What would a New Critic examine before discussing a poet's biography?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The work's diction, imagery, rhythm, ambiguities, irony and structure, explaining how these features interact within the text.",
+          "answer": "The work's diction, imagery, rhythm, ambiguities, irony and structure, explaining how these features interact within the text.",
+          "keyPoints": [
+            "The work's diction, imagery, rhythm, ambiguities, irony and structure, explaining how these features interact within the text."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-sign-and-signification",
+      "groupId": "e403-structural",
+      "title": "Sign and signification",
+      "aliases": [],
+      "core": "A Saussurean sign links a signifier with a signified; signification is meaning production.",
+      "explanation": "The signifier is the form and the signified is the concept. Their association is conventional within a language system.",
+      "example": "Teaching illustration: The sound pattern of tree calls up a concept; another language uses a different form.",
+      "confusion": "The signified is a concept, not the physical object itself.",
+      "syllabusTerms": [
+        "Sign and signification"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            7,
+            8
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-sign-and-signification-core",
+          "prompt": "Explain sign and signification briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A Saussurean sign links a signifier with a signified; signification is meaning production.",
+          "answer": "A Saussurean sign links a signifier with a signified; signification is meaning production. The signifier is the form and the signified is the concept. Their association is conventional within a language system.",
+          "keyPoints": [
+            "A Saussurean sign links a signifier with a signified; signification is meaning production.",
+            "The signifier is the form and the signified is the concept. Their association is conventional within a language system."
+          ],
+          "followUps": [
+            "e403-sign-and-signification-apply"
+          ]
+        },
+        {
+          "id": "e403-sign-and-signification-apply",
+          "prompt": "Why does another language's different word for tree support arbitrariness?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It shows that the sound–concept association is socially conventional rather than a necessary natural resemblance.",
+          "answer": "It shows that the sound–concept association is socially conventional rather than a necessary natural resemblance.",
+          "keyPoints": [
+            "It shows that the sound–concept association is socially conventional rather than a necessary natural resemblance."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-structural-approach",
+          "prompt": "What is structuralism?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Structuralism examines how elements acquire meaning through relations within a system.",
+          "answer": "Structuralism examines how elements acquire meaning through relations within a system. In literary study, it investigates sign systems, narrative conventions and contrasts rather than treating each element as self-contained.",
+          "keyPoints": [
+            "Structuralism examines how elements acquire meaning through relations within a system.",
+            "In literary study, it investigates sign systems, narrative conventions and contrasts rather than treating each element as self-contained."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                7
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-sign-and-signification-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-paradigm-and-syntagm",
+      "groupId": "e403-structural",
+      "title": "Paradigm and syntagm",
+      "aliases": [],
+      "core": "A paradigm concerns alternatives; a syntagm concerns combinations.",
+      "explanation": "A speaker selects among possible items and combines selected items into an organised sequence.",
+      "example": "Teaching illustration: In the dog sleeps, cat can replace dog paradigmatically; the whole sequence is syntagmatic.",
+      "confusion": "Selection and combination are related axes, not two separate kinds of language.",
+      "syllabusTerms": [
+        "Paradigm and syntagm"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            8
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-paradigm-and-syntagm-core",
+          "prompt": "Explain paradigm and syntagm briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A paradigm concerns alternatives; a syntagm concerns combinations.",
+          "answer": "A paradigm concerns alternatives; a syntagm concerns combinations. A speaker selects among possible items and combines selected items into an organised sequence.",
+          "keyPoints": [
+            "A paradigm concerns alternatives; a syntagm concerns combinations.",
+            "A speaker selects among possible items and combines selected items into an organised sequence."
+          ],
+          "followUps": [
+            "e403-paradigm-and-syntagm-apply"
+          ]
+        },
+        {
+          "id": "e403-paradigm-and-syntagm-apply",
+          "prompt": "Identify both axes in the phrase a bright student.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Bright could be replaced by quiet or talented on the selection axis.",
+          "answer": "Bright could be replaced by quiet or talented on the selection axis. The ordered combination of determiner, adjective and noun is the syntagmatic axis.",
+          "keyPoints": [
+            "Bright could be replaced by quiet or talented on the selection axis. The ordered combination of determiner, adjective and noun is the syntagmatic axis."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-binary-oppositions",
+      "groupId": "e403-structural",
+      "title": "Binary oppositions",
+      "aliases": [],
+      "core": "Binary oppositions organise meaning through paired contrasts.",
+      "explanation": "Structuralist analysis examines how contrasts such as nature/culture organise a text. Later critics ask whether one term is privileged and how the opposition is unsettled.",
+      "example": "Teaching illustration: A story opposes city and village, associating each with different values.",
+      "confusion": "A contrast need not be a simple or universal natural division.",
+      "syllabusTerms": [
+        "Binary oppositions"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-binary-oppositions-core",
+          "prompt": "Explain binary oppositions briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Binary oppositions organise meaning through paired contrasts.",
+          "answer": "Binary oppositions organise meaning through paired contrasts. Structuralist analysis examines how contrasts such as nature/culture organise a text. Later critics ask whether one term is privileged and how the opposition is unsettled.",
+          "keyPoints": [
+            "Binary oppositions organise meaning through paired contrasts.",
+            "Structuralist analysis examines how contrasts such as nature/culture organise a text. Later critics ask whether one term is privileged and how the opposition is unsettled."
+          ],
+          "followUps": [
+            "e403-binary-oppositions-apply"
+          ]
+        },
+        {
+          "id": "e403-binary-oppositions-apply",
+          "prompt": "How could a character undermine a city/village binary?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "A character may combine traits assigned to both sides, revealing that the text's supposedly separate categories depend on exclusions and overlaps.",
+          "answer": "A character may combine traits assigned to both sides, revealing that the text's supposedly separate categories depend on exclusions and overlaps.",
+          "keyPoints": [
+            "A character may combine traits assigned to both sides, revealing that the text's supposedly separate categories depend on exclusions and overlaps."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-mythoi-and-archetypal-criticism",
+      "groupId": "e403-structural",
+      "title": "Mythoi and archetypal criticism",
+      "aliases": [],
+      "core": "Frye's mythoi are recurring narrative patterns used in archetypal criticism.",
+      "explanation": "His seasonal scheme associates comedy with spring, romance with summer, tragedy with autumn, and irony/satire with winter.",
+      "example": "Teaching illustration: A story of social renewal ending in celebration fits a comic pattern.",
+      "confusion": "A critical classification is an interpretive framework, not proof that every culture tells identical stories.",
+      "syllabusTerms": [
+        "Mythoi",
+        "Archetypal criticism (Frye)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            9
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-mythoi-and-archetypal-criticism-core",
+          "prompt": "Explain mythoi and archetypal criticism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Frye's mythoi are recurring narrative patterns used in archetypal criticism.",
+          "answer": "Frye's mythoi are recurring narrative patterns used in archetypal criticism. His seasonal scheme associates comedy with spring, romance with summer, tragedy with autumn, and irony/satire with winter.",
+          "keyPoints": [
+            "Frye's mythoi are recurring narrative patterns used in archetypal criticism.",
+            "His seasonal scheme associates comedy with spring, romance with summer, tragedy with autumn, and irony/satire with winter."
+          ],
+          "followUps": [
+            "e403-mythoi-and-archetypal-criticism-apply"
+          ]
+        },
+        {
+          "id": "e403-mythoi-and-archetypal-criticism-apply",
+          "prompt": "Which Fryean mythos would a heroic quest ending in victory most readily suggest?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Romance, associated with summer and idealised adventure.",
+          "answer": "Romance, associated with summer and idealised adventure. The fit should be justified from the narrative rather than assumed from one isolated feature.",
+          "keyPoints": [
+            "Romance, associated with summer and idealised adventure. The fit should be justified from the narrative rather than assumed from one isolated feature."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-narratology-and-narrative-order",
+      "groupId": "e403-structural",
+      "title": "Narratology and narrative order",
+      "aliases": [],
+      "core": "Narratology studies how narratives are structured and presented.",
+      "explanation": "Distinguish the chronological sequence of events from their artistic arrangement. Todorov's model describes equilibrium, disruption and a changed equilibrium.",
+      "example": "Teaching illustration: A novel starts with a death, then returns to the events that led to it.",
+      "confusion": "Narrative sequence is not necessarily chronological event order.",
+      "syllabusTerms": [
+        "Narratology (Todorov)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            9,
+            10
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-narratology-and-narrative-order-core",
+          "prompt": "Explain narratology and narrative order briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Narratology studies how narratives are structured and presented.",
+          "answer": "Narratology studies how narratives are structured and presented. Distinguish the chronological sequence of events from their artistic arrangement. Todorov's model describes equilibrium, disruption and a changed equilibrium.",
+          "keyPoints": [
+            "Narratology studies how narratives are structured and presented.",
+            "Distinguish the chronological sequence of events from their artistic arrangement. Todorov's model describes equilibrium, disruption and a changed equilibrium."
+          ],
+          "followUps": [
+            "e403-narratology-and-narrative-order-apply"
+          ]
+        },
+        {
+          "id": "e403-narratology-and-narrative-order-apply",
+          "prompt": "How does a flashback distinguish story from plot?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The event belongs earlier in chronological story time but is presented later in the plot, shaping suspense and interpretation.",
+          "answer": "The event belongs earlier in chronological story time but is presented later in the plot, shaping suspense and interpretation.",
+          "keyPoints": [
+            "The event belongs earlier in chronological story time but is presented later in the plot, shaping suspense and interpretation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-barthes-s-myth",
+      "groupId": "e403-structural",
+      "title": "Barthes's myth",
+      "aliases": [],
+      "core": "For Barthes, myth makes historically constructed cultural values appear natural.",
+      "explanation": "A first-level sign can become the signifier of a second-level ideological message. Analyse what a representation encourages audiences to take for granted.",
+      "example": "Teaching illustration: An advert links a product with an idealised national lifestyle.",
+      "confusion": "Myth here is not limited to ancient stories or simply a factual lie.",
+      "syllabusTerms": [
+        "Mythology (Barthes)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            10,
+            11
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-barthes-s-myth-core",
+          "prompt": "Explain barthes's myth briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "For Barthes, myth makes historically constructed cultural values appear natural.",
+          "answer": "For Barthes, myth makes historically constructed cultural values appear natural. A first-level sign can become the signifier of a second-level ideological message. Analyse what a representation encourages audiences to take for granted.",
+          "keyPoints": [
+            "For Barthes, myth makes historically constructed cultural values appear natural.",
+            "A first-level sign can become the signifier of a second-level ideological message. Analyse what a representation encourages audiences to take for granted."
+          ],
+          "followUps": [
+            "e403-barthes-s-myth-apply"
+          ]
+        },
+        {
+          "id": "e403-barthes-s-myth-apply",
+          "prompt": "How can an advertisement turn an ordinary meal into a national myth?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It can attach ideas of authentic national identity to selected foods, presenting a cultural association as an obvious natural essence.",
+          "answer": "It can attach ideas of authentic national identity to selected foods, presenting a cultural association as an obvious natural essence.",
+          "keyPoints": [
+            "It can attach ideas of authentic national identity to selected foods, presenting a cultural association as an obvious natural essence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-hermeneutics",
+      "groupId": "e403-reader",
+      "title": "Hermeneutics",
+      "aliases": [],
+      "core": "Hermeneutics concerns interpretation and understanding.",
+      "explanation": "Interpretation moves between parts and whole and is shaped by historical assumptions. Different hermeneutic traditions place different weight on author, history and reader.",
+      "example": "Teaching illustration: An ending changes your understanding of an earlier scene, prompting rereading.",
+      "confusion": "The hermeneutic circle is a productive movement of understanding, not merely circular proof.",
+      "syllabusTerms": [
+        "Hermeneutics"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            12,
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-hermeneutics-core",
+          "prompt": "Explain hermeneutics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Hermeneutics concerns interpretation and understanding.",
+          "answer": "Hermeneutics concerns interpretation and understanding. Interpretation moves between parts and whole and is shaped by historical assumptions. Different hermeneutic traditions place different weight on author, history and reader.",
+          "keyPoints": [
+            "Hermeneutics concerns interpretation and understanding.",
+            "Interpretation moves between parts and whole and is shaped by historical assumptions. Different hermeneutic traditions place different weight on author, history and reader."
+          ],
+          "followUps": [
+            "e403-hermeneutics-apply"
+          ]
+        },
+        {
+          "id": "e403-hermeneutics-apply",
+          "prompt": "How does rereading illustrate the hermeneutic circle?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A developing sense of the whole changes how individual passages are understood, while those passages revise the interpretation of the whole.",
+          "answer": "A developing sense of the whole changes how individual passages are understood, while those passages revise the interpretation of the whole.",
+          "keyPoints": [
+            "A developing sense of the whole changes how individual passages are understood, while those passages revise the interpretation of the whole."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-reader-approach",
+          "prompt": "What is reader-response criticism?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Reader-response criticism examines the reader’s role in the production of literary meaning.",
+          "answer": "Reader-response criticism examines the reader’s role in the production of literary meaning. Different approaches emphasise experience, textual gaps, historical expectations or interpretive conventions.",
+          "keyPoints": [
+            "Reader-response criticism examines the reader’s role in the production of literary meaning.",
+            "Different approaches emphasise experience, textual gaps, historical expectations or interpretive conventions."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                12
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-hermeneutics-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-phenomenology",
+      "groupId": "e403-reader",
+      "title": "Phenomenology",
+      "aliases": [],
+      "core": "Phenomenology investigates how things appear in experience and consciousness.",
+      "explanation": "In literary study it can focus on the structures of reading experience. Husserl's intentionality means consciousness is directed toward something.",
+      "example": "Teaching illustration: Describe how a narrative progressively alters a reader's perception of its narrator.",
+      "confusion": "Intentionality in phenomenology is not simply an author's intended message.",
+      "syllabusTerms": [
+        "Phenomenology"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-phenomenology-core",
+          "prompt": "Explain phenomenology briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Phenomenology investigates how things appear in experience and consciousness.",
+          "answer": "Phenomenology investigates how things appear in experience and consciousness. In literary study it can focus on the structures of reading experience. Husserl's intentionality means consciousness is directed toward something.",
+          "keyPoints": [
+            "Phenomenology investigates how things appear in experience and consciousness.",
+            "In literary study it can focus on the structures of reading experience. Husserl's intentionality means consciousness is directed toward something."
+          ],
+          "followUps": [
+            "e403-phenomenology-apply"
+          ]
+        },
+        {
+          "id": "e403-phenomenology-apply",
+          "prompt": "What would a phenomenological reading notice about suspense?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It would examine how the text shapes the reader's anticipation, attention and experience over time, rather than only identifying the final plot outcome.",
+          "answer": "It would examine how the text shapes the reader's anticipation, attention and experience over time, rather than only identifying the final plot outcome.",
+          "keyPoints": [
+            "It would examine how the text shapes the reader's anticipation, attention and experience over time, rather than only identifying the final plot outcome."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-horizon-of-expectations",
+      "groupId": "e403-reader",
+      "title": "Horizon of expectations",
+      "aliases": [],
+      "core": "A horizon of expectations is the historically shaped background readers bring to a work.",
+      "explanation": "Genre knowledge, earlier reading and cultural assumptions affect reception. A new work may confirm or challenge these expectations.",
+      "example": "Teaching illustration: Readers expecting a conventional detective ending encounter an unresolved mystery.",
+      "confusion": "Jauss stresses historical reception; individual preference alone is too narrow.",
+      "syllabusTerms": [
+        "Horizon of expectations (Jauss)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            13,
+            14
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-horizon-of-expectations-core",
+          "prompt": "Explain horizon of expectations briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A horizon of expectations is the historically shaped background readers bring to a work.",
+          "answer": "A horizon of expectations is the historically shaped background readers bring to a work. Genre knowledge, earlier reading and cultural assumptions affect reception. A new work may confirm or challenge these expectations.",
+          "keyPoints": [
+            "A horizon of expectations is the historically shaped background readers bring to a work.",
+            "Genre knowledge, earlier reading and cultural assumptions affect reception. A new work may confirm or challenge these expectations."
+          ],
+          "followUps": [
+            "e403-horizon-of-expectations-apply"
+          ]
+        },
+        {
+          "id": "e403-horizon-of-expectations-apply",
+          "prompt": "Why can a once-shocking novel seem conventional to later readers?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Literary conventions and cultural expectations change.",
+          "answer": "Literary conventions and cultural expectations change. Later readers may already know the innovations that disrupted the work's first audience.",
+          "keyPoints": [
+            "Literary conventions and cultural expectations change. Later readers may already know the innovations that disrupted the work's first audience."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-reception-theory-and-gaps",
+      "groupId": "e403-reader",
+      "title": "Reception theory and gaps",
+      "aliases": [],
+      "core": "Iser treats reading as an interaction in which readers realise a text's possibilities.",
+      "explanation": "Texts guide inference while leaving gaps. The implied reader is a role structured by the text, distinct from any actual individual.",
+      "example": "Teaching illustration: Readers infer a character's motive from incomplete dialogue and action.",
+      "confusion": "Gaps permit interpretation but do not make every reading equally well supported.",
+      "syllabusTerms": [
+        "Reception theory (Iser)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            14,
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-reception-theory-and-gaps-core",
+          "prompt": "Explain reception theory and gaps briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Iser treats reading as an interaction in which readers realise a text's possibilities.",
+          "answer": "Iser treats reading as an interaction in which readers realise a text's possibilities. Texts guide inference while leaving gaps. The implied reader is a role structured by the text, distinct from any actual individual.",
+          "keyPoints": [
+            "Iser treats reading as an interaction in which readers realise a text's possibilities.",
+            "Texts guide inference while leaving gaps. The implied reader is a role structured by the text, distinct from any actual individual."
+          ],
+          "followUps": [
+            "e403-reception-theory-and-gaps-apply"
+          ]
+        },
+        {
+          "id": "e403-reception-theory-and-gaps-apply",
+          "prompt": "Can Iser's gaps justify any interpretation a reader invents?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Interpretive activity is guided and constrained by textual structures and evidence, even though it is not exhaustively predetermined.",
+          "keyPoints": [
+            "No. Interpretive activity is guided and constrained by textual structures and evidence, even though it is not exhaustively predetermined."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-speech-acts",
+      "groupId": "e403-reader",
+      "title": "Speech acts",
+      "aliases": [],
+      "core": "Speech acts are actions performed through utterances.",
+      "explanation": "Distinguish locution, illocution and perlocution: what is said, the act performed, and its effect. Appropriate conditions matter to the act's success.",
+      "example": "Teaching illustration: I promise to return performs a commitment rather than merely describing one.",
+      "confusion": "An intended effect is not guaranteed to occur.",
+      "syllabusTerms": [
+        "Speech act theory"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-speech-acts-core",
+          "prompt": "Explain speech acts briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Speech acts are actions performed through utterances.",
+          "answer": "Speech acts are actions performed through utterances. Distinguish locution, illocution and perlocution: what is said, the act performed, and its effect. Appropriate conditions matter to the act's success.",
+          "keyPoints": [
+            "Speech acts are actions performed through utterances.",
+            "Distinguish locution, illocution and perlocution: what is said, the act performed, and its effect. Appropriate conditions matter to the act's success."
+          ],
+          "followUps": [
+            "e403-speech-acts-apply"
+          ]
+        },
+        {
+          "id": "e403-speech-acts-apply",
+          "prompt": "How can a character's promise be analysed at three speech-act levels?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Identify the words and content, the act of promising, and its actual effect, such as reassuring or disappointing another character.",
+          "answer": "Identify the words and content, the act of promising, and its actual effect, such as reassuring or disappointing another character.",
+          "keyPoints": [
+            "Identify the words and content, the act of promising, and its actual effect, such as reassuring or disappointing another character."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-dialectical-materialism",
+      "groupId": "e403-marx",
+      "title": "Dialectical materialism",
+      "aliases": [],
+      "core": "Dialectical materialism examines change through contradictions in material conditions.",
+      "explanation": "In Marxist analysis, economic organisation and conflict help explain social transformation. Avoid treating thesis–antithesis–synthesis as a mechanical formula for every event.",
+      "example": "Teaching illustration: Conflicting interests of workers and owners generate tensions within production.",
+      "confusion": "Materialism here concerns explanatory priority, not a personal love of possessions.",
+      "syllabusTerms": [
+        "Dialectical materialism"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            16
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-dialectical-materialism-core",
+          "prompt": "Explain dialectical materialism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Dialectical materialism examines change through contradictions in material conditions.",
+          "answer": "Dialectical materialism examines change through contradictions in material conditions. In Marxist analysis, economic organisation and conflict help explain social transformation. Avoid treating thesis–antithesis–synthesis as a mechanical formula for every event.",
+          "keyPoints": [
+            "Dialectical materialism examines change through contradictions in material conditions.",
+            "In Marxist analysis, economic organisation and conflict help explain social transformation. Avoid treating thesis–antithesis–synthesis as a mechanical formula for every event."
+          ],
+          "followUps": [
+            "e403-dialectical-materialism-apply"
+          ]
+        },
+        {
+          "id": "e403-dialectical-materialism-apply",
+          "prompt": "Why would a Marxist critic connect a family conflict with property relations?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Property and economic dependence can organise the characters' choices and conflicts.",
+          "answer": "Property and economic dependence can organise the characters' choices and conflicts. The critic examines those material conditions rather than treating the conflict as purely private.",
+          "keyPoints": [
+            "Property and economic dependence can organise the characters' choices and conflicts. The critic examines those material conditions rather than treating the conflict as purely private."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-marx-approach",
+          "prompt": "What is Marxist literary criticism?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Marxist criticism examines literature in relation to material conditions, class and ideology.",
+          "answer": "Marxist criticism examines literature in relation to material conditions, class and ideology. It asks how texts and their production reproduce, negotiate or challenge social relations and economic power.",
+          "keyPoints": [
+            "Marxist criticism examines literature in relation to material conditions, class and ideology.",
+            "It asks how texts and their production reproduce, negotiate or challenge social relations and economic power."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                16
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-dialectical-materialism-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-base-and-superstructure",
+      "groupId": "e403-marx",
+      "title": "Base and superstructure",
+      "aliases": [],
+      "core": "The base concerns economic production relations; superstructure concerns institutions and cultural forms.",
+      "explanation": "The relation is complex rather than a one-way copying process. Art and institutions can have relative autonomy while remaining socially situated.",
+      "example": "Teaching illustration: A novel's publication depends on markets, yet its form can challenge dominant values.",
+      "confusion": "Economic influence does not mean every artistic detail is mechanically caused by economics.",
+      "syllabusTerms": [
+        "Base and superstructure"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-base-and-superstructure-core",
+          "prompt": "Explain base and superstructure briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "The base concerns economic production relations; superstructure concerns institutions and cultural forms.",
+          "answer": "The base concerns economic production relations; superstructure concerns institutions and cultural forms. The relation is complex rather than a one-way copying process. Art and institutions can have relative autonomy while remaining socially situated.",
+          "keyPoints": [
+            "The base concerns economic production relations; superstructure concerns institutions and cultural forms.",
+            "The relation is complex rather than a one-way copying process. Art and institutions can have relative autonomy while remaining socially situated."
+          ],
+          "followUps": [
+            "e403-base-and-superstructure-apply"
+          ]
+        },
+        {
+          "id": "e403-base-and-superstructure-apply",
+          "prompt": "Does the base–superstructure model require art to mirror the economy directly?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A rigid version would, but more nuanced Marxist approaches allow mediation, contradiction and relative autonomy in culture.",
+          "answer": "A rigid version would, but more nuanced Marxist approaches allow mediation, contradiction and relative autonomy in culture.",
+          "keyPoints": [
+            "A rigid version would, but more nuanced Marxist approaches allow mediation, contradiction and relative autonomy in culture."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-ideology",
+      "groupId": "e403-marx",
+      "title": "Ideology",
+      "aliases": [],
+      "core": "Ideology comprises socially situated beliefs and representations that organise understanding.",
+      "explanation": "Marxist criticism often examines how dominant values appear natural and how texts reproduce or challenge them.",
+      "example": "Teaching illustration: A story repeatedly presents inherited privilege as deserved personal superiority.",
+      "confusion": "Ideology can operate through ordinary assumptions, not only explicit propaganda.",
+      "syllabusTerms": [
+        "Ideology"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-ideology-core",
+          "prompt": "Explain ideology briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Ideology comprises socially situated beliefs and representations that organise understanding.",
+          "answer": "Ideology comprises socially situated beliefs and representations that organise understanding. Marxist criticism often examines how dominant values appear natural and how texts reproduce or challenge them.",
+          "keyPoints": [
+            "Ideology comprises socially situated beliefs and representations that organise understanding.",
+            "Marxist criticism often examines how dominant values appear natural and how texts reproduce or challenge them."
+          ],
+          "followUps": [
+            "e403-ideology-apply"
+          ]
+        },
+        {
+          "id": "e403-ideology-apply",
+          "prompt": "How can a children's story convey ideology without discussing politics?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its patterns of reward, authority and normality can teach assumptions about gender, class or success through apparently ordinary narrative choices.",
+          "answer": "Its patterns of reward, authority and normality can teach assumptions about gender, class or success through apparently ordinary narrative choices.",
+          "keyPoints": [
+            "Its patterns of reward, authority and normality can teach assumptions about gender, class or success through apparently ordinary narrative choices."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-alienation",
+      "groupId": "e403-marx",
+      "title": "Alienation",
+      "aliases": [],
+      "core": "Alienation describes estrangement from one's labour, its products, other people or human capacities.",
+      "explanation": "In Marx's account, capitalist labour can confront workers as an externally controlled activity whose products belong to others.",
+      "example": "Teaching illustration: A worker makes one component repeatedly without control over the finished product or working process.",
+      "confusion": "Alienation is more specific than simply feeling lonely or bored.",
+      "syllabusTerms": [
+        "Alienation"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-alienation-core",
+          "prompt": "Explain alienation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Alienation describes estrangement from one's labour, its products, other people or human capacities.",
+          "answer": "Alienation describes estrangement from one's labour, its products, other people or human capacities. In Marx's account, capitalist labour can confront workers as an externally controlled activity whose products belong to others.",
+          "keyPoints": [
+            "Alienation describes estrangement from one's labour, its products, other people or human capacities.",
+            "In Marx's account, capitalist labour can confront workers as an externally controlled activity whose products belong to others."
+          ],
+          "followUps": [
+            "e403-alienation-apply"
+          ]
+        },
+        {
+          "id": "e403-alienation-apply",
+          "prompt": "Why might a worker feel alienated even while working among many colleagues?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Social proximity does not remove lack of control over labour, separation from its product or competitive relations within production.",
+          "answer": "Social proximity does not remove lack of control over labour, separation from its product or competitive relations within production.",
+          "keyPoints": [
+            "Social proximity does not remove lack of control over labour, separation from its product or competitive relations within production."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-commodity-fetishism",
+      "groupId": "e403-marx",
+      "title": "Commodity fetishism",
+      "aliases": [],
+      "core": "Commodity fetishism makes social relations among producers appear as relations among things.",
+      "explanation": "Marx examines how commodity exchange obscures the social labour relations through which value is organised.",
+      "example": "Teaching illustration: A commodity's price appears to be its self-contained property while the labour relations behind production disappear from view.",
+      "confusion": "It is not simply loving brands, nor does use-value literally cease to exist.",
+      "syllabusTerms": [
+        "Commodity fetishism"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            18,
+            19
+          ]
+        },
+        {
+          "id": "marx-capital-fetishism"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-commodity-fetishism-core",
+          "prompt": "Explain commodity fetishism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Commodity fetishism makes social relations among producers appear as relations among things.",
+          "answer": "Commodity fetishism makes social relations among producers appear as relations among things. Marx examines how commodity exchange obscures the social labour relations through which value is organised.",
+          "keyPoints": [
+            "Commodity fetishism makes social relations among producers appear as relations among things.",
+            "Marx examines how commodity exchange obscures the social labour relations through which value is organised."
+          ],
+          "followUps": [
+            "e403-commodity-fetishism-apply"
+          ]
+        },
+        {
+          "id": "e403-commodity-fetishism-apply",
+          "prompt": "Why is calling someone a shopaholic an incomplete explanation of commodity fetishism?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The concept concerns the social form of commodity relations and value, not merely an individual's excessive desire to buy goods.",
+          "answer": "The concept concerns the social form of commodity relations and value, not merely an individual's excessive desire to buy goods.",
+          "keyPoints": [
+            "The concept concerns the social form of commodity relations and value, not merely an individual's excessive desire to buy goods."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-hegemony",
+      "groupId": "e403-marx",
+      "title": "Hegemony",
+      "aliases": [],
+      "core": "Hegemony is leadership and dominance maintained through consent as well as power.",
+      "explanation": "Gramsci highlights how institutions and common sense secure acceptance of a social order. Consent can coexist with coercion and resistance.",
+      "example": "Teaching illustration: An unequal hierarchy is accepted as natural merit through repeated cultural messages.",
+      "confusion": "Hegemony does not imply that force disappears or consent is unanimous.",
+      "syllabusTerms": [
+        "Hegemony (Gramsci)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            19
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-hegemony-core",
+          "prompt": "Explain hegemony briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Hegemony is leadership and dominance maintained through consent as well as power.",
+          "answer": "Hegemony is leadership and dominance maintained through consent as well as power. Gramsci highlights how institutions and common sense secure acceptance of a social order. Consent can coexist with coercion and resistance.",
+          "keyPoints": [
+            "Hegemony is leadership and dominance maintained through consent as well as power.",
+            "Gramsci highlights how institutions and common sense secure acceptance of a social order. Consent can coexist with coercion and resistance."
+          ],
+          "followUps": [
+            "e403-hegemony-apply"
+          ]
+        },
+        {
+          "id": "e403-hegemony-apply",
+          "prompt": "How can popular entertainment contribute to hegemony?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It can normalise dominant values through attractive stories and everyday assumptions, while audiences and alternative texts may contest those meanings.",
+          "answer": "It can normalise dominant values through attractive stories and everyday assumptions, while audiences and alternative texts may contest those meanings.",
+          "keyPoints": [
+            "It can normalise dominant values through attractive stories and everyday assumptions, while audiences and alternative texts may contest those meanings."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-ideological-state-apparatuses",
+      "groupId": "e403-marx",
+      "title": "Ideological state apparatuses",
+      "aliases": [],
+      "core": "Althusser's ISAs reproduce social relations primarily through ideology.",
+      "explanation": "Education, family, religion and media help constitute subjects within social norms. Interpellation names the process of recognising oneself in an ideological address.",
+      "example": "Teaching illustration: A school routine positions pupils as obedient, assessed subjects.",
+      "confusion": "ISAs and repressive institutions differ by predominant operation; neither is exclusively ideology or force.",
+      "syllabusTerms": [
+        "ISA (Althusser)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-ideological-state-apparatuses-core",
+          "prompt": "Explain ideological state apparatuses briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Althusser's ISAs reproduce social relations primarily through ideology.",
+          "answer": "Althusser's ISAs reproduce social relations primarily through ideology. Education, family, religion and media help constitute subjects within social norms. Interpellation names the process of recognising oneself in an ideological address.",
+          "keyPoints": [
+            "Althusser's ISAs reproduce social relations primarily through ideology.",
+            "Education, family, religion and media help constitute subjects within social norms. Interpellation names the process of recognising oneself in an ideological address."
+          ],
+          "followUps": [
+            "e403-ideological-state-apparatuses-apply"
+          ]
+        },
+        {
+          "id": "e403-ideological-state-apparatuses-apply",
+          "prompt": "Why might a school be analysed as an ideological state apparatus?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its routines, curriculum and classifications can reproduce norms and subject positions that support existing social relations, beyond transmitting neutral information.",
+          "answer": "Its routines, curriculum and classifications can reproduce norms and subject positions that support existing social relations, beyond transmitting neutral information.",
+          "keyPoints": [
+            "Its routines, curriculum and classifications can reproduce norms and subject positions that support existing social relations, beyond transmitting neutral information."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-androgyny",
+      "groupId": "e403-feminist",
+      "title": "Androgyny",
+      "aliases": [],
+      "core": "Woolf's androgynous mind is a creative ideal drawing beyond rigid gender divisions.",
+      "explanation": "She connects creative possibility with material independence and freedom from restrictive gender-consciousness.",
+      "example": "Teaching illustration: A writer creates characters without confining imagination to prescribed masculine or feminine traits.",
+      "confusion": "This is a literary concept, not a clinical or biological classification.",
+      "syllabusTerms": [
+        "Androgyny (Woolf)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-androgyny-core",
+          "prompt": "Explain androgyny briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Woolf's androgynous mind is a creative ideal drawing beyond rigid gender divisions.",
+          "answer": "Woolf's androgynous mind is a creative ideal drawing beyond rigid gender divisions. She connects creative possibility with material independence and freedom from restrictive gender-consciousness.",
+          "keyPoints": [
+            "Woolf's androgynous mind is a creative ideal drawing beyond rigid gender divisions.",
+            "She connects creative possibility with material independence and freedom from restrictive gender-consciousness."
+          ],
+          "followUps": [
+            "e403-androgyny-apply"
+          ]
+        },
+        {
+          "id": "e403-androgyny-apply",
+          "prompt": "How does Woolf connect a room and money with creative freedom?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Material independence and private space can reduce constraints on women's intellectual work; creativity has social conditions as well as imaginative ones.",
+          "answer": "Material independence and private space can reduce constraints on women's intellectual work; creativity has social conditions as well as imaginative ones.",
+          "keyPoints": [
+            "Material independence and private space can reduce constraints on women's intellectual work; creativity has social conditions as well as imaginative ones."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-feminist-approach",
+          "prompt": "What is feminist literary criticism?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Feminist criticism examines gendered representation, literary production and relations of patriarchal power.",
+          "answer": "Feminist criticism examines gendered representation, literary production and relations of patriarchal power. It can analyse stereotypes, recover women’s writing and investigate intersections with race, class and colonial histories.",
+          "keyPoints": [
+            "Feminist criticism examines gendered representation, literary production and relations of patriarchal power.",
+            "It can analyse stereotypes, recover women’s writing and investigate intersections with race, class and colonial histories."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                21
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-androgyny-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-woman-as-other",
+      "groupId": "e403-feminist",
+      "title": "Woman as Other",
+      "aliases": [],
+      "core": "Beauvoir analyses woman as positioned as Other relative to man as normative Subject.",
+      "explanation": "Gendered roles are socially produced rather than simply expressions of biological destiny.",
+      "example": "Teaching illustration: A narrative defines a woman only as a hero's wife while giving him independent ambitions.",
+      "confusion": "Otherness is a relation of power, not simply individual difference.",
+      "syllabusTerms": [
+        "Other (Beauvoir)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            21,
+            22
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-woman-as-other-core",
+          "prompt": "Explain woman as other briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Beauvoir analyses woman as positioned as Other relative to man as normative Subject.",
+          "answer": "Beauvoir analyses woman as positioned as Other relative to man as normative Subject. Gendered roles are socially produced rather than simply expressions of biological destiny.",
+          "keyPoints": [
+            "Beauvoir analyses woman as positioned as Other relative to man as normative Subject.",
+            "Gendered roles are socially produced rather than simply expressions of biological destiny."
+          ],
+          "followUps": [
+            "e403-woman-as-other-apply"
+          ]
+        },
+        {
+          "id": "e403-woman-as-other-apply",
+          "prompt": "How could a novel's character descriptions reproduce woman as Other?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Men may appear as autonomous subjects while women are described only through their relationships, usefulness or difference from male norms.",
+          "answer": "Men may appear as autonomous subjects while women are described only through their relationships, usefulness or difference from male norms.",
+          "keyPoints": [
+            "Men may appear as autonomous subjects while women are described only through their relationships, usefulness or difference from male norms."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-images-of-women-criticism",
+      "groupId": "e403-feminist",
+      "title": "Images of Women criticism",
+      "aliases": [],
+      "core": "Images of Women criticism examines gendered representations and patriarchal assumptions in literature.",
+      "explanation": "Millett's work connects literary sexual relations with power, questioning stereotypes and objectification.",
+      "example": "Teaching illustration: Examine whether female characters are allowed agency or exist mainly as rewards for male heroes.",
+      "confusion": "A female author does not automatically produce a non-patriarchal representation.",
+      "syllabusTerms": [
+        "Images of Women criticism (Millett)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            22
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-images-of-women-criticism-core",
+          "prompt": "Explain images of women criticism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Images of Women criticism examines gendered representations and patriarchal assumptions in literature.",
+          "answer": "Images of Women criticism examines gendered representations and patriarchal assumptions in literature. Millett's work connects literary sexual relations with power, questioning stereotypes and objectification.",
+          "keyPoints": [
+            "Images of Women criticism examines gendered representations and patriarchal assumptions in literature.",
+            "Millett's work connects literary sexual relations with power, questioning stereotypes and objectification."
+          ],
+          "followUps": [
+            "e403-images-of-women-criticism-apply"
+          ]
+        },
+        {
+          "id": "e403-images-of-women-criticism-apply",
+          "prompt": "What evidence would support a critique of a stereotyped female character?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Show how narration, actions, dialogue and plot limit her agency or repeat gendered assumptions; support the claim with textual patterns.",
+          "answer": "Show how narration, actions, dialogue and plot limit her agency or repeat gendered assumptions; support the claim with textual patterns.",
+          "keyPoints": [
+            "Show how narration, actions, dialogue and plot limit her agency or repeat gendered assumptions; support the claim with textual patterns."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-gynocriticism",
+      "groupId": "e403-feminist",
+      "title": "Gynocriticism",
+      "aliases": [],
+      "core": "Gynocriticism studies women as writers and their literary histories, forms and traditions.",
+      "explanation": "Showalter shifts attention from criticism of male representations to women's literary production and its conditions.",
+      "example": "Teaching illustration: Trace recurring themes and publishing barriers across women novelists.",
+      "confusion": "It differs in focus from reading men's texts for images of women.",
+      "syllabusTerms": [
+        "Gynocriticism (Showalter)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-gynocriticism-core",
+          "prompt": "Explain gynocriticism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Gynocriticism studies women as writers and their literary histories, forms and traditions.",
+          "answer": "Gynocriticism studies women as writers and their literary histories, forms and traditions. Showalter shifts attention from criticism of male representations to women's literary production and its conditions.",
+          "keyPoints": [
+            "Gynocriticism studies women as writers and their literary histories, forms and traditions.",
+            "Showalter shifts attention from criticism of male representations to women's literary production and its conditions."
+          ],
+          "followUps": [
+            "e403-gynocriticism-apply"
+          ]
+        },
+        {
+          "id": "e403-gynocriticism-apply",
+          "prompt": "How does gynocriticism differ from Images of Women criticism?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Gynocriticism centres women's writing and traditions; Images of Women criticism focuses on gendered representations, often in male-authored texts.",
+          "answer": "Gynocriticism centres women's writing and traditions; Images of Women criticism focuses on gendered representations, often in male-authored texts.",
+          "keyPoints": [
+            "Gynocriticism centres women's writing and traditions; Images of Women criticism focuses on gendered representations, often in male-authored texts."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-ecriture-feminine",
+      "groupId": "e403-feminist",
+      "title": "Ecriture feminine",
+      "aliases": [],
+      "core": "Cixous's ecriture feminine imagines writing that disrupts patriarchal exclusions and fixed hierarchies.",
+      "explanation": "Bodily experience, multiplicity and openness inform the proposal. It should not be reduced to a rule that all women naturally write alike.",
+      "example": "Teaching illustration: A text challenges rigid narrative closure and gender binaries through multiple voices.",
+      "confusion": "Feminine writing is a theoretical possibility, not a guaranteed property of every female author's text.",
+      "syllabusTerms": [
+        "Ecriture feminine (Cixous)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-ecriture-feminine-core",
+          "prompt": "Explain ecriture feminine briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Cixous's ecriture feminine imagines writing that disrupts patriarchal exclusions and fixed hierarchies.",
+          "answer": "Cixous's ecriture feminine imagines writing that disrupts patriarchal exclusions and fixed hierarchies. Bodily experience, multiplicity and openness inform the proposal. It should not be reduced to a rule that all women naturally write alike.",
+          "keyPoints": [
+            "Cixous's ecriture feminine imagines writing that disrupts patriarchal exclusions and fixed hierarchies.",
+            "Bodily experience, multiplicity and openness inform the proposal. It should not be reduced to a rule that all women naturally write alike."
+          ],
+          "followUps": [
+            "e403-ecriture-feminine-apply"
+          ]
+        },
+        {
+          "id": "e403-ecriture-feminine-apply",
+          "prompt": "Why is equating ecriture feminine with all writing by women misleading?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The concept concerns a disruptive mode of writing and its relation to power and embodiment.",
+          "answer": "The concept concerns a disruptive mode of writing and its relation to power and embodiment. Authorial sex alone does not establish that textual mode.",
+          "keyPoints": [
+            "The concept concerns a disruptive mode of writing and its relation to power and embodiment. Authorial sex alone does not establish that textual mode."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-black-feminist-criticism",
+      "groupId": "e403-feminist",
+      "title": "Black feminist criticism",
+      "aliases": [],
+      "core": "Black feminist criticism examines interconnected racial, gendered and classed structures in Black women's lives and writing.",
+      "explanation": "Barbara Smith calls attention to Black women's cultural specificity and exclusion from dominant critical traditions.",
+      "example": "Teaching illustration: Analyse how a Black female character's options are shaped jointly by race, class and gender.",
+      "confusion": "There is no single uniform experience shared by all Black women.",
+      "syllabusTerms": [
+        "Black feminist criticism (Smith)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-black-feminist-criticism-core",
+          "prompt": "Explain black feminist criticism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Black feminist criticism examines interconnected racial, gendered and classed structures in Black women's lives and writing.",
+          "answer": "Black feminist criticism examines interconnected racial, gendered and classed structures in Black women's lives and writing. Barbara Smith calls attention to Black women's cultural specificity and exclusion from dominant critical traditions.",
+          "keyPoints": [
+            "Black feminist criticism examines interconnected racial, gendered and classed structures in Black women's lives and writing.",
+            "Barbara Smith calls attention to Black women's cultural specificity and exclusion from dominant critical traditions."
+          ],
+          "followUps": [
+            "e403-black-feminist-criticism-apply"
+          ]
+        },
+        {
+          "id": "e403-black-feminist-criticism-apply",
+          "prompt": "Why might a gender-only reading miss an important feature of a Black woman's narrative?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Gendered experience is shaped by racial and class relations; treating these as separate or ignoring them can erase the narrative's particular structures of power.",
+          "answer": "Gendered experience is shaped by racial and class relations; treating these as separate or ignoring them can erase the narrative's particular structures of power.",
+          "keyPoints": [
+            "Gendered experience is shaped by racial and class relations; treating these as separate or ignoring them can erase the narrative's particular structures of power."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-postcolonial-feminism",
+      "groupId": "e403-feminist",
+      "title": "Postcolonial feminism",
+      "aliases": [],
+      "core": "Postcolonial feminism examines gender through colonial histories and unequal global relations.",
+      "explanation": "Spivak and Mohanty challenge claims to represent all women through a universal Western model, asking who speaks and who is heard.",
+      "example": "Teaching illustration: Question a report that portrays all non-Western women as equally passive.",
+      "confusion": "Challenging universalism does not require abandoning criticism of gender oppression.",
+      "syllabusTerms": [
+        "Postcolonial feminism (Spivak)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-postcolonial-feminism-core",
+          "prompt": "Explain postcolonial feminism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Postcolonial feminism examines gender through colonial histories and unequal global relations.",
+          "answer": "Postcolonial feminism examines gender through colonial histories and unequal global relations. Spivak and Mohanty challenge claims to represent all women through a universal Western model, asking who speaks and who is heard.",
+          "keyPoints": [
+            "Postcolonial feminism examines gender through colonial histories and unequal global relations.",
+            "Spivak and Mohanty challenge claims to represent all women through a universal Western model, asking who speaks and who is heard."
+          ],
+          "followUps": [
+            "e403-postcolonial-feminism-apply"
+          ]
+        },
+        {
+          "id": "e403-postcolonial-feminism-apply",
+          "prompt": "Why is the phrase 'the typical Third World woman' problematic?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It can homogenise different histories, classes and forms of agency, reproducing the very representational hierarchy that feminist analysis should investigate.",
+          "answer": "It can homogenise different histories, classes and forms of agency, reproducing the very representational hierarchy that feminist analysis should investigate.",
+          "keyPoints": [
+            "It can homogenise different histories, classes and forms of agency, reproducing the very representational hierarchy that feminist analysis should investigate."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-the-unconscious",
+      "groupId": "e403-psycho",
+      "title": "The unconscious",
+      "aliases": [],
+      "core": "In psychoanalytic theory, unconscious processes shape thoughts and actions beyond awareness.",
+      "explanation": "Freud's interpretive framework connects repression, conflict, dreams and symptoms. It is a theoretical lens, not automatic proof of a character's diagnosis.",
+      "example": "Teaching illustration: A recurring unexplained fear is read alongside a narrative's suppressed conflict.",
+      "confusion": "A literary psychoanalytic interpretation is not a clinical diagnosis of the author.",
+      "syllabusTerms": [
+        "The unconscious"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            26
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-the-unconscious-core",
+          "prompt": "Explain the unconscious briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "In psychoanalytic theory, unconscious processes shape thoughts and actions beyond awareness.",
+          "answer": "In psychoanalytic theory, unconscious processes shape thoughts and actions beyond awareness. Freud's interpretive framework connects repression, conflict, dreams and symptoms. It is a theoretical lens, not automatic proof of a character's diagnosis.",
+          "keyPoints": [
+            "In psychoanalytic theory, unconscious processes shape thoughts and actions beyond awareness.",
+            "Freud's interpretive framework connects repression, conflict, dreams and symptoms. It is a theoretical lens, not automatic proof of a character's diagnosis."
+          ],
+          "followUps": [
+            "e403-the-unconscious-apply"
+          ]
+        },
+        {
+          "id": "e403-the-unconscious-apply",
+          "prompt": "Why should a critic avoid diagnosing an author solely from a fictional character?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Fiction is mediated and invented; a textual pattern cannot by itself establish the author's mental condition.",
+          "answer": "Fiction is mediated and invented; a textual pattern cannot by itself establish the author's mental condition. Present the claim as an interpretation with evidence and limits.",
+          "keyPoints": [
+            "Fiction is mediated and invented; a textual pattern cannot by itself establish the author's mental condition. Present the claim as an interpretation with evidence and limits."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-psycho-approach",
+          "prompt": "What is psychoanalytic criticism?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Psychoanalytic criticism uses theories of unconscious desire, conflict and identification to interpret texts.",
+          "answer": "Psychoanalytic criticism uses theories of unconscious desire, conflict and identification to interpret texts. It may examine characters, narrative patterns or reading processes, while recognising that interpretation does not establish a clinical diagnosis.",
+          "keyPoints": [
+            "Psychoanalytic criticism uses theories of unconscious desire, conflict and identification to interpret texts.",
+            "It may examine characters, narrative patterns or reading processes, while recognising that interpretation does not establish a clinical diagnosis."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                26
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-the-unconscious-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-oedipus-complex",
+      "groupId": "e403-psycho",
+      "title": "Oedipus complex",
+      "aliases": [],
+      "core": "The Oedipus complex is Freud's theory of childhood desire, rivalry and identification within family relations.",
+      "explanation": "It has influenced interpretations of family conflict and Hamlet, but its universality and assumptions are contested.",
+      "example": "Teaching illustration: Read a character's parental rivalry through an Oedipal lens and test the reading against the text.",
+      "confusion": "A contested psychoanalytic theory is not an established universal developmental law.",
+      "syllabusTerms": [
+        "Oedipus complex"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-oedipus-complex-core",
+          "prompt": "Explain oedipus complex briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "The Oedipus complex is Freud's theory of childhood desire, rivalry and identification within family relations.",
+          "answer": "The Oedipus complex is Freud's theory of childhood desire, rivalry and identification within family relations. It has influenced interpretations of family conflict and Hamlet, but its universality and assumptions are contested.",
+          "keyPoints": [
+            "The Oedipus complex is Freud's theory of childhood desire, rivalry and identification within family relations.",
+            "It has influenced interpretations of family conflict and Hamlet, but its universality and assumptions are contested."
+          ],
+          "followUps": [
+            "e403-oedipus-complex-apply"
+          ]
+        },
+        {
+          "id": "e403-oedipus-complex-apply",
+          "prompt": "Does a son's closeness to his mother prove an Oedipus complex?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Such closeness permits many explanations; an Oedipal interpretation needs careful textual support and acknowledgement of its theoretical assumptions.",
+          "keyPoints": [
+            "No. Such closeness permits many explanations; an Oedipal interpretation needs careful textual support and acknowledgement of its theoretical assumptions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-drives-and-defenses",
+      "groupId": "e403-psycho",
+      "title": "Drives and defenses",
+      "aliases": [],
+      "core": "Drives are motivating pressures; defenses manage anxiety and threatening psychic conflict in psychoanalytic theory.",
+      "explanation": "Repression excludes material from awareness; projection attributes unwanted feelings to others; sublimation redirects impulses into socially valued forms.",
+      "example": "Teaching illustration: A jealous character repeatedly accuses others of jealousy, suggesting projection as one reading.",
+      "confusion": "A defense is not necessarily a consciously planned lie.",
+      "syllabusTerms": [
+        "Drives and defenses"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            27,
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-drives-and-defenses-core",
+          "prompt": "Explain drives and defenses briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Drives are motivating pressures; defenses manage anxiety and threatening psychic conflict in psychoanalytic theory.",
+          "answer": "Drives are motivating pressures; defenses manage anxiety and threatening psychic conflict in psychoanalytic theory. Repression excludes material from awareness; projection attributes unwanted feelings to others; sublimation redirects impulses into socially valued forms.",
+          "keyPoints": [
+            "Drives are motivating pressures; defenses manage anxiety and threatening psychic conflict in psychoanalytic theory.",
+            "Repression excludes material from awareness; projection attributes unwanted feelings to others; sublimation redirects impulses into socially valued forms."
+          ],
+          "followUps": [
+            "e403-drives-and-defenses-apply"
+          ]
+        },
+        {
+          "id": "e403-drives-and-defenses-apply",
+          "prompt": "How do repression and projection differ?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Repression keeps threatening material out of awareness; projection locates an unwanted feeling or impulse in someone else.",
+          "answer": "Repression keeps threatening material out of awareness; projection locates an unwanted feeling or impulse in someone else.",
+          "keyPoints": [
+            "Repression keeps threatening material out of awareness; projection locates an unwanted feeling or impulse in someone else."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-dream-work",
+      "groupId": "e403-psycho",
+      "title": "Dream-work",
+      "aliases": [],
+      "core": "Freudian dream-work transforms latent material into the dream's manifest form.",
+      "explanation": "Condensation brings several associations into one image; displacement shifts emphasis to an associated substitute.",
+      "example": "Teaching illustration: One dream figure combines traits of several important people.",
+      "confusion": "Manifest content is the remembered dream; latent content is the inferred material transformed by dream-work.",
+      "syllabusTerms": [
+        "Dream-work"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-dream-work-core",
+          "prompt": "Explain dream-work briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Freudian dream-work transforms latent material into the dream's manifest form.",
+          "answer": "Freudian dream-work transforms latent material into the dream's manifest form. Condensation brings several associations into one image; displacement shifts emphasis to an associated substitute.",
+          "keyPoints": [
+            "Freudian dream-work transforms latent material into the dream's manifest form.",
+            "Condensation brings several associations into one image; displacement shifts emphasis to an associated substitute."
+          ],
+          "followUps": [
+            "e403-dream-work-apply"
+          ]
+        },
+        {
+          "id": "e403-dream-work-apply",
+          "prompt": "How can one dream figure representing several people illustrate condensation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Several associations converge in a single image.",
+          "answer": "Several associations converge in a single image. Displacement would instead shift emphasis from one significant object or thought to another associated one.",
+          "keyPoints": [
+            "Several associations converge in a single image. Displacement would instead shift emphasis from one significant object or thought to another associated one."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-object-relations-theory",
+      "groupId": "e403-psycho",
+      "title": "Object relations theory",
+      "aliases": [],
+      "core": "Object relations theory examines how early relationships and their internal representations shape the self.",
+      "explanation": "Here an object is typically a person or part of a relationship as psychically represented, rather than a household item.",
+      "example": "Teaching illustration: Analyse a narrative's recurring attachment and separation patterns.",
+      "confusion": "It is not simply a theory about relations between physical objects.",
+      "syllabusTerms": [
+        "Object relations theory"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-object-relations-theory-core",
+          "prompt": "Explain object relations theory briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Object relations theory examines how early relationships and their internal representations shape the self.",
+          "answer": "Object relations theory examines how early relationships and their internal representations shape the self. Here an object is typically a person or part of a relationship as psychically represented, rather than a household item.",
+          "keyPoints": [
+            "Object relations theory examines how early relationships and their internal representations shape the self.",
+            "Here an object is typically a person or part of a relationship as psychically represented, rather than a household item."
+          ],
+          "followUps": [
+            "e403-object-relations-theory-apply"
+          ]
+        },
+        {
+          "id": "e403-object-relations-theory-apply",
+          "prompt": "Why might object relations theory help read a story about repeated abandonment?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It directs attention to how internalised early relationships organise expectations, attachment and responses to loss within the narrative.",
+          "answer": "It directs attention to how internalised early relationships organise expectations, attachment and responses to loss within the narrative.",
+          "keyPoints": [
+            "It directs attention to how internalised early relationships organise expectations, attachment and responses to loss within the narrative."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-imaginary-symbolic-and-real",
+      "groupId": "e403-psycho",
+      "title": "Imaginary, Symbolic and Real",
+      "aliases": [],
+      "core": "Lacan's three orders are the Imaginary, Symbolic and Real.",
+      "explanation": "The Imaginary concerns identification and images; the Symbolic concerns language, law and social relations; the Real names what resists symbolisation.",
+      "example": "Teaching illustration: A character's ideal self-image is challenged by their position in social language and rules.",
+      "confusion": "The Real is not everyday reality, and the three orders are not merely three successive life stages.",
+      "syllabusTerms": [
+        "Imaginary, Symbolic and Real"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-imaginary-symbolic-and-real-core",
+          "prompt": "Explain imaginary, symbolic and real briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Lacan's three orders are the Imaginary, Symbolic and Real.",
+          "answer": "Lacan's three orders are the Imaginary, Symbolic and Real. The Imaginary concerns identification and images; the Symbolic concerns language, law and social relations; the Real names what resists symbolisation.",
+          "keyPoints": [
+            "Lacan's three orders are the Imaginary, Symbolic and Real.",
+            "The Imaginary concerns identification and images; the Symbolic concerns language, law and social relations; the Real names what resists symbolisation."
+          ],
+          "followUps": [
+            "e403-imaginary-symbolic-and-real-apply"
+          ]
+        },
+        {
+          "id": "e403-imaginary-symbolic-and-real-apply",
+          "prompt": "How does Lacan's Real differ from ordinary reality?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Reality is experienced and organised through meanings and representations; the Real designates what resists full symbolisation within that organisation.",
+          "answer": "Reality is experienced and organised through meanings and representations; the Real designates what resists full symbolisation within that organisation.",
+          "keyPoints": [
+            "Reality is experienced and organised through meanings and representations; the Real designates what resists full symbolisation within that organisation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-trauma",
+      "groupId": "e403-psycho",
+      "title": "Trauma",
+      "aliases": [],
+      "core": "Trauma theory considers overwhelming experience and difficulties of processing and representing it.",
+      "explanation": "Literary readings may examine repetition, silence or disrupted chronology as ways a text engages traumatic experience.",
+      "example": "Teaching illustration: A war narrative repeatedly returns to a scene without resolving it.",
+      "confusion": "Fragmented narration alone does not prove trauma; formal patterns need contextual interpretation.",
+      "syllabusTerms": [
+        "Trauma"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            29,
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-trauma-core",
+          "prompt": "Explain trauma briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Trauma theory considers overwhelming experience and difficulties of processing and representing it.",
+          "answer": "Trauma theory considers overwhelming experience and difficulties of processing and representing it. Literary readings may examine repetition, silence or disrupted chronology as ways a text engages traumatic experience.",
+          "keyPoints": [
+            "Trauma theory considers overwhelming experience and difficulties of processing and representing it.",
+            "Literary readings may examine repetition, silence or disrupted chronology as ways a text engages traumatic experience."
+          ],
+          "followUps": [
+            "e403-trauma-apply"
+          ]
+        },
+        {
+          "id": "e403-trauma-apply",
+          "prompt": "Can every gap in a narrative be treated as a symptom of trauma?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Gaps serve many formal and rhetorical functions. A trauma reading must connect form with the work's represented experiences and other evidence.",
+          "keyPoints": [
+            "No. Gaps serve many formal and rhetorical functions. A trauma reading must connect form with the work's represented experiences and other evidence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-logocentrism",
+      "groupId": "e403-poststructural",
+      "title": "Logocentrism",
+      "aliases": [],
+      "core": "Logocentrism privileges an ultimate foundation that supposedly guarantees meaning.",
+      "explanation": "Derrida questions claims to pure presence and the hierarchy of speech over writing, showing dependence on difference and mediation.",
+      "example": "Teaching illustration: A claim that only spoken words convey an author's meaning privileges presence.",
+      "confusion": "Questioning foundations does not mean ordinary communication never works.",
+      "syllabusTerms": [
+        "Logocentrism"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            31
+          ]
+        },
+        {
+          "id": "derrida-differance"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-logocentrism-core",
+          "prompt": "Explain logocentrism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Logocentrism privileges an ultimate foundation that supposedly guarantees meaning.",
+          "answer": "Logocentrism privileges an ultimate foundation that supposedly guarantees meaning. Derrida questions claims to pure presence and the hierarchy of speech over writing, showing dependence on difference and mediation.",
+          "keyPoints": [
+            "Logocentrism privileges an ultimate foundation that supposedly guarantees meaning.",
+            "Derrida questions claims to pure presence and the hierarchy of speech over writing, showing dependence on difference and mediation."
+          ],
+          "followUps": [
+            "e403-logocentrism-apply"
+          ]
+        },
+        {
+          "id": "e403-logocentrism-apply",
+          "prompt": "Why does Derrida question the supposed purity of speech?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Speech also relies on repeatable signs, differences and conventions; the speaker's presence does not make meaning completely self-contained or fully controllable.",
+          "answer": "Speech also relies on repeatable signs, differences and conventions; the speaker's presence does not make meaning completely self-contained or fully controllable.",
+          "keyPoints": [
+            "Speech also relies on repeatable signs, differences and conventions; the speaker's presence does not make meaning completely self-contained or fully controllable."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-poststructural-approach",
+          "prompt": "What does deconstruction examine?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Deconstruction examines tensions and dependencies that unsettle a text’s apparent conceptual stability.",
+          "answer": "Deconstruction examines tensions and dependencies that unsettle a text’s apparent conceptual stability. It attends to hierarchies, exclusions and aporias through close textual engagement; it is not arbitrary destruction of meaning.",
+          "keyPoints": [
+            "Deconstruction examines tensions and dependencies that unsettle a text’s apparent conceptual stability.",
+            "It attends to hierarchies, exclusions and aporias through close textual engagement; it is not arbitrary destruction of meaning."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                31
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-logocentrism-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-differance-and-aporia",
+      "groupId": "e403-poststructural",
+      "title": "Differance and aporia",
+      "aliases": [],
+      "core": "Differance joins difference and deferral; aporia names a difficult interpretive impasse.",
+      "explanation": "Meaning depends on relations to other signs and cannot become completely self-sufficient. Deconstruction attends to tensions that unsettle a text's apparent assurances.",
+      "example": "Teaching illustration: A declaration of complete independence relies on terms and relations it rejects.",
+      "confusion": "Differance is not merely procrastination, and every hesitation is not an aporia.",
+      "syllabusTerms": [
+        "Differance and aporia (Derrida)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            31,
+            32
+          ]
+        },
+        {
+          "id": "derrida-differance"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-differance-and-aporia-core",
+          "prompt": "Explain differance and aporia briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Differance joins difference and deferral; aporia names a difficult interpretive impasse.",
+          "answer": "Differance joins difference and deferral; aporia names a difficult interpretive impasse. Meaning depends on relations to other signs and cannot become completely self-sufficient. Deconstruction attends to tensions that unsettle a text's apparent assurances.",
+          "keyPoints": [
+            "Differance joins difference and deferral; aporia names a difficult interpretive impasse.",
+            "Meaning depends on relations to other signs and cannot become completely self-sufficient. Deconstruction attends to tensions that unsettle a text's apparent assurances."
+          ],
+          "followUps": [
+            "e403-differance-and-aporia-apply"
+          ]
+        },
+        {
+          "id": "e403-differance-and-aporia-apply",
+          "prompt": "Why is a character delaying a decision not by itself an example of differance?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Differance concerns how signification works through differences and deferral.",
+          "answer": "Differance concerns how signification works through differences and deferral. Personal delay may illustrate a parallel but cannot substitute for an analysis of language and textual relations.",
+          "keyPoints": [
+            "Differance concerns how signification works through differences and deferral. Personal delay may illustrate a parallel but cannot substitute for an analysis of language and textual relations."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-jouissance",
+      "groupId": "e403-poststructural",
+      "title": "Jouissance",
+      "aliases": [],
+      "core": "Jouissance names an intense enjoyment that unsettles ordinary satisfaction and stable subjectivity.",
+      "explanation": "Kristeva connects disruptive bodily and rhythmic dimensions of signification with challenges to orderly symbolic structures.",
+      "example": "Teaching illustration: A text's rhythm and excess disturb a reader's secure interpretive position.",
+      "confusion": "The term is theory-dependent and is not simply a synonym for happiness.",
+      "syllabusTerms": [
+        "Jouissance (Kristeva)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-jouissance-core",
+          "prompt": "Explain jouissance briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Jouissance names an intense enjoyment that unsettles ordinary satisfaction and stable subjectivity.",
+          "answer": "Jouissance names an intense enjoyment that unsettles ordinary satisfaction and stable subjectivity. Kristeva connects disruptive bodily and rhythmic dimensions of signification with challenges to orderly symbolic structures.",
+          "keyPoints": [
+            "Jouissance names an intense enjoyment that unsettles ordinary satisfaction and stable subjectivity.",
+            "Kristeva connects disruptive bodily and rhythmic dimensions of signification with challenges to orderly symbolic structures."
+          ],
+          "followUps": [
+            "e403-jouissance-apply"
+          ]
+        },
+        {
+          "id": "e403-jouissance-apply",
+          "prompt": "How might a text offer jouissance rather than comfortable pleasure?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It may unsettle stable meaning, identity and familiar reading expectations through disruptive rhythm, multiplicity or excess.",
+          "answer": "It may unsettle stable meaning, identity and familiar reading expectations through disruptive rhythm, multiplicity or excess.",
+          "keyPoints": [
+            "It may unsettle stable meaning, identity and familiar reading expectations through disruptive rhythm, multiplicity or excess."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-death-of-the-author",
+      "groupId": "e403-poststructural",
+      "title": "Death of the author",
+      "aliases": [],
+      "core": "Barthes challenges the author's intention as the final authority over a text's meaning.",
+      "explanation": "A text draws on multiple cultural voices; interpretation attends to their relations and the reader's encounter rather than seeking one biographical key.",
+      "example": "Teaching illustration: A writer's explanation does not exhaust the meanings readers can support from a text.",
+      "confusion": "It does not mean the author literally dies or evidence becomes irrelevant.",
+      "syllabusTerms": [
+        "Death of the author (Barthes)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            33
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-death-of-the-author-core",
+          "prompt": "Explain death of the author briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Barthes challenges the author's intention as the final authority over a text's meaning.",
+          "answer": "Barthes challenges the author's intention as the final authority over a text's meaning. A text draws on multiple cultural voices; interpretation attends to their relations and the reader's encounter rather than seeking one biographical key.",
+          "keyPoints": [
+            "Barthes challenges the author's intention as the final authority over a text's meaning.",
+            "A text draws on multiple cultural voices; interpretation attends to their relations and the reader's encounter rather than seeking one biographical key."
+          ],
+          "followUps": [
+            "e403-death-of-the-author-apply"
+          ]
+        },
+        {
+          "id": "e403-death-of-the-author-apply",
+          "prompt": "Does the death of the author mean an unsupported reading is as good as any other?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. It challenges one source of final authority. Interpretations still need reasoned engagement with language, conventions and textual evidence.",
+          "keyPoints": [
+            "No. It challenges one source of final authority. Interpretations still need reasoned engagement with language, conventions and textual evidence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-rhizome",
+      "groupId": "e403-poststructural",
+      "title": "Rhizome",
+      "aliases": [],
+      "core": "A rhizome models thought as multiple connections without one organising root.",
+      "explanation": "Deleuze and Guattari contrast it with hierarchical tree models. Connections can grow through diverse entry points rather than one required sequence.",
+      "example": "Teaching illustration: Map a cultural movement through intersecting music, migration, technology and politics.",
+      "confusion": "A rhizome is a conceptual model, not a claim that organisations have no power relations.",
+      "syllabusTerms": [
+        "Rhizome"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            33,
+            34
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-rhizome-core",
+          "prompt": "Explain rhizome briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A rhizome models thought as multiple connections without one organising root.",
+          "answer": "A rhizome models thought as multiple connections without one organising root. Deleuze and Guattari contrast it with hierarchical tree models. Connections can grow through diverse entry points rather than one required sequence.",
+          "keyPoints": [
+            "A rhizome models thought as multiple connections without one organising root.",
+            "Deleuze and Guattari contrast it with hierarchical tree models. Connections can grow through diverse entry points rather than one required sequence."
+          ],
+          "followUps": [
+            "e403-rhizome-apply"
+          ]
+        },
+        {
+          "id": "e403-rhizome-apply",
+          "prompt": "How would a rhizomatic reading differ from tracing one original source?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It follows multiple intersecting connections and transformations instead of making every element descend from a single privileged origin.",
+          "answer": "It follows multiple intersecting connections and transformations instead of making every element descend from a single privileged origin.",
+          "keyPoints": [
+            "It follows multiple intersecting connections and transformations instead of making every element descend from a single privileged origin."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-deterritorialization-and-becoming",
+      "groupId": "e403-poststructural",
+      "title": "Deterritorialization and becoming",
+      "aliases": [],
+      "core": "Deterritorialization loosens established arrangements; becoming concerns transformation beyond fixed identities.",
+      "explanation": "These processes can be followed by reterritorialization, where new structures stabilise relations. Change is not automatically emancipatory.",
+      "example": "Teaching illustration: A migrant cultural form disrupts an inherited category and is later marketed under a new label.",
+      "confusion": "Becoming is not simply adopting another fixed identity as a final destination.",
+      "syllabusTerms": [
+        "Deterritorialization",
+        "Becoming"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            34
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-deterritorialization-and-becoming-core",
+          "prompt": "Explain deterritorialization and becoming briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Deterritorialization loosens established arrangements; becoming concerns transformation beyond fixed identities.",
+          "answer": "Deterritorialization loosens established arrangements; becoming concerns transformation beyond fixed identities. These processes can be followed by reterritorialization, where new structures stabilise relations. Change is not automatically emancipatory.",
+          "keyPoints": [
+            "Deterritorialization loosens established arrangements; becoming concerns transformation beyond fixed identities.",
+            "These processes can be followed by reterritorialization, where new structures stabilise relations. Change is not automatically emancipatory."
+          ],
+          "followUps": [
+            "e403-deterritorialization-and-becoming-apply"
+          ]
+        },
+        {
+          "id": "e403-deterritorialization-and-becoming-apply",
+          "prompt": "Can a disrupted cultural form become newly fixed or commercialised?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Deterritorializing changes can be followed by reterritorialization, as institutions or markets stabilise and contain the transformed practice.",
+          "keyPoints": [
+            "Yes. Deterritorializing changes can be followed by reterritorialization, as institutions or markets stabilise and contain the transformed practice."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-disciplinary-discourse",
+      "groupId": "e403-poststructural",
+      "title": "Disciplinary discourse",
+      "aliases": [],
+      "core": "Disciplinary discourse links knowledge, norms and institutional practices that shape subjects.",
+      "explanation": "Surveillance, examinations and normalisation can make people regulate themselves. Power is productive as well as restrictive.",
+      "example": "Teaching illustration: A school ranking system shapes what pupils understand as normal ability and achievement.",
+      "confusion": "Foucauldian power is not limited to orders from one ruler.",
+      "syllabusTerms": [
+        "Disciplinary discourse (Foucault)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            34,
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-disciplinary-discourse-core",
+          "prompt": "Explain disciplinary discourse briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Disciplinary discourse links knowledge, norms and institutional practices that shape subjects.",
+          "answer": "Disciplinary discourse links knowledge, norms and institutional practices that shape subjects. Surveillance, examinations and normalisation can make people regulate themselves. Power is productive as well as restrictive.",
+          "keyPoints": [
+            "Disciplinary discourse links knowledge, norms and institutional practices that shape subjects.",
+            "Surveillance, examinations and normalisation can make people regulate themselves. Power is productive as well as restrictive."
+          ],
+          "followUps": [
+            "e403-disciplinary-discourse-apply"
+          ]
+        },
+        {
+          "id": "e403-disciplinary-discourse-apply",
+          "prompt": "How can an examination exercise disciplinary power beyond assigning marks?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It classifies and compares students, establishes norms and encourages self-monitoring, connecting knowledge of individuals with institutional control.",
+          "answer": "It classifies and compares students, establishes norms and encourages self-monitoring, connecting knowledge of individuals with institutional control.",
+          "keyPoints": [
+            "It classifies and compares students, establishes norms and encourages self-monitoring, connecting knowledge of individuals with institutional control."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-capitalism-and-postmodern-culture",
+      "groupId": "e403-postmodern",
+      "title": "Capitalism and postmodern culture",
+      "aliases": [],
+      "core": "Eagleton links postmodern culture to conditions and contradictions of capitalism.",
+      "explanation": "His Marxist critique questions whether fragmentation and anti-totalising attitudes weaken collective criticism of exploitation.",
+      "example": "Teaching illustration: A cultural celebration of endless consumer choice coexists with concentrated economic power.",
+      "confusion": "This is a critical argument about postmodernism, not a definition accepted by every theorist.",
+      "syllabusTerms": [
+        "Capitalism (Eagleton)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            36
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-capitalism-and-postmodern-culture-core",
+          "prompt": "Explain capitalism and postmodern culture briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Eagleton links postmodern culture to conditions and contradictions of capitalism.",
+          "answer": "Eagleton links postmodern culture to conditions and contradictions of capitalism. His Marxist critique questions whether fragmentation and anti-totalising attitudes weaken collective criticism of exploitation.",
+          "keyPoints": [
+            "Eagleton links postmodern culture to conditions and contradictions of capitalism.",
+            "His Marxist critique questions whether fragmentation and anti-totalising attitudes weaken collective criticism of exploitation."
+          ],
+          "followUps": [
+            "e403-capitalism-and-postmodern-culture-apply"
+          ]
+        },
+        {
+          "id": "e403-capitalism-and-postmodern-culture-apply",
+          "prompt": "Why might Eagleton question the political value of celebrating fragmentation?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It can make collective accounts of exploitation and coordinated political opposition harder to sustain, while leaving capitalist organisation insufficiently challenged.",
+          "answer": "It can make collective accounts of exploitation and coordinated political opposition harder to sustain, while leaving capitalist organisation insufficiently challenged.",
+          "keyPoints": [
+            "It can make collective accounts of exploitation and coordinated political opposition harder to sustain, while leaving capitalist organisation insufficiently challenged."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-postmodern-approach",
+          "prompt": "What is postmodernism in cultural theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Postmodernism names diverse cultural and intellectual tendencies questioning totalising narratives, originality and stable meanings.",
+          "answer": "Postmodernism names diverse cultural and intellectual tendencies questioning totalising narratives, originality and stable meanings. Its features and political implications are contested; examples include stylistic recycling, intertextuality and scepticism toward universal legitimation.",
+          "keyPoints": [
+            "Postmodernism names diverse cultural and intellectual tendencies questioning totalising narratives, originality and stable meanings.",
+            "Its features and political implications are contested; examples include stylistic recycling, intertextuality and scepticism toward universal legitimation."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                36
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-capitalism-and-postmodern-culture-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-grand-narratives",
+      "groupId": "e403-postmodern",
+      "title": "Grand narratives",
+      "aliases": [],
+      "core": "Grand narratives are overarching accounts that legitimise knowledge or historical development.",
+      "explanation": "Lyotard characterises postmodernity through suspicion of such totalising accounts and attention to local narratives and heterogeneous language games.",
+      "example": "Teaching illustration: A claim that one model explains all human progress is a grand narrative.",
+      "confusion": "A grand narrative is not just a long novel.",
+      "syllabusTerms": [
+        "Grand narrative (Lyotard)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            36,
+            37
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-grand-narratives-core",
+          "prompt": "Explain grand narratives briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Grand narratives are overarching accounts that legitimise knowledge or historical development.",
+          "answer": "Grand narratives are overarching accounts that legitimise knowledge or historical development. Lyotard characterises postmodernity through suspicion of such totalising accounts and attention to local narratives and heterogeneous language games.",
+          "keyPoints": [
+            "Grand narratives are overarching accounts that legitimise knowledge or historical development.",
+            "Lyotard characterises postmodernity through suspicion of such totalising accounts and attention to local narratives and heterogeneous language games."
+          ],
+          "followUps": [
+            "e403-grand-narratives-apply"
+          ]
+        },
+        {
+          "id": "e403-grand-narratives-apply",
+          "prompt": "What makes an account of inevitable universal progress a grand narrative?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It offers a sweeping legitimating story that incorporates diverse histories into one supposedly universal developmental path.",
+          "answer": "It offers a sweeping legitimating story that incorporates diverse histories into one supposedly universal developmental path.",
+          "keyPoints": [
+            "It offers a sweeping legitimating story that incorporates diverse histories into one supposedly universal developmental path."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-intertextuality",
+      "groupId": "e403-postmodern",
+      "title": "Intertextuality",
+      "aliases": [],
+      "core": "Intertextuality concerns how texts absorb, transform and relate to other texts and discourses.",
+      "explanation": "Kristeva's concept challenges the idea of a wholly self-contained original work. Relations can be explicit or implicit.",
+      "example": "Teaching illustration: A modern advertisement adapts the wording of a familiar proverb.",
+      "confusion": "Intertextuality is broader than direct quotation and is not identical with plagiarism.",
+      "syllabusTerms": [
+        "Intertextuality (Kristeva)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            37
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-intertextuality-core",
+          "prompt": "Explain intertextuality briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Intertextuality concerns how texts absorb, transform and relate to other texts and discourses.",
+          "answer": "Intertextuality concerns how texts absorb, transform and relate to other texts and discourses. Kristeva's concept challenges the idea of a wholly self-contained original work. Relations can be explicit or implicit.",
+          "keyPoints": [
+            "Intertextuality concerns how texts absorb, transform and relate to other texts and discourses.",
+            "Kristeva's concept challenges the idea of a wholly self-contained original work. Relations can be explicit or implicit."
+          ],
+          "followUps": [
+            "e403-intertextuality-apply"
+          ]
+        },
+        {
+          "id": "e403-intertextuality-apply",
+          "prompt": "Can a text be intertextual without naming another work?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Genre conventions, transformed phrases, allusions and shared discourses can connect texts without an explicit citation in the work itself.",
+          "keyPoints": [
+            "Yes. Genre conventions, transformed phrases, allusions and shared discourses can connect texts without an explicit citation in the work itself."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-hyperreality",
+      "groupId": "e403-postmodern",
+      "title": "Hyperreality",
+      "aliases": [],
+      "core": "Hyperreality describes a condition in which simulation unsettles the distinction between representation and the real.",
+      "explanation": "Baudrillard analyses signs and models that shape what counts as reality rather than simply copying a prior original.",
+      "example": "Teaching illustration: A curated tourist experience becomes the standard by which an actual place is judged.",
+      "confusion": "An inaccurate photograph alone does not establish hyperreality.",
+      "syllabusTerms": [
+        "Hyperreality (Baudrillard)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-hyperreality-core",
+          "prompt": "Explain hyperreality briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Hyperreality describes a condition in which simulation unsettles the distinction between representation and the real.",
+          "answer": "Hyperreality describes a condition in which simulation unsettles the distinction between representation and the real. Baudrillard analyses signs and models that shape what counts as reality rather than simply copying a prior original.",
+          "keyPoints": [
+            "Hyperreality describes a condition in which simulation unsettles the distinction between representation and the real.",
+            "Baudrillard analyses signs and models that shape what counts as reality rather than simply copying a prior original."
+          ],
+          "followUps": [
+            "e403-hyperreality-apply"
+          ]
+        },
+        {
+          "id": "e403-hyperreality-apply",
+          "prompt": "How can a staged tourist village illustrate hyperreality?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its designed image may become the accepted model of authenticity, so visitors judge lived places against the simulation rather than the reverse.",
+          "answer": "Its designed image may become the accepted model of authenticity, so visitors judge lived places against the simulation rather than the reverse.",
+          "keyPoints": [
+            "Its designed image may become the accepted model of authenticity, so visitors judge lived places against the simulation rather than the reverse."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-pastiche",
+      "groupId": "e403-postmodern",
+      "title": "Pastiche",
+      "aliases": [],
+      "core": "Jameson's pastiche imitates styles without parody's clear satirical edge.",
+      "explanation": "He connects stylistic recycling with postmodern culture and weakened historical depth. Other critics dispute the scope of this diagnosis.",
+      "example": "Teaching illustration: A film assembles recognisable past styles without critically targeting them.",
+      "confusion": "Pastiche is not the same as parody, though a work can mix modes.",
+      "syllabusTerms": [
+        "Pastiche (Jameson)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            38
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-pastiche-core",
+          "prompt": "Explain pastiche briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Jameson's pastiche imitates styles without parody's clear satirical edge.",
+          "answer": "Jameson's pastiche imitates styles without parody's clear satirical edge. He connects stylistic recycling with postmodern culture and weakened historical depth. Other critics dispute the scope of this diagnosis.",
+          "keyPoints": [
+            "Jameson's pastiche imitates styles without parody's clear satirical edge.",
+            "He connects stylistic recycling with postmodern culture and weakened historical depth. Other critics dispute the scope of this diagnosis."
+          ],
+          "followUps": [
+            "e403-pastiche-apply"
+          ]
+        },
+        {
+          "id": "e403-pastiche-apply",
+          "prompt": "What distinction would Jameson draw between pastiche and parody?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Both imitate styles, but parody involves critical or satirical distance, while pastiche is comparatively neutral imitation in his account.",
+          "answer": "Both imitate styles, but parody involves critical or satirical distance, while pastiche is comparatively neutral imitation in his account.",
+          "keyPoints": [
+            "Both imitate styles, but parody involves critical or satirical distance, while pastiche is comparatively neutral imitation in his account."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-othering",
+      "groupId": "e403-postcolonial",
+      "title": "Othering",
+      "aliases": [],
+      "core": "Othering constructs a group as alien or inferior against a dominant group's norm.",
+      "explanation": "Representation can secure an unequal identity relation by repeating stereotypes and denying internal diversity.",
+      "example": "Teaching illustration: A report depicts a community only as irrational while treating its observers as naturally rational.",
+      "confusion": "Difference alone is not othering; hierarchy and representational power matter.",
+      "syllabusTerms": [
+        "Othering"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            39
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-othering-core",
+          "prompt": "Explain othering briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Othering constructs a group as alien or inferior against a dominant group's norm.",
+          "answer": "Othering constructs a group as alien or inferior against a dominant group's norm. Representation can secure an unequal identity relation by repeating stereotypes and denying internal diversity.",
+          "keyPoints": [
+            "Othering constructs a group as alien or inferior against a dominant group's norm.",
+            "Representation can secure an unequal identity relation by repeating stereotypes and denying internal diversity."
+          ],
+          "followUps": [
+            "e403-othering-apply"
+          ]
+        },
+        {
+          "id": "e403-othering-apply",
+          "prompt": "How can a seemingly sympathetic account still other a community?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It may portray people as uniformly helpless and deny their agency, positioning the observer as the only capable interpreter or rescuer.",
+          "answer": "It may portray people as uniformly helpless and deny their agency, positioning the observer as the only capable interpreter or rescuer.",
+          "keyPoints": [
+            "It may portray people as uniformly helpless and deny their agency, positioning the observer as the only capable interpreter or rescuer."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-postcolonial-approach",
+          "prompt": "What does postcolonial criticism study?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Postcolonial criticism investigates colonial power and its continuing effects on representation, culture and identity.",
+          "answer": "Postcolonial criticism investigates colonial power and its continuing effects on representation, culture and identity. It also examines agency, resistance and the inequalities that can survive formal independence.",
+          "keyPoints": [
+            "Postcolonial criticism investigates colonial power and its continuing effects on representation, culture and identity.",
+            "It also examines agency, resistance and the inequalities that can survive formal independence."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                39
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-othering-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-diaspora",
+      "groupId": "e403-postcolonial",
+      "title": "Diaspora",
+      "aliases": [],
+      "core": "Diaspora refers to dispersed communities and their continuing relations with a homeland and other locations.",
+      "explanation": "Diasporic identities can involve memory, belonging and change across places. Dispersal does not produce one uniform experience.",
+      "example": "Teaching illustration: A community maintains language and family connections across several countries.",
+      "confusion": "Diaspora and every individual act of travel are not interchangeable.",
+      "syllabusTerms": [
+        "Diaspora"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            39,
+            40
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-diaspora-core",
+          "prompt": "Explain diaspora briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Diaspora refers to dispersed communities and their continuing relations with a homeland and other locations.",
+          "answer": "Diaspora refers to dispersed communities and their continuing relations with a homeland and other locations. Diasporic identities can involve memory, belonging and change across places. Dispersal does not produce one uniform experience.",
+          "keyPoints": [
+            "Diaspora refers to dispersed communities and their continuing relations with a homeland and other locations.",
+            "Diasporic identities can involve memory, belonging and change across places. Dispersal does not produce one uniform experience."
+          ],
+          "followUps": [
+            "e403-diaspora-apply"
+          ]
+        },
+        {
+          "id": "e403-diaspora-apply",
+          "prompt": "Why can diasporic identity involve both continuity and change?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "People sustain memories and affiliations while forming new practices and relationships in their places of settlement.",
+          "answer": "People sustain memories and affiliations while forming new practices and relationships in their places of settlement.",
+          "keyPoints": [
+            "People sustain memories and affiliations while forming new practices and relationships in their places of settlement."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-hybridity",
+      "groupId": "e403-postcolonial",
+      "title": "Hybridity",
+      "aliases": [],
+      "core": "Hybridity concerns cultural meaning and identity produced through encounters that unsettle pure categories.",
+      "explanation": "Bhabha's third space stresses negotiation and transformation, not simply adding two untouched cultures together.",
+      "example": "Teaching illustration: A cultural performance reworks several traditions into meanings that fit neither inherited category neatly.",
+      "confusion": "Hybridity is not proof that colonial power relations have disappeared.",
+      "syllabusTerms": [
+        "Hybridity"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            40
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-hybridity-core",
+          "prompt": "Explain hybridity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Hybridity concerns cultural meaning and identity produced through encounters that unsettle pure categories.",
+          "answer": "Hybridity concerns cultural meaning and identity produced through encounters that unsettle pure categories. Bhabha's third space stresses negotiation and transformation, not simply adding two untouched cultures together.",
+          "keyPoints": [
+            "Hybridity concerns cultural meaning and identity produced through encounters that unsettle pure categories.",
+            "Bhabha's third space stresses negotiation and transformation, not simply adding two untouched cultures together."
+          ],
+          "followUps": [
+            "e403-hybridity-apply"
+          ]
+        },
+        {
+          "id": "e403-hybridity-apply",
+          "prompt": "Why is describing hybridity as a harmonious fifty-fifty mixture inadequate?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It overlooks unequal power, conflict and negotiation, and assumes the original cultures were pure and stable units.",
+          "answer": "It overlooks unequal power, conflict and negotiation, and assumes the original cultures were pure and stable units.",
+          "keyPoints": [
+            "It overlooks unequal power, conflict and negotiation, and assumes the original cultures were pure and stable units."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-double-consciousness",
+      "groupId": "e403-postcolonial",
+      "title": "Double consciousness",
+      "aliases": [],
+      "core": "Du Bois's double consciousness describes a divided self-awareness under racial domination.",
+      "explanation": "A person experiences selfhood while also confronting the devaluing gaze of a dominant society. The concept has a specific African American intellectual history.",
+      "example": "Teaching illustration: A marginalised speaker anticipates how a dominant audience will judge their identity.",
+      "confusion": "It is not merely being bilingual or having two hobbies.",
+      "syllabusTerms": [
+        "Double consciousness"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            40,
+            41
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-double-consciousness-core",
+          "prompt": "Explain double consciousness briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Du Bois's double consciousness describes a divided self-awareness under racial domination.",
+          "answer": "Du Bois's double consciousness describes a divided self-awareness under racial domination. A person experiences selfhood while also confronting the devaluing gaze of a dominant society. The concept has a specific African American intellectual history.",
+          "keyPoints": [
+            "Du Bois's double consciousness describes a divided self-awareness under racial domination.",
+            "A person experiences selfhood while also confronting the devaluing gaze of a dominant society. The concept has a specific African American intellectual history."
+          ],
+          "followUps": [
+            "e403-double-consciousness-apply"
+          ]
+        },
+        {
+          "id": "e403-double-consciousness-apply",
+          "prompt": "How does double consciousness exceed simple awareness of two cultures?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It involves a power-laden tension between self-understanding and an imposed devaluing perspective, not just knowledge of multiple cultural practices.",
+          "answer": "It involves a power-laden tension between self-understanding and an imposed devaluing perspective, not just knowledge of multiple cultural practices.",
+          "keyPoints": [
+            "It involves a power-laden tension between self-understanding and an imposed devaluing perspective, not just knowledge of multiple cultural practices."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-subaltern",
+      "groupId": "e403-postcolonial",
+      "title": "Subaltern",
+      "aliases": [],
+      "core": "The subaltern names people structurally excluded from dominant channels of power and representation.",
+      "explanation": "Spivak questions whether dominant frameworks can recognise subaltern speech without overwriting it. The issue is audibility and representation, not literal inability to produce words.",
+      "example": "Teaching illustration: An institution claims to speak for a marginalised group while filtering out its own accounts.",
+      "confusion": "Subaltern is not a casual synonym for anyone who feels disadvantaged.",
+      "syllabusTerms": [
+        "Subaltern"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            41,
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-subaltern-core",
+          "prompt": "Explain subaltern briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "The subaltern names people structurally excluded from dominant channels of power and representation.",
+          "answer": "The subaltern names people structurally excluded from dominant channels of power and representation. Spivak questions whether dominant frameworks can recognise subaltern speech without overwriting it. The issue is audibility and representation, not literal inability to produce words.",
+          "keyPoints": [
+            "The subaltern names people structurally excluded from dominant channels of power and representation.",
+            "Spivak questions whether dominant frameworks can recognise subaltern speech without overwriting it. The issue is audibility and representation, not literal inability to produce words."
+          ],
+          "followUps": [
+            "e403-subaltern-apply"
+          ]
+        },
+        {
+          "id": "e403-subaltern-apply",
+          "prompt": "What does 'the subaltern cannot speak' ask us to examine?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "How institutions and dominant knowledge systems prevent marginalised people's speech from being recognised on its own terms, including when intellectuals claim to represent them.",
+          "answer": "How institutions and dominant knowledge systems prevent marginalised people's speech from being recognised on its own terms, including when intellectuals claim to represent them.",
+          "keyPoints": [
+            "How institutions and dominant knowledge systems prevent marginalised people's speech from being recognised on its own terms, including when intellectuals claim to represent them."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-mimicry",
+      "groupId": "e403-postcolonial",
+      "title": "Mimicry",
+      "aliases": [],
+      "core": "Bhabha's mimicry concerns colonial imitation that remains marked as different.",
+      "explanation": "The demand for similarity and continued exclusion creates ambivalence and can unsettle colonial authority, although resistance is not guaranteed.",
+      "example": "Teaching illustration: Colonial education invites imitation of the ruler's manners while withholding equal status.",
+      "confusion": "Mimicry is not always a consciously planned parody.",
+      "syllabusTerms": [
+        "Mimicry"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            41
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-mimicry-core",
+          "prompt": "Explain mimicry briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Bhabha's mimicry concerns colonial imitation that remains marked as different.",
+          "answer": "Bhabha's mimicry concerns colonial imitation that remains marked as different. The demand for similarity and continued exclusion creates ambivalence and can unsettle colonial authority, although resistance is not guaranteed.",
+          "keyPoints": [
+            "Bhabha's mimicry concerns colonial imitation that remains marked as different.",
+            "The demand for similarity and continued exclusion creates ambivalence and can unsettle colonial authority, although resistance is not guaranteed."
+          ],
+          "followUps": [
+            "e403-mimicry-apply"
+          ]
+        },
+        {
+          "id": "e403-mimicry-apply",
+          "prompt": "Why can colonial mimicry threaten as well as support authority?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It reproduces dominant forms but reveals that those forms are repeatable and imperfectly controlled; the desired resemblance also exposes the instability of colonial difference.",
+          "answer": "It reproduces dominant forms but reveals that those forms are repeatable and imperfectly controlled; the desired resemblance also exposes the instability of colonial difference.",
+          "keyPoints": [
+            "It reproduces dominant forms but reveals that those forms are repeatable and imperfectly controlled; the desired resemblance also exposes the instability of colonial difference."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-neocolonialism",
+      "groupId": "e403-postcolonial",
+      "title": "Neocolonialism",
+      "aliases": [],
+      "core": "Neocolonialism describes indirect forms of domination after formal colonial rule.",
+      "explanation": "Economic, political and cultural dependencies can preserve unequal power without direct colonial administration.",
+      "example": "Teaching illustration: A formally independent country's choices are constrained by unequal financial and cultural relations.",
+      "confusion": "Political independence does not by itself establish equal power, but every foreign exchange is not domination.",
+      "syllabusTerms": [
+        "Neocolonialism"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            42
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-neocolonialism-core",
+          "prompt": "Explain neocolonialism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Neocolonialism describes indirect forms of domination after formal colonial rule.",
+          "answer": "Neocolonialism describes indirect forms of domination after formal colonial rule. Economic, political and cultural dependencies can preserve unequal power without direct colonial administration.",
+          "keyPoints": [
+            "Neocolonialism describes indirect forms of domination after formal colonial rule.",
+            "Economic, political and cultural dependencies can preserve unequal power without direct colonial administration."
+          ],
+          "followUps": [
+            "e403-neocolonialism-apply"
+          ]
+        },
+        {
+          "id": "e403-neocolonialism-apply",
+          "prompt": "What evidence would strengthen a claim of neocolonial dependence?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Show sustained asymmetrical control over resources, decisions or representation, rather than relying solely on the presence of imported goods or foreign language use.",
+          "answer": "Show sustained asymmetrical control over resources, decisions or representation, rather than relying solely on the presence of imported goods or foreign language use.",
+          "keyPoints": [
+            "Show sustained asymmetrical control over resources, decisions or representation, rather than relying solely on the presence of imported goods or foreign language use."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-culture",
+      "groupId": "e403-culture",
+      "title": "Culture",
+      "aliases": [],
+      "core": "Culture includes systems of meaning, creative practices and ways of life.",
+      "explanation": "Williams broadens attention beyond elite artistic achievements to ordinary lived practices, while definitions remain contested.",
+      "example": "Teaching illustration: Study food rituals or television viewing as meaningful cultural practices.",
+      "confusion": "A broad definition does not imply that every practice has identical value or power.",
+      "syllabusTerms": [
+        "Culture"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            43
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-culture-core",
+          "prompt": "Explain culture briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Culture includes systems of meaning, creative practices and ways of life.",
+          "answer": "Culture includes systems of meaning, creative practices and ways of life. Williams broadens attention beyond elite artistic achievements to ordinary lived practices, while definitions remain contested.",
+          "keyPoints": [
+            "Culture includes systems of meaning, creative practices and ways of life.",
+            "Williams broadens attention beyond elite artistic achievements to ordinary lived practices, while definitions remain contested."
+          ],
+          "followUps": [
+            "e403-culture-apply"
+          ]
+        },
+        {
+          "id": "e403-culture-apply",
+          "prompt": "Why would Williams treat an everyday festival as culture?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It expresses shared practices and meanings within a way of life, so culture extends beyond a canon of prestigious artworks.",
+          "answer": "It expresses shared practices and meanings within a way of life, so culture extends beyond a canon of prestigious artworks.",
+          "keyPoints": [
+            "It expresses shared practices and meanings within a way of life, so culture extends beyond a canon of prestigious artworks."
+          ],
+          "followUps": []
+        },
+        {
+          "id": "e403-culture-approach",
+          "prompt": "What does cultural theory study?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Cultural theory investigates how practices, institutions and representations produce meaning and social identities.",
+          "answer": "Cultural theory investigates how practices, institutions and representations produce meaning and social identities. It studies everyday and prestigious forms, connecting culture with power, consumption and contested interpretation.",
+          "keyPoints": [
+            "Cultural theory investigates how practices, institutions and representations produce meaning and social identities.",
+            "It studies everyday and prestigious forms, connecting culture with power, consumption and contested interpretation."
+          ],
+          "sources": [
+            {
+              "id": "E403",
+              "pages": [
+                43
+              ]
+            }
+          ],
+          "followUps": [
+            "e403-culture-core"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e403-popular-culture",
+      "groupId": "e403-culture",
+      "title": "Popular culture",
+      "aliases": [],
+      "core": "Popular culture concerns widely circulating or everyday cultural practices and products.",
+      "explanation": "The term can refer to mass consumption, culture made by people, or what is excluded from high-cultural canons. Audiences can actively interpret its meanings.",
+      "example": "Teaching illustration: Fans use a television character to express identities different from a producer's preferred message.",
+      "confusion": "Popularity does not automatically mean passive acceptance of a single message.",
+      "syllabusTerms": [
+        "Popular culture"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            43,
+            44
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-popular-culture-core",
+          "prompt": "Explain popular culture briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Popular culture concerns widely circulating or everyday cultural practices and products.",
+          "answer": "Popular culture concerns widely circulating or everyday cultural practices and products. The term can refer to mass consumption, culture made by people, or what is excluded from high-cultural canons. Audiences can actively interpret its meanings.",
+          "keyPoints": [
+            "Popular culture concerns widely circulating or everyday cultural practices and products.",
+            "The term can refer to mass consumption, culture made by people, or what is excluded from high-cultural canons. Audiences can actively interpret its meanings."
+          ],
+          "followUps": [
+            "e403-popular-culture-apply"
+          ]
+        },
+        {
+          "id": "e403-popular-culture-apply",
+          "prompt": "Can audiences resist meanings in a popular television programme?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. They may reinterpret, selectively use or contest its messages, though their possibilities remain shaped by textual and social conditions.",
+          "keyPoints": [
+            "Yes. They may reinterpret, selectively use or contest its messages, though their possibilities remain shaped by textual and social conditions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-consumption",
+      "groupId": "e403-culture",
+      "title": "Consumption",
+      "aliases": [],
+      "core": "Cultural consumption involves using and interpreting products as meaningful practices.",
+      "explanation": "Choices of clothing, media or commodities can communicate identity and status. Analysis connects audience agency with markets and social conditions.",
+      "example": "Teaching illustration: A music preference signals belonging to a peer group.",
+      "confusion": "Consumption is not merely purchasing, and consumers are not necessarily passive.",
+      "syllabusTerms": [
+        "Consumption"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            44
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-consumption-core",
+          "prompt": "Explain consumption briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Cultural consumption involves using and interpreting products as meaningful practices.",
+          "answer": "Cultural consumption involves using and interpreting products as meaningful practices. Choices of clothing, media or commodities can communicate identity and status. Analysis connects audience agency with markets and social conditions.",
+          "keyPoints": [
+            "Cultural consumption involves using and interpreting products as meaningful practices.",
+            "Choices of clothing, media or commodities can communicate identity and status. Analysis connects audience agency with markets and social conditions."
+          ],
+          "followUps": [
+            "e403-consumption-apply"
+          ]
+        },
+        {
+          "id": "e403-consumption-apply",
+          "prompt": "How can wearing a brand communicate more than practical use?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its culturally coded associations can signal status, identity or group membership, depending on the audience and context.",
+          "answer": "Its culturally coded associations can signal status, identity or group membership, depending on the audience and context.",
+          "keyPoints": [
+            "Its culturally coded associations can signal status, identity or group membership, depending on the audience and context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e403-representation",
+      "groupId": "e403-culture",
+      "title": "Representation",
+      "aliases": [],
+      "core": "Hall treats representation as meaning production through concepts and signs.",
+      "explanation": "His constructionist approach emphasises shared codes and social practices rather than a simple mirror of things or private intention.",
+      "example": "Teaching illustration: Traffic-light colours acquire their significance through an established code.",
+      "confusion": "Meaning construction does not mean the material world does not exist.",
+      "syllabusTerms": [
+        "Representation (Hall)"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            44,
+            45,
+            46
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e403-representation-core",
+          "prompt": "Explain representation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Hall treats representation as meaning production through concepts and signs.",
+          "answer": "Hall treats representation as meaning production through concepts and signs. His constructionist approach emphasises shared codes and social practices rather than a simple mirror of things or private intention.",
+          "keyPoints": [
+            "Hall treats representation as meaning production through concepts and signs.",
+            "His constructionist approach emphasises shared codes and social practices rather than a simple mirror of things or private intention."
+          ],
+          "followUps": [
+            "e403-representation-apply"
+          ]
+        },
+        {
+          "id": "e403-representation-apply",
+          "prompt": "How does Hall's constructionism differ from a purely intentional account of meaning?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "An individual cannot make signs mean anything at will; communication depends on socially available conceptual and signifying systems, which can also be contested.",
+          "answer": "An individual cannot make signs mean anything at will; communication depends on socially available conceptual and signifying systems, which can also be contested.",
+          "keyPoints": [
+            "An individual cannot make signs mean anything at will; communication depends on socially available conceptual and signifying systems, which can also be contested."
+          ],
+          "followUps": []
+        }
+      ]
+    }
+  ]
+}

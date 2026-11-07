@@ -1,0 +1,2682 @@
+{
+  "id": "E410",
+  "title": "Phonetics and Phonology",
+  "shortTitle": "Phonetics & Phonology",
+  "overview": "Speech has a physical form and a patterned organisation. Begin with phonetic description and phonological contrast, then build syllables, word stress and connected speech. Intonation and transcription connect the sound system with meaning in actual interaction.",
+  "journey": [
+    "Describe speech physically: articulation, sound signals and perception.",
+    "Identify contrasts and patterns: phonemes, features, vowels and consonants.",
+    "Build larger units: syllables, stress, tone and intonation.",
+    "Explain an actual utterance: reduction, assimilation, linking and IPA."
+  ],
+  "sources": [
+    {
+      "id": "E410",
+      "title": "E410.pdf",
+      "kind": "pdf",
+      "file": "E410.pdf",
+      "pageCount": 56
+    },
+    {
+      "id": "e410-allophony",
+      "title": "Essentials of Linguistics 2: distribution and phonetic similarity",
+      "kind": "web",
+      "url": "https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/1489/3/Essentials-of-Linguistics-2nd-edition.pdf"
+    },
+    {
+      "id": "e410-triphthongs",
+      "title": "University of Ss. Cyril and Methodius: Triphthongs",
+      "kind": "web",
+      "url": "https://e-ucebnice.ff.ucm.sk/index.php/phonetics-and-phonology-6-5/"
+    }
+  ],
+  "groups": [
+    {
+      "id": "e410-foundations",
+      "title": "Phonetics and phonology",
+      "syllabus": [
+        "Definitions of phonetics and phonology",
+        "Differences and correlation",
+        "Classification of phonetics"
+      ]
+    },
+    {
+      "id": "e410-phonemes",
+      "title": "Phones, phonemes and theories",
+      "syllabus": [
+        "Phone and phoneme",
+        "Allophones",
+        "Trubetzkoy",
+        "Jakobson",
+        "Daniel Jones",
+        "Chomsky and Halle"
+      ]
+    },
+    {
+      "id": "e410-vowels",
+      "title": "English vowels",
+      "syllabus": [
+        "Vowel definition and classification",
+        "Monophthongs",
+        "Diphthongs",
+        "Triphthongs"
+      ]
+    },
+    {
+      "id": "e410-consonants",
+      "title": "English consonants",
+      "syllabus": [
+        "Consonant definition",
+        "Places of articulation",
+        "Manners of articulation",
+        "Voicing"
+      ]
+    },
+    {
+      "id": "e410-syllable",
+      "title": "Syllables and phonotactics",
+      "syllabus": [
+        "Phonetic and phonological syllable",
+        "Syllable structure",
+        "Phonotactic possibilities"
+      ]
+    },
+    {
+      "id": "e410-connected",
+      "title": "Strong and weak forms and connected speech",
+      "syllabus": [
+        "Strong and weak forms",
+        "Contractions",
+        "Elision",
+        "Assimilation"
+      ]
+    },
+    {
+      "id": "e410-stress",
+      "title": "Stress",
+      "syllabus": [
+        "Definition of stress",
+        "Types of stress",
+        "Factors of stress prominence",
+        "Stress placement in isolated and connected words"
+      ]
+    },
+    {
+      "id": "e410-chunking",
+      "title": "Chunking and tone",
+      "syllabus": [
+        "Rules for chunking",
+        "Types of tone",
+        "Tone units"
+      ]
+    },
+    {
+      "id": "e410-intonation",
+      "title": "Intonation",
+      "syllabus": [
+        "Intonation definition",
+        "Functions of intonation"
+      ]
+    },
+    {
+      "id": "e410-transcription",
+      "title": "IPA and connected speech",
+      "syllabus": [
+        "IPA transcription of connected speech",
+        "Broad and narrow transcription",
+        "Linking"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "e410-phonetics",
+      "groupId": "e410-foundations",
+      "title": "Phonetics",
+      "aliases": [],
+      "core": "Phonetics studies the production, transmission and perception of speech sounds.",
+      "explanation": "It describes physical speech events, including articulatory movements, acoustic properties and auditory processing.",
+      "example": "Teaching example: The aspiration after [p] in pin can be measured as a physical feature.",
+      "confusion": "Phonetics is not restricted to spelling or to sounds that distinguish words.",
+      "syllabusTerms": [
+        "Definitions of phonetics and phonology"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            3,
+            4
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-phonetics-define",
+          "prompt": "Explain phonetics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Phonetics studies the production, transmission and perception of speech sounds.",
+          "answer": "Phonetics studies the production, transmission and perception of speech sounds. It describes physical speech events, including articulatory movements, acoustic properties and auditory processing.",
+          "keyPoints": [
+            "Phonetics studies the production, transmission and perception of speech sounds.",
+            "Phonetics is not restricted to spelling or to sounds that distinguish words."
+          ],
+          "followUps": [
+            "e410-phonetics-apply"
+          ]
+        },
+        {
+          "id": "e410-phonetics-apply",
+          "prompt": "What would an articulatory phonetician examine when you say pin?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They would examine how the lips close and release, how the vocal folds behave and how the tongue forms the following vowel.",
+          "answer": "They would examine how the lips close and release, how the vocal folds behave and how the tongue forms the following vowel.",
+          "keyPoints": [
+            "They would examine how the lips close and release, how the vocal folds behave and how the tongue forms the following vowel."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-phonology",
+      "groupId": "e410-foundations",
+      "title": "Phonology",
+      "aliases": [],
+      "core": "Phonology studies how sounds are organised and patterned in a language.",
+      "explanation": "It concerns contrasts, distribution, syllable patterns and sound processes. Phonetic evidence helps explain these patterns.",
+      "example": "Teaching example: English pin and bin contrast through /p/ and /b/.",
+      "confusion": "Phonology also studies non-contrastive patterns such as allophony.",
+      "syllabusTerms": [
+        "Definitions of phonetics and phonology",
+        "Differences and correlation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            3,
+            5
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-phonology-define",
+          "prompt": "What is phonology?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Phonology studies how sounds are organised and patterned in a language.",
+          "answer": "Phonology studies how sounds are organised and patterned in a language. It concerns contrasts, distribution, syllable patterns and sound processes. Phonetic evidence helps explain these patterns.",
+          "keyPoints": [
+            "Phonology studies how sounds are organised and patterned in a language.",
+            "Phonology also studies non-contrastive patterns such as allophony."
+          ],
+          "followUps": [
+            "e410-phonology-apply"
+          ]
+        },
+        {
+          "id": "e410-phonology-apply",
+          "prompt": "Why is aspiration in English relevant to phonology even when it does not change a word's meaning?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Its distribution is patterned: voiceless stops are typically aspirated at the start of stressed syllables but not after /s/ in the same onset.",
+          "answer": "Its distribution is patterned: voiceless stops are typically aspirated at the start of stressed syllables but not after /s/ in the same onset. Phonology explains that organisation.",
+          "keyPoints": [
+            "Its distribution is patterned: voiceless stops are typically aspirated at the start of stressed syllables but not after /s/ in the same onset.",
+            "Phonology explains that organisation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-branches-of-phonetics",
+      "groupId": "e410-foundations",
+      "title": "Branches of phonetics",
+      "aliases": [],
+      "core": "The three main branches are articulatory, acoustic and auditory phonetics.",
+      "explanation": "They study sound production, physical sound signals and sound perception respectively.",
+      "example": "Teaching example: A spectrogram supports acoustic analysis; tongue position supports articulatory analysis.",
+      "confusion": "The branches examine related stages of speech rather than unrelated kinds of language.",
+      "syllabusTerms": [
+        "Classification of phonetics"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            4,
+            5
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-branches-of-phonetics-define",
+          "prompt": "Explain branches of phonetics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "The three main branches are articulatory, acoustic and auditory phonetics.",
+          "answer": "The three main branches are articulatory, acoustic and auditory phonetics. They study sound production, physical sound signals and sound perception respectively.",
+          "keyPoints": [
+            "The three main branches are articulatory, acoustic and auditory phonetics.",
+            "The branches examine related stages of speech rather than unrelated kinds of language."
+          ],
+          "followUps": [
+            "e410-branches-of-phonetics-apply"
+          ]
+        },
+        {
+          "id": "e410-branches-of-phonetics-apply",
+          "prompt": "Which branch would investigate formants in a recorded vowel?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Acoustic phonetics, because formants are resonances observable in the sound signal.",
+          "answer": "Acoustic phonetics, because formants are resonances observable in the sound signal. Their patterns can also inform analysis of articulation and perception.",
+          "keyPoints": [
+            "Acoustic phonetics, because formants are resonances observable in the sound signal.",
+            "Their patterns can also inform analysis of articulation and perception."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-phone-and-phoneme",
+      "groupId": "e410-phonemes",
+      "title": "Phone and phoneme",
+      "aliases": [],
+      "core": "A phone is a speech sound; a phoneme is an abstract contrastive unit in a language.",
+      "explanation": "Phones are conventionally written in brackets and phonemes in slashes. A phoneme can have different phonetic realisations.",
+      "example": "Teaching example: [pʰ] can realise English /p/ in pin.",
+      "confusion": "A letter is not a phoneme: spelling and sound units do not correspond one to one.",
+      "syllabusTerms": [
+        "Phone and phoneme"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            7,
+            8
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-phone-and-phoneme-define",
+          "prompt": "Explain phone and phoneme briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A phone is a speech sound; a phoneme is an abstract contrastive unit in a language.",
+          "answer": "A phone is a speech sound; a phoneme is an abstract contrastive unit in a language. Phones are conventionally written in brackets and phonemes in slashes. A phoneme can have different phonetic realisations.",
+          "keyPoints": [
+            "A phone is a speech sound; a phoneme is an abstract contrastive unit in a language.",
+            "A letter is not a phoneme: spelling and sound units do not correspond one to one."
+          ],
+          "followUps": [
+            "e410-phone-and-phoneme-apply"
+          ]
+        },
+        {
+          "id": "e410-phone-and-phoneme-apply",
+          "prompt": "Why do we write /p/ but [pʰ]?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "/p/ identifies the phonological category; [pʰ] specifies an aspirated phonetic realisation.",
+          "answer": "/p/ identifies the phonological category; [pʰ] specifies an aspirated phonetic realisation. The notation indicates the level of analysis.",
+          "keyPoints": [
+            "/p/ identifies the phonological category; [pʰ] specifies an aspirated phonetic realisation.",
+            "The notation indicates the level of analysis."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-minimal-pairs",
+      "groupId": "e410-phonemes",
+      "title": "Minimal pairs",
+      "aliases": [],
+      "core": "A minimal pair consists of words differing in one sound in the same position, with different meanings.",
+      "explanation": "It provides evidence that the sound difference is contrastive in the language.",
+      "example": "Teaching example: Pin and bin differ initially in /p/ and /b/.",
+      "confusion": "Two words differing in several sounds do not form a minimal pair.",
+      "syllabusTerms": [
+        "Phone and phoneme"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-minimal-pairs-define",
+          "prompt": "Explain minimal pairs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A minimal pair consists of words differing in one sound in the same position, with different meanings.",
+          "answer": "A minimal pair consists of words differing in one sound in the same position, with different meanings. It provides evidence that the sound difference is contrastive in the language.",
+          "keyPoints": [
+            "A minimal pair consists of words differing in one sound in the same position, with different meanings.",
+            "Two words differing in several sounds do not form a minimal pair."
+          ],
+          "followUps": [
+            "e410-minimal-pairs-apply"
+          ]
+        },
+        {
+          "id": "e410-minimal-pairs-apply",
+          "prompt": "Are ship and sheep evidence for two English vowel phonemes?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Their consonantal frame is the same and the vowel difference distinguishes meaning, supporting a contrast between /ɪ/ and /iː/ in this accent.",
+          "keyPoints": [
+            "Yes.",
+            "Their consonantal frame is the same and the vowel difference distinguishes meaning, supporting a contrast between /ɪ/ and /iː/ in this accent."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-allophones",
+      "groupId": "e410-phonemes",
+      "title": "Allophones",
+      "aliases": [],
+      "core": "Allophones are phonetic variants of a phoneme that do not establish a lexical contrast in the relevant language.",
+      "explanation": "Their occurrence may depend on context or vary with speaker and style.",
+      "example": "Teaching example: English /p/ is typically aspirated in pin and unaspirated after /s/ in spin.",
+      "confusion": "Sounds that are allophones in one language may contrast in another.",
+      "syllabusTerms": [
+        "Allophones"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            9,
+            10
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-allophones-define",
+          "prompt": "Explain allophones briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Allophones are phonetic variants of a phoneme that do not establish a lexical contrast in the relevant language.",
+          "answer": "Allophones are phonetic variants of a phoneme that do not establish a lexical contrast in the relevant language. Their occurrence may depend on context or vary with speaker and style.",
+          "keyPoints": [
+            "Allophones are phonetic variants of a phoneme that do not establish a lexical contrast in the relevant language.",
+            "Sounds that are allophones in one language may contrast in another."
+          ],
+          "followUps": [
+            "e410-allophones-apply"
+          ]
+        },
+        {
+          "id": "e410-allophones-apply",
+          "prompt": "Why are [pʰ] and [p] usually treated as variants of English /p/?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Their distribution is largely predictable and does not distinguish English words by itself.",
+          "answer": "Their distribution is largely predictable and does not distinguish English words by itself. Their shared articulation also supports treating them as related realisations.",
+          "keyPoints": [
+            "Their distribution is largely predictable and does not distinguish English words by itself.",
+            "Their shared articulation also supports treating them as related realisations."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-complementary-distribution",
+      "groupId": "e410-phonemes",
+      "title": "Complementary distribution",
+      "aliases": [],
+      "core": "Complementary distribution means two sounds occur in non-overlapping environments.",
+      "explanation": "It supports an allophonic analysis when combined with a plausible phonetic relationship and wider evidence.",
+      "example": "Teaching example: [pʰ] occurs in stressed syllable-initial pin while unaspirated [p] follows /s/ in spin.",
+      "confusion": "Non-overlap alone does not prove two phones belong to the same phoneme.",
+      "syllabusTerms": [
+        "Allophones"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            10,
+            55
+          ]
+        },
+        {
+          "id": "e410-allophony"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-complementary-distribution-define",
+          "prompt": "What is complementary distribution?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Complementary distribution means two sounds occur in non-overlapping environments.",
+          "answer": "Complementary distribution means two sounds occur in non-overlapping environments. It supports an allophonic analysis when combined with a plausible phonetic relationship and wider evidence.",
+          "keyPoints": [
+            "Complementary distribution means two sounds occur in non-overlapping environments.",
+            "Non-overlap alone does not prove two phones belong to the same phoneme."
+          ],
+          "followUps": [
+            "e410-complementary-distribution-apply"
+          ]
+        },
+        {
+          "id": "e410-complementary-distribution-apply",
+          "prompt": "If two sounds never occur in the same position, must they be allophones?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Complementary distribution needs to be considered with phonetic similarity and the wider sound system; unrelated phonemes may also have non-overlapping distributions.",
+          "keyPoints": [
+            "No.",
+            "Complementary distribution needs to be considered with phonetic similarity and the wider sound system; unrelated phonemes may also have non-overlapping distributions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-free-variation",
+      "groupId": "e410-phonemes",
+      "title": "Free variation",
+      "aliases": [],
+      "core": "Free variation is non-contrastive variation in a comparable environment.",
+      "explanation": "A speaker may produce a final stop with or without an audible release without changing the intended word.",
+      "example": "Teaching example: Final /t/ may be released or unreleased in a careful comparison of cat tokens.",
+      "confusion": "Variation can still be influenced by style, social factors or phonetic context.",
+      "syllabusTerms": [
+        "Allophones"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            10,
+            55
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-free-variation-define",
+          "prompt": "What is free variation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Free variation is non-contrastive variation in a comparable environment.",
+          "answer": "Free variation is non-contrastive variation in a comparable environment. A speaker may produce a final stop with or without an audible release without changing the intended word.",
+          "keyPoints": [
+            "Free variation is non-contrastive variation in a comparable environment.",
+            "Variation can still be influenced by style, social factors or phonetic context."
+          ],
+          "followUps": [
+            "e410-free-variation-apply"
+          ]
+        },
+        {
+          "id": "e410-free-variation-apply",
+          "prompt": "Does an unreleased final [t̚] necessarily turn cat into a different word?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. It may be a phonetic variant of /t/ in that environment. The difference in release does not itself create an English lexical contrast.",
+          "keyPoints": [
+            "No.",
+            "It may be a phonetic variant of /t/ in that environment.",
+            "The difference in release does not itself create an English lexical contrast."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-trubetzkoy-and-phonological-opposition",
+      "groupId": "e410-phonemes",
+      "title": "Trubetzkoy and phonological opposition",
+      "aliases": [],
+      "core": "Trubetzkoy helped establish phonology as the study of functional sound oppositions.",
+      "explanation": "He analysed phonological systems through distinctive contrasts and discussed neutralisation and markedness.",
+      "example": "Teaching example: A contrast active in one environment may be neutralised elsewhere.",
+      "confusion": "A sound's phonological role depends on the system, not only its physical properties.",
+      "syllabusTerms": [
+        "Trubetzkoy"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            11,
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-trubetzkoy-and-phonological-opposition-define",
+          "prompt": "Explain trubetzkoy and phonological opposition briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Trubetzkoy helped establish phonology as the study of functional sound oppositions.",
+          "answer": "Trubetzkoy helped establish phonology as the study of functional sound oppositions. He analysed phonological systems through distinctive contrasts and discussed neutralisation and markedness.",
+          "keyPoints": [
+            "Trubetzkoy helped establish phonology as the study of functional sound oppositions.",
+            "A sound's phonological role depends on the system, not only its physical properties."
+          ],
+          "followUps": [
+            "e410-trubetzkoy-and-phonological-opposition-apply"
+          ]
+        },
+        {
+          "id": "e410-trubetzkoy-and-phonological-opposition-apply",
+          "prompt": "What does neutralisation mean in phonology?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A contrast between phonological categories is not maintained in a particular environment.",
+          "answer": "A contrast between phonological categories is not maintained in a particular environment. German final devoicing is a standard illustration of a final-position voicing contrast being lost.",
+          "keyPoints": [
+            "A contrast between phonological categories is not maintained in a particular environment.",
+            "German final devoicing is a standard illustration of a final-position voicing contrast being lost."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-jakobson-and-distinctive-features",
+      "groupId": "e410-phonemes",
+      "title": "Jakobson and distinctive features",
+      "aliases": [],
+      "core": "Jakobson developed analyses of speech sounds using distinctive features.",
+      "explanation": "Features capture recurring contrasts and natural classes, allowing generalisations across multiple segments.",
+      "example": "Teaching example: A voicing feature groups contrasts such as /p–b/ and /t–d/.",
+      "confusion": "Feature systems differ across theories and historical versions.",
+      "syllabusTerms": [
+        "Jakobson"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            12,
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-jakobson-and-distinctive-features-define",
+          "prompt": "Explain jakobson and distinctive features briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Jakobson developed analyses of speech sounds using distinctive features.",
+          "answer": "Jakobson developed analyses of speech sounds using distinctive features. Features capture recurring contrasts and natural classes, allowing generalisations across multiple segments.",
+          "keyPoints": [
+            "Jakobson developed analyses of speech sounds using distinctive features.",
+            "Feature systems differ across theories and historical versions."
+          ],
+          "followUps": [
+            "e410-jakobson-and-distinctive-features-apply"
+          ]
+        },
+        {
+          "id": "e410-jakobson-and-distinctive-features-apply",
+          "prompt": "Why use features rather than only lists of individual phonemes?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Features explain shared behaviour.",
+          "answer": "Features explain shared behaviour. A process affecting a natural class can be stated once instead of repeated independently for each segment.",
+          "keyPoints": [
+            "Features explain shared behaviour.",
+            "A process affecting a natural class can be stated once instead of repeated independently for each segment."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-daniel-jones",
+      "groupId": "e410-phonemes",
+      "title": "Daniel Jones",
+      "aliases": [],
+      "core": "Daniel Jones contributed to phonetic description, pronunciation teaching and the cardinal vowel system.",
+      "explanation": "Cardinal vowels provide reference points for describing vowel quality; they are not the vowel inventory of one language.",
+      "example": "Teaching example: Compare a language's front close vowel with the cardinal reference system.",
+      "confusion": "Cardinal vowels are analytical reference qualities rather than simply English vowel phonemes.",
+      "syllabusTerms": [
+        "Daniel Jones"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-daniel-jones-define",
+          "prompt": "Explain daniel jones briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Daniel Jones contributed to phonetic description, pronunciation teaching and the cardinal vowel system.",
+          "answer": "Daniel Jones contributed to phonetic description, pronunciation teaching and the cardinal vowel system. Cardinal vowels provide reference points for describing vowel quality; they are not the vowel inventory of one language.",
+          "keyPoints": [
+            "Daniel Jones contributed to phonetic description, pronunciation teaching and the cardinal vowel system.",
+            "Cardinal vowels are analytical reference qualities rather than simply English vowel phonemes."
+          ],
+          "followUps": [
+            "e410-daniel-jones-apply"
+          ]
+        },
+        {
+          "id": "e410-daniel-jones-apply",
+          "prompt": "Are cardinal vowels the same as the English vowels?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. They form a reference system for describing vowels across languages. English vowels can be located relative to those reference points.",
+          "keyPoints": [
+            "No.",
+            "They form a reference system for describing vowels across languages.",
+            "English vowels can be located relative to those reference points."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-generative-phonology",
+      "groupId": "e410-phonemes",
+      "title": "Generative phonology",
+      "aliases": [],
+      "core": "Generative phonology relates underlying representations to surface pronunciations through formal processes.",
+      "explanation": "Chomsky and Halle's The Sound Pattern of English is a major work in this tradition. Feature-based representations support general rules.",
+      "example": "Teaching example: A rule-based analysis can connect related pronunciations across word forms.",
+      "confusion": "An underlying form is a theoretical representation rather than a directly recorded sound.",
+      "syllabusTerms": [
+        "Chomsky and Halle"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            13,
+            14,
+            55
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-generative-phonology-define",
+          "prompt": "What is generative phonology?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Generative phonology relates underlying representations to surface pronunciations through formal processes.",
+          "answer": "Generative phonology relates underlying representations to surface pronunciations through formal processes. Chomsky and Halle's The Sound Pattern of English is a major work in this tradition. Feature-based representations support general rules.",
+          "keyPoints": [
+            "Generative phonology relates underlying representations to surface pronunciations through formal processes.",
+            "An underlying form is a theoretical representation rather than a directly recorded sound."
+          ],
+          "followUps": [
+            "e410-generative-phonology-apply"
+          ]
+        },
+        {
+          "id": "e410-generative-phonology-apply",
+          "prompt": "How does a generative account connect an underlying form with pronunciation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It proposes phonological rules or processes that map the underlying representation to a surface form, explaining regular alternations and contextual effects.",
+          "answer": "It proposes phonological rules or processes that map the underlying representation to a surface form, explaining regular alternations and contextual effects.",
+          "keyPoints": [
+            "It proposes phonological rules or processes that map the underlying representation to a surface form, explaining regular alternations and contextual effects."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-vowel-classification",
+      "groupId": "e410-vowels",
+      "title": "Vowel classification",
+      "aliases": [],
+      "core": "Vowels are produced with a relatively open vocal tract and commonly form syllable nuclei.",
+      "explanation": "Describe vowel quality using tongue height, frontness or backness and lip rounding; duration is another relevant property.",
+      "example": "Teaching example: /iː/ is a close front unrounded vowel in a traditional British description.",
+      "confusion": "The absence of a complete oral closure does not mean articulators are inactive.",
+      "syllabusTerms": [
+        "Vowel definition and classification"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-vowel-classification-define",
+          "prompt": "What is vowel classification?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Vowels are produced with a relatively open vocal tract and commonly form syllable nuclei.",
+          "answer": "Vowels are produced with a relatively open vocal tract and commonly form syllable nuclei. Describe vowel quality using tongue height, frontness or backness and lip rounding; duration is another relevant property.",
+          "keyPoints": [
+            "Vowels are produced with a relatively open vocal tract and commonly form syllable nuclei.",
+            "The absence of a complete oral closure does not mean articulators are inactive."
+          ],
+          "followUps": [
+            "e410-vowel-classification-apply"
+          ]
+        },
+        {
+          "id": "e410-vowel-classification-apply",
+          "prompt": "Which features distinguish /iː/ from /uː/?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Both are close vowels, but /iː/ is front and unrounded while /uː/ is traditionally back and rounded.",
+          "answer": "Both are close vowels, but /iː/ is front and unrounded while /uː/ is traditionally back and rounded. Actual positions vary across accents.",
+          "keyPoints": [
+            "Both are close vowels, but /iː/ is front and unrounded while /uː/ is traditionally back and rounded.",
+            "Actual positions vary across accents."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-monophthongs",
+      "groupId": "e410-vowels",
+      "title": "Monophthongs",
+      "aliases": [],
+      "core": "A monophthong has a relatively steady vowel quality within a syllable.",
+      "explanation": "Traditional RP teaching describes twelve monophthong phonemes, including /ɪ e æ ɒ ʊ ʌ ə/ and /iː ɑː ɔː uː ɜː/.",
+      "example": "Teaching example: The vowel of bed is commonly transcribed /e/ in this model.",
+      "confusion": "The inventory and symbol conventions vary across accents and analyses.",
+      "syllabusTerms": [
+        "Monophthongs"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            15,
+            16
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-monophthongs-define",
+          "prompt": "Explain monophthongs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A monophthong has a relatively steady vowel quality within a syllable.",
+          "answer": "A monophthong has a relatively steady vowel quality within a syllable. Traditional RP teaching describes twelve monophthong phonemes, including /ɪ e æ ɒ ʊ ʌ ə/ and /iː ɑː ɔː uː ɜː/.",
+          "keyPoints": [
+            "A monophthong has a relatively steady vowel quality within a syllable.",
+            "The inventory and symbol conventions vary across accents and analyses."
+          ],
+          "followUps": [
+            "e410-monophthongs-apply"
+          ]
+        },
+        {
+          "id": "e410-monophthongs-apply",
+          "prompt": "Does the traditional RP count describe every English accent?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. It is an accent-specific teaching model. Vowel contrasts and their phonetic realisations differ across English varieties.",
+          "keyPoints": [
+            "No.",
+            "It is an accent-specific teaching model.",
+            "Vowel contrasts and their phonetic realisations differ across English varieties."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-vowel-length-and-quality",
+      "groupId": "e410-vowels",
+      "title": "Vowel length and quality",
+      "aliases": [],
+      "core": "Traditional long–short vowel pairs commonly differ in quality as well as duration.",
+      "explanation": "The length mark /ː/ belongs to a transcription convention; actual duration also depends on stress and neighbouring sounds.",
+      "example": "Teaching example: The vowels in ship and sheep differ in quality, not just speaking time.",
+      "confusion": "Simply stretching /ɪ/ does not reliably produce /iː/.",
+      "syllabusTerms": [
+        "Monophthongs"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            16,
+            18
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-vowel-length-and-quality-define",
+          "prompt": "Explain vowel length and quality briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Traditional long–short vowel pairs commonly differ in quality as well as duration.",
+          "answer": "Traditional long–short vowel pairs commonly differ in quality as well as duration. The length mark /ː/ belongs to a transcription convention; actual duration also depends on stress and neighbouring sounds.",
+          "keyPoints": [
+            "Traditional long–short vowel pairs commonly differ in quality as well as duration.",
+            "Simply stretching /ɪ/ does not reliably produce /iː/."
+          ],
+          "followUps": [
+            "e410-vowel-length-and-quality-apply"
+          ]
+        },
+        {
+          "id": "e410-vowel-length-and-quality-apply",
+          "prompt": "Why is 'sheep has a longer ship vowel' an incomplete explanation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Because /iː/ and /ɪ/ normally differ in tongue position or vowel quality as well as typical duration.",
+          "answer": "Because /iː/ and /ɪ/ normally differ in tongue position or vowel quality as well as typical duration. Both features help describe the contrast.",
+          "keyPoints": [
+            "Because /iː/ and /ɪ/ normally differ in tongue position or vowel quality as well as typical duration.",
+            "Both features help describe the contrast."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-diphthongs",
+      "groupId": "e410-vowels",
+      "title": "Diphthongs",
+      "aliases": [],
+      "core": "A diphthong involves a change in vowel quality within one syllabic nucleus.",
+      "explanation": "Traditional RP descriptions distinguish closing and centring diphthongs.",
+      "example": "Teaching example: /aɪ/ in my moves from an open quality toward a closer one.",
+      "confusion": "A diphthong is not identified by the number of written vowel letters.",
+      "syllabusTerms": [
+        "Diphthongs"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-diphthongs-define",
+          "prompt": "Explain diphthongs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A diphthong involves a change in vowel quality within one syllabic nucleus.",
+          "answer": "A diphthong involves a change in vowel quality within one syllabic nucleus. Traditional RP descriptions distinguish closing and centring diphthongs.",
+          "keyPoints": [
+            "A diphthong involves a change in vowel quality within one syllabic nucleus.",
+            "A diphthong is not identified by the number of written vowel letters."
+          ],
+          "followUps": [
+            "e410-diphthongs-apply"
+          ]
+        },
+        {
+          "id": "e410-diphthongs-apply",
+          "prompt": "Why does say contain one syllable despite its changing vowel quality?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its /eɪ/ is a single diphthongal nucleus.",
+          "answer": "Its /eɪ/ is a single diphthongal nucleus. The internal glide does not automatically create an additional syllable.",
+          "keyPoints": [
+            "Its /eɪ/ is a single diphthongal nucleus.",
+            "The internal glide does not automatically create an additional syllable."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-closing-and-centring-diphthongs",
+      "groupId": "e410-vowels",
+      "title": "Closing and centring diphthongs",
+      "aliases": [],
+      "core": "Closing diphthongs move toward a closer quality; centring diphthongs move toward a central quality.",
+      "explanation": "The traditional RP inventory lists /eɪ aɪ ɔɪ əʊ aʊ/ and /ɪə eə ʊə/. Contemporary realisations and mergers vary.",
+      "example": "Teaching example: The traditional /ɪə/ in near is centring; /aʊ/ in now is closing.",
+      "confusion": "Some traditionally centring diphthongs are monophthongal for modern speakers.",
+      "syllabusTerms": [
+        "Diphthongs"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-closing-and-centring-diphthongs-define",
+          "prompt": "Explain closing and centring diphthongs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Closing diphthongs move toward a closer quality; centring diphthongs move toward a central quality.",
+          "answer": "Closing diphthongs move toward a closer quality; centring diphthongs move toward a central quality. The traditional RP inventory lists /eɪ aɪ ɔɪ əʊ aʊ/ and /ɪə eə ʊə/. Contemporary realisations and mergers vary.",
+          "keyPoints": [
+            "Closing diphthongs move toward a closer quality; centring diphthongs move toward a central quality.",
+            "Some traditionally centring diphthongs are monophthongal for modern speakers."
+          ],
+          "followUps": [
+            "e410-closing-and-centring-diphthongs-apply"
+          ]
+        },
+        {
+          "id": "e410-closing-and-centring-diphthongs-apply",
+          "prompt": "Why should a transcription of tour allow accent variation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The traditional /ʊə/ analysis does not fit every speaker.",
+          "answer": "The traditional /ʊə/ analysis does not fit every speaker. Some merge it with /ɔː/ or use another realisation, so the target accent must be stated.",
+          "keyPoints": [
+            "The traditional /ʊə/ analysis does not fit every speaker.",
+            "Some merge it with /ɔː/ or use another realisation, so the target accent must be stated."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-triphthong-sequences",
+      "groupId": "e410-vowels",
+      "title": "Triphthong sequences",
+      "aliases": [],
+      "core": "Traditional British descriptions call sequences such as /aɪə/ triphthongs.",
+      "explanation": "They can be analysed as a closing diphthong followed by schwa. Their syllabification and smoothing vary; they are not five extra vowel phonemes added to the usual inventory.",
+      "example": "Teaching example: Fire may have a careful /aɪə/-type sequence, with reduced movement in some pronunciations.",
+      "confusion": "The guide's total of 25 RP vowel phonemes incorrectly adds sequences as separate phonemes.",
+      "syllabusTerms": [
+        "Triphthongs"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            17,
+            18
+          ]
+        },
+        {
+          "id": "e410-triphthongs"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-triphthong-sequences-define",
+          "prompt": "Explain triphthong sequences briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Traditional British descriptions call sequences such as /aɪə/ triphthongs.",
+          "answer": "Traditional British descriptions call sequences such as /aɪə/ triphthongs. They can be analysed as a closing diphthong followed by schwa. Their syllabification and smoothing vary; they are not five extra vowel phonemes added to the usual inventory.",
+          "keyPoints": [
+            "Traditional British descriptions call sequences such as /aɪə/ triphthongs.",
+            "The guide's total of 25 RP vowel phonemes incorrectly adds sequences as separate phonemes."
+          ],
+          "followUps": [
+            "e410-triphthong-sequences-apply"
+          ]
+        },
+        {
+          "id": "e410-triphthong-sequences-apply",
+          "prompt": "Should five triphthongs be added to twelve monophthongs and eight diphthongs as five more RP vowel phonemes?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. These are usually analysed as diphthong-plus-schwa sequences. Their phonetic form and syllable structure vary, so they should not simply inflate the phoneme count.",
+          "keyPoints": [
+            "No.",
+            "These are usually analysed as diphthong-plus-schwa sequences.",
+            "Their phonetic form and syllable structure vary, so they should not simply inflate the phoneme count."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-schwa-and-vowel-reduction",
+      "groupId": "e410-vowels",
+      "title": "Schwa and vowel reduction",
+      "aliases": [],
+      "core": "Schwa /ə/ is a central vowel strongly associated with unstressed syllables in standard British descriptions.",
+      "explanation": "Reduction helps explain weak forms and unstressed syllables. Not every unstressed vowel is schwa.",
+      "example": "Teaching example: The first vowel of about is commonly /ə/.",
+      "confusion": "Schwa is a sound category, not the name for every short or unclear vowel.",
+      "syllabusTerms": [
+        "Monophthongs",
+        "Strong and weak forms"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            15,
+            18,
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-schwa-and-vowel-reduction-define",
+          "prompt": "Explain schwa and vowel reduction briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Schwa /ə/ is a central vowel strongly associated with unstressed syllables in standard British descriptions.",
+          "answer": "Schwa /ə/ is a central vowel strongly associated with unstressed syllables in standard British descriptions. Reduction helps explain weak forms and unstressed syllables. Not every unstressed vowel is schwa.",
+          "keyPoints": [
+            "Schwa /ə/ is a central vowel strongly associated with unstressed syllables in standard British descriptions.",
+            "Schwa is a sound category, not the name for every short or unclear vowel."
+          ],
+          "followUps": [
+            "e410-schwa-and-vowel-reduction-apply"
+          ]
+        },
+        {
+          "id": "e410-schwa-and-vowel-reduction-apply",
+          "prompt": "Why might can contain /ə/ in 'I can swim'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "An unstressed can may take the weak form /kən/.",
+          "answer": "An unstressed can may take the weak form /kən/. If can is contrastively stressed, the stronger /kæn/ form is more likely.",
+          "keyPoints": [
+            "An unstressed can may take the weak form /kən/.",
+            "If can is contrastively stressed, the stronger /kæn/ form is more likely."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-consonant-classification",
+      "groupId": "e410-consonants",
+      "title": "Consonant classification",
+      "aliases": [],
+      "core": "Consonants are commonly described by voicing, place and manner of articulation.",
+      "explanation": "These dimensions identify laryngeal activity, the location of constriction and how airflow is controlled.",
+      "example": "Teaching example: /b/ is a voiced bilabial plosive.",
+      "confusion": "A spelling letter does not guarantee one fixed consonant sound.",
+      "syllabusTerms": [
+        "Consonant definition",
+        "Voicing",
+        "Places of articulation",
+        "Manners of articulation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            20,
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-consonant-classification-define",
+          "prompt": "What is consonant classification?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Consonants are commonly described by voicing, place and manner of articulation.",
+          "answer": "Consonants are commonly described by voicing, place and manner of articulation. These dimensions identify laryngeal activity, the location of constriction and how airflow is controlled.",
+          "keyPoints": [
+            "Consonants are commonly described by voicing, place and manner of articulation.",
+            "A spelling letter does not guarantee one fixed consonant sound."
+          ],
+          "followUps": [
+            "e410-consonant-classification-apply"
+          ]
+        },
+        {
+          "id": "e410-consonant-classification-apply",
+          "prompt": "Describe /f/ using the three standard dimensions.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "/f/ is a voiceless labiodental fricative: no regular voicing, constriction between lower lip and upper teeth, and turbulent airflow.",
+          "answer": "/f/ is a voiceless labiodental fricative: no regular voicing, constriction between lower lip and upper teeth, and turbulent airflow.",
+          "keyPoints": [
+            "/f/ is a voiceless labiodental fricative: no regular voicing, constriction between lower lip and upper teeth, and turbulent airflow."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-places-of-articulation",
+      "groupId": "e410-consonants",
+      "title": "Places of articulation",
+      "aliases": [],
+      "core": "Place of articulation identifies where the principal constriction is formed.",
+      "explanation": "English descriptions include bilabial, labiodental, dental, alveolar, postalveolar, palatal, velar and glottal places.",
+      "example": "Teaching example: /m/ is bilabial while /ŋ/ is velar.",
+      "confusion": "English /r/ is commonly a postalveolar approximant; its exact articulation varies.",
+      "syllabusTerms": [
+        "Places of articulation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-places-of-articulation-define",
+          "prompt": "What is places of articulation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Place of articulation identifies where the principal constriction is formed.",
+          "answer": "Place of articulation identifies where the principal constriction is formed. English descriptions include bilabial, labiodental, dental, alveolar, postalveolar, palatal, velar and glottal places.",
+          "keyPoints": [
+            "Place of articulation identifies where the principal constriction is formed.",
+            "English /r/ is commonly a postalveolar approximant; its exact articulation varies."
+          ],
+          "followUps": [
+            "e410-places-of-articulation-apply"
+          ]
+        },
+        {
+          "id": "e410-places-of-articulation-apply",
+          "prompt": "How do /n/ and /ŋ/ differ if both are nasals?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They differ in place: /n/ is alveolar and /ŋ/ is velar.",
+          "answer": "They differ in place: /n/ is alveolar and /ŋ/ is velar. Both allow airflow through the nose during oral closure.",
+          "keyPoints": [
+            "They differ in place: /n/ is alveolar and /ŋ/ is velar.",
+            "Both allow airflow through the nose during oral closure."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-stops-and-fricatives",
+      "groupId": "e410-consonants",
+      "title": "Stops and fricatives",
+      "aliases": [],
+      "core": "Stops involve a complete closure; fricatives involve a narrow constriction producing friction.",
+      "explanation": "The difference concerns airflow control, not simply loudness or duration.",
+      "example": "Teaching example: /t/ is a stop; /s/ is a fricative.",
+      "confusion": "A stop can lack an audible release in a particular environment.",
+      "syllabusTerms": [
+        "Manners of articulation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-stops-and-fricatives-define",
+          "prompt": "Explain stops and fricatives briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Stops involve a complete closure; fricatives involve a narrow constriction producing friction.",
+          "answer": "Stops involve a complete closure; fricatives involve a narrow constriction producing friction. The difference concerns airflow control, not simply loudness or duration.",
+          "keyPoints": [
+            "Stops involve a complete closure; fricatives involve a narrow constriction producing friction.",
+            "A stop can lack an audible release in a particular environment."
+          ],
+          "followUps": [
+            "e410-stops-and-fricatives-apply"
+          ]
+        },
+        {
+          "id": "e410-stops-and-fricatives-apply",
+          "prompt": "How would you distinguish /p/ from /f/ articulatorily?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "/p/ uses complete bilabial closure, while /f/ uses a narrow labiodental constriction producing friction.",
+          "answer": "/p/ uses complete bilabial closure, while /f/ uses a narrow labiodental constriction producing friction. Their place and manner differ.",
+          "keyPoints": [
+            "/p/ uses complete bilabial closure, while /f/ uses a narrow labiodental constriction producing friction.",
+            "Their place and manner differ."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-affricates",
+      "groupId": "e410-consonants",
+      "title": "Affricates",
+      "aliases": [],
+      "core": "An affricate combines a stop closure with a closely coordinated fricative release.",
+      "explanation": "English /tʃ/ and /dʒ/ are commonly analysed as single consonant phonemes.",
+      "example": "Teaching example: Church starts with /tʃ/, while ship starts with /ʃ/.",
+      "confusion": "Two IPA letters can represent one affricate phoneme.",
+      "syllabusTerms": [
+        "Manners of articulation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            20,
+            22
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-affricates-define",
+          "prompt": "Explain affricates briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "An affricate combines a stop closure with a closely coordinated fricative release.",
+          "answer": "An affricate combines a stop closure with a closely coordinated fricative release. English /tʃ/ and /dʒ/ are commonly analysed as single consonant phonemes.",
+          "keyPoints": [
+            "An affricate combines a stop closure with a closely coordinated fricative release.",
+            "Two IPA letters can represent one affricate phoneme."
+          ],
+          "followUps": [
+            "e410-affricates-apply"
+          ]
+        },
+        {
+          "id": "e410-affricates-apply",
+          "prompt": "Why is /tʃ/ not simply the same sound as /ʃ/?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "/tʃ/ starts with a complete stop closure and releases into friction, whereas /ʃ/ has sustained frication without that initial stop phase.",
+          "answer": "/tʃ/ starts with a complete stop closure and releases into friction, whereas /ʃ/ has sustained frication without that initial stop phase.",
+          "keyPoints": [
+            "/tʃ/ starts with a complete stop closure and releases into friction, whereas /ʃ/ has sustained frication without that initial stop phase."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-nasals-laterals-and-approximants",
+      "groupId": "e410-consonants",
+      "title": "Nasals, laterals and approximants",
+      "aliases": [],
+      "core": "Nasals route airflow through the nose; laterals allow side airflow; approximants have relatively open constriction.",
+      "explanation": "English has /m n ŋ/, lateral /l/ and approximants conventionally transcribed /r j w/.",
+      "example": "Teaching example: /w/ combines lip rounding with a dorsal constriction and is labial-velar.",
+      "confusion": "Calling /w/ bilabial alone omits its velar component.",
+      "syllabusTerms": [
+        "Manners of articulation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-nasals-laterals-and-approximants-define",
+          "prompt": "Explain nasals, laterals and approximants briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Nasals route airflow through the nose; laterals allow side airflow; approximants have relatively open constriction.",
+          "answer": "Nasals route airflow through the nose; laterals allow side airflow; approximants have relatively open constriction. English has /m n ŋ/, lateral /l/ and approximants conventionally transcribed /r j w/.",
+          "keyPoints": [
+            "Nasals route airflow through the nose; laterals allow side airflow; approximants have relatively open constriction.",
+            "Calling /w/ bilabial alone omits its velar component."
+          ],
+          "followUps": [
+            "e410-nasals-laterals-and-approximants-apply"
+          ]
+        },
+        {
+          "id": "e410-nasals-laterals-and-approximants-apply",
+          "prompt": "Why is /w/ described as labial-velar?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its articulation combines rounded lips and a raised tongue back toward the velum.",
+          "answer": "Its articulation combines rounded lips and a raised tongue back toward the velum. Both constrictions contribute to the sound.",
+          "keyPoints": [
+            "Its articulation combines rounded lips and a raised tongue back toward the velum.",
+            "Both constrictions contribute to the sound."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-voicing-contrasts",
+      "groupId": "e410-consonants",
+      "title": "Voicing contrasts",
+      "aliases": [],
+      "core": "Voicing involves vocal-fold vibration and helps distinguish consonant categories.",
+      "explanation": "English contrasts include /f–v/, /s–z/ and /t–d/. The full phonetic distinction may involve duration and aspiration as well.",
+      "example": "Teaching example: Thin begins with voiceless /θ/ and this with voiced /ð/.",
+      "confusion": "A phonologically voiced stop need not show continuous voicing throughout every token.",
+      "syllabusTerms": [
+        "Voicing"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            21,
+            22
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-voicing-contrasts-define",
+          "prompt": "Explain voicing contrasts briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Voicing involves vocal-fold vibration and helps distinguish consonant categories.",
+          "answer": "Voicing involves vocal-fold vibration and helps distinguish consonant categories. English contrasts include /f–v/, /s–z/ and /t–d/. The full phonetic distinction may involve duration and aspiration as well.",
+          "keyPoints": [
+            "Voicing involves vocal-fold vibration and helps distinguish consonant categories.",
+            "A phonologically voiced stop need not show continuous voicing throughout every token."
+          ],
+          "followUps": [
+            "e410-voicing-contrasts-apply"
+          ]
+        },
+        {
+          "id": "e410-voicing-contrasts-apply",
+          "prompt": "How do /θ/ and /ð/ differ?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Both are dental fricatives, but /θ/ belongs to the voiceless category and /ð/ to the voiced category.",
+          "answer": "Both are dental fricatives, but /θ/ belongs to the voiceless category and /ð/ to the voiced category. They contrast in English rather than being spelling variants.",
+          "keyPoints": [
+            "Both are dental fricatives, but /θ/ belongs to the voiceless category and /ð/ to the voiced category.",
+            "They contrast in English rather than being spelling variants."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-phonetic-and-phonological-syllables",
+      "groupId": "e410-syllable",
+      "title": "Phonetic and phonological syllables",
+      "aliases": [],
+      "core": "Phonetically, syllables relate to sonority patterns; phonologically, they organise positions and sound sequences.",
+      "explanation": "A simple sonority peak model is useful but does not resolve every syllable-boundary question.",
+      "example": "Teaching example: Cat has one nucleus and one syllable.",
+      "confusion": "Sonority is not simply identical to physical loudness.",
+      "syllabusTerms": [
+        "Phonetic and phonological syllable"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-phonetic-and-phonological-syllables-define",
+          "prompt": "Explain phonetic and phonological syllables briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Phonetically, syllables relate to sonority patterns; phonologically, they organise positions and sound sequences.",
+          "answer": "Phonetically, syllables relate to sonority patterns; phonologically, they organise positions and sound sequences. A simple sonority peak model is useful but does not resolve every syllable-boundary question.",
+          "keyPoints": [
+            "Phonetically, syllables relate to sonority patterns; phonologically, they organise positions and sound sequences.",
+            "Sonority is not simply identical to physical loudness."
+          ],
+          "followUps": [
+            "e410-phonetic-and-phonological-syllables-apply"
+          ]
+        },
+        {
+          "id": "e410-phonetic-and-phonological-syllables-apply",
+          "prompt": "Why might a physical 'beat' description of syllables be insufficient?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It does not fully explain language-specific permissible sequences or structural positions.",
+          "answer": "It does not fully explain language-specific permissible sequences or structural positions. Phonological syllable models capture these organisational restrictions.",
+          "keyPoints": [
+            "It does not fully explain language-specific permissible sequences or structural positions.",
+            "Phonological syllable models capture these organisational restrictions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-onset-nucleus-coda-and-rhyme",
+      "groupId": "e410-syllable",
+      "title": "Onset, nucleus, coda and rhyme",
+      "aliases": [],
+      "core": "The onset precedes the nucleus; the coda follows it; the rhyme contains nucleus and coda.",
+      "explanation": "Onsets and codas can be absent. A nucleus is required in the usual syllable model.",
+      "example": "Teaching example: In cat /kæt/, /k/ is onset, /æ/ nucleus and /t/ coda.",
+      "confusion": "A rhyme is not the whole syllable: it excludes the onset.",
+      "syllabusTerms": [
+        "Syllable structure"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            24,
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-onset-nucleus-coda-and-rhyme-define",
+          "prompt": "Explain onset, nucleus, coda and rhyme briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "The onset precedes the nucleus; the coda follows it; the rhyme contains nucleus and coda.",
+          "answer": "The onset precedes the nucleus; the coda follows it; the rhyme contains nucleus and coda. Onsets and codas can be absent. A nucleus is required in the usual syllable model.",
+          "keyPoints": [
+            "The onset precedes the nucleus; the coda follows it; the rhyme contains nucleus and coda.",
+            "A rhyme is not the whole syllable: it excludes the onset."
+          ],
+          "followUps": [
+            "e410-onset-nucleus-coda-and-rhyme-apply"
+          ]
+        },
+        {
+          "id": "e410-onset-nucleus-coda-and-rhyme-apply",
+          "prompt": "Analyse the syllable structure of string.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "In /strɪŋ/, /str/ is the onset, /ɪ/ the nucleus and /ŋ/ the coda.",
+          "answer": "In /strɪŋ/, /str/ is the onset, /ɪ/ the nucleus and /ŋ/ the coda. The rhyme is /ɪŋ/.",
+          "keyPoints": [
+            "In /strɪŋ/, /str/ is the onset, /ɪ/ the nucleus and /ŋ/ the coda.",
+            "The rhyme is /ɪŋ/."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-open-closed-and-syllabic-consonants",
+      "groupId": "e410-syllable",
+      "title": "Open, closed and syllabic consonants",
+      "aliases": [],
+      "core": "An open syllable has no coda; a closed syllable has one; a syllabic consonant can form a nucleus.",
+      "explanation": "Syllable analysis concerns sounds rather than written vowels.",
+      "example": "Teaching example: See /siː/ is open; cat /kæt/ is closed; button can end in syllabic [n̩].",
+      "confusion": "A written vowel letter is not necessary for every spoken syllable.",
+      "syllabusTerms": [
+        "Syllable structure"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-open-closed-and-syllabic-consonants-define",
+          "prompt": "Explain open, closed and syllabic consonants briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "An open syllable has no coda; a closed syllable has one; a syllabic consonant can form a nucleus.",
+          "answer": "An open syllable has no coda; a closed syllable has one; a syllabic consonant can form a nucleus. Syllable analysis concerns sounds rather than written vowels.",
+          "keyPoints": [
+            "An open syllable has no coda; a closed syllable has one; a syllabic consonant can form a nucleus.",
+            "A written vowel letter is not necessary for every spoken syllable."
+          ],
+          "followUps": [
+            "e410-open-closed-and-syllabic-consonants-apply"
+          ]
+        },
+        {
+          "id": "e410-open-closed-and-syllabic-consonants-apply",
+          "prompt": "How can button have two syllables when the second has no pronounced vowel in some accents?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The consonant [n̩] can function as the second nucleus.",
+          "answer": "The consonant [n̩] can function as the second nucleus. A syllabic consonant carries the syllable rather than merely forming a coda.",
+          "keyPoints": [
+            "The consonant [n̩] can function as the second nucleus.",
+            "A syllabic consonant carries the syllable rather than merely forming a coda."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-phonotactics",
+      "groupId": "e410-syllable",
+      "title": "Phonotactics",
+      "aliases": [],
+      "core": "Phonotactics concerns language-specific restrictions on sound sequences and syllable positions.",
+      "explanation": "English permits complex clusters such as /str/ initially, while native lexical onsets normally exclude /ŋ/.",
+      "example": "Teaching example: String has three onset consonants; texts may have a four-consonant coda.",
+      "confusion": "A sequence possible in one language need not be possible in another.",
+      "syllabusTerms": [
+        "Phonotactic possibilities"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-phonotactics-define",
+          "prompt": "Explain phonotactics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Phonotactics concerns language-specific restrictions on sound sequences and syllable positions.",
+          "answer": "Phonotactics concerns language-specific restrictions on sound sequences and syllable positions. English permits complex clusters such as /str/ initially, while native lexical onsets normally exclude /ŋ/.",
+          "keyPoints": [
+            "Phonotactics concerns language-specific restrictions on sound sequences and syllable positions.",
+            "A sequence possible in one language need not be possible in another."
+          ],
+          "followUps": [
+            "e410-phonotactics-apply"
+          ]
+        },
+        {
+          "id": "e410-phonotactics-apply",
+          "prompt": "Why may an English speaker insert a vowel into an unfamiliar consonant cluster?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The cluster may conflict with the speaker's learned phonotactic patterns.",
+          "answer": "The cluster may conflict with the speaker's learned phonotactic patterns. Insertion can adapt it to a more familiar syllable structure.",
+          "keyPoints": [
+            "The cluster may conflict with the speaker's learned phonotactic patterns.",
+            "Insertion can adapt it to a more familiar syllable structure."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-strong-and-weak-forms",
+      "groupId": "e410-connected",
+      "title": "Strong and weak forms",
+      "aliases": [],
+      "core": "Many English function words alternate between full strong forms and reduced weak forms.",
+      "explanation": "Stress, contrast, position, accent and speaking style influence which form is appropriate.",
+      "example": "Teaching example: Can may be /kən/ in neutral I can go but /kæn/ when contrasted.",
+      "confusion": "Weak forms are not compulsory in every connected utterance.",
+      "syllabusTerms": [
+        "Strong and weak forms"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            27,
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-strong-and-weak-forms-define",
+          "prompt": "Explain strong and weak forms briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Many English function words alternate between full strong forms and reduced weak forms.",
+          "answer": "Many English function words alternate between full strong forms and reduced weak forms. Stress, contrast, position, accent and speaking style influence which form is appropriate.",
+          "keyPoints": [
+            "Many English function words alternate between full strong forms and reduced weak forms.",
+            "Weak forms are not compulsory in every connected utterance."
+          ],
+          "followUps": [
+            "e410-strong-and-weak-forms-apply"
+          ]
+        },
+        {
+          "id": "e410-strong-and-weak-forms-apply",
+          "prompt": "Why would to be stronger in 'I said TO London, not FROM London'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The preposition is contrastively focused, so a strong form is appropriate.",
+          "answer": "The preposition is contrastively focused, so a strong form is appropriate. Function words can receive stress when the intended contrast requires it.",
+          "keyPoints": [
+            "The preposition is contrastively focused, so a strong form is appropriate.",
+            "Function words can receive stress when the intended contrast requires it."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-contractions",
+      "groupId": "e410-connected",
+      "title": "Contractions",
+      "aliases": [],
+      "core": "A contraction is a conventional shortened form of a word or combination of words.",
+      "explanation": "Forms such as I'm, don't and I'd occur in speech and have conventional written representations.",
+      "example": "Teaching example: I'd can represent I had or I would, resolved through grammatical context.",
+      "confusion": "Contraction and weak-form reduction are related phenomena but are not identical.",
+      "syllabusTerms": [
+        "Contractions"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-contractions-define",
+          "prompt": "Explain contractions briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A contraction is a conventional shortened form of a word or combination of words.",
+          "answer": "A contraction is a conventional shortened form of a word or combination of words. Forms such as I'm, don't and I'd occur in speech and have conventional written representations.",
+          "keyPoints": [
+            "A contraction is a conventional shortened form of a word or combination of words.",
+            "Contraction and weak-form reduction are related phenomena but are not identical."
+          ],
+          "followUps": [
+            "e410-contractions-apply"
+          ]
+        },
+        {
+          "id": "e410-contractions-apply",
+          "prompt": "How would you determine whether I'd means I had or I would?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Use the following verb construction: I'd finished normally means I had finished; I'd finish normally means I would finish.",
+          "answer": "Use the following verb construction: I'd finished normally means I had finished; I'd finish normally means I would finish.",
+          "keyPoints": [
+            "Use the following verb construction: I'd finished normally means I had finished; I'd finish normally means I would finish."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-elision",
+      "groupId": "e410-connected",
+      "title": "Elision",
+      "aliases": [],
+      "core": "Elision is the absence of a sound that may occur in a fuller pronunciation.",
+      "explanation": "It often affects consonant clusters or unstressed material and varies with style and context.",
+      "example": "Teaching example: Next day may be pronounced without the /t/ in a connected-speech realisation.",
+      "confusion": "Elision removes a segment; assimilation changes its properties.",
+      "syllabusTerms": [
+        "Elision"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-elision-define",
+          "prompt": "What is elision?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Elision is the absence of a sound that may occur in a fuller pronunciation.",
+          "answer": "Elision is the absence of a sound that may occur in a fuller pronunciation. It often affects consonant clusters or unstressed material and varies with style and context.",
+          "keyPoints": [
+            "Elision is the absence of a sound that may occur in a fuller pronunciation.",
+            "Elision removes a segment; assimilation changes its properties."
+          ],
+          "followUps": [
+            "e410-elision-apply"
+          ]
+        },
+        {
+          "id": "e410-elision-apply",
+          "prompt": "What process can explain /neks deɪ/ for next day?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Elision of /t/ from the consonant cluster.",
+          "answer": "Elision of /t/ from the consonant cluster. It is a possible connected-speech realisation, not a rule requiring every speaker to delete it.",
+          "keyPoints": [
+            "Elision of /t/ from the consonant cluster.",
+            "It is a possible connected-speech realisation, not a rule requiring every speaker to delete it."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-regressive-assimilation",
+      "groupId": "e410-connected",
+      "title": "Regressive assimilation",
+      "aliases": [],
+      "core": "Regressive assimilation occurs when a following sound influences an earlier one.",
+      "explanation": "The earlier segment may adopt a place feature of the following segment.",
+      "example": "Teaching example: Ten boys may contain [m] instead of [n] before bilabial [b].",
+      "confusion": "The resulting pronunciation depends on context and style; it is not a spelling change.",
+      "syllabusTerms": [
+        "Assimilation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-regressive-assimilation-define",
+          "prompt": "What is regressive assimilation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Regressive assimilation occurs when a following sound influences an earlier one.",
+          "answer": "Regressive assimilation occurs when a following sound influences an earlier one. The earlier segment may adopt a place feature of the following segment.",
+          "keyPoints": [
+            "Regressive assimilation occurs when a following sound influences an earlier one.",
+            "The resulting pronunciation depends on context and style; it is not a spelling change."
+          ],
+          "followUps": [
+            "e410-regressive-assimilation-apply"
+          ]
+        },
+        {
+          "id": "e410-regressive-assimilation-apply",
+          "prompt": "Why can ten boys sound like tem boys?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The alveolar nasal can anticipate the bilabial closure of /b/ and become [m].",
+          "answer": "The alveolar nasal can anticipate the bilabial closure of /b/ and become [m]. This is regressive place assimilation.",
+          "keyPoints": [
+            "The alveolar nasal can anticipate the bilabial closure of /b/ and become [m].",
+            "This is regressive place assimilation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-progressive-and-coalescent-assimilation",
+      "groupId": "e410-connected",
+      "title": "Progressive and coalescent assimilation",
+      "aliases": [],
+      "core": "Progressive assimilation reflects an earlier sound's influence; coalescence combines neighbouring segments into a new outcome.",
+      "explanation": "Plural voicing patterns illustrate left-to-right conditioning; /t+j/ can coalesce as [tʃ] in connected speech.",
+      "example": "Teaching example: Don't you may contain [tʃ], while would you may contain [dʒ].",
+      "confusion": "Not every sequence of /t/ and /j/ must coalesce.",
+      "syllabusTerms": [
+        "Assimilation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            30,
+            31
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-progressive-and-coalescent-assimilation-define",
+          "prompt": "Explain progressive and coalescent assimilation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Progressive assimilation reflects an earlier sound's influence; coalescence combines neighbouring segments into a new outcome.",
+          "answer": "Progressive assimilation reflects an earlier sound's influence; coalescence combines neighbouring segments into a new outcome. Plural voicing patterns illustrate left-to-right conditioning; /t+j/ can coalesce as [tʃ] in connected speech.",
+          "keyPoints": [
+            "Progressive assimilation reflects an earlier sound's influence; coalescence combines neighbouring segments into a new outcome.",
+            "Not every sequence of /t/ and /j/ must coalesce."
+          ],
+          "followUps": [
+            "e410-progressive-and-coalescent-assimilation-apply"
+          ]
+        },
+        {
+          "id": "e410-progressive-and-coalescent-assimilation-apply",
+          "prompt": "How does assimilation in don't you differ from assimilation in ten boys?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Don't you can involve coalescence of /t/ and /j/ into [tʃ].",
+          "answer": "Don't you can involve coalescence of /t/ and /j/ into [tʃ]. Ten boys involves an earlier nasal adopting the following consonant's place.",
+          "keyPoints": [
+            "Don't you can involve coalescence of /t/ and /j/ into [tʃ].",
+            "Ten boys involves an earlier nasal adopting the following consonant's place."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-stress-and-prominence",
+      "groupId": "e410-stress",
+      "title": "Stress and prominence",
+      "aliases": [],
+      "core": "Stress is the relative prominence of a syllable within a word or larger utterance.",
+      "explanation": "Prominence can involve pitch, duration, intensity and vowel quality, with their relative contribution varying.",
+      "example": "Teaching example: The first syllable of PHOtograph is prominent.",
+      "confusion": "Stress is relative prominence, not merely shouting louder.",
+      "syllabusTerms": [
+        "Definition of stress",
+        "Factors of stress prominence"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-stress-and-prominence-define",
+          "prompt": "Explain stress and prominence briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Stress is the relative prominence of a syllable within a word or larger utterance.",
+          "answer": "Stress is the relative prominence of a syllable within a word or larger utterance. Prominence can involve pitch, duration, intensity and vowel quality, with their relative contribution varying.",
+          "keyPoints": [
+            "Stress is the relative prominence of a syllable within a word or larger utterance.",
+            "Stress is relative prominence, not merely shouting louder."
+          ],
+          "followUps": [
+            "e410-stress-and-prominence-apply"
+          ]
+        },
+        {
+          "id": "e410-stress-and-prominence-apply",
+          "prompt": "Why can a stressed syllable remain perceptually prominent without being the loudest one?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Pitch movement, duration and vowel quality can also signal prominence.",
+          "answer": "Pitch movement, duration and vowel quality can also signal prominence. Stress is realised through a combination of cues rather than intensity alone.",
+          "keyPoints": [
+            "Pitch movement, duration and vowel quality can also signal prominence.",
+            "Stress is realised through a combination of cues rather than intensity alone."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-primary-secondary-and-word-stress",
+      "groupId": "e410-stress",
+      "title": "Primary, secondary and word stress",
+      "aliases": [],
+      "core": "Primary stress is the strongest word-level prominence; secondary stress is a weaker prominence in longer words.",
+      "explanation": "IPA uses /ˈ/ for primary and /ˌ/ for secondary stress before the relevant syllable.",
+      "example": "Teaching example: A transcription such as /ˌɪntəˈnæʃənəl/ marks two levels of stress.",
+      "confusion": "The stress mark precedes a syllable rather than marking a vowel as a separate unit.",
+      "syllabusTerms": [
+        "Types of stress"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-primary-secondary-and-word-stress-define",
+          "prompt": "Explain primary, secondary and word stress briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Primary stress is the strongest word-level prominence; secondary stress is a weaker prominence in longer words.",
+          "answer": "Primary stress is the strongest word-level prominence; secondary stress is a weaker prominence in longer words. IPA uses /ˈ/ for primary and /ˌ/ for secondary stress before the relevant syllable.",
+          "keyPoints": [
+            "Primary stress is the strongest word-level prominence; secondary stress is a weaker prominence in longer words.",
+            "The stress mark precedes a syllable rather than marking a vowel as a separate unit."
+          ],
+          "followUps": [
+            "e410-primary-secondary-and-word-stress-apply"
+          ]
+        },
+        {
+          "id": "e410-primary-secondary-and-word-stress-apply",
+          "prompt": "Where should the IPA primary-stress mark be placed?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Immediately before the stressed syllable.",
+          "answer": "Immediately before the stressed syllable. It indicates that syllable's relative prominence in the word.",
+          "keyPoints": [
+            "Immediately before the stressed syllable.",
+            "It indicates that syllable's relative prominence in the word."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-stress-placement-and-suffixes",
+      "groupId": "e410-stress",
+      "title": "Stress placement and suffixes",
+      "aliases": [],
+      "core": "English word stress is influenced by syllable structure, word class, morphology and lexical history.",
+      "explanation": "Some suffixes attract or condition stress, while others preserve it. Generalisations are tendencies with exceptions and accent differences.",
+      "example": "Teaching example: Compare PHOtograph, phoTOGraphy and photoGRAPHic.",
+      "confusion": "A single suffix rule cannot predict every English word's stress.",
+      "syllabusTerms": [
+        "Stress placement in isolated and connected words"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            33,
+            34,
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-stress-placement-and-suffixes-define",
+          "prompt": "Explain stress placement and suffixes briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "English word stress is influenced by syllable structure, word class, morphology and lexical history.",
+          "answer": "English word stress is influenced by syllable structure, word class, morphology and lexical history. Some suffixes attract or condition stress, while others preserve it. Generalisations are tendencies with exceptions and accent differences.",
+          "keyPoints": [
+            "English word stress is influenced by syllable structure, word class, morphology and lexical history.",
+            "A single suffix rule cannot predict every English word's stress."
+          ],
+          "followUps": [
+            "e410-stress-placement-and-suffixes-apply"
+          ]
+        },
+        {
+          "id": "e410-stress-placement-and-suffixes-apply",
+          "prompt": "Why is 'all two-syllable verbs have final stress' unsafe?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Many verbs follow that pattern, but exceptions exist.",
+          "answer": "Many verbs follow that pattern, but exceptions exist. Word class is one influence among several, so lexical and morphological evidence must also be considered.",
+          "keyPoints": [
+            "Many verbs follow that pattern, but exceptions exist.",
+            "Word class is one influence among several, so lexical and morphological evidence must also be considered."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-compound-and-contrastive-stress",
+      "groupId": "e410-stress",
+      "title": "Compound and contrastive stress",
+      "aliases": [],
+      "core": "Stress can distinguish some compounds from phrases and can highlight a contrast in discourse.",
+      "explanation": "Compound stress patterns are useful tendencies, not absolute tests. Sentence focus can move prominence to the contrasted element.",
+      "example": "Teaching example: BLACKbird may name a bird type; a black BIRD can describe its colour.",
+      "confusion": "Content words are not always stressed and function words are not always unstressed.",
+      "syllabusTerms": [
+        "Types of stress",
+        "Stress placement in isolated and connected words"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            35,
+            36
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-compound-and-contrastive-stress-define",
+          "prompt": "Explain compound and contrastive stress briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Stress can distinguish some compounds from phrases and can highlight a contrast in discourse.",
+          "answer": "Stress can distinguish some compounds from phrases and can highlight a contrast in discourse. Compound stress patterns are useful tendencies, not absolute tests. Sentence focus can move prominence to the contrasted element.",
+          "keyPoints": [
+            "Stress can distinguish some compounds from phrases and can highlight a contrast in discourse.",
+            "Content words are not always stressed and function words are not always unstressed."
+          ],
+          "followUps": [
+            "e410-compound-and-contrastive-stress-apply"
+          ]
+        },
+        {
+          "id": "e410-compound-and-contrastive-stress-apply",
+          "prompt": "What does stressing I in 'I didn't borrow your book' suggest?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It can contrast the speaker with another possible borrower.",
+          "answer": "It can contrast the speaker with another possible borrower. The exact inference depends on context; stress highlights the alternative being considered.",
+          "keyPoints": [
+            "It can contrast the speaker with another possible borrower.",
+            "The exact inference depends on context; stress highlights the alternative being considered."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-chunking-speech",
+      "groupId": "e410-chunking",
+      "title": "Chunking speech",
+      "aliases": [],
+      "core": "Chunking divides speech into meaningful intonation units.",
+      "explanation": "Grammar, information structure, planning and speaking style help determine boundaries. Units need not match written punctuation exactly.",
+      "example": "Teaching example: After the exam / we went home separates a contextual phrase from the main message.",
+      "confusion": "A pause after every word does not produce useful meaning-based chunking.",
+      "syllabusTerms": [
+        "Rules for chunking"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-chunking-speech-define",
+          "prompt": "What is chunking speech?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Chunking divides speech into meaningful intonation units.",
+          "answer": "Chunking divides speech into meaningful intonation units. Grammar, information structure, planning and speaking style help determine boundaries. Units need not match written punctuation exactly.",
+          "keyPoints": [
+            "Chunking divides speech into meaningful intonation units.",
+            "A pause after every word does not produce useful meaning-based chunking."
+          ],
+          "followUps": [
+            "e410-chunking-speech-apply"
+          ]
+        },
+        {
+          "id": "e410-chunking-speech-apply",
+          "prompt": "Why can punctuation alone not determine spoken chunk boundaries?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Speakers organise information and interaction dynamically.",
+          "answer": "Speakers organise information and interaction dynamically. A written sentence may be spoken in several units, while a short clause may form one unit without a pause.",
+          "keyPoints": [
+            "Speakers organise information and interaction dynamically.",
+            "A written sentence may be spoken in several units, while a short clause may form one unit without a pause."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-tone-unit-structure",
+      "groupId": "e410-chunking",
+      "title": "Tone-unit structure",
+      "aliases": [],
+      "core": "A tone unit is a stretch of speech organised around a main pitch-bearing nucleus.",
+      "explanation": "A traditional model may distinguish pre-head, head, nucleus and tail, with the nucleus as the essential element.",
+      "example": "Teaching example: In a neutral She's coming toMORrow, the final prominent syllable can carry the nucleus.",
+      "confusion": "The nucleus need not be the last word or the loudest syllable.",
+      "syllabusTerms": [
+        "Tone units"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-tone-unit-structure-define",
+          "prompt": "What is tone-unit structure?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A tone unit is a stretch of speech organised around a main pitch-bearing nucleus.",
+          "answer": "A tone unit is a stretch of speech organised around a main pitch-bearing nucleus. A traditional model may distinguish pre-head, head, nucleus and tail, with the nucleus as the essential element.",
+          "keyPoints": [
+            "A tone unit is a stretch of speech organised around a main pitch-bearing nucleus.",
+            "The nucleus need not be the last word or the loudest syllable."
+          ],
+          "followUps": [
+            "e410-tone-unit-structure-apply"
+          ]
+        },
+        {
+          "id": "e410-tone-unit-structure-apply",
+          "prompt": "Why might the nucleus move to SHE in 'SHE is coming tomorrow'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The speaker is contrasting who is coming.",
+          "answer": "The speaker is contrasting who is coming. Nuclear placement helps express information focus and alternatives.",
+          "keyPoints": [
+            "The speaker is contrasting who is coming.",
+            "Nuclear placement helps express information focus and alternatives."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-types-of-tone",
+      "groupId": "e410-chunking",
+      "title": "Types of tone",
+      "aliases": [],
+      "core": "Common pedagogical tones include fall, rise, fall–rise, rise–fall and level.",
+      "explanation": "Pitch contours contribute to interactional interpretation, but no contour has one invariant meaning across all contexts.",
+      "example": "Teaching example: A fall–rise may convey reservation in I could try.",
+      "confusion": "Tone is a pitch pattern; its interpretation depends on discourse and accent.",
+      "syllabusTerms": [
+        "Types of tone"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            39,
+            40
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-types-of-tone-define",
+          "prompt": "What is types of tone?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Common pedagogical tones include fall, rise, fall–rise, rise–fall and level.",
+          "answer": "Common pedagogical tones include fall, rise, fall–rise, rise–fall and level. Pitch contours contribute to interactional interpretation, but no contour has one invariant meaning across all contexts.",
+          "keyPoints": [
+            "Common pedagogical tones include fall, rise, fall–rise, rise–fall and level.",
+            "Tone is a pitch pattern; its interpretation depends on discourse and accent."
+          ],
+          "followUps": [
+            "e410-types-of-tone-apply"
+          ]
+        },
+        {
+          "id": "e410-types-of-tone-apply",
+          "prompt": "Does a rising tone always identify a yes–no question?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. A rise can signal continuation, uncertainty or other interactional meanings, and yes–no questions can have other contours depending on context.",
+          "keyPoints": [
+            "No.",
+            "A rise can signal continuation, uncertainty or other interactional meanings, and yes–no questions can have other contours depending on context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-intonation-and-its-functions",
+      "groupId": "e410-intonation",
+      "title": "Intonation and its functions",
+      "aliases": [],
+      "core": "Intonation is the organisation of pitch patterns across speech.",
+      "explanation": "It can signal focus, attitude, grammatical interpretation, discourse organisation and turn management.",
+      "example": "Teaching example: You're going with a rise may seek confirmation, while a fall can present it as information.",
+      "confusion": "Pitch pattern does not mechanically determine the speaker's private attitude.",
+      "syllabusTerms": [
+        "Intonation definition",
+        "Functions of intonation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            41,
+            42,
+            43,
+            44
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-intonation-and-its-functions-define",
+          "prompt": "Explain intonation and its functions briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Intonation is the organisation of pitch patterns across speech.",
+          "answer": "Intonation is the organisation of pitch patterns across speech. It can signal focus, attitude, grammatical interpretation, discourse organisation and turn management.",
+          "keyPoints": [
+            "Intonation is the organisation of pitch patterns across speech.",
+            "Pitch pattern does not mechanically determine the speaker's private attitude."
+          ],
+          "followUps": [
+            "e410-intonation-and-its-functions-apply"
+          ]
+        },
+        {
+          "id": "e410-intonation-and-its-functions-apply",
+          "prompt": "How can the same words perform different conversational work through intonation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Changes in pitch contour and nuclear placement can signal a statement, confirmation request, contrast or reservation.",
+          "answer": "Changes in pitch contour and nuclear placement can signal a statement, confirmation request, contrast or reservation. Context remains necessary for interpretation.",
+          "keyPoints": [
+            "Changes in pitch contour and nuclear placement can signal a statement, confirmation request, contrast or reservation.",
+            "Context remains necessary for interpretation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-tag-questions-and-interpretation",
+      "groupId": "e410-intonation",
+      "title": "Tag questions and interpretation",
+      "aliases": [],
+      "core": "Tag-question intonation can contribute to whether a speaker seeks information or invites agreement.",
+      "explanation": "A rising tag often seeks confirmation, while a falling tag often displays a stronger expectation of agreement; these are tendencies.",
+      "example": "Teaching example: It's cold, isn't it? can be spoken with different expectations.",
+      "confusion": "A contour is a cue rather than conclusive evidence of certainty.",
+      "syllabusTerms": [
+        "Functions of intonation"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            43,
+            44
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-tag-questions-and-interpretation-define",
+          "prompt": "Explain tag questions and interpretation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Tag-question intonation can contribute to whether a speaker seeks information or invites agreement.",
+          "answer": "Tag-question intonation can contribute to whether a speaker seeks information or invites agreement. A rising tag often seeks confirmation, while a falling tag often displays a stronger expectation of agreement; these are tendencies.",
+          "keyPoints": [
+            "Tag-question intonation can contribute to whether a speaker seeks information or invites agreement.",
+            "A contour is a cue rather than conclusive evidence of certainty."
+          ],
+          "followUps": [
+            "e410-tag-questions-and-interpretation-apply"
+          ]
+        },
+        {
+          "id": "e410-tag-questions-and-interpretation-apply",
+          "prompt": "Why should we avoid teaching rising tag equals uncertainty as an exceptionless rule?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Intonation interacts with context, stance and conversational purpose.",
+          "answer": "Intonation interacts with context, stance and conversational purpose. The rise is informative but does not uniquely reveal a mental state.",
+          "keyPoints": [
+            "Intonation interacts with context, stance and conversational purpose.",
+            "The rise is informative but does not uniquely reveal a mental state."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-ipa-and-transcription-levels",
+      "groupId": "e410-transcription",
+      "title": "IPA and transcription levels",
+      "aliases": [],
+      "core": "The IPA represents speech sounds; broad transcription abstracts categories while narrow transcription adds phonetic detail.",
+      "explanation": "Slashes conventionally mark phonemic analysis, while brackets permit more detailed phonetic description.",
+      "example": "Teaching example: /pɪn/ is broad; [pʰɪn] adds aspiration.",
+      "confusion": "IPA transcription represents sounds rather than converting each written letter into a symbol.",
+      "syllabusTerms": [
+        "Broad and narrow transcription"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            45,
+            54,
+            55
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-ipa-and-transcription-levels-define",
+          "prompt": "Explain ipa and transcription levels briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "The IPA represents speech sounds; broad transcription abstracts categories while narrow transcription adds phonetic detail.",
+          "answer": "The IPA represents speech sounds; broad transcription abstracts categories while narrow transcription adds phonetic detail. Slashes conventionally mark phonemic analysis, while brackets permit more detailed phonetic description.",
+          "keyPoints": [
+            "The IPA represents speech sounds; broad transcription abstracts categories while narrow transcription adds phonetic detail.",
+            "IPA transcription represents sounds rather than converting each written letter into a symbol."
+          ],
+          "followUps": [
+            "e410-ipa-and-transcription-levels-apply"
+          ]
+        },
+        {
+          "id": "e410-ipa-and-transcription-levels-apply",
+          "prompt": "Why would an aspiration study need more detail than a pronunciation dictionary?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The study compares phonetic realisations such as aspiration, which ordinary broad phonemic notation may omit.",
+          "answer": "The study compares phonetic realisations such as aspiration, which ordinary broad phonemic notation may omit. Narrower transcription or measurement better fits that purpose.",
+          "keyPoints": [
+            "The study compares phonetic realisations such as aspiration, which ordinary broad phonemic notation may omit.",
+            "Narrower transcription or measurement better fits that purpose."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-connected-speech-transcription",
+      "groupId": "e410-transcription",
+      "title": "Connected-speech transcription",
+      "aliases": [],
+      "core": "Connected-speech transcription represents sounds in a continuous utterance rather than isolated dictionary forms.",
+      "explanation": "Account for weak forms, possible assimilation or elision, linking and prominence. State the accent and level of detail.",
+      "example": "Teaching example: A possible British rendering of I can go is /aɪ kən ɡəʊ/.",
+      "confusion": "A written sentence can have several legitimate spoken realisations.",
+      "syllabusTerms": [
+        "IPA transcription of connected speech"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            45,
+            46,
+            48,
+            49,
+            50
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-connected-speech-transcription-define",
+          "prompt": "What is connected-speech transcription?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Connected-speech transcription represents sounds in a continuous utterance rather than isolated dictionary forms.",
+          "answer": "Connected-speech transcription represents sounds in a continuous utterance rather than isolated dictionary forms. Account for weak forms, possible assimilation or elision, linking and prominence. State the accent and level of detail.",
+          "keyPoints": [
+            "Connected-speech transcription represents sounds in a continuous utterance rather than isolated dictionary forms.",
+            "A written sentence can have several legitimate spoken realisations."
+          ],
+          "followUps": [
+            "e410-connected-speech-transcription-apply"
+          ]
+        },
+        {
+          "id": "e410-connected-speech-transcription-apply",
+          "prompt": "Why is there no single obligatory connected-speech transcription of a sentence without a recording?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Accent, focus, speed and style affect pronunciation.",
+          "answer": "Accent, focus, speed and style affect pronunciation. A proposed transcription should identify its assumptions or represent a particular recorded performance.",
+          "keyPoints": [
+            "Accent, focus, speed and style affect pronunciation.",
+            "A proposed transcription should identify its assumptions or represent a particular recorded performance."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e410-linking-and-intrusive-r",
+      "groupId": "e410-transcription",
+      "title": "Linking and intrusive r",
+      "aliases": [],
+      "core": "In non-rhotic accents, linking /r/ appears before a following vowel where historical or spelling r supports it.",
+      "explanation": "Intrusive /r/ occurs in comparable vowel-linking contexts without a written r. Both vary across speakers and styles.",
+      "example": "Teaching example: Far away may have linking [r]; law and order may have intrusive [r].",
+      "confusion": "These descriptions do not apply identically to rhotic accents.",
+      "syllabusTerms": [
+        "Linking"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            46,
+            47
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e410-linking-and-intrusive-r-define",
+          "prompt": "Explain linking and intrusive r briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "In non-rhotic accents, linking /r/ appears before a following vowel where historical or spelling r supports it.",
+          "answer": "In non-rhotic accents, linking /r/ appears before a following vowel where historical or spelling r supports it. Intrusive /r/ occurs in comparable vowel-linking contexts without a written r. Both vary across speakers and styles.",
+          "keyPoints": [
+            "In non-rhotic accents, linking /r/ appears before a following vowel where historical or spelling r supports it.",
+            "These descriptions do not apply identically to rhotic accents."
+          ],
+          "followUps": [
+            "e410-linking-and-intrusive-r-apply"
+          ]
+        },
+        {
+          "id": "e410-linking-and-intrusive-r-apply",
+          "prompt": "How do far away and law and order illustrate different r-linking labels?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Far away can have linking r associated with the word far.",
+          "answer": "Far away can have linking r associated with the word far. Law and order can contain intrusive r despite no r in law's spelling, in some non-rhotic accents.",
+          "keyPoints": [
+            "Far away can have linking r associated with the word far.",
+            "Law and order can contain intrusive r despite no r in law's spelling, in some non-rhotic accents."
+          ],
+          "followUps": []
+        }
+      ]
+    }
+  ]
+}

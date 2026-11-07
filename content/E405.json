@@ -1,0 +1,3210 @@
+{
+  "id": "E405",
+  "title": "Semantics and Pragmatics",
+  "shortTitle": "Semantics & Pragmatics",
+  "overview": "Meaning involves conventional linguistic content, contextual interpretation and communicative action. Begin with words, relations and theories, then examine inference, deixis and speech acts. Politeness, conversation analysis and textual organisation connect these ideas to real interaction.",
+  "journey": [
+    "Understand conventional content: sense, reference, propositions and lexical relations.",
+    "Compare explanations: structural, cognitive, behavioural, truth-conditional and generative approaches.",
+    "Interpret use: context, implicature, deixis, speech acts and face.",
+    "Read interaction and text: sequences, repair, cohesion and coherence."
+  ],
+  "sources": [
+    {
+      "id": "E405",
+      "title": "E405.pdf",
+      "kind": "pdf",
+      "file": "E405.pdf",
+      "pageCount": 95
+    },
+    {
+      "id": "e405-behavior",
+      "title": "Bloomfield: A Set of Postulates for the Science of Language",
+      "kind": "web",
+      "url": "https://www.cambridge.org/core/journals/language/article/abs/set-of-postulates-for-the-science-of-language/85F67CE09F01779A8A0DEE8C7D41DCFD"
+    },
+    {
+      "id": "e405-generative",
+      "title": "McCawley: Generative Semantics",
+      "kind": "web",
+      "url": "https://www.sciencedirect.com/science/article/pii/B978008042580150057X"
+    },
+    {
+      "id": "e405-projection",
+      "title": "Levinson: Deixis and Pragmatics",
+      "kind": "web",
+      "url": "https://coehuman.uodiyala.edu.iq/uploads/Coehuman%20library%20pdf/English%20library%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D8%A7%D9%86%D9%83%D9%84%D9%8A%D8%B2%D9%8A/linguistics/Levinson_2004_deixis.pdf"
+    },
+    {
+      "id": "e405-deixis",
+      "title": "Levinson: Pragmatics, Deixis chapter",
+      "kind": "web",
+      "url": "https://www.cambridge.org/highereducation/books/pragmatics/6D0011901AE9E92CBC1F5F21D7C598C3/deixis/E16B66898DB9F2651E52DCE8C81918C7"
+    },
+    {
+      "id": "e405-polite",
+      "title": "Cambridge: Politeness and face-based approaches",
+      "kind": "web",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A5B3EBA1179D9B7E9107004480F4F737/9781009322928c5_102-128.pdf/politeness.pdf"
+    },
+    {
+      "id": "e405-face",
+      "title": "Cambridge: Face and politeness",
+      "kind": "web",
+      "url": "https://assets.cambridge.org/97811087/30945/excerpt/9781108730945_excerpt.pdf"
+    },
+    {
+      "id": "e405-strategies",
+      "title": "Brown and Levinson: Realizations of politeness strategies",
+      "kind": "web",
+      "url": "https://www.cambridge.org/highereducation/books/politeness/89113EE2FB4A1D254D4A8D2011E542E4/realizations-of-politeness-strategies-in-language/C6520CBC91390F462B85F1D967BBD809"
+    },
+    {
+      "id": "e405-impolite",
+      "title": "Culpeper: Research on impoliteness",
+      "kind": "web",
+      "url": "https://www.lancaster.ac.uk/social-sciences/people/jonathan-culpeper"
+    },
+    {
+      "id": "e405-sequence",
+      "title": "Schegloff: Sequence Organization in Interaction",
+      "kind": "web",
+      "url": "https://www.cambridge.org/core/books/sequence-organization-in-interaction/276CD30E23D3444114A90E5E2B24D55F"
+    },
+    {
+      "id": "e405-repair",
+      "title": "Schegloff, Jefferson and Sacks: The Preference for Self-Correction",
+      "kind": "web",
+      "url": "https://www.troyspier.com/assets/files/bibliographies/discourse/schegloff_jefferson_sacks_preference_self_correction.pdf"
+    },
+    {
+      "id": "e405-insertion",
+      "title": "Schegloff: Sequences and coherence in talk-in-interaction",
+      "kind": "web",
+      "url": "https://www.conversationanalysis.org/wp-content/uploads/2019/06/10_Schegloff_On_The_Organization_of_Sequences_as_a_source_of_coherence_in_talk-in-interaction.pdf"
+    },
+    {
+      "id": "e405-adjacency",
+      "title": "Schegloff: Sequence Organization, chapters 1–3",
+      "kind": "web",
+      "url": "https://icar.cnrs.fr/ecole_thematique/tranal_i/documents/org_seq/schegloff07_chap1-3.pdf"
+    }
+  ],
+  "groups": [
+    {
+      "id": "e405-meaning",
+      "title": "Meaning and its analysis",
+      "syllabus": [
+        "Defining meaning",
+        "Meaning of meaning",
+        "Difficulties of studying meaning",
+        "Levels of analysis of meaning",
+        "Types of meaning"
+      ]
+    },
+    {
+      "id": "e405-notions",
+      "title": "Key semantic notions",
+      "syllabus": [
+        "Sense",
+        "Reference and denotation",
+        "Proposition",
+        "Ambiguity",
+        "Lexical and grammatical meaning",
+        "Componential analysis",
+        "Lexical roles analysis",
+        "Lexical sense relations"
+      ]
+    },
+    {
+      "id": "e405-theories",
+      "title": "Theories of meaning",
+      "syllabus": [
+        "Structural theory",
+        "Behaviourist theory",
+        "Cognitive theory",
+        "Truth-conditional theory",
+        "Generative theory"
+      ]
+    },
+    {
+      "id": "e405-figurative",
+      "title": "Figurative language",
+      "syllabus": [
+        "Metaphor",
+        "Irony",
+        "Polysemy",
+        "Metonymy"
+      ]
+    },
+    {
+      "id": "e405-pragmatics",
+      "title": "Pragmatics and inference",
+      "syllabus": [
+        "Scope and position of pragmatics",
+        "Features of everyday language use",
+        "Sentence and utterance",
+        "Context",
+        "Entailment and presupposition"
+      ]
+    },
+    {
+      "id": "e405-implicature",
+      "title": "Implicature and cooperation",
+      "syllabus": [
+        "Conventional implicature",
+        "Conversational implicature",
+        "Cooperative principle",
+        "Conversational maxims"
+      ]
+    },
+    {
+      "id": "e405-deixis",
+      "title": "Deixis",
+      "syllabus": [
+        "Deictic centre",
+        "Deictic projection",
+        "Deictic and non-deictic expressions",
+        "Types of deixis",
+        "Honorifics"
+      ]
+    },
+    {
+      "id": "e405-acts",
+      "title": "Speech acts",
+      "syllabus": [
+        "Performatives and constatives",
+        "Felicity conditions",
+        "Types of speech acts",
+        "Searle typology",
+        "Indirect speech acts"
+      ]
+    },
+    {
+      "id": "e405-politeness",
+      "title": "Politeness and face",
+      "syllabus": [
+        "Characteristics of politeness",
+        "Face wants",
+        "Negative and positive face",
+        "Negative and positive politeness",
+        "Impoliteness"
+      ]
+    },
+    {
+      "id": "e405-conversation",
+      "title": "Conversation analysis",
+      "syllabus": [
+        "Topic",
+        "Topic change",
+        "Topic conflict",
+        "Repairs",
+        "Inserted sequence",
+        "Adjacency pair"
+      ]
+    },
+    {
+      "id": "e405-interface",
+      "title": "The semantics–pragmatics interface",
+      "syllabus": [
+        "Semantics–pragmatics distinction",
+        "Semantics–pragmatics interface"
+      ]
+    },
+    {
+      "id": "e405-text",
+      "title": "Cohesion and coherence",
+      "syllabus": [
+        "Cohesion",
+        "Coherence"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "e405-meaning-and-its-difficulties",
+      "groupId": "e405-meaning",
+      "title": "Meaning and its difficulties",
+      "aliases": [],
+      "core": "Linguistic meaning concerns what expressions contribute to interpretation and communication.",
+      "explanation": "Meaning can refer to conventional content, contextual reference or a speaker's intended message. Ambiguity, context and differing analytical goals make one universal definition difficult.",
+      "example": "Teaching example: It's cold can describe temperature and, in context, prompt someone to close a window.",
+      "confusion": "Meaning is not identical to one person's private association with a word.",
+      "syllabusTerms": [
+        "Defining meaning",
+        "Meaning of meaning",
+        "Difficulties of studying meaning"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-meaning-and-its-difficulties-define",
+          "prompt": "Explain meaning and its difficulties briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Linguistic meaning concerns what expressions contribute to interpretation and communication.",
+          "answer": "Linguistic meaning concerns what expressions contribute to interpretation and communication. Meaning can refer to conventional content, contextual reference or a speaker's intended message. Ambiguity, context and differing analytical goals make one universal definition difficult.",
+          "keyPoints": [
+            "Linguistic meaning concerns what expressions contribute to interpretation and communication.",
+            "Meaning is not identical to one person's private association with a word."
+          ],
+          "followUps": [
+            "e405-meaning-and-its-difficulties-apply"
+          ]
+        },
+        {
+          "id": "e405-meaning-and-its-difficulties-apply",
+          "prompt": "Why is looking up every word insufficient to understand an utterance?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Dictionary meanings do not determine every referent, context or communicative intention.",
+          "answer": "Dictionary meanings do not determine every referent, context or communicative intention. A hearer also interprets how the words are being used in the situation.",
+          "keyPoints": [
+            "Dictionary meanings do not determine every referent, context or communicative intention.",
+            "A hearer also interprets how the words are being used in the situation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-levels-of-meaning",
+      "groupId": "e405-meaning",
+      "title": "Levels of meaning",
+      "aliases": [],
+      "core": "Expression meaning concerns conventional content, utterance meaning its contextual use, and communicative meaning the message conveyed.",
+      "explanation": "The levels distinguish a language expression from a particular use and the speaker's intended contribution.",
+      "example": "Teaching example: It's late has conventional content, a contextual time reference and possibly an intended request to leave.",
+      "confusion": "These levels interact; they are analytical distinctions rather than three unrelated messages.",
+      "syllabusTerms": [
+        "Levels of analysis of meaning"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            10,
+            11,
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-levels-of-meaning-define",
+          "prompt": "What is levels of meaning?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Expression meaning concerns conventional content, utterance meaning its contextual use, and communicative meaning the message conveyed.",
+          "answer": "Expression meaning concerns conventional content, utterance meaning its contextual use, and communicative meaning the message conveyed. The levels distinguish a language expression from a particular use and the speaker's intended contribution.",
+          "keyPoints": [
+            "Expression meaning concerns conventional content, utterance meaning its contextual use, and communicative meaning the message conveyed.",
+            "These levels interact; they are analytical distinctions rather than three unrelated messages."
+          ],
+          "followUps": [
+            "e405-levels-of-meaning-apply"
+          ]
+        },
+        {
+          "id": "e405-levels-of-meaning-apply",
+          "prompt": "How can 'The door is open' convey more than its literal description?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "In context it may invite entry or request closure.",
+          "answer": "In context it may invite entry or request closure. The sentence content describes a state, while communicative interpretation adds the relevant intended action.",
+          "keyPoints": [
+            "In context it may invite entry or request closure.",
+            "The sentence content describes a state, while communicative interpretation adds the relevant intended action."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-descriptive-social-and-expressive-meaning",
+      "groupId": "e405-meaning",
+      "title": "Descriptive, social and expressive meaning",
+      "aliases": [],
+      "core": "Descriptive meaning represents situations; social meaning indexes social relationships; expressive meaning conveys attitudes or feelings.",
+      "explanation": "An expression can contribute more than one dimension. The guide supplies this three-part account rather than a complete inventory of every textbook taxonomy.",
+      "example": "Teaching example: A formal title indexes a social relation; an insulting word can add negative attitude.",
+      "confusion": "An expression's emotional associations are not automatically part of its descriptive truth conditions.",
+      "syllabusTerms": [
+        "Types of meaning"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-descriptive-social-and-expressive-meaning-define",
+          "prompt": "Explain descriptive, social and expressive meaning briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Descriptive meaning represents situations; social meaning indexes social relationships; expressive meaning conveys attitudes or feelings.",
+          "answer": "Descriptive meaning represents situations; social meaning indexes social relationships; expressive meaning conveys attitudes or feelings. An expression can contribute more than one dimension. The guide supplies this three-part account rather than a complete inventory of every textbook taxonomy.",
+          "keyPoints": [
+            "Descriptive meaning represents situations; social meaning indexes social relationships; expressive meaning conveys attitudes or feelings.",
+            "An expression's emotional associations are not automatically part of its descriptive truth conditions."
+          ],
+          "followUps": [
+            "e405-descriptive-social-and-expressive-meaning-apply"
+          ]
+        },
+        {
+          "id": "e405-descriptive-social-and-expressive-meaning-apply",
+          "prompt": "How can two expressions refer to the same person but differ in social meaning?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "One may use a formal title and another an intimate nickname.",
+          "answer": "One may use a formal title and another an intimate nickname. Their reference can coincide while they position the speaker's relationship differently.",
+          "keyPoints": [
+            "One may use a formal title and another an intimate nickname.",
+            "Their reference can coincide while they position the speaker's relationship differently."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-sense",
+      "groupId": "e405-notions",
+      "title": "Sense",
+      "aliases": [],
+      "core": "Sense is the semantic content through which an expression is understood, distinct from a particular referent.",
+      "explanation": "Expressions can share a referent while presenting it differently. The guide gives limited technical coverage of sense.",
+      "example": "Teaching example: Morning star and evening star can identify Venus through different descriptions.",
+      "confusion": "A sense is not simply the object referred to.",
+      "syllabusTerms": [
+        "Sense"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-sense-define",
+          "prompt": "What is sense?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Sense is the semantic content through which an expression is understood, distinct from a particular referent.",
+          "answer": "Sense is the semantic content through which an expression is understood, distinct from a particular referent. Expressions can share a referent while presenting it differently. The guide gives limited technical coverage of sense.",
+          "keyPoints": [
+            "Sense is the semantic content through which an expression is understood, distinct from a particular referent.",
+            "A sense is not simply the object referred to."
+          ],
+          "followUps": [
+            "e405-sense-apply"
+          ]
+        },
+        {
+          "id": "e405-sense-apply",
+          "prompt": "Why can 'morning star' and 'evening star' differ in sense while sharing reference?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They present the object through different descriptive modes.",
+          "answer": "They present the object through different descriptive modes. In the relevant astronomical interpretation both refer to Venus, but they do not convey the same descriptive information.",
+          "keyPoints": [
+            "They present the object through different descriptive modes.",
+            "In the relevant astronomical interpretation both refer to Venus, but they do not convey the same descriptive information."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-reference-and-denotation",
+      "groupId": "e405-notions",
+      "title": "Reference and denotation",
+      "aliases": [],
+      "core": "Reference identifies an entity in use; denotation concerns what an expression conventionally applies to.",
+      "explanation": "A common noun can denote a category, while a speaker uses a noun phrase to identify a particular member.",
+      "example": "Teaching example: Cat applies to cats generally; that cat can refer to a particular animal in context.",
+      "confusion": "Reference needs not be fixed solely by dictionary meaning.",
+      "syllabusTerms": [
+        "Reference and denotation"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            15,
+            16
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-reference-and-denotation-define",
+          "prompt": "Explain reference and denotation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Reference identifies an entity in use; denotation concerns what an expression conventionally applies to.",
+          "answer": "Reference identifies an entity in use; denotation concerns what an expression conventionally applies to. A common noun can denote a category, while a speaker uses a noun phrase to identify a particular member.",
+          "keyPoints": [
+            "Reference identifies an entity in use; denotation concerns what an expression conventionally applies to.",
+            "Reference needs not be fixed solely by dictionary meaning."
+          ],
+          "followUps": [
+            "e405-reference-and-denotation-apply"
+          ]
+        },
+        {
+          "id": "e405-reference-and-denotation-apply",
+          "prompt": "What information is needed to identify the referent of 'that book'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The expression's meaning provides instructions, but the situation, gesture or previous discourse helps identify which particular book the speaker intends.",
+          "answer": "The expression's meaning provides instructions, but the situation, gesture or previous discourse helps identify which particular book the speaker intends.",
+          "keyPoints": [
+            "The expression's meaning provides instructions, but the situation, gesture or previous discourse helps identify which particular book the speaker intends."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-propositions",
+      "groupId": "e405-notions",
+      "title": "Propositions",
+      "aliases": [],
+      "core": "A proposition is the content that can be asserted, denied or evaluated for truth.",
+      "explanation": "Different sentence forms can be related to the same situation content, while questions need not assert it.",
+      "example": "Teaching example: The door is open and Is the door open? concern the same possible state.",
+      "confusion": "A proposition is not simply the sequence of words in a sentence.",
+      "syllabusTerms": [
+        "Proposition"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-propositions-define",
+          "prompt": "Explain propositions briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A proposition is the content that can be asserted, denied or evaluated for truth.",
+          "answer": "A proposition is the content that can be asserted, denied or evaluated for truth. Different sentence forms can be related to the same situation content, while questions need not assert it.",
+          "keyPoints": [
+            "A proposition is the content that can be asserted, denied or evaluated for truth.",
+            "A proposition is not simply the sequence of words in a sentence."
+          ],
+          "followUps": [
+            "e405-propositions-apply"
+          ]
+        },
+        {
+          "id": "e405-propositions-apply",
+          "prompt": "Can two differently worded sentences express the same proposition?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes, in an appropriate context they can convey the same truth-evaluable content.",
+          "answer": "Yes, in an appropriate context they can convey the same truth-evaluable content. Wording, sentence form and propositional content should be distinguished.",
+          "keyPoints": [
+            "Yes, in an appropriate context they can convey the same truth-evaluable content.",
+            "Wording, sentence form and propositional content should be distinguished."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-ambiguity-homonymy-and-polysemy",
+      "groupId": "e405-notions",
+      "title": "Ambiguity, homonymy and polysemy",
+      "aliases": [],
+      "core": "Ambiguity allows distinct readings; homonymy involves unrelated lexical meanings, while polysemy involves related meanings.",
+      "explanation": "Lexical ambiguity can come from homonymy or polysemy; structural ambiguity comes from alternative grammatical organisation.",
+      "example": "Teaching example: Bank can mean a financial institution or a river edge; head has several related uses.",
+      "confusion": "Relatedness is sometimes debatable; contextual variation does not always establish a stored lexical sense.",
+      "syllabusTerms": [
+        "Ambiguity",
+        "Polysemy"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            17,
+            18,
+            19,
+            35,
+            36
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-ambiguity-homonymy-and-polysemy-define",
+          "prompt": "Explain ambiguity, homonymy and polysemy briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Ambiguity allows distinct readings; homonymy involves unrelated lexical meanings, while polysemy involves related meanings.",
+          "answer": "Ambiguity allows distinct readings; homonymy involves unrelated lexical meanings, while polysemy involves related meanings. Lexical ambiguity can come from homonymy or polysemy; structural ambiguity comes from alternative grammatical organisation.",
+          "keyPoints": [
+            "Ambiguity allows distinct readings; homonymy involves unrelated lexical meanings, while polysemy involves related meanings.",
+            "Relatedness is sometimes debatable; contextual variation does not always establish a stored lexical sense."
+          ],
+          "followUps": [
+            "e405-ambiguity-homonymy-and-polysemy-apply"
+          ]
+        },
+        {
+          "id": "e405-ambiguity-homonymy-and-polysemy-apply",
+          "prompt": "How does 'I saw the man with the telescope' differ from bank-type ambiguity?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its readings can come from different attachment structures: the observer used the telescope, or the man had it.",
+          "answer": "Its readings can come from different attachment structures: the observer used the telescope, or the man had it. Bank-type ambiguity is lexical rather than dependent on this phrase attachment.",
+          "keyPoints": [
+            "Its readings can come from different attachment structures: the observer used the telescope, or the man had it.",
+            "Bank-type ambiguity is lexical rather than dependent on this phrase attachment."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-vagueness",
+      "groupId": "e405-notions",
+      "title": "Vagueness",
+      "aliases": [],
+      "core": "Vagueness concerns unclear boundaries within a reading rather than several distinct readings.",
+      "explanation": "A vague term can have borderline cases even when its intended sense is understood.",
+      "example": "Teaching example: Tall has no single context-free height boundary.",
+      "confusion": "A vague word need not have two separate dictionary senses.",
+      "syllabusTerms": [
+        "Ambiguity"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-vagueness-define",
+          "prompt": "Explain vagueness briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Vagueness concerns unclear boundaries within a reading rather than several distinct readings.",
+          "answer": "Vagueness concerns unclear boundaries within a reading rather than several distinct readings. A vague term can have borderline cases even when its intended sense is understood.",
+          "keyPoints": [
+            "Vagueness concerns unclear boundaries within a reading rather than several distinct readings.",
+            "A vague word need not have two separate dictionary senses."
+          ],
+          "followUps": [
+            "e405-vagueness-apply"
+          ]
+        },
+        {
+          "id": "e405-vagueness-apply",
+          "prompt": "Why is asking 'How tall must someone be to count as tall?' a question about vagueness?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The issue is the boundary of one gradable meaning, not choosing between distinct unrelated readings.",
+          "answer": "The issue is the boundary of one gradable meaning, not choosing between distinct unrelated readings. The relevant standard can vary with context.",
+          "keyPoints": [
+            "The issue is the boundary of one gradable meaning, not choosing between distinct unrelated readings.",
+            "The relevant standard can vary with context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-lexical-and-grammatical-meaning",
+      "groupId": "e405-notions",
+      "title": "Lexical and grammatical meaning",
+      "aliases": [],
+      "core": "Lexical meaning is associated with vocabulary items; grammatical meaning is contributed by forms and constructions.",
+      "explanation": "Inflections, function words and word order can express number, tense or participant relations.",
+      "example": "Teaching example: Dog contributes lexical content while plural -s adds grammatical number.",
+      "confusion": "Grammatical meaning is not empty or less meaningful than lexical content.",
+      "syllabusTerms": [
+        "Lexical and grammatical meaning"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-lexical-and-grammatical-meaning-define",
+          "prompt": "Explain lexical and grammatical meaning briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Lexical meaning is associated with vocabulary items; grammatical meaning is contributed by forms and constructions.",
+          "answer": "Lexical meaning is associated with vocabulary items; grammatical meaning is contributed by forms and constructions. Inflections, function words and word order can express number, tense or participant relations.",
+          "keyPoints": [
+            "Lexical meaning is associated with vocabulary items; grammatical meaning is contributed by forms and constructions.",
+            "Grammatical meaning is not empty or less meaningful than lexical content."
+          ],
+          "followUps": [
+            "e405-lexical-and-grammatical-meaning-apply"
+          ]
+        },
+        {
+          "id": "e405-lexical-and-grammatical-meaning-apply",
+          "prompt": "What meaning changes between 'the dog chased the cat' and 'the cat chased the dog'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The lexical items remain largely the same, but word order changes the participant roles expressed by the construction, producing different situation meanings.",
+          "answer": "The lexical items remain largely the same, but word order changes the participant roles expressed by the construction, producing different situation meanings.",
+          "keyPoints": [
+            "The lexical items remain largely the same, but word order changes the participant roles expressed by the construction, producing different situation meanings."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-componential-analysis",
+      "groupId": "e405-notions",
+      "title": "Componential analysis",
+      "aliases": [],
+      "core": "Componential analysis represents word meanings through combinations of semantic features.",
+      "explanation": "It is useful for explicit contrasts within a lexical set, but some meanings resist a simple feature checklist.",
+      "example": "Teaching example: A simplified comparison can distinguish adult versus non-adult and male versus female terms.",
+      "confusion": "A convenient feature analysis is a model, not proof that all meaning consists of binary features.",
+      "syllabusTerms": [
+        "Componential analysis"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-componential-analysis-define",
+          "prompt": "Explain componential analysis briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Componential analysis represents word meanings through combinations of semantic features.",
+          "answer": "Componential analysis represents word meanings through combinations of semantic features. It is useful for explicit contrasts within a lexical set, but some meanings resist a simple feature checklist.",
+          "keyPoints": [
+            "Componential analysis represents word meanings through combinations of semantic features.",
+            "A convenient feature analysis is a model, not proof that all meaning consists of binary features."
+          ],
+          "followUps": [
+            "e405-componential-analysis-apply"
+          ]
+        },
+        {
+          "id": "e405-componential-analysis-apply",
+          "prompt": "What is a limitation of defining every category by a fixed feature checklist?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Some categories have vague boundaries, context-sensitive use or typicality effects.",
+          "answer": "Some categories have vague boundaries, context-sensitive use or typicality effects. A fixed checklist may miss these aspects or rely on disputed features.",
+          "keyPoints": [
+            "Some categories have vague boundaries, context-sensitive use or typicality effects.",
+            "A fixed checklist may miss these aspects or rely on disputed features."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-semantic-roles",
+      "groupId": "e405-notions",
+      "title": "Semantic roles",
+      "aliases": [],
+      "core": "Semantic roles describe how participants relate to an event, such as agent, theme or patient.",
+      "explanation": "An agent typically initiates an action; a patient is affected; a theme is involved or moved. Role inventories differ across frameworks.",
+      "example": "Teaching example: In The child broke the cup, child is agent and cup is patient.",
+      "confusion": "Semantic roles do not equal grammatical functions: a subject need not be an agent.",
+      "syllabusTerms": [
+        "Lexical roles analysis"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-semantic-roles-define",
+          "prompt": "Explain semantic roles briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Semantic roles describe how participants relate to an event, such as agent, theme or patient.",
+          "answer": "Semantic roles describe how participants relate to an event, such as agent, theme or patient. An agent typically initiates an action; a patient is affected; a theme is involved or moved. Role inventories differ across frameworks.",
+          "keyPoints": [
+            "Semantic roles describe how participants relate to an event, such as agent, theme or patient.",
+            "Semantic roles do not equal grammatical functions: a subject need not be an agent."
+          ],
+          "followUps": [
+            "e405-semantic-roles-apply"
+          ]
+        },
+        {
+          "id": "e405-semantic-roles-apply",
+          "prompt": "In 'The cup was broken by the child', is the subject the agent?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. The cup is the grammatical subject but the affected patient. The child remains the agent in the passive construction.",
+          "keyPoints": [
+            "No.",
+            "The cup is the grammatical subject but the affected patient.",
+            "The child remains the agent in the passive construction."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-synonymy-and-near-synonymy",
+      "groupId": "e405-notions",
+      "title": "Synonymy and near-synonymy",
+      "aliases": [],
+      "core": "Synonymy concerns sameness or close similarity of meaning between expressions.",
+      "explanation": "Near synonyms can differ in register, distribution, connotation or collocation, so complete interchangeability is unusual.",
+      "example": "Teaching example: Begin and commence overlap, but commence is typically more formal.",
+      "confusion": "Sharing a referent does not automatically make two expressions synonyms.",
+      "syllabusTerms": [
+        "Lexical sense relations"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            24,
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-synonymy-and-near-synonymy-define",
+          "prompt": "Explain synonymy and near-synonymy briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Synonymy concerns sameness or close similarity of meaning between expressions.",
+          "answer": "Synonymy concerns sameness or close similarity of meaning between expressions. Near synonyms can differ in register, distribution, connotation or collocation, so complete interchangeability is unusual.",
+          "keyPoints": [
+            "Synonymy concerns sameness or close similarity of meaning between expressions.",
+            "Sharing a referent does not automatically make two expressions synonyms."
+          ],
+          "followUps": [
+            "e405-synonymy-and-near-synonymy-apply"
+          ]
+        },
+        {
+          "id": "e405-synonymy-and-near-synonymy-apply",
+          "prompt": "Why may replacing every word with a dictionary synonym change a text?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Near synonyms can differ in tone, grammar and typical combinations.",
+          "answer": "Near synonyms can differ in tone, grammar and typical combinations. Semantic similarity does not guarantee equivalent use in every context.",
+          "keyPoints": [
+            "Near synonyms can differ in tone, grammar and typical combinations.",
+            "Semantic similarity does not guarantee equivalent use in every context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-hyponymy-and-meronymy",
+      "groupId": "e405-notions",
+      "title": "Hyponymy and meronymy",
+      "aliases": [],
+      "core": "Hyponymy is a kind-of relation; meronymy is a part-of relation.",
+      "explanation": "These organise vocabulary in different ways and should be identified by the relevant conceptual link.",
+      "example": "Teaching example: Rose is a kind of flower; petal is part of a flower.",
+      "confusion": "A part is not necessarily a subtype of its whole.",
+      "syllabusTerms": [
+        "Lexical sense relations"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-hyponymy-and-meronymy-define",
+          "prompt": "Explain hyponymy and meronymy briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Hyponymy is a kind-of relation; meronymy is a part-of relation.",
+          "answer": "Hyponymy is a kind-of relation; meronymy is a part-of relation. These organise vocabulary in different ways and should be identified by the relevant conceptual link.",
+          "keyPoints": [
+            "Hyponymy is a kind-of relation; meronymy is a part-of relation.",
+            "A part is not necessarily a subtype of its whole."
+          ],
+          "followUps": [
+            "e405-hyponymy-and-meronymy-apply"
+          ]
+        },
+        {
+          "id": "e405-hyponymy-and-meronymy-apply",
+          "prompt": "Is wheel a hyponym of car?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. A wheel is part of a car, so the relation is meronymy. A hatchback, by contrast, is a kind of car and illustrates hyponymy.",
+          "keyPoints": [
+            "No.",
+            "A wheel is part of a car, so the relation is meronymy.",
+            "A hatchback, by contrast, is a kind of car and illustrates hyponymy."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-antonymy-and-complementarity",
+      "groupId": "e405-notions",
+      "title": "Antonymy and complementarity",
+      "aliases": [],
+      "core": "Antonymy concerns oppositeness; complementary terms divide a relevant domain into mutually exclusive alternatives.",
+      "explanation": "Gradable opposites permit degrees and often a middle range. Complementarity depends on the domain and interpretation.",
+      "example": "Teaching example: Hot and cold allow warm; alive and dead can be complementary in an ordinary specified context.",
+      "confusion": "Not hot does not normally entail cold.",
+      "syllabusTerms": [
+        "Lexical sense relations"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-antonymy-and-complementarity-define",
+          "prompt": "Explain antonymy and complementarity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Antonymy concerns oppositeness; complementary terms divide a relevant domain into mutually exclusive alternatives.",
+          "answer": "Antonymy concerns oppositeness; complementary terms divide a relevant domain into mutually exclusive alternatives. Gradable opposites permit degrees and often a middle range. Complementarity depends on the domain and interpretation.",
+          "keyPoints": [
+            "Antonymy concerns oppositeness; complementary terms divide a relevant domain into mutually exclusive alternatives.",
+            "Not hot does not normally entail cold."
+          ],
+          "followUps": [
+            "e405-antonymy-and-complementarity-apply"
+          ]
+        },
+        {
+          "id": "e405-antonymy-and-complementarity-apply",
+          "prompt": "Why does 'not hot' fail to entail 'cold'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Hot and cold are gradable opposites with an intermediate range.",
+          "answer": "Hot and cold are gradable opposites with an intermediate range. Something can be warm or neutral, so denying one endpoint does not establish the other.",
+          "keyPoints": [
+            "Hot and cold are gradable opposites with an intermediate range.",
+            "Something can be warm or neutral, so denying one endpoint does not establish the other."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-structural-theories-of-meaning",
+      "groupId": "e405-theories",
+      "title": "Structural theories of meaning",
+      "aliases": [],
+      "core": "Structural approaches explain meanings through relations within a language system.",
+      "explanation": "Contrast and combination help determine a lexical item's place in a semantic network.",
+      "example": "Teaching example: Hot is partly understood through relations with warm, cool and cold.",
+      "confusion": "A word's meaning is not explained only by pointing to an external object.",
+      "syllabusTerms": [
+        "Structural theory"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-structural-theories-of-meaning-define",
+          "prompt": "What is structural theories of meaning?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Structural approaches explain meanings through relations within a language system.",
+          "answer": "Structural approaches explain meanings through relations within a language system. Contrast and combination help determine a lexical item's place in a semantic network.",
+          "keyPoints": [
+            "Structural approaches explain meanings through relations within a language system.",
+            "A word's meaning is not explained only by pointing to an external object."
+          ],
+          "followUps": [
+            "e405-structural-theories-of-meaning-apply"
+          ]
+        },
+        {
+          "id": "e405-structural-theories-of-meaning-apply",
+          "prompt": "How would a structural analysis approach colour vocabulary?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It would examine contrasts and relations among the terms in that language, including how they divide the semantic field, rather than treating each word in isolation.",
+          "answer": "It would examine contrasts and relations among the terms in that language, including how they divide the semantic field, rather than treating each word in isolation.",
+          "keyPoints": [
+            "It would examine contrasts and relations among the terms in that language, including how they divide the semantic field, rather than treating each word in isolation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-behaviourist-approaches-to-meaning",
+      "groupId": "e405-theories",
+      "title": "Behaviourist approaches to meaning",
+      "aliases": [],
+      "core": "Behaviourist approaches seek to explain verbal meaning through observable conditions and responses.",
+      "explanation": "Bloomfield connected utterances with the practical situations preceding and following speech. This offers a different explanatory emphasis from mental concepts.",
+      "example": "Teaching example: A request is considered in relation to its circumstances and the listener's practical response.",
+      "confusion": "A stimulus–response sketch does not provide a complete analysis of every abstract or novel meaning.",
+      "syllabusTerms": [
+        "Behaviourist theory"
+      ],
+      "sources": [
+        {
+          "id": "e405-behavior"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-behaviourist-approaches-to-meaning-define",
+          "prompt": "What is behaviourist approaches to meaning?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Behaviourist approaches seek to explain verbal meaning through observable conditions and responses.",
+          "answer": "Behaviourist approaches seek to explain verbal meaning through observable conditions and responses. Bloomfield connected utterances with the practical situations preceding and following speech. This offers a different explanatory emphasis from mental concepts.",
+          "keyPoints": [
+            "Behaviourist approaches seek to explain verbal meaning through observable conditions and responses.",
+            "A stimulus–response sketch does not provide a complete analysis of every abstract or novel meaning."
+          ],
+          "followUps": [
+            "e405-behaviourist-approaches-to-meaning-apply"
+          ]
+        },
+        {
+          "id": "e405-behaviourist-approaches-to-meaning-apply",
+          "prompt": "Why is one fixed response inadequate as the meaning of 'Close the door'?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The hearer may comply, refuse or misunderstand.",
+          "answer": "The hearer may comply, refuse or misunderstand. Meaning cannot be equated with the actual response on every occasion; this is a limitation of a simple response-based account.",
+          "keyPoints": [
+            "The hearer may comply, refuse or misunderstand.",
+            "Meaning cannot be equated with the actual response on every occasion; this is a limitation of a simple response-based account."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-cognitive-semantics",
+      "groupId": "e405-theories",
+      "title": "Cognitive semantics",
+      "aliases": [],
+      "core": "Cognitive approaches connect meaning with conceptualisation and categorisation.",
+      "explanation": "Concepts, prototypes and background knowledge help explain interpretation, while the guide distinguishes conventional meaning from richer personal knowledge.",
+      "example": "Teaching example: A robin can seem more typical of BIRD than a penguin.",
+      "confusion": "Typicality is not identical to membership: a less typical penguin is still fully a bird.",
+      "syllabusTerms": [
+        "Cognitive theory"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            29,
+            30,
+            31,
+            32
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-cognitive-semantics-define",
+          "prompt": "Explain cognitive semantics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Cognitive approaches connect meaning with conceptualisation and categorisation.",
+          "answer": "Cognitive approaches connect meaning with conceptualisation and categorisation. Concepts, prototypes and background knowledge help explain interpretation, while the guide distinguishes conventional meaning from richer personal knowledge.",
+          "keyPoints": [
+            "Cognitive approaches connect meaning with conceptualisation and categorisation.",
+            "Typicality is not identical to membership: a less typical penguin is still fully a bird."
+          ],
+          "followUps": [
+            "e405-cognitive-semantics-apply"
+          ]
+        },
+        {
+          "id": "e405-cognitive-semantics-apply",
+          "prompt": "Does a penguin's low typicality make it partly a bird?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Typicality judgments concern how representative an example seems, not necessarily how fully it belongs to the category.",
+          "keyPoints": [
+            "No.",
+            "Typicality judgments concern how representative an example seems, not necessarily how fully it belongs to the category."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-truth-conditional-semantics",
+      "groupId": "e405-theories",
+      "title": "Truth-conditional semantics",
+      "aliases": [],
+      "core": "A truth-conditional account asks what must hold for a statement to be true.",
+      "explanation": "Specify the reading and contextual reference before evaluating its truth. Truth conditions differ from whether we currently know the statement is true.",
+      "example": "Teaching example: The window is open is true only if the relevant window is open in the relevant situation.",
+      "confusion": "A statement can have clear truth conditions even when its truth is unknown.",
+      "syllabusTerms": [
+        "Truth-conditional theory"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-truth-conditional-semantics-define",
+          "prompt": "Explain truth-conditional semantics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A truth-conditional account asks what must hold for a statement to be true.",
+          "answer": "A truth-conditional account asks what must hold for a statement to be true. Specify the reading and contextual reference before evaluating its truth. Truth conditions differ from whether we currently know the statement is true.",
+          "keyPoints": [
+            "A truth-conditional account asks what must hold for a statement to be true.",
+            "A statement can have clear truth conditions even when its truth is unknown."
+          ],
+          "followUps": [
+            "e405-truth-conditional-semantics-apply"
+          ]
+        },
+        {
+          "id": "e405-truth-conditional-semantics-apply",
+          "prompt": "Why does 'The sun was drying the washing' not entail that the washing became dry?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The progressive describes an ongoing process without guaranteeing completion.",
+          "answer": "The progressive describes an ongoing process without guaranteeing completion. Truth conditions must preserve that difference from a completed successful drying event.",
+          "keyPoints": [
+            "The progressive describes an ongoing process without guaranteeing completion.",
+            "Truth conditions must preserve that difference from a completed successful drying event."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-generative-semantics",
+      "groupId": "e405-theories",
+      "title": "Generative semantics",
+      "aliases": [],
+      "core": "Historical generative semantics explored a close derivational relationship between semantic representations and sentence structure.",
+      "explanation": "It developed within debates about transformational grammar, with scholars including Lakoff, McCawley, Postal and Ross. The syllabus's broad label should be distinguished from other generative approaches.",
+      "example": "Teaching example: An analysis may decompose a lexical predicate into abstract semantic components used in deriving a sentence.",
+      "confusion": "Generative semantics, Chomskyan grammar and the Generative Lexicon are not interchangeable labels.",
+      "syllabusTerms": [
+        "Generative theory"
+      ],
+      "sources": [
+        {
+          "id": "e405-generative"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-generative-semantics-define",
+          "prompt": "Explain generative semantics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Historical generative semantics explored a close derivational relationship between semantic representations and sentence structure.",
+          "answer": "Historical generative semantics explored a close derivational relationship between semantic representations and sentence structure. It developed within debates about transformational grammar, with scholars including Lakoff, McCawley, Postal and Ross. The syllabus's broad label should be distinguished from other generative approaches.",
+          "keyPoints": [
+            "Historical generative semantics explored a close derivational relationship between semantic representations and sentence structure.",
+            "Generative semantics, Chomskyan grammar and the Generative Lexicon are not interchangeable labels."
+          ],
+          "followUps": [
+            "e405-generative-semantics-apply"
+          ]
+        },
+        {
+          "id": "e405-generative-semantics-apply",
+          "prompt": "Why should a brief mention of the Generative Lexicon not stand in for all generative meaning theory?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "They are distinct research programmes with different histories and proposals.",
+          "answer": "They are distinct research programmes with different histories and proposals. State which framework you mean rather than treating every theory called generative as the same account.",
+          "keyPoints": [
+            "They are distinct research programmes with different histories and proposals.",
+            "State which framework you mean rather than treating every theory called generative as the same account."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-metaphor",
+      "groupId": "e405-figurative",
+      "title": "Metaphor",
+      "aliases": [],
+      "core": "Metaphor uses a source domain to structure or describe a different target domain through selected similarities.",
+      "explanation": "The comparison transfers relevant features rather than asserting literal identity.",
+      "example": "Teaching example: My inbox is a swamp presents messages as difficult terrain to escape.",
+      "confusion": "Nonliteral language is not automatically metaphor; the relation may be metonymic or ironic.",
+      "syllabusTerms": [
+        "Metaphor"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            34
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-metaphor-define",
+          "prompt": "What is metaphor?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Metaphor uses a source domain to structure or describe a different target domain through selected similarities.",
+          "answer": "Metaphor uses a source domain to structure or describe a different target domain through selected similarities. The comparison transfers relevant features rather than asserting literal identity.",
+          "keyPoints": [
+            "Metaphor uses a source domain to structure or describe a different target domain through selected similarities.",
+            "Nonliteral language is not automatically metaphor; the relation may be metonymic or ironic."
+          ],
+          "followUps": [
+            "e405-metaphor-apply"
+          ]
+        },
+        {
+          "id": "e405-metaphor-apply",
+          "prompt": "What does 'the roots of the disagreement' illustrate?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A conventional metaphor: plant roots supply a pattern for the origin or basis of an abstract disagreement.",
+          "answer": "A conventional metaphor: plant roots supply a pattern for the origin or basis of an abstract disagreement. It does not imply actual botanical parts.",
+          "keyPoints": [
+            "A conventional metaphor: plant roots supply a pattern for the origin or basis of an abstract disagreement.",
+            "It does not imply actual botanical parts."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-irony-and-hyperbole",
+      "groupId": "e405-figurative",
+      "title": "Irony and hyperbole",
+      "aliases": [],
+      "core": "Irony can create a critical contrast between literal wording and intended interpretation; hyperbole exaggerates.",
+      "explanation": "Context helps a hearer recognise the mismatch. Exaggeration alone does not establish irony.",
+      "example": "Teaching example: Perfect picnic weather spoken after rain ruins the food can be ironic.",
+      "confusion": "Nonliteralness alone does not identify which figure is being used.",
+      "syllabusTerms": [
+        "Irony"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            34,
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-irony-and-hyperbole-define",
+          "prompt": "Explain irony and hyperbole briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Irony can create a critical contrast between literal wording and intended interpretation; hyperbole exaggerates.",
+          "answer": "Irony can create a critical contrast between literal wording and intended interpretation; hyperbole exaggerates. Context helps a hearer recognise the mismatch. Exaggeration alone does not establish irony.",
+          "keyPoints": [
+            "Irony can create a critical contrast between literal wording and intended interpretation; hyperbole exaggerates.",
+            "Nonliteralness alone does not identify which figure is being used."
+          ],
+          "followUps": [
+            "e405-irony-and-hyperbole-apply"
+          ]
+        },
+        {
+          "id": "e405-irony-and-hyperbole-apply",
+          "prompt": "Is 'I waited a thousand years for coffee' necessarily irony?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. It is an obvious exaggeration and therefore hyperbole. It may express impatience without the pretended praise or critical contrast typical of many ironic uses.",
+          "keyPoints": [
+            "No.",
+            "It is an obvious exaggeration and therefore hyperbole.",
+            "It may express impatience without the pretended praise or critical contrast typical of many ironic uses."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-metonymy",
+      "groupId": "e405-figurative",
+      "title": "Metonymy",
+      "aliases": [],
+      "core": "Metonymy uses an expression to refer to something closely connected with what it denotes.",
+      "explanation": "Common connections include author–work, place–institution and container–contents, depending on context.",
+      "example": "Teaching example: The corner table wants the bill uses table to identify its customers.",
+      "confusion": "Metonymy relies on association rather than primarily on resemblance across domains.",
+      "syllabusTerms": [
+        "Metonymy"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            36,
+            37
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-metonymy-define",
+          "prompt": "What is metonymy?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Metonymy uses an expression to refer to something closely connected with what it denotes.",
+          "answer": "Metonymy uses an expression to refer to something closely connected with what it denotes. Common connections include author–work, place–institution and container–contents, depending on context.",
+          "keyPoints": [
+            "Metonymy uses an expression to refer to something closely connected with what it denotes.",
+            "Metonymy relies on association rather than primarily on resemblance across domains."
+          ],
+          "followUps": [
+            "e405-metonymy-apply"
+          ]
+        },
+        {
+          "id": "e405-metonymy-apply",
+          "prompt": "Why is 'The White House announced a policy' metonymic?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The place stands for the relevant administration or officials associated with it.",
+          "answer": "The place stands for the relevant administration or officials associated with it. The link is institutional association rather than a claim that officials resemble a building.",
+          "keyPoints": [
+            "The place stands for the relevant administration or officials associated with it.",
+            "The link is institutional association rather than a claim that officials resemble a building."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-pragmatics",
+      "groupId": "e405-pragmatics",
+      "title": "Pragmatics",
+      "aliases": [],
+      "core": "Pragmatics studies meaning in contextual language use, including inference, action and interaction.",
+      "explanation": "It examines how speakers communicate more than linguistic form explicitly states and how hearers interpret that contribution.",
+      "example": "Teaching example: It's cold here can function as a request to close a window.",
+      "confusion": "Context-sensitive interpretation does not mean hearers can infer anything without evidence.",
+      "syllabusTerms": [
+        "Scope and position of pragmatics",
+        "Features of everyday language use"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-pragmatics-define",
+          "prompt": "Explain pragmatics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Pragmatics studies meaning in contextual language use, including inference, action and interaction.",
+          "answer": "Pragmatics studies meaning in contextual language use, including inference, action and interaction. It examines how speakers communicate more than linguistic form explicitly states and how hearers interpret that contribution.",
+          "keyPoints": [
+            "Pragmatics studies meaning in contextual language use, including inference, action and interaction.",
+            "Context-sensitive interpretation does not mean hearers can infer anything without evidence."
+          ],
+          "followUps": [
+            "e405-pragmatics-apply"
+          ]
+        },
+        {
+          "id": "e405-pragmatics-apply",
+          "prompt": "Why might an entirely grammatical answer still be inappropriate in conversation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its relevance, timing, politeness or intended action may not fit the context.",
+          "answer": "Its relevance, timing, politeness or intended action may not fit the context. Pragmatic appropriateness involves more than sentence grammar.",
+          "keyPoints": [
+            "Its relevance, timing, politeness or intended action may not fit the context.",
+            "Pragmatic appropriateness involves more than sentence grammar."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-sentence-and-utterance",
+      "groupId": "e405-pragmatics",
+      "title": "Sentence and utterance",
+      "aliases": [],
+      "core": "A sentence is an abstract linguistic form; an utterance is a particular instance of language use.",
+      "explanation": "The same sentence can be uttered by different people at different times with different references or intentions.",
+      "example": "Teaching example: I am here refers differently when spoken by two people in different places.",
+      "confusion": "An utterance can be a fragment rather than a complete sentence.",
+      "syllabusTerms": [
+        "Sentence and utterance"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            40
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-sentence-and-utterance-define",
+          "prompt": "Explain sentence and utterance briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A sentence is an abstract linguistic form; an utterance is a particular instance of language use.",
+          "answer": "A sentence is an abstract linguistic form; an utterance is a particular instance of language use. The same sentence can be uttered by different people at different times with different references or intentions.",
+          "keyPoints": [
+            "A sentence is an abstract linguistic form; an utterance is a particular instance of language use.",
+            "An utterance can be a fragment rather than a complete sentence."
+          ],
+          "followUps": [
+            "e405-sentence-and-utterance-apply"
+          ]
+        },
+        {
+          "id": "e405-sentence-and-utterance-apply",
+          "prompt": "Can 'Coffee?' count as an utterance even though it is not a full sentence?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. It is a situated communicative act and can offer coffee, request it or check a preference depending on context.",
+          "keyPoints": [
+            "Yes.",
+            "It is a situated communicative act and can offer coffee, request it or check a preference depending on context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-context",
+      "groupId": "e405-pragmatics",
+      "title": "Context",
+      "aliases": [],
+      "core": "Context includes linguistic surroundings, the situation, participants and relevant background assumptions.",
+      "explanation": "It helps resolve reference, ambiguity and intended actions. Shared knowledge may be incomplete and open to correction.",
+      "example": "Teaching example: She's ready requires a relevant person and activity to interpret she and ready.",
+      "confusion": "Context is not only the preceding sentence.",
+      "syllabusTerms": [
+        "Context"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            41
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-context-define",
+          "prompt": "What is context?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Context includes linguistic surroundings, the situation, participants and relevant background assumptions.",
+          "answer": "Context includes linguistic surroundings, the situation, participants and relevant background assumptions. It helps resolve reference, ambiguity and intended actions. Shared knowledge may be incomplete and open to correction.",
+          "keyPoints": [
+            "Context includes linguistic surroundings, the situation, participants and relevant background assumptions.",
+            "Context is not only the preceding sentence."
+          ],
+          "followUps": [
+            "e405-context-apply"
+          ]
+        },
+        {
+          "id": "e405-context-apply",
+          "prompt": "What different kinds of context help interpret 'Put it there'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The participants, objects, gestures, location and preceding talk can identify it and there.",
+          "answer": "The participants, objects, gestures, location and preceding talk can identify it and there. The imperative form alone cannot supply those referents.",
+          "keyPoints": [
+            "The participants, objects, gestures, location and preceding talk can identify it and there.",
+            "The imperative form alone cannot supply those referents."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-entailment",
+      "groupId": "e405-pragmatics",
+      "title": "Entailment",
+      "aliases": [],
+      "core": "Entailment is a relation in which one proposition's truth guarantees another's, under a fixed interpretation.",
+      "explanation": "It is a semantic consequence rather than merely a likely inference.",
+      "example": "Teaching example: Amina owns a poodle entails Amina owns a dog under the relevant ordinary meanings.",
+      "confusion": "A plausible consequence is not necessarily an entailment.",
+      "syllabusTerms": [
+        "Entailment and presupposition"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            41,
+            42
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-entailment-define",
+          "prompt": "What is entailment?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Entailment is a relation in which one proposition's truth guarantees another's, under a fixed interpretation.",
+          "answer": "Entailment is a relation in which one proposition's truth guarantees another's, under a fixed interpretation. It is a semantic consequence rather than merely a likely inference.",
+          "keyPoints": [
+            "Entailment is a relation in which one proposition's truth guarantees another's, under a fixed interpretation.",
+            "A plausible consequence is not necessarily an entailment."
+          ],
+          "followUps": [
+            "e405-entailment-apply"
+          ]
+        },
+        {
+          "id": "e405-entailment-apply",
+          "prompt": "Does 'Amina owns a dog' entail 'Amina owns a poodle'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Poodle is a subtype of dog, so the inference works from poodle to dog, not from the broader category to that particular subtype.",
+          "keyPoints": [
+            "No.",
+            "Poodle is a subtype of dog, so the inference works from poodle to dog, not from the broader category to that particular subtype."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-presupposition-and-triggers",
+      "groupId": "e405-pragmatics",
+      "title": "Presupposition and triggers",
+      "aliases": [],
+      "core": "A presupposition is background information treated as already accepted or required for an utterance.",
+      "explanation": "Definite expressions, factive verbs and change-of-state expressions can trigger presuppositions. Projection through negation is a useful diagnostic, with contextual qualifications.",
+      "example": "Teaching example: She stopped smoking normally presupposes that she previously smoked.",
+      "confusion": "Presuppositions can be challenged, accommodated or blocked in context.",
+      "syllabusTerms": [
+        "Entailment and presupposition"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-presupposition-and-triggers-define",
+          "prompt": "Explain presupposition and triggers briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A presupposition is background information treated as already accepted or required for an utterance.",
+          "answer": "A presupposition is background information treated as already accepted or required for an utterance. Definite expressions, factive verbs and change-of-state expressions can trigger presuppositions. Projection through negation is a useful diagnostic, with contextual qualifications.",
+          "keyPoints": [
+            "A presupposition is background information treated as already accepted or required for an utterance.",
+            "Presuppositions can be challenged, accommodated or blocked in context."
+          ],
+          "followUps": [
+            "e405-presupposition-and-triggers-apply"
+          ]
+        },
+        {
+          "id": "e405-presupposition-and-triggers-apply",
+          "prompt": "How does 'She did not stop smoking' help distinguish presupposition from entailment?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The background assumption of previous smoking commonly remains under negation, while the assertion that stopping occurred is denied.",
+          "answer": "The background assumption of previous smoking commonly remains under negation, while the assertion that stopping occurred is denied. This persistence is a diagnostic, not an exceptionless mechanical test.",
+          "keyPoints": [
+            "The background assumption of previous smoking commonly remains under negation, while the assertion that stopping occurred is denied.",
+            "This persistence is a diagnostic, not an exceptionless mechanical test."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-conventional-and-conversational-implicature",
+      "groupId": "e405-implicature",
+      "title": "Conventional and conversational implicature",
+      "aliases": [],
+      "core": "Conventional implicature is tied to particular expressions; conversational implicature is inferred through context and communicative expectations.",
+      "explanation": "Conversational implicatures can often be cancelled or changed by context. A generalized inference needs less special context than a particularized one.",
+      "example": "Teaching example: Some passed may suggest not all, yet 'in fact, all did' can cancel that inference.",
+      "confusion": "Conversational implicature is not a strict logical entailment.",
+      "syllabusTerms": [
+        "Conventional implicature",
+        "Conversational implicature"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            50,
+            51,
+            52
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-conventional-and-conversational-implicature-define",
+          "prompt": "Explain conventional and conversational implicature briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Conventional implicature is tied to particular expressions; conversational implicature is inferred through context and communicative expectations.",
+          "answer": "Conventional implicature is tied to particular expressions; conversational implicature is inferred through context and communicative expectations. Conversational implicatures can often be cancelled or changed by context. A generalized inference needs less special context than a particularized one.",
+          "keyPoints": [
+            "Conventional implicature is tied to particular expressions; conversational implicature is inferred through context and communicative expectations.",
+            "Conversational implicature is not a strict logical entailment."
+          ],
+          "followUps": [
+            "e405-conventional-and-conversational-implicature-apply"
+          ]
+        },
+        {
+          "id": "e405-conventional-and-conversational-implicature-apply",
+          "prompt": "Why can 'Some students passed—in fact, all did' be consistent?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Some does not semantically exclude all in the relevant logical reading.",
+          "answer": "Some does not semantically exclude all in the relevant logical reading. The not-all suggestion is normally an implicature that the continuation can cancel.",
+          "keyPoints": [
+            "Some does not semantically exclude all in the relevant logical reading.",
+            "The not-all suggestion is normally an implicature that the continuation can cancel."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-cooperation-and-conversational-maxims",
+      "groupId": "e405-implicature",
+      "title": "Cooperation and conversational maxims",
+      "aliases": [],
+      "core": "Grice's Cooperative Principle describes an expectation of contributions appropriate to an exchange's purpose.",
+      "explanation": "The maxims concern Quality, Quantity, Relation and Manner: truthfulness, informativeness, relevance and clarity.",
+      "example": "Teaching example: A concise relevant answer supports the current task.",
+      "confusion": "Cooperation is a framework for interpreting conversation, not a rule requiring social agreement.",
+      "syllabusTerms": [
+        "Cooperative principle",
+        "Conversational maxims"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            53,
+            54,
+            55,
+            56
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-cooperation-and-conversational-maxims-define",
+          "prompt": "Explain cooperation and conversational maxims briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Grice's Cooperative Principle describes an expectation of contributions appropriate to an exchange's purpose.",
+          "answer": "Grice's Cooperative Principle describes an expectation of contributions appropriate to an exchange's purpose. The maxims concern Quality, Quantity, Relation and Manner: truthfulness, informativeness, relevance and clarity.",
+          "keyPoints": [
+            "Grice's Cooperative Principle describes an expectation of contributions appropriate to an exchange's purpose.",
+            "Cooperation is a framework for interpreting conversation, not a rule requiring social agreement."
+          ],
+          "followUps": [
+            "e405-cooperation-and-conversational-maxims-apply"
+          ]
+        },
+        {
+          "id": "e405-cooperation-and-conversational-maxims-apply",
+          "prompt": "Which maxim is relevant if someone knowingly supplies false information?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Quality, because it concerns truthfulness and adequate evidence.",
+          "answer": "Quality, because it concerns truthfulness and adequate evidence. The interpretation also depends on whether deception or an openly recognisable nonliteral use is involved.",
+          "keyPoints": [
+            "Quality, because it concerns truthfulness and adequate evidence.",
+            "The interpretation also depends on whether deception or an openly recognisable nonliteral use is involved."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-flouting-and-violating-maxims",
+      "groupId": "e405-implicature",
+      "title": "Flouting and violating maxims",
+      "aliases": [],
+      "core": "Flouting makes a mismatch conspicuous so an implicature can be inferred; violating covertly fails an expectation.",
+      "explanation": "A hearer may infer irony or an indirect message when the apparent mismatch is openly recognisable.",
+      "example": "Teaching example: Lovely weather as a reply to a sensitive question may signal a wish to change topic.",
+      "confusion": "A maxim departure is not automatically deliberate or interpretable as one fixed message.",
+      "syllabusTerms": [
+        "Conversational maxims"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            54,
+            55,
+            56,
+            57
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-flouting-and-violating-maxims-define",
+          "prompt": "Explain flouting and violating maxims briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Flouting makes a mismatch conspicuous so an implicature can be inferred; violating covertly fails an expectation.",
+          "answer": "Flouting makes a mismatch conspicuous so an implicature can be inferred; violating covertly fails an expectation. A hearer may infer irony or an indirect message when the apparent mismatch is openly recognisable.",
+          "keyPoints": [
+            "Flouting makes a mismatch conspicuous so an implicature can be inferred; violating covertly fails an expectation.",
+            "A maxim departure is not automatically deliberate or interpretable as one fixed message."
+          ],
+          "followUps": [
+            "e405-flouting-and-violating-maxims-apply"
+          ]
+        },
+        {
+          "id": "e405-flouting-and-violating-maxims-apply",
+          "prompt": "How does an obvious ironic compliment differ from a successful lie in Gricean terms?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The ironic mismatch is meant to be noticed and can flout Quality.",
+          "answer": "The ironic mismatch is meant to be noticed and can flout Quality. A lie covertly violates truthfulness while aiming to be accepted as true.",
+          "keyPoints": [
+            "The ironic mismatch is meant to be noticed and can flout Quality.",
+            "A lie covertly violates truthfulness while aiming to be accepted as true."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-deixis-and-the-deictic-centre",
+      "groupId": "e405-deixis",
+      "title": "Deixis and the deictic centre",
+      "aliases": [],
+      "core": "Deixis links interpretation to an utterance's participants, time, place or related contextual coordinates.",
+      "explanation": "The ordinary centre is speaker, here and now. Some uses are anaphoric rather than deictic, depending on how a referent is identified.",
+      "example": "Teaching example: I will meet you here tomorrow needs a speaker, addressee, location and date.",
+      "confusion": "A form such as that can have deictic or anaphoric uses.",
+      "syllabusTerms": [
+        "Deictic centre",
+        "Deictic and non-deictic expressions"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            58,
+            59,
+            60
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-deixis-and-the-deictic-centre-define",
+          "prompt": "Explain deixis and the deictic centre briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Deixis links interpretation to an utterance's participants, time, place or related contextual coordinates.",
+          "answer": "Deixis links interpretation to an utterance's participants, time, place or related contextual coordinates. The ordinary centre is speaker, here and now. Some uses are anaphoric rather than deictic, depending on how a referent is identified.",
+          "keyPoints": [
+            "Deixis links interpretation to an utterance's participants, time, place or related contextual coordinates.",
+            "A form such as that can have deictic or anaphoric uses."
+          ],
+          "followUps": [
+            "e405-deixis-and-the-deictic-centre-apply"
+          ]
+        },
+        {
+          "id": "e405-deixis-and-the-deictic-centre-apply",
+          "prompt": "Why can 'I'll be here tomorrow' become unclear when read days later?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Here and tomorrow depend on the relevant contextual centre.",
+          "answer": "Here and tomorrow depend on the relevant contextual centre. The reader must recover the intended place and time instead of automatically using their own current coordinates.",
+          "keyPoints": [
+            "Here and tomorrow depend on the relevant contextual centre.",
+            "The reader must recover the intended place and time instead of automatically using their own current coordinates."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-deictic-projection",
+      "groupId": "e405-deixis",
+      "title": "Deictic projection",
+      "aliases": [],
+      "core": "Deictic projection shifts the interpretive centre away from the speaker's immediate here and now.",
+      "explanation": "A narrative or represented viewpoint can organise deictic expressions around another participant, time or location.",
+      "example": "Teaching example: A narrator may use now from a character's represented moment.",
+      "confusion": "Deictic projection shifts viewpoint; presupposition projection concerns background assumptions in larger constructions.",
+      "syllabusTerms": [
+        "Deictic projection"
+      ],
+      "sources": [
+        {
+          "id": "e405-projection"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-deictic-projection-define",
+          "prompt": "What is deictic projection?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Deictic projection shifts the interpretive centre away from the speaker's immediate here and now.",
+          "answer": "Deictic projection shifts the interpretive centre away from the speaker's immediate here and now. A narrative or represented viewpoint can organise deictic expressions around another participant, time or location.",
+          "keyPoints": [
+            "Deictic projection shifts the interpretive centre away from the speaker's immediate here and now.",
+            "Deictic projection shifts viewpoint; presupposition projection concerns background assumptions in larger constructions."
+          ],
+          "followUps": [
+            "e405-deictic-projection-apply"
+          ]
+        },
+        {
+          "id": "e405-deictic-projection-apply",
+          "prompt": "How does deictic projection differ from presupposition projection?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Deictic projection shifts the contextual viewpoint used to interpret expressions such as here or now.",
+          "answer": "Deictic projection shifts the contextual viewpoint used to interpret expressions such as here or now. Presupposition projection concerns whether an assumption is inherited by a larger sentence.",
+          "keyPoints": [
+            "Deictic projection shifts the contextual viewpoint used to interpret expressions such as here or now.",
+            "Presupposition projection concerns whether an assumption is inherited by a larger sentence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-types-of-deixis",
+      "groupId": "e405-deixis",
+      "title": "Types of deixis",
+      "aliases": [],
+      "core": "Major categories include person, place, time, discourse and social deixis.",
+      "explanation": "Person concerns participant roles, place and time locate events, discourse points within communication and social deixis encodes relationships.",
+      "example": "Teaching example: The next paragraph is discourse-deictic, while tomorrow is time-deictic.",
+      "confusion": "A demonstrative's grammatical form alone does not settle which deictic function it performs.",
+      "syllabusTerms": [
+        "Types of deixis"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            59,
+            60
+          ]
+        },
+        {
+          "id": "e405-deixis"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-types-of-deixis-define",
+          "prompt": "Explain types of deixis briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Major categories include person, place, time, discourse and social deixis.",
+          "answer": "Major categories include person, place, time, discourse and social deixis. Person concerns participant roles, place and time locate events, discourse points within communication and social deixis encodes relationships.",
+          "keyPoints": [
+            "Major categories include person, place, time, discourse and social deixis.",
+            "A demonstrative's grammatical form alone does not settle which deictic function it performs."
+          ],
+          "followUps": [
+            "e405-types-of-deixis-apply"
+          ]
+        },
+        {
+          "id": "e405-types-of-deixis-apply",
+          "prompt": "What kind of deixis appears in 'As explained above'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Discourse deixis: above points to a location in the text rather than an ordinary physical place.",
+          "answer": "Discourse deixis: above points to a location in the text rather than an ordinary physical place. Interpretation depends on the organisation of the discourse.",
+          "keyPoints": [
+            "Discourse deixis: above points to a location in the text rather than an ordinary physical place.",
+            "Interpretation depends on the organisation of the discourse."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-honorifics",
+      "groupId": "e405-deixis",
+      "title": "Honorifics",
+      "aliases": [],
+      "core": "Honorifics conventionally encode social relationships such as respect, status or formality.",
+      "explanation": "They can concern the addressee or a person being referred to; their precise forms and meanings are language-specific.",
+      "example": "Teaching example: A socially marked title can position the relationship between speaker and referent.",
+      "confusion": "An honorific does not guarantee sincere respect or a polite overall interaction.",
+      "syllabusTerms": [
+        "Honorifics"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            61,
+            62
+          ]
+        },
+        {
+          "id": "e405-deixis"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-honorifics-define",
+          "prompt": "Explain honorifics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Honorifics conventionally encode social relationships such as respect, status or formality.",
+          "answer": "Honorifics conventionally encode social relationships such as respect, status or formality. They can concern the addressee or a person being referred to; their precise forms and meanings are language-specific.",
+          "keyPoints": [
+            "Honorifics conventionally encode social relationships such as respect, status or formality.",
+            "An honorific does not guarantee sincere respect or a polite overall interaction."
+          ],
+          "followUps": [
+            "e405-honorifics-apply"
+          ]
+        },
+        {
+          "id": "e405-honorifics-apply",
+          "prompt": "Why are honorifics related to social deixis?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Their interpretation depends on socially organised relations among participants or referents.",
+          "answer": "Their interpretation depends on socially organised relations among participants or referents. They can encode status or deference rather than merely describing an object.",
+          "keyPoints": [
+            "Their interpretation depends on socially organised relations among participants or referents.",
+            "They can encode status or deference rather than merely describing an object."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-performatives-and-constatives",
+      "groupId": "e405-acts",
+      "title": "Performatives and constatives",
+      "aliases": [],
+      "core": "A performative utterance can enact an action under suitable conditions; a constative is presented as a statement describing a situation.",
+      "explanation": "Austin's initial distinction motivated a wider theory in which ordinary assertions are also actions.",
+      "example": "Teaching example: I promise to return it can make a promise, rather than merely report one.",
+      "confusion": "The presence of I plus a verb alone does not guarantee successful performance.",
+      "syllabusTerms": [
+        "Performatives and constatives"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            63,
+            64
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-performatives-and-constatives-define",
+          "prompt": "Explain performatives and constatives briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A performative utterance can enact an action under suitable conditions; a constative is presented as a statement describing a situation.",
+          "answer": "A performative utterance can enact an action under suitable conditions; a constative is presented as a statement describing a situation. Austin's initial distinction motivated a wider theory in which ordinary assertions are also actions.",
+          "keyPoints": [
+            "A performative utterance can enact an action under suitable conditions; a constative is presented as a statement describing a situation.",
+            "The presence of I plus a verb alone does not guarantee successful performance."
+          ],
+          "followUps": [
+            "e405-performatives-and-constatives-apply"
+          ]
+        },
+        {
+          "id": "e405-performatives-and-constatives-apply",
+          "prompt": "Why does 'I apologise' differ from 'I apologised yesterday'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The first can perform an apology in the current interaction.",
+          "answer": "The first can perform an apology in the current interaction. The second ordinarily reports a past event, though both are utterances performing some communicative action.",
+          "keyPoints": [
+            "The first can perform an apology in the current interaction.",
+            "The second ordinarily reports a past event, though both are utterances performing some communicative action."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-felicity-conditions",
+      "groupId": "e405-acts",
+      "title": "Felicity conditions",
+      "aliases": [],
+      "core": "Felicity conditions are the contextual and procedural requirements for a speech act to be appropriate or successfully performed.",
+      "explanation": "They may involve authority, circumstances, procedure, sincerity and subsequent conduct. Failures differ in kind.",
+      "example": "Teaching example: A marriage declaration requires an appropriate authorised procedure and setting.",
+      "confusion": "Insincerity and lack of institutional authority are different kinds of failure.",
+      "syllabusTerms": [
+        "Felicity conditions"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            64,
+            65,
+            66,
+            67
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-felicity-conditions-define",
+          "prompt": "Explain felicity conditions briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Felicity conditions are the contextual and procedural requirements for a speech act to be appropriate or successfully performed.",
+          "answer": "Felicity conditions are the contextual and procedural requirements for a speech act to be appropriate or successfully performed. They may involve authority, circumstances, procedure, sincerity and subsequent conduct. Failures differ in kind.",
+          "keyPoints": [
+            "Felicity conditions are the contextual and procedural requirements for a speech act to be appropriate or successfully performed.",
+            "Insincerity and lack of institutional authority are different kinds of failure."
+          ],
+          "followUps": [
+            "e405-felicity-conditions-apply"
+          ]
+        },
+        {
+          "id": "e405-felicity-conditions-apply",
+          "prompt": "Why can a random spectator not successfully declare two people married merely by saying the words?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The required authority and institutional circumstances are absent.",
+          "answer": "The required authority and institutional circumstances are absent. The formula alone cannot satisfy the felicity conditions for that act.",
+          "keyPoints": [
+            "The required authority and institutional circumstances are absent.",
+            "The formula alone cannot satisfy the felicity conditions for that act."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-locution-illocution-and-perlocution",
+      "groupId": "e405-acts",
+      "title": "Locution, illocution and perlocution",
+      "aliases": [],
+      "core": "Locution concerns producing meaningful words; illocution concerns the act performed; perlocution concerns its effects.",
+      "explanation": "Distinguish the linguistic content, communicative force and actual consequences.",
+      "example": "Teaching example: It's hot may state a temperature, request ventilation and persuade someone to open a window.",
+      "confusion": "A speaker's intended effect need not actually occur.",
+      "syllabusTerms": [
+        "Types of speech acts"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            67,
+            68,
+            69
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-locution-illocution-and-perlocution-define",
+          "prompt": "Explain locution, illocution and perlocution briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Locution concerns producing meaningful words; illocution concerns the act performed; perlocution concerns its effects.",
+          "answer": "Locution concerns producing meaningful words; illocution concerns the act performed; perlocution concerns its effects. Distinguish the linguistic content, communicative force and actual consequences.",
+          "keyPoints": [
+            "Locution concerns producing meaningful words; illocution concerns the act performed; perlocution concerns its effects.",
+            "A speaker's intended effect need not actually occur."
+          ],
+          "followUps": [
+            "e405-locution-illocution-and-perlocution-apply"
+          ]
+        },
+        {
+          "id": "e405-locution-illocution-and-perlocution-apply",
+          "prompt": "If a warning is ignored, has it necessarily failed to be a warning?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Its illocutionary force can still be a warning even if it fails to produce the desired perlocutionary effect, such as making the hearer avoid danger.",
+          "keyPoints": [
+            "No.",
+            "Its illocutionary force can still be a warning even if it fails to produce the desired perlocutionary effect, such as making the hearer avoid danger."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-searle-s-speech-act-categories",
+      "groupId": "e405-acts",
+      "title": "Searle's speech-act categories",
+      "aliases": [],
+      "core": "Searle distinguishes representatives, directives, commissives, expressives and declarations.",
+      "explanation": "These concern commitments to truth, attempts to get action, future commitments, expressed attitudes and institutionally effective changes.",
+      "example": "Teaching example: An assertion represents; a request directs; a promise commits; thanks expresses; an authorised verdict declares.",
+      "confusion": "A declarative grammatical sentence need not perform a declaration.",
+      "syllabusTerms": [
+        "Searle typology"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            69,
+            70,
+            71,
+            72
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-searle-s-speech-act-categories-define",
+          "prompt": "Explain searle's speech-act categories briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Searle distinguishes representatives, directives, commissives, expressives and declarations.",
+          "answer": "Searle distinguishes representatives, directives, commissives, expressives and declarations. These concern commitments to truth, attempts to get action, future commitments, expressed attitudes and institutionally effective changes.",
+          "keyPoints": [
+            "Searle distinguishes representatives, directives, commissives, expressives and declarations.",
+            "A declarative grammatical sentence need not perform a declaration."
+          ],
+          "followUps": [
+            "e405-searle-s-speech-act-categories-apply"
+          ]
+        },
+        {
+          "id": "e405-searle-s-speech-act-categories-apply",
+          "prompt": "Why is 'The room is empty' not automatically a declaration in Searle's sense?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It normally represents a state of affairs rather than changing an institutional state through authorised utterance.",
+          "answer": "It normally represents a state of affairs rather than changing an institutional state through authorised utterance. Grammatical declarative form and speech-act category are different classifications.",
+          "keyPoints": [
+            "It normally represents a state of affairs rather than changing an institutional state through authorised utterance.",
+            "Grammatical declarative form and speech-act category are different classifications."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-indirect-speech-acts",
+      "groupId": "e405-acts",
+      "title": "Indirect speech acts",
+      "aliases": [],
+      "core": "An indirect speech act performs an action through a form conventionally associated with another action.",
+      "explanation": "Interpretation relies on context and familiar patterns, not only on literal sentence type.",
+      "example": "Teaching example: Can you pass the salt? is often a request rather than a genuine ability inquiry.",
+      "confusion": "Indirectness does not automatically mean greater politeness in every context.",
+      "syllabusTerms": [
+        "Indirect speech acts"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            72
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-indirect-speech-acts-define",
+          "prompt": "Explain indirect speech acts briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "An indirect speech act performs an action through a form conventionally associated with another action.",
+          "answer": "An indirect speech act performs an action through a form conventionally associated with another action. Interpretation relies on context and familiar patterns, not only on literal sentence type.",
+          "keyPoints": [
+            "An indirect speech act performs an action through a form conventionally associated with another action.",
+            "Indirectness does not automatically mean greater politeness in every context."
+          ],
+          "followUps": [
+            "e405-indirect-speech-acts-apply"
+          ]
+        },
+        {
+          "id": "e405-indirect-speech-acts-apply",
+          "prompt": "What makes 'Can you open the window?' an indirect request in an ordinary room?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its literal form asks about ability, but the context makes a request for action the relevant interpretation.",
+          "answer": "Its literal form asks about ability, but the context makes a request for action the relevant interpretation. The hearer need not stop at answering yes.",
+          "keyPoints": [
+            "Its literal form asks about ability, but the context makes a request for action the relevant interpretation.",
+            "The hearer need not stop at answering yes."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-politeness-and-context",
+      "groupId": "e405-politeness",
+      "title": "Politeness and context",
+      "aliases": [],
+      "core": "Politeness concerns how interaction attends to social relations and participants' expectations.",
+      "explanation": "Interpretation depends on relationship, activity, wording and context. Face-based theory is one influential account, not the only account.",
+      "example": "Teaching example: Please can soften a request, but an aggressive context may undermine it.",
+      "confusion": "Formality, indirectness and politeness are related but not equivalent.",
+      "syllabusTerms": [
+        "Characteristics of politeness"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            73,
+            74
+          ]
+        },
+        {
+          "id": "e405-polite"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-politeness-and-context-define",
+          "prompt": "Explain politeness and context briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Politeness concerns how interaction attends to social relations and participants' expectations.",
+          "answer": "Politeness concerns how interaction attends to social relations and participants' expectations. Interpretation depends on relationship, activity, wording and context. Face-based theory is one influential account, not the only account.",
+          "keyPoints": [
+            "Politeness concerns how interaction attends to social relations and participants' expectations.",
+            "Formality, indirectness and politeness are related but not equivalent."
+          ],
+          "followUps": [
+            "e405-politeness-and-context-apply"
+          ]
+        },
+        {
+          "id": "e405-politeness-and-context-apply",
+          "prompt": "Does adding please guarantee that a request is polite?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. The relationship, entitlement, tone and wider interaction affect its interpretation. One word does not determine the social effect of the whole act.",
+          "keyPoints": [
+            "No.",
+            "The relationship, entitlement, tone and wider interaction affect its interpretation.",
+            "One word does not determine the social effect of the whole act."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-positive-and-negative-face",
+      "groupId": "e405-politeness",
+      "title": "Positive and negative face",
+      "aliases": [],
+      "core": "In Brown and Levinson's framework, positive face concerns approval and negative face concerns freedom from imposition.",
+      "explanation": "Face wants motivate ways of managing potentially threatening acts.",
+      "example": "Teaching example: A criticism can threaten approval; a demanding request can threaten freedom of action.",
+      "confusion": "Positive and negative do not mean good and bad personalities.",
+      "syllabusTerms": [
+        "Face wants",
+        "Negative and positive face"
+      ],
+      "sources": [
+        {
+          "id": "e405-face"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-positive-and-negative-face-define",
+          "prompt": "Explain positive and negative face briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "In Brown and Levinson's framework, positive face concerns approval and negative face concerns freedom from imposition.",
+          "answer": "In Brown and Levinson's framework, positive face concerns approval and negative face concerns freedom from imposition. Face wants motivate ways of managing potentially threatening acts.",
+          "keyPoints": [
+            "In Brown and Levinson's framework, positive face concerns approval and negative face concerns freedom from imposition.",
+            "Positive and negative do not mean good and bad personalities."
+          ],
+          "followUps": [
+            "e405-positive-and-negative-face-apply"
+          ]
+        },
+        {
+          "id": "e405-positive-and-negative-face-apply",
+          "prompt": "Why can a friendly request still threaten negative face?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It can impose on the hearer's time or choices even when it expresses warmth and approval.",
+          "answer": "It can impose on the hearer's time or choices even when it expresses warmth and approval. The two face dimensions are analytically different.",
+          "keyPoints": [
+            "It can impose on the hearer's time or choices even when it expresses warmth and approval.",
+            "The two face dimensions are analytically different."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-positive-and-negative-politeness",
+      "groupId": "e405-politeness",
+      "title": "Positive and negative politeness",
+      "aliases": [],
+      "core": "Positive politeness attends to approval or solidarity; negative politeness attends to non-imposition.",
+      "explanation": "Strategies can include common-ground appeals or respectful mitigation, depending on context.",
+      "example": "Teaching example: Could you possibly help, if you have time? acknowledges a potential imposition.",
+      "confusion": "Negative politeness is not rudeness; positive politeness is not simply praise.",
+      "syllabusTerms": [
+        "Negative and positive politeness"
+      ],
+      "sources": [
+        {
+          "id": "e405-strategies"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-positive-and-negative-politeness-define",
+          "prompt": "Explain positive and negative politeness briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Positive politeness attends to approval or solidarity; negative politeness attends to non-imposition.",
+          "answer": "Positive politeness attends to approval or solidarity; negative politeness attends to non-imposition. Strategies can include common-ground appeals or respectful mitigation, depending on context.",
+          "keyPoints": [
+            "Positive politeness attends to approval or solidarity; negative politeness attends to non-imposition.",
+            "Negative politeness is not rudeness; positive politeness is not simply praise."
+          ],
+          "followUps": [
+            "e405-positive-and-negative-politeness-apply"
+          ]
+        },
+        {
+          "id": "e405-positive-and-negative-politeness-apply",
+          "prompt": "How does offering an easy refusal help manage a request?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It acknowledges the hearer's autonomy and reduces pressure to comply, which fits negative-politeness concerns in the face-based framework.",
+          "answer": "It acknowledges the hearer's autonomy and reduces pressure to comply, which fits negative-politeness concerns in the face-based framework.",
+          "keyPoints": [
+            "It acknowledges the hearer's autonomy and reduces pressure to comply, which fits negative-politeness concerns in the face-based framework."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-impoliteness",
+      "groupId": "e405-politeness",
+      "title": "Impoliteness",
+      "aliases": [],
+      "core": "Impoliteness involves behaviour interpreted as damaging or attacking social relations or face in context.",
+      "explanation": "Insults, exclusion and dismissive wording can contribute, but interpretation depends on the activity and participants.",
+      "example": "Teaching example: Go away, nobody wants you here can explicitly exclude a participant.",
+      "confusion": "Directness alone is not proof of impoliteness.",
+      "syllabusTerms": [
+        "Impoliteness"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            74
+          ]
+        },
+        {
+          "id": "e405-impolite"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-impoliteness-define",
+          "prompt": "Explain impoliteness briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Impoliteness involves behaviour interpreted as damaging or attacking social relations or face in context.",
+          "answer": "Impoliteness involves behaviour interpreted as damaging or attacking social relations or face in context. Insults, exclusion and dismissive wording can contribute, but interpretation depends on the activity and participants.",
+          "keyPoints": [
+            "Impoliteness involves behaviour interpreted as damaging or attacking social relations or face in context.",
+            "Directness alone is not proof of impoliteness."
+          ],
+          "followUps": [
+            "e405-impoliteness-apply"
+          ]
+        },
+        {
+          "id": "e405-impoliteness-apply",
+          "prompt": "Why might the same direct command be acceptable in an emergency but offensive in ordinary conversation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Urgency and shared activity change expectations and entitlement.",
+          "answer": "Urgency and shared activity change expectations and entitlement. Its social meaning depends on the situation rather than sentence form alone.",
+          "keyPoints": [
+            "Urgency and shared activity change expectations and entitlement.",
+            "Its social meaning depends on the situation rather than sentence form alone."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-topic-management",
+      "groupId": "e405-conversation",
+      "title": "Topic management",
+      "aliases": [],
+      "core": "Conversation participants establish, maintain, shift and negotiate what their talk is about.",
+      "explanation": "Topic conflict can arise when speakers pursue incompatible agendas or resist each other's proposed direction.",
+      "example": "Teaching example: An evasive weather comment can redirect a sensitive discussion.",
+      "confusion": "A topic shift can still belong to an orderly conversational sequence.",
+      "syllabusTerms": [
+        "Topic",
+        "Topic change",
+        "Topic conflict"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            75,
+            76
+          ]
+        },
+        {
+          "id": "e405-sequence"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-topic-management-define",
+          "prompt": "What is topic management?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Conversation participants establish, maintain, shift and negotiate what their talk is about.",
+          "answer": "Conversation participants establish, maintain, shift and negotiate what their talk is about. Topic conflict can arise when speakers pursue incompatible agendas or resist each other's proposed direction.",
+          "keyPoints": [
+            "Conversation participants establish, maintain, shift and negotiate what their talk is about.",
+            "A topic shift can still belong to an orderly conversational sequence."
+          ],
+          "followUps": [
+            "e405-topic-management-apply"
+          ]
+        },
+        {
+          "id": "e405-topic-management-apply",
+          "prompt": "Why should a change of subject not automatically be labelled incoherent?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A shift may be understood as avoidance, a new proposal or part of a sequence.",
+          "answer": "A shift may be understood as avoidance, a new proposal or part of a sequence. Participants can make sense of it through its interactional position and context.",
+          "keyPoints": [
+            "A shift may be understood as avoidance, a new proposal or part of a sequence.",
+            "Participants can make sense of it through its interactional position and context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-repair",
+      "groupId": "e405-conversation",
+      "title": "Repair",
+      "aliases": [],
+      "core": "Repair addresses problems in speaking, hearing or understanding.",
+      "explanation": "Distinguish who initiates repair from who supplies the solution.",
+      "example": "Teaching example: A says Tuesday—sorry, Thursday: the speaker initiates and completes self-repair.",
+      "confusion": "Repair is broader than correcting grammar mistakes.",
+      "syllabusTerms": [
+        "Repairs"
+      ],
+      "sources": [
+        {
+          "id": "e405-repair"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-repair-define",
+          "prompt": "What is repair?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Repair addresses problems in speaking, hearing or understanding.",
+          "answer": "Repair addresses problems in speaking, hearing or understanding. Distinguish who initiates repair from who supplies the solution.",
+          "keyPoints": [
+            "Repair addresses problems in speaking, hearing or understanding.",
+            "Repair is broader than correcting grammar mistakes."
+          ],
+          "followUps": [
+            "e405-repair-apply"
+          ]
+        },
+        {
+          "id": "e405-repair-apply",
+          "prompt": "In 'A: Tuesday. B: Tuesday? A: Thursday, sorry', who initiates and who repairs?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "B initiates repair by questioning Tuesday, and A supplies the solution.",
+          "answer": "B initiates repair by questioning Tuesday, and A supplies the solution. It is other-initiated self-repair.",
+          "keyPoints": [
+            "B initiates repair by questioning Tuesday, and A supplies the solution.",
+            "It is other-initiated self-repair."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-insertion-sequences",
+      "groupId": "e405-conversation",
+      "title": "Insertion sequences",
+      "aliases": [],
+      "core": "An insertion sequence occurs between the parts of a base adjacency pair.",
+      "explanation": "The inserted exchange can resolve something needed before the pending response.",
+      "example": "Teaching example: A: Can I borrow it? B: When? A: Tonight. B: Yes.",
+      "confusion": "The inserted turns delay, rather than necessarily abandon, the original response.",
+      "syllabusTerms": [
+        "Inserted sequence"
+      ],
+      "sources": [
+        {
+          "id": "e405-insertion"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-insertion-sequences-define",
+          "prompt": "Explain insertion sequences briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "An insertion sequence occurs between the parts of a base adjacency pair.",
+          "answer": "An insertion sequence occurs between the parts of a base adjacency pair. The inserted exchange can resolve something needed before the pending response.",
+          "keyPoints": [
+            "An insertion sequence occurs between the parts of a base adjacency pair.",
+            "The inserted turns delay, rather than necessarily abandon, the original response."
+          ],
+          "followUps": [
+            "e405-insertion-sequences-apply"
+          ]
+        },
+        {
+          "id": "e405-insertion-sequences-apply",
+          "prompt": "Why does asking 'When?' before answering a borrowing request not necessarily change the topic?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It can be an inserted clarification needed to decide the response.",
+          "answer": "It can be an inserted clarification needed to decide the response. The original request remains pending until the clarification and subsequent answer.",
+          "keyPoints": [
+            "It can be an inserted clarification needed to decide the response.",
+            "The original request remains pending until the clarification and subsequent answer."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-adjacency-pairs",
+      "groupId": "e405-conversation",
+      "title": "Adjacency pairs",
+      "aliases": [],
+      "core": "An adjacency pair links a first action with a relevant responsive action by another speaker.",
+      "explanation": "A first pair part makes a limited range of second actions relevant, such as a greeting and return greeting.",
+      "example": "Teaching example: A question makes an answer relevant, though an insertion may intervene.",
+      "confusion": "Adjacency is an organisational relation, not a claim that the turns must always be physically next to each other.",
+      "syllabusTerms": [
+        "Adjacency pair"
+      ],
+      "sources": [
+        {
+          "id": "e405-adjacency"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-adjacency-pairs-define",
+          "prompt": "Explain adjacency pairs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "An adjacency pair links a first action with a relevant responsive action by another speaker.",
+          "answer": "An adjacency pair links a first action with a relevant responsive action by another speaker. A first pair part makes a limited range of second actions relevant, such as a greeting and return greeting.",
+          "keyPoints": [
+            "An adjacency pair links a first action with a relevant responsive action by another speaker.",
+            "Adjacency is an organisational relation, not a claim that the turns must always be physically next to each other."
+          ],
+          "followUps": [
+            "e405-adjacency-pairs-apply"
+          ]
+        },
+        {
+          "id": "e405-adjacency-pairs-apply",
+          "prompt": "Can an adjacency pair remain connected when another exchange intervenes?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. An insertion sequence can occur between its first and second parts while the original response remains conditionally relevant.",
+          "keyPoints": [
+            "Yes.",
+            "An insertion sequence can occur between its first and second parts while the original response remains conditionally relevant."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-the-semantics-pragmatics-interface",
+      "groupId": "e405-interface",
+      "title": "The semantics–pragmatics interface",
+      "aliases": [],
+      "core": "Semantics and pragmatics distinguish conventional linguistic contributions from context-sensitive use and inference, while interacting in interpretation.",
+      "explanation": "Deictic reference and implied messages show why the boundary is analytically useful but theoretically debated.",
+      "example": "Teaching example: The conventional meaning of I identifies a speaker role; context determines its referent.",
+      "confusion": "Semantics is not wholly unrelated to context, and pragmatics is not unrestricted guesswork.",
+      "syllabusTerms": [
+        "Semantics–pragmatics distinction",
+        "Semantics–pragmatics interface"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            77,
+            78
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-the-semantics-pragmatics-interface-define",
+          "prompt": "What is the semantics–pragmatics interface?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Semantics and pragmatics distinguish conventional linguistic contributions from context-sensitive use and inference, while interacting in interpretation.",
+          "answer": "Semantics and pragmatics distinguish conventional linguistic contributions from context-sensitive use and inference, while interacting in interpretation. Deictic reference and implied messages show why the boundary is analytically useful but theoretically debated.",
+          "keyPoints": [
+            "Semantics and pragmatics distinguish conventional linguistic contributions from context-sensitive use and inference, while interacting in interpretation.",
+            "Semantics is not wholly unrelated to context, and pragmatics is not unrestricted guesswork."
+          ],
+          "followUps": [
+            "e405-the-semantics-pragmatics-interface-apply"
+          ]
+        },
+        {
+          "id": "e405-the-semantics-pragmatics-interface-apply",
+          "prompt": "Why is 'semantics is completely context-free' an oversimplification?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Expressions such as pronouns and indexicals require contextual values even when their conventional meaning supplies a rule.",
+          "answer": "Expressions such as pronouns and indexicals require contextual values even when their conventional meaning supplies a rule. Theories differ on where to locate particular contextual contributions.",
+          "keyPoints": [
+            "Expressions such as pronouns and indexicals require contextual values even when their conventional meaning supplies a rule.",
+            "Theories differ on where to locate particular contextual contributions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-cohesion",
+      "groupId": "e405-text",
+      "title": "Cohesion",
+      "aliases": [],
+      "core": "Cohesion consists of identifiable linguistic ties connecting parts of a text.",
+      "explanation": "Reference, substitution, ellipsis, lexical relations and conjunction can link clauses or turns.",
+      "example": "Teaching example: A student arrived. She sat down uses an anaphoric reference tie.",
+      "confusion": "Cohesive devices alone do not guarantee a sensible overall message.",
+      "syllabusTerms": [
+        "Cohesion"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            79
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-cohesion-define",
+          "prompt": "What is cohesion?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Cohesion consists of identifiable linguistic ties connecting parts of a text.",
+          "answer": "Cohesion consists of identifiable linguistic ties connecting parts of a text. Reference, substitution, ellipsis, lexical relations and conjunction can link clauses or turns.",
+          "keyPoints": [
+            "Cohesion consists of identifiable linguistic ties connecting parts of a text.",
+            "Cohesive devices alone do not guarantee a sensible overall message."
+          ],
+          "followUps": [
+            "e405-cohesion-apply"
+          ]
+        },
+        {
+          "id": "e405-cohesion-apply",
+          "prompt": "Can a passage contain many connectives yet remain incoherent?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Explicit ties can link sentences formally while their ideas fail to make sense together. Coherence needs an interpretable relationship, not only markers.",
+          "keyPoints": [
+            "Yes.",
+            "Explicit ties can link sentences formally while their ideas fail to make sense together.",
+            "Coherence needs an interpretable relationship, not only markers."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-reference-ties",
+      "groupId": "e405-text",
+      "title": "Reference ties",
+      "aliases": [],
+      "core": "Reference ties connect an expression with an entity interpreted through text or situation.",
+      "explanation": "Anaphora points back; cataphora points forward. Endophoric reference is text-internal, while exophoric reference depends on the situation.",
+      "example": "Teaching example: When she entered, Amina smiled can use a following name to resolve she.",
+      "confusion": "Exophoric reference may support interpretation without forming a text-internal tie.",
+      "syllabusTerms": [
+        "Cohesion"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            79,
+            80,
+            81
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-reference-ties-define",
+          "prompt": "Explain reference ties briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Reference ties connect an expression with an entity interpreted through text or situation.",
+          "answer": "Reference ties connect an expression with an entity interpreted through text or situation. Anaphora points back; cataphora points forward. Endophoric reference is text-internal, while exophoric reference depends on the situation.",
+          "keyPoints": [
+            "Reference ties connect an expression with an entity interpreted through text or situation.",
+            "Exophoric reference may support interpretation without forming a text-internal tie."
+          ],
+          "followUps": [
+            "e405-reference-ties-apply"
+          ]
+        },
+        {
+          "id": "e405-reference-ties-apply",
+          "prompt": "How do anaphora and deixis differ?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Anaphora retrieves a referent through discourse, while deixis anchors interpretation to contextual coordinates.",
+          "answer": "Anaphora retrieves a referent through discourse, while deixis anchors interpretation to contextual coordinates. Some expressions can serve either role depending on use.",
+          "keyPoints": [
+            "Anaphora retrieves a referent through discourse, while deixis anchors interpretation to contextual coordinates.",
+            "Some expressions can serve either role depending on use."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-substitution-and-ellipsis",
+      "groupId": "e405-text",
+      "title": "Substitution and ellipsis",
+      "aliases": [],
+      "core": "Substitution replaces material with a grammatical substitute; ellipsis leaves recoverable material unspoken.",
+      "explanation": "They can involve nominal, verbal or clausal material, depending on the construction.",
+      "example": "Teaching example: I need a pen. Have you got one? substitutes one; Have you finished? Yes, I have leaves finished understood.",
+      "confusion": "A pronoun's reference relation is not automatically the same as grammatical substitution.",
+      "syllabusTerms": [
+        "Cohesion"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-substitution-and-ellipsis-define",
+          "prompt": "Explain substitution and ellipsis briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Substitution replaces material with a grammatical substitute; ellipsis leaves recoverable material unspoken.",
+          "answer": "Substitution replaces material with a grammatical substitute; ellipsis leaves recoverable material unspoken. They can involve nominal, verbal or clausal material, depending on the construction.",
+          "keyPoints": [
+            "Substitution replaces material with a grammatical substitute; ellipsis leaves recoverable material unspoken.",
+            "A pronoun's reference relation is not automatically the same as grammatical substitution."
+          ],
+          "followUps": [
+            "e405-substitution-and-ellipsis-apply"
+          ]
+        },
+        {
+          "id": "e405-substitution-and-ellipsis-apply",
+          "prompt": "What is omitted in 'Has she finished the essay? Yes, she has'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The material finished the essay is recoverable from the question.",
+          "answer": "The material finished the essay is recoverable from the question. The auxiliary remains while the repeated verbal content is elided.",
+          "keyPoints": [
+            "The material finished the essay is recoverable from the question.",
+            "The auxiliary remains while the repeated verbal content is elided."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-lexical-cohesion",
+      "groupId": "e405-text",
+      "title": "Lexical cohesion",
+      "aliases": [],
+      "core": "Lexical cohesion connects a text through vocabulary relations and associations.",
+      "explanation": "Reiteration can use repetition, near synonyms, superordinates or general words. Associated vocabulary can also establish links.",
+      "example": "Teaching example: A sparrow landed. The bird rested uses a superordinate to maintain the referent.",
+      "confusion": "Related words need not be interchangeable synonyms.",
+      "syllabusTerms": [
+        "Cohesion"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            86,
+            87,
+            88
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-lexical-cohesion-define",
+          "prompt": "What is lexical cohesion?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Lexical cohesion connects a text through vocabulary relations and associations.",
+          "answer": "Lexical cohesion connects a text through vocabulary relations and associations. Reiteration can use repetition, near synonyms, superordinates or general words. Associated vocabulary can also establish links.",
+          "keyPoints": [
+            "Lexical cohesion connects a text through vocabulary relations and associations.",
+            "Related words need not be interchangeable synonyms."
+          ],
+          "followUps": [
+            "e405-lexical-cohesion-apply"
+          ]
+        },
+        {
+          "id": "e405-lexical-cohesion-apply",
+          "prompt": "Why does 'The oven was hot. Its heat warmed the kitchen' show lexical cohesion?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Hot and heat are related lexical choices that maintain the temperature theme and connect the two descriptions.",
+          "answer": "Hot and heat are related lexical choices that maintain the temperature theme and connect the two descriptions.",
+          "keyPoints": [
+            "Hot and heat are related lexical choices that maintain the temperature theme and connect the two descriptions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-conjunction-in-discourse",
+      "groupId": "e405-text",
+      "title": "Conjunction in discourse",
+      "aliases": [],
+      "core": "Conjunction marks relations such as addition, contrast, cause or sequence between discourse parts.",
+      "explanation": "Interpret the connection signalled by and, however, therefore or then in its actual context.",
+      "example": "Teaching example: It rained. Therefore, the match stopped presents the second event as a result.",
+      "confusion": "A temporal sequence does not by itself establish causation.",
+      "syllabusTerms": [
+        "Cohesion"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            89,
+            90
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-conjunction-in-discourse-define",
+          "prompt": "What is conjunction in discourse?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Conjunction marks relations such as addition, contrast, cause or sequence between discourse parts.",
+          "answer": "Conjunction marks relations such as addition, contrast, cause or sequence between discourse parts. Interpret the connection signalled by and, however, therefore or then in its actual context.",
+          "keyPoints": [
+            "Conjunction marks relations such as addition, contrast, cause or sequence between discourse parts.",
+            "A temporal sequence does not by itself establish causation."
+          ],
+          "followUps": [
+            "e405-conjunction-in-discourse-apply"
+          ]
+        },
+        {
+          "id": "e405-conjunction-in-discourse-apply",
+          "prompt": "Why do then and therefore suggest different relations?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Then primarily orders events in time, while therefore presents a consequence or inference.",
+          "answer": "Then primarily orders events in time, while therefore presents a consequence or inference. A sequence alone need not imply that one event caused the next.",
+          "keyPoints": [
+            "Then primarily orders events in time, while therefore presents a consequence or inference.",
+            "A sequence alone need not imply that one event caused the next."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e405-coherence",
+      "groupId": "e405-text",
+      "title": "Coherence",
+      "aliases": [],
+      "core": "Coherence is the meaningful connectedness that makes discourse interpretable as a whole.",
+      "explanation": "Hearers use context, shared knowledge and inference to connect ideas, including brief exchanges with few overt ties.",
+      "example": "Teaching example: A: A walk? B: My ankle. can refuse when an injury is shared knowledge.",
+      "confusion": "Coherence is not identical to grammatical correctness or visible cohesion.",
+      "syllabusTerms": [
+        "Coherence"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            91,
+            92
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e405-coherence-define",
+          "prompt": "What is coherence?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Coherence is the meaningful connectedness that makes discourse interpretable as a whole.",
+          "answer": "Coherence is the meaningful connectedness that makes discourse interpretable as a whole. Hearers use context, shared knowledge and inference to connect ideas, including brief exchanges with few overt ties.",
+          "keyPoints": [
+            "Coherence is the meaningful connectedness that makes discourse interpretable as a whole.",
+            "Coherence is not identical to grammatical correctness or visible cohesion."
+          ],
+          "followUps": [
+            "e405-coherence-apply"
+          ]
+        },
+        {
+          "id": "e405-coherence-apply",
+          "prompt": "How can 'A walk?'—'My ankle' be coherent without an explicit refusal?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Shared knowledge of an ankle injury can make the second fragment a relevant reason for declining.",
+          "answer": "Shared knowledge of an ankle injury can make the second fragment a relevant reason for declining. The hearer supplies the context-supported connection.",
+          "keyPoints": [
+            "Shared knowledge of an ankle injury can make the second fragment a relevant reason for declining.",
+            "The hearer supplies the context-supported connection."
+          ],
+          "followUps": []
+        }
+      ]
+    }
+  ]
+}

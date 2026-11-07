@@ -1,0 +1,3004 @@
+{
+  "id": "E413",
+  "title": "Research Methods in Applied Linguistics and ELT",
+  "shortTitle": "Research Methods",
+  "overview": "Research connects a worthwhile question with suitable evidence and a defensible answer. Move from problem and literature to design, participants and instruments, then analysis, interpretation and responsible reporting. Every choice should fit the question.",
+  "journey": [
+    "Find the uncertainty: problem, literature, gap and research questions.",
+    "Choose evidence that can answer it: design, sample, instruments and ethics.",
+    "Turn evidence into a justified answer: analyse, interpret and acknowledge limitations.",
+    "Explain the contribution: report, cite and recommend within the evidence."
+  ],
+  "sources": [
+    {
+      "id": "E413",
+      "title": "E413.pdf",
+      "kind": "pdf",
+      "file": "E413.pdf",
+      "pageCount": 33
+    },
+    {
+      "id": "e413-corpus",
+      "title": "Lancaster University: What is corpus linguistics?",
+      "kind": "web",
+      "url": "https://wp.lancs.ac.uk/emi-corpus-project/what-is-corpus-linguistics/"
+    },
+    {
+      "id": "e413-digital",
+      "title": "Paulus: Digital discourse approaches",
+      "kind": "web",
+      "url": "https://www.benjamins.com/catalog/rmal.15.03pau"
+    },
+    {
+      "id": "e413-psychomethod",
+      "title": "Cambridge University Press: Eye-Tracking",
+      "kind": "web",
+      "url": "https://www.cambridge.org/core/books/eyetracking/8E99E0D09594B0098D81E7DC56F0D604"
+    },
+    {
+      "id": "e413-interdisciplinary",
+      "title": "Lancaster: Discourse and Text Research Group",
+      "kind": "web",
+      "url": "https://wp.lancs.ac.uk/distex/"
+    },
+    {
+      "id": "e413-pearson",
+      "title": "Penn State STAT 200: Correlation",
+      "kind": "web",
+      "url": "https://online.stat.psu.edu/stat200/Lesson12"
+    },
+    {
+      "id": "e413-ztest",
+      "title": "Penn State STAT 200: Inference for One Sample",
+      "kind": "web",
+      "url": "https://online.stat.psu.edu/stat200/Lesson08"
+    },
+    {
+      "id": "e413-factor",
+      "title": "UCLA: Exploratory Factor Analysis",
+      "kind": "web",
+      "url": "https://stats.oarc.ucla.edu/spss/seminars/introduction-to-factor-analysis/a-practical-introduction-to-factor-analysis/"
+    }
+  ],
+  "groups": [
+    {
+      "id": "e413-foundations",
+      "title": "Research: concept, nature and types",
+      "syllabus": [
+        "Research concept and nature",
+        "Qualitative research",
+        "Quantitative research",
+        "Mixed methods"
+      ]
+    },
+    {
+      "id": "e413-methods",
+      "title": "Research methods in Applied Linguistics and ELT",
+      "syllabus": [
+        "Narrative inquiry",
+        "Case study",
+        "Action research",
+        "Grounded theory method",
+        "Survey research",
+        "Experimental research",
+        "Corpus research",
+        "Digital discourse research",
+        "Psycholinguistics methods",
+        "Critical research",
+        "Interdisciplinary research",
+        "Discourse analysis",
+        "Critical discourse analysis"
+      ]
+    },
+    {
+      "id": "e413-basics",
+      "title": "Basics of research",
+      "syllabus": [
+        "Statement of the problem",
+        "Objective of the study",
+        "Justification of the study",
+        "Research questions and hypotheses",
+        "Definition of terms",
+        "Limitations of the study"
+      ]
+    },
+    {
+      "id": "e413-literature",
+      "title": "Literature review",
+      "syllabus": [
+        "Literature review: what, why and how"
+      ]
+    },
+    {
+      "id": "e413-evidence",
+      "title": "Sampling and evidence",
+      "syllabus": [
+        "Sampling",
+        "Instrumentation",
+        "Triangulation",
+        "Data collection"
+      ]
+    },
+    {
+      "id": "e413-analysis",
+      "title": "Data analysis",
+      "syllabus": [
+        "Frequency",
+        "Distribution",
+        "Chi-square",
+        "Pearson correlation coefficient",
+        "Zed test",
+        "T-test",
+        "Factor analysis"
+      ]
+    },
+    {
+      "id": "e413-findings",
+      "title": "Findings and discussion",
+      "syllabus": [
+        "Presentation of findings",
+        "Discussion"
+      ]
+    },
+    {
+      "id": "e413-conclusion",
+      "title": "Conclusion",
+      "syllabus": [
+        "Inference",
+        "Recommendations"
+      ]
+    },
+    {
+      "id": "e413-writing",
+      "title": "Documentation and writing",
+      "syllabus": [
+        "Plagiarism",
+        "Citations",
+        "In-text references",
+        "APA style",
+        "Structures of research papers and dissertations",
+        "Writing a research proposal",
+        "Writing a research article"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "e413-research-and-its-quality",
+      "groupId": "e413-foundations",
+      "title": "Research and its quality",
+      "aliases": [
+        "research methodology"
+      ],
+      "core": "Research is systematic inquiry using evidence to answer questions or develop knowledge.",
+      "explanation": "Good research is systematic, rigorous, empirical, critical, and sufficiently transparent to be checked. Appropriate control and valid measurement strengthen claims; perfect control is rarely possible in human settings.",
+      "example": "Record classroom participation using defined rules, then analyse the pattern rather than relying on a teacher's impression.",
+      "confusion": "Following steps neatly does not make a weak measurement valid.",
+      "syllabusTerms": [
+        "Research concept and nature"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            3
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-and-its-quality-core",
+          "prompt": "Explain research and its quality briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Research is systematic inquiry using evidence to answer questions or develop knowledge.",
+          "answer": "Research is systematic inquiry using evidence to answer questions or develop knowledge. Good research is systematic, rigorous, empirical, critical, and sufficiently transparent to be checked.",
+          "keyPoints": [
+            "Research is systematic inquiry using evidence to answer questions or develop knowledge."
+          ],
+          "followUps": [
+            "e413-research-and-its-quality-apply"
+          ]
+        },
+        {
+          "id": "e413-research-and-its-quality-apply",
+          "prompt": "A teacher says students seem more fluent. What would turn that impression into research?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Define fluency, formulate a focused question, collect suitable performance evidence, analyse it systematically and acknowledge alternative explanations.",
+          "answer": "Define fluency, formulate a focused question, collect suitable performance evidence, analyse it systematically and acknowledge alternative explanations.",
+          "keyPoints": [
+            "Define fluency, formulate a focused question, collect suitable performance evidence, analyse it systematically and acknowledge alternative explanations."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-qualitative-research",
+      "groupId": "e413-foundations",
+      "title": "Qualitative research",
+      "aliases": [
+        "research methodology"
+      ],
+      "core": "Qualitative research interprets meanings, experiences and practices in context.",
+      "explanation": "It commonly works with interviews, observations and texts. The researcher explains how evidence supports an interpretation, including cases that challenge it.",
+      "example": "Interview quiet learners to understand how they experience speaking in class.",
+      "confusion": "Qualitative does not mean unsystematic or simply non-numerical description.",
+      "syllabusTerms": [
+        "Qualitative research"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            5
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-qualitative-research-core",
+          "prompt": "What is qualitative research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Qualitative research interprets meanings, experiences and practices in context.",
+          "answer": "Qualitative research interprets meanings, experiences and practices in context. It commonly works with interviews, observations and texts.",
+          "keyPoints": [
+            "Qualitative research interprets meanings, experiences and practices in context."
+          ],
+          "followUps": [
+            "e413-qualitative-research-apply"
+          ]
+        },
+        {
+          "id": "e413-qualitative-research-apply",
+          "prompt": "Why might interviews help explain classroom silence better than a score alone?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Interviews can reveal meanings such as fear of peer judgment that a score does not capture.",
+          "answer": "Interviews can reveal meanings such as fear of peer judgment that a score does not capture. Accounts still need contextual analysis and do not directly prove actual behaviour.",
+          "keyPoints": [
+            "Interviews can reveal meanings such as fear of peer judgment that a score does not capture.",
+            "Accounts still need contextual analysis and do not directly prove actual behaviour."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-quantitative-research",
+      "groupId": "e413-foundations",
+      "title": "Quantitative research",
+      "aliases": [
+        "research methodology"
+      ],
+      "core": "Quantitative research measures variables and analyses numerical patterns, differences or relationships.",
+      "explanation": "Specify what is measured, how scores are produced, and what comparison answers the question. Numerical precision does not compensate for a poor construct measure.",
+      "example": "Compare fluency scores before and after a teaching intervention.",
+      "confusion": "A quantitative study need not be an experiment.",
+      "syllabusTerms": [
+        "Quantitative research"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            5,
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-quantitative-research-core",
+          "prompt": "What is quantitative research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Quantitative research measures variables and analyses numerical patterns, differences or relationships.",
+          "answer": "Quantitative research measures variables and analyses numerical patterns, differences or relationships. Specify what is measured, how scores are produced, and what comparison answers the question.",
+          "keyPoints": [
+            "Quantitative research measures variables and analyses numerical patterns, differences or relationships."
+          ],
+          "followUps": [
+            "e413-quantitative-research-apply"
+          ]
+        },
+        {
+          "id": "e413-quantitative-research-apply",
+          "prompt": "Is counting the number of English words in student essays quantitative research?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It can be quantitative if the counts answer a clear question through systematic sampling and analysis.",
+          "answer": "It can be quantitative if the counts answer a clear question through systematic sampling and analysis. Counting alone is insufficient without a reasoned design and interpretation.",
+          "keyPoints": [
+            "It can be quantitative if the counts answer a clear question through systematic sampling and analysis.",
+            "Counting alone is insufficient without a reasoned design and interpretation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-mixed-methods",
+      "groupId": "e413-foundations",
+      "title": "Mixed methods",
+      "aliases": [
+        "research methodology"
+      ],
+      "core": "Mixed methods integrates qualitative and quantitative evidence in one investigation.",
+      "explanation": "The strands may be sequential, concurrent, embedded or multiphase. Explain where they connect: design, sampling, analysis or interpretation.",
+      "example": "Compare speaking scores, then interview learners to explain contrasting gains.",
+      "confusion": "A questionnaire with an open comment box is not automatically a mixed-methods study.",
+      "syllabusTerms": [
+        "Mixed methods"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            5,
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-mixed-methods-core",
+          "prompt": "Explain mixed methods briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Mixed methods integrates qualitative and quantitative evidence in one investigation.",
+          "answer": "Mixed methods integrates qualitative and quantitative evidence in one investigation. The strands may be sequential, concurrent, embedded or multiphase.",
+          "keyPoints": [
+            "Mixed methods integrates qualitative and quantitative evidence in one investigation."
+          ],
+          "followUps": [
+            "e413-mixed-methods-apply"
+          ]
+        },
+        {
+          "id": "e413-mixed-methods-apply",
+          "prompt": "You collect test scores and interviews but discuss them separately. What is missing?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "A clear integration of the two strands.",
+          "answer": "A clear integration of the two strands. Explain how interview findings help interpret, challenge or extend the numerical results.",
+          "keyPoints": [
+            "A clear integration of the two strands.",
+            "Explain how interview findings help interpret, challenge or extend the numerical results."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-classifications",
+      "groupId": "e413-foundations",
+      "title": "Research classifications",
+      "aliases": [
+        "research methodology"
+      ],
+      "core": "A study can receive different labels according to its purpose, objective, evidence, timing and design.",
+      "explanation": "Basic research primarily develops knowledge; applied research addresses a practical problem. Exploratory, descriptive, correlational and explanatory labels concern the aim. These classifications can overlap.",
+      "example": "A classroom experiment may be applied, quantitative, explanatory and longitudinal.",
+      "confusion": "Basic research can have practical consequences; applied research can develop theory.",
+      "syllabusTerms": [
+        "Research concept and nature"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-classifications-core",
+          "prompt": "Explain research classifications briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A study can receive different labels according to its purpose, objective, evidence, timing and design.",
+          "answer": "A study can receive different labels according to its purpose, objective, evidence, timing and design. Basic research primarily develops knowledge; applied research addresses a practical problem.",
+          "keyPoints": [
+            "A study can receive different labels according to its purpose, objective, evidence, timing and design."
+          ],
+          "followUps": [
+            "e413-research-classifications-apply"
+          ]
+        },
+        {
+          "id": "e413-research-classifications-apply",
+          "prompt": "Can a study be both applied and qualitative?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Applied describes its practical purpose, while qualitative describes its approach to evidence and interpretation. They classify different aspects of the study.",
+          "keyPoints": [
+            "Yes.",
+            "Applied describes its practical purpose, while qualitative describes its approach to evidence and interpretation.",
+            "They classify different aspects of the study."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-induction-and-deduction",
+      "groupId": "e413-foundations",
+      "title": "Induction and deduction",
+      "aliases": [
+        "research methodology"
+      ],
+      "core": "Induction develops explanations from observations; deduction tests implications of existing explanations.",
+      "explanation": "Inductive reasoning moves from cases to patterns. Deductive reasoning moves from theory through a prediction to evidence. Studies may alternate between them.",
+      "example": "Develop a model of speaking anxiety from interviews, then test its predictions in another group.",
+      "confusion": "A supported prediction does not prove a theory universally.",
+      "syllabusTerms": [
+        "Research concept and nature"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            5
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-induction-and-deduction-core",
+          "prompt": "Explain induction and deduction briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Induction develops explanations from observations; deduction tests implications of existing explanations.",
+          "answer": "Induction develops explanations from observations; deduction tests implications of existing explanations. Inductive reasoning moves from cases to patterns.",
+          "keyPoints": [
+            "Induction develops explanations from observations; deduction tests implications of existing explanations."
+          ],
+          "followUps": [
+            "e413-induction-and-deduction-apply"
+          ]
+        },
+        {
+          "id": "e413-induction-and-deduction-apply",
+          "prompt": "You start with a theory and predict higher fluency after practice. Which reasoning is this?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Deductive reasoning: the prediction follows from an existing explanation and is checked against data.",
+          "answer": "Deductive reasoning: the prediction follows from an existing explanation and is checked against data. Unexpected results may prompt inductive revision.",
+          "keyPoints": [
+            "Deductive reasoning: the prediction follows from an existing explanation and is checked against data.",
+            "Unexpected results may prompt inductive revision."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-longitudinal-and-cross-sectional-designs",
+      "groupId": "e413-foundations",
+      "title": "Longitudinal and cross-sectional designs",
+      "aliases": [
+        "research methodology"
+      ],
+      "core": "Longitudinal designs collect evidence over time; cross-sectional designs examine a population or groups at one time.",
+      "explanation": "Panel designs repeatedly study the same individuals. Trend designs can use different samples from the same population; cohort designs focus on a group sharing a starting feature. Timing is separate from whether a study is experimental.",
+      "example": "Follow the same learners across semesters to track vocabulary development, or compare year groups at one time for a cross-sectional snapshot.",
+      "confusion": "A difference between year groups does not directly measure change within the same individuals.",
+      "syllabusTerms": [
+        "Research concept and nature"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            6,
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-longitudinal-and-cross-sectional-designs-core",
+          "prompt": "Explain longitudinal and cross-sectional designs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Longitudinal designs collect evidence over time; cross-sectional designs examine a population or groups at one time.",
+          "answer": "Longitudinal designs collect evidence over time; cross-sectional designs examine a population or groups at one time. Panel designs repeatedly study the same individuals.",
+          "keyPoints": [
+            "Longitudinal designs collect evidence over time; cross-sectional designs examine a population or groups at one time."
+          ],
+          "followUps": [
+            "e413-longitudinal-and-cross-sectional-designs-apply"
+          ]
+        },
+        {
+          "id": "e413-longitudinal-and-cross-sectional-designs-apply",
+          "prompt": "Why might a panel design help investigate language development?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Repeated observations of the same learners can show individual change over time.",
+          "answer": "Repeated observations of the same learners can show individual change over time. Comparable measures and attention to attrition are needed; observed change does not by itself establish its cause.",
+          "keyPoints": [
+            "Repeated observations of the same learners can show individual change over time.",
+            "Comparable measures and attention to attrition are needed; observed change does not by itself establish its cause."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-narrative-inquiry",
+      "groupId": "e413-methods",
+      "title": "Narrative inquiry",
+      "aliases": [],
+      "core": "Narrative inquiry studies how people organise and interpret experience through stories.",
+      "explanation": "Attend to sequence, turning points, identity and the setting in which a story is told. A story is a situated account rather than a transparent record of every event.",
+      "example": "Ask a teacher to narrate becoming an English teacher and analyse how key events shape professional identity.",
+      "confusion": "Narrative inquiry focuses on story construction, not merely extracting isolated themes.",
+      "syllabusTerms": [
+        "Narrative inquiry"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            12,
+            19
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-narrative-inquiry-core",
+          "prompt": "What is narrative inquiry?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Narrative inquiry studies how people organise and interpret experience through stories.",
+          "answer": "Narrative inquiry studies how people organise and interpret experience through stories. Attend to sequence, turning points, identity and the setting in which a story is told.",
+          "keyPoints": [
+            "Narrative inquiry studies how people organise and interpret experience through stories."
+          ],
+          "followUps": [
+            "e413-narrative-inquiry-apply"
+          ]
+        },
+        {
+          "id": "e413-narrative-inquiry-apply",
+          "prompt": "How would you investigate a learner's changing relationship with English through narrative inquiry?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Invite a learning-history account, examine turning points and identity positions, and relate the telling to its social context.",
+          "answer": "Invite a learning-history account, examine turning points and identity positions, and relate the telling to its social context. Preserve the sequence and the learner's meaning-making.",
+          "keyPoints": [
+            "Invite a learning-history account, examine turning points and identity positions, and relate the telling to its social context.",
+            "Preserve the sequence and the learner's meaning-making."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-case-study",
+      "groupId": "e413-methods",
+      "title": "Case study",
+      "aliases": [],
+      "core": "A case study examines a bounded case in depth within its real context.",
+      "explanation": "A case may be a person, class, programme or institution. Define boundaries of place, time and activity and use suitable evidence such as interviews, observations and documents.",
+      "example": "Study one Grade 8 class's group work during one academic year.",
+      "confusion": "A case is a bounded unit; it is not automatically a representative sample.",
+      "syllabusTerms": [
+        "Case study"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-case-study-core",
+          "prompt": "What is case study?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A case study examines a bounded case in depth within its real context.",
+          "answer": "A case study examines a bounded case in depth within its real context. A case may be a person, class, programme or institution.",
+          "keyPoints": [
+            "A case study examines a bounded case in depth within its real context."
+          ],
+          "followUps": [
+            "e413-case-study-apply"
+          ]
+        },
+        {
+          "id": "e413-case-study-apply",
+          "prompt": "Why is 'students in Bangladesh' too vague as a case-study boundary?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It does not identify a specific bounded case.",
+          "answer": "It does not identify a specific bounded case. Specify a class, institution, group or programme and define its time, place and activity boundaries.",
+          "keyPoints": [
+            "It does not identify a specific bounded case.",
+            "Specify a class, institution, group or programme and define its time, place and activity boundaries."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-case-study-types",
+      "groupId": "e413-methods",
+      "title": "Case-study types",
+      "aliases": [],
+      "core": "Intrinsic studies examine a case for its own interest; instrumental studies use it to understand a wider issue.",
+      "explanation": "Collective studies compare cases. Embedded studies examine subunits; holistic studies treat the case as one unit. Longitudinal refers to time and can combine with the other labels.",
+      "example": "One school may be an instrumental case with three embedded classroom units.",
+      "confusion": "These labels are based on different dimensions and are not mutually exclusive.",
+      "syllabusTerms": [
+        "Case study"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-case-study-types-core",
+          "prompt": "Explain case-study types briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Intrinsic studies examine a case for its own interest; instrumental studies use it to understand a wider issue.",
+          "answer": "Intrinsic studies examine a case for its own interest; instrumental studies use it to understand a wider issue. Collective studies compare cases.",
+          "keyPoints": [
+            "Intrinsic studies examine a case for its own interest; instrumental studies use it to understand a wider issue."
+          ],
+          "followUps": [
+            "e413-case-study-types-apply"
+          ]
+        },
+        {
+          "id": "e413-case-study-types-apply",
+          "prompt": "Can a case study be instrumental, embedded and longitudinal at once?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. It can illuminate a broader issue, examine classroom subunits and follow the school over time. Each label describes a different feature.",
+          "keyPoints": [
+            "Yes.",
+            "It can illuminate a broader issue, examine classroom subunits and follow the school over time.",
+            "Each label describes a different feature."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-action-research",
+      "groupId": "e413-methods",
+      "title": "Action research",
+      "aliases": [],
+      "core": "Action research is a practitioner's systematic cycle of investigating and improving local practice.",
+      "explanation": "A typical cycle is plan, act, observe and reflect, followed by revision. The evidence may be qualitative, quantitative or mixed. Improvement claims need evidence rather than enthusiasm alone.",
+      "example": "A teacher changes feedback routines, observes participation, reflects and adjusts the next lesson cycle.",
+      "confusion": "Trying a new activity without systematic investigation is not enough.",
+      "syllabusTerms": [
+        "Action research"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-action-research-core",
+          "prompt": "What is action research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Action research is a practitioner's systematic cycle of investigating and improving local practice.",
+          "answer": "Action research is a practitioner's systematic cycle of investigating and improving local practice. A typical cycle is plan, act, observe and reflect, followed by revision.",
+          "keyPoints": [
+            "Action research is a practitioner's systematic cycle of investigating and improving local practice."
+          ],
+          "followUps": [
+            "e413-action-research-apply"
+          ]
+        },
+        {
+          "id": "e413-action-research-apply",
+          "prompt": "A teacher introduces peer feedback. What makes this action research?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The teacher identifies a problem, plans a change, gathers evidence during implementation, reflects on the outcome and uses it to plan another cycle.",
+          "answer": "The teacher identifies a problem, plans a change, gathers evidence during implementation, reflects on the outcome and uses it to plan another cycle.",
+          "keyPoints": [
+            "The teacher identifies a problem, plans a change, gathers evidence during implementation, reflects on the outcome and uses it to plan another cycle."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-grounded-theory",
+      "groupId": "e413-methods",
+      "title": "Grounded theory",
+      "aliases": [],
+      "core": "Grounded theory develops an explanatory theory or model through systematic analysis of data.",
+      "explanation": "Coding and comparison support progressively developed categories and their relationships. Theory development is central; a list of themes alone does not establish grounded theory.",
+      "example": "Develop a model of how new teachers adapt to unfamiliar classroom demands.",
+      "confusion": "Thematic analysis and grounded theory can both code data, but their aims differ.",
+      "syllabusTerms": [
+        "Grounded theory method"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-grounded-theory-core",
+          "prompt": "What is grounded theory?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Grounded theory develops an explanatory theory or model through systematic analysis of data.",
+          "answer": "Grounded theory develops an explanatory theory or model through systematic analysis of data. Coding and comparison support progressively developed categories and their relationships.",
+          "keyPoints": [
+            "Grounded theory develops an explanatory theory or model through systematic analysis of data."
+          ],
+          "followUps": [
+            "e413-grounded-theory-apply"
+          ]
+        },
+        {
+          "id": "e413-grounded-theory-apply",
+          "prompt": "Why is an interview study with five themes not necessarily grounded theory?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Themes can describe patterns without producing an explanatory model.",
+          "answer": "Themes can describe patterns without producing an explanatory model. Grounded theory requires a coherent account of processes and relationships developed through systematic comparative analysis.",
+          "keyPoints": [
+            "Themes can describe patterns without producing an explanatory model.",
+            "Grounded theory requires a coherent account of processes and relationships developed through systematic comparative analysis."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-survey-research",
+      "groupId": "e413-methods",
+      "title": "Survey research",
+      "aliases": [],
+      "core": "Survey research systematically collects information about a population or sample's characteristics, behaviour or views.",
+      "explanation": "Questionnaires and interviews are possible instruments. Plan the sample, pilot questions, collect and prepare responses, analyse and report the findings and limits.",
+      "example": "Survey learners' reported weekly English practice and attitudes.",
+      "confusion": "A survey is a design; a questionnaire is a tool within it.",
+      "syllabusTerms": [
+        "Survey research"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            15,
+            16
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-survey-research-core",
+          "prompt": "What is survey research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Survey research systematically collects information about a population or sample's characteristics, behaviour or views.",
+          "answer": "Survey research systematically collects information about a population or sample's characteristics, behaviour or views. Questionnaires and interviews are possible instruments.",
+          "keyPoints": [
+            "Survey research systematically collects information about a population or sample's characteristics, behaviour or views."
+          ],
+          "followUps": [
+            "e413-survey-research-apply"
+          ]
+        },
+        {
+          "id": "e413-survey-research-apply",
+          "prompt": "Does a survey showing students like an app prove the app improves learning?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. It measures reported preference or perception. Evidence of learning improvement requires an appropriate performance measure and design.",
+          "keyPoints": [
+            "No.",
+            "It measures reported preference or perception.",
+            "Evidence of learning improvement requires an appropriate performance measure and design."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-experimental-and-quasi-experimental-research",
+      "groupId": "e413-methods",
+      "title": "Experimental and quasi-experimental research",
+      "aliases": [],
+      "core": "An experiment manipulates an independent variable to examine an outcome; a true experiment uses random assignment.",
+      "explanation": "A quasi-experiment studies an intervention without random allocation, often in intact classes. Comparison groups and baseline measures help address alternative explanations.",
+      "example": "Randomly assign learners to two feedback conditions and compare writing outcomes.",
+      "confusion": "Random sampling selects participants; random assignment allocates conditions.",
+      "syllabusTerms": [
+        "Experimental research"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            6,
+            13,
+            14
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-experimental-and-quasi-experimental-research-core",
+          "prompt": "Explain experimental and quasi-experimental research briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "An experiment manipulates an independent variable to examine an outcome; a true experiment uses random assignment.",
+          "answer": "An experiment manipulates an independent variable to examine an outcome; a true experiment uses random assignment. A quasi-experiment studies an intervention without random allocation, often in intact classes.",
+          "keyPoints": [
+            "An experiment manipulates an independent variable to examine an outcome; a true experiment uses random assignment."
+          ],
+          "followUps": [
+            "e413-experimental-and-quasi-experimental-research-apply"
+          ]
+        },
+        {
+          "id": "e413-experimental-and-quasi-experimental-research-apply",
+          "prompt": "Two existing classes receive different teaching methods. Is this a true experiment?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Usually it is quasi-experimental because learners were not randomly assigned.",
+          "answer": "Usually it is quasi-experimental because learners were not randomly assigned. Initial class differences and teacher differences may influence the outcomes.",
+          "keyPoints": [
+            "Usually it is quasi-experimental because learners were not randomly assigned.",
+            "Initial class differences and teacher differences may influence the outcomes."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-experimental-designs",
+      "groupId": "e413-methods",
+      "title": "Experimental designs",
+      "aliases": [],
+      "core": "A pretest-posttest control-group design compares groups before and after an intervention.",
+      "explanation": "Posttest-only designs avoid pretest sensitisation but lack direct individual gains. Repeated measures reuse participants; factorial designs examine multiple factors; Solomon designs examine pretest effects.",
+      "example": "Measure fluency in both teaching groups before and after four weeks.",
+      "confusion": "Improvement in one group alone is not evidence that its method caused the change.",
+      "syllabusTerms": [
+        "Experimental research"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            14
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-experimental-designs-core",
+          "prompt": "Explain experimental designs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A pretest-posttest control-group design compares groups before and after an intervention.",
+          "answer": "A pretest-posttest control-group design compares groups before and after an intervention. Posttest-only designs avoid pretest sensitisation but lack direct individual gains.",
+          "keyPoints": [
+            "A pretest-posttest control-group design compares groups before and after an intervention."
+          ],
+          "followUps": [
+            "e413-experimental-designs-apply"
+          ]
+        },
+        {
+          "id": "e413-experimental-designs-apply",
+          "prompt": "Why include a comparison group when test scores improve after teaching?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It helps separate the intervention effect from maturation, test practice and other changes.",
+          "answer": "It helps separate the intervention effect from maturation, test practice and other changes. Compare groups with suitable baseline and design controls.",
+          "keyPoints": [
+            "It helps separate the intervention effect from maturation, test practice and other changes.",
+            "Compare groups with suitable baseline and design controls."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-corpus-research",
+      "groupId": "e413-methods",
+      "title": "Corpus research",
+      "aliases": [],
+      "core": "Corpus research studies language patterns in systematically assembled collections of texts or speech.",
+      "explanation": "Searchable corpora support analyses of frequency, collocation and variation. Corpus selection must fit the research question; numerical patterns still require contextual interpretation.",
+      "example": "Compare how often academic and conversational corpora use a target phrase.",
+      "confusion": "A large collection is not automatically representative of all language use.",
+      "syllabusTerms": [
+        "Corpus research"
+      ],
+      "sources": [
+        {
+          "id": "e413-corpus"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-corpus-research-core",
+          "prompt": "What is corpus research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Corpus research studies language patterns in systematically assembled collections of texts or speech.",
+          "answer": "Corpus research studies language patterns in systematically assembled collections of texts or speech. Searchable corpora support analyses of frequency, collocation and variation.",
+          "keyPoints": [
+            "Corpus research studies language patterns in systematically assembled collections of texts or speech."
+          ],
+          "followUps": [
+            "e413-corpus-research-apply"
+          ]
+        },
+        {
+          "id": "e413-corpus-research-apply",
+          "prompt": "Why should raw word counts from differently sized corpora be normalised?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A larger corpus naturally contains more tokens.",
+          "answer": "A larger corpus naturally contains more tokens. Rates per a common number of words permit a fairer frequency comparison, alongside attention to sampling and context.",
+          "keyPoints": [
+            "A larger corpus naturally contains more tokens.",
+            "Rates per a common number of words permit a fairer frequency comparison, alongside attention to sampling and context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-digital-discourse-research",
+      "groupId": "e413-methods",
+      "title": "Digital discourse research",
+      "aliases": [],
+      "core": "Digital discourse research investigates communication mediated by digital platforms.",
+      "explanation": "The research design considers platform features, participants, multimodal communication, data boundaries and ethical use. The same text can function differently across platforms and audiences.",
+      "example": "Analyse how replies, emojis and quoted posts organise disagreement in a class discussion forum.",
+      "confusion": "An online questionnaire is a digital collection tool, not automatically a study of digital discourse.",
+      "syllabusTerms": [
+        "Digital discourse research"
+      ],
+      "sources": [
+        {
+          "id": "e413-digital"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-digital-discourse-research-core",
+          "prompt": "What is digital discourse research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Digital discourse research investigates communication mediated by digital platforms.",
+          "answer": "Digital discourse research investigates communication mediated by digital platforms. The research design considers platform features, participants, multimodal communication, data boundaries and ethical use.",
+          "keyPoints": [
+            "Digital discourse research investigates communication mediated by digital platforms."
+          ],
+          "followUps": [
+            "e413-digital-discourse-research-apply"
+          ]
+        },
+        {
+          "id": "e413-digital-discourse-research-apply",
+          "prompt": "Why must a study of online disagreement consider platform design?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Features such as reply threading, visibility and character limits shape how messages are produced and interpreted.",
+          "answer": "Features such as reply threading, visibility and character limits shape how messages are produced and interpreted. Analysis should connect linguistic choices with these technical and social conditions.",
+          "keyPoints": [
+            "Features such as reply threading, visibility and character limits shape how messages are produced and interpreted.",
+            "Analysis should connect linguistic choices with these technical and social conditions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-psycholinguistic-methods",
+      "groupId": "e413-methods",
+      "title": "Psycholinguistic methods",
+      "aliases": [],
+      "core": "Psycholinguistic methods investigate language processing through controlled tasks and behavioural or physiological measures.",
+      "explanation": "Reaction times, accuracy and eye movements provide evidence about processing under specified task conditions. They require an explicit inference linking an observable measure to a mental process.",
+      "example": "Compare reading times at an ambiguous phrase and a matched unambiguous phrase.",
+      "confusion": "A slow response is evidence requiring interpretation, not a direct reading of a thought.",
+      "syllabusTerms": [
+        "Psycholinguistics methods"
+      ],
+      "sources": [
+        {
+          "id": "e413-psychomethod"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-psycholinguistic-methods-core",
+          "prompt": "Explain psycholinguistic methods briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Psycholinguistic methods investigate language processing through controlled tasks and behavioural or physiological measures.",
+          "answer": "Psycholinguistic methods investigate language processing through controlled tasks and behavioural or physiological measures. Reaction times, accuracy and eye movements provide evidence about processing under specified task conditions.",
+          "keyPoints": [
+            "Psycholinguistic methods investigate language processing through controlled tasks and behavioural or physiological measures."
+          ],
+          "followUps": [
+            "e413-psycholinguistic-methods-apply"
+          ]
+        },
+        {
+          "id": "e413-psycholinguistic-methods-apply",
+          "prompt": "Why record both accuracy and response time in a lexical-decision task?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Response time can indicate processing difficulty, but faster responses may be less accurate.",
+          "answer": "Response time can indicate processing difficulty, but faster responses may be less accurate. Considering both helps evaluate task performance and a possible speed–accuracy trade-off.",
+          "keyPoints": [
+            "Response time can indicate processing difficulty, but faster responses may be less accurate.",
+            "Considering both helps evaluate task performance and a possible speed–accuracy trade-off."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-critical-research",
+      "groupId": "e413-methods",
+      "title": "Critical research",
+      "aliases": [],
+      "core": "Critical research explicitly examines power, inequality and the assumptions shaping knowledge or practice.",
+      "explanation": "It asks whose interests are served and whose experiences are excluded. In language research, claims about ideology should be grounded in evidence and context, with attention to the researcher's own position.",
+      "example": "Examine whose English varieties are treated as legitimate in classroom materials.",
+      "confusion": "Critical does not simply mean finding faults or announcing a political conclusion.",
+      "syllabusTerms": [
+        "Critical research"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-critical-research-core",
+          "prompt": "What is critical research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Critical research explicitly examines power, inequality and the assumptions shaping knowledge or practice.",
+          "answer": "Critical research explicitly examines power, inequality and the assumptions shaping knowledge or practice. It asks whose interests are served and whose experiences are excluded.",
+          "keyPoints": [
+            "Critical research explicitly examines power, inequality and the assumptions shaping knowledge or practice."
+          ],
+          "followUps": [
+            "e413-critical-research-apply"
+          ]
+        },
+        {
+          "id": "e413-critical-research-apply",
+          "prompt": "How would a critical study examine an English-only classroom policy?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Investigate whose opportunities and identities the policy supports or restricts, analyse its language and implementation, and consider participants' experiences and institutional power.",
+          "answer": "Investigate whose opportunities and identities the policy supports or restricts, analyse its language and implementation, and consider participants' experiences and institutional power.",
+          "keyPoints": [
+            "Investigate whose opportunities and identities the policy supports or restricts, analyse its language and implementation, and consider participants' experiences and institutional power."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-interdisciplinary-research",
+      "groupId": "e413-methods",
+      "title": "Interdisciplinary research",
+      "aliases": [],
+      "core": "Interdisciplinary research combines concepts or methods from different fields to address a shared question.",
+      "explanation": "The contribution comes from integration: perspectives should jointly explain the problem. Language learning can involve linguistic, psychological, social and educational processes.",
+      "example": "Study speaking anxiety using psycholinguistic processing measures and sociolinguistic analysis of classroom identity.",
+      "confusion": "Placing unrelated findings side by side is not strong integration.",
+      "syllabusTerms": [
+        "Interdisciplinary research"
+      ],
+      "sources": [
+        {
+          "id": "e413-interdisciplinary"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-interdisciplinary-research-core",
+          "prompt": "What is interdisciplinary research?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Interdisciplinary research combines concepts or methods from different fields to address a shared question.",
+          "answer": "Interdisciplinary research combines concepts or methods from different fields to address a shared question. The contribution comes from integration: perspectives should jointly explain the problem.",
+          "keyPoints": [
+            "Interdisciplinary research combines concepts or methods from different fields to address a shared question."
+          ],
+          "followUps": [
+            "e413-interdisciplinary-research-apply"
+          ]
+        },
+        {
+          "id": "e413-interdisciplinary-research-apply",
+          "prompt": "How could linguistics and psychology jointly study oral participation?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Linguistic analysis can examine interaction patterns while psychological measures explore anxiety or processing demands.",
+          "answer": "Linguistic analysis can examine interaction patterns while psychological measures explore anxiety or processing demands. Integrate the evidence to explain when and why learners participate.",
+          "keyPoints": [
+            "Linguistic analysis can examine interaction patterns while psychological measures explore anxiety or processing demands.",
+            "Integrate the evidence to explain when and why learners participate."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-discourse-analysis-and-cda",
+      "groupId": "e413-methods",
+      "title": "Discourse analysis and CDA",
+      "aliases": [],
+      "core": "Discourse analysis studies language in use; critical discourse analysis explicitly investigates power and ideology in discourse.",
+      "explanation": "Both consider context and what communication does. CDA examines how inequality is sustained or challenged through representation, interaction and institutions.",
+      "example": "Analyse who receives speaking turns; a CDA study additionally asks how those patterns reproduce authority or exclusion.",
+      "confusion": "Ordinary discourse analysis is not restricted to sentence grammar.",
+      "syllabusTerms": [
+        "Discourse analysis",
+        "Critical discourse analysis"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-discourse-analysis-and-cda-core",
+          "prompt": "Explain discourse analysis and cda briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Discourse analysis studies language in use; critical discourse analysis explicitly investigates power and ideology in discourse.",
+          "answer": "Discourse analysis studies language in use; critical discourse analysis explicitly investigates power and ideology in discourse. Both consider context and what communication does.",
+          "keyPoints": [
+            "Discourse analysis studies language in use; critical discourse analysis explicitly investigates power and ideology in discourse."
+          ],
+          "followUps": [
+            "e413-discourse-analysis-and-cda-apply"
+          ]
+        },
+        {
+          "id": "e413-discourse-analysis-and-cda-apply",
+          "prompt": "How could two researchers analyse the same textbook differently using DA and CDA?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "One may examine how explanations and tasks construct meanings.",
+          "answer": "One may examine how explanations and tasks construct meanings. A critical analysis would explicitly investigate whose identities and interests are privileged or marginalised, linking textual evidence to social power.",
+          "keyPoints": [
+            "One may examine how explanations and tasks construct meanings.",
+            "A critical analysis would explicitly investigate whose identities and interests are privileged or marginalised, linking textual evidence to social power."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-ethnography-and-reflexivity",
+      "groupId": "e413-methods",
+      "title": "Ethnography and reflexivity",
+      "aliases": [],
+      "core": "Ethnography investigates a group's shared practices and meanings through sustained contextual engagement.",
+      "explanation": "Participant observation, field notes, interviews and artefacts help connect participants' emic meanings with analytical perspectives. Reflexivity examines the researcher's influence and assumptions.",
+      "example": "Follow a multilingual class over time to understand when code-switching signals solidarity.",
+      "confusion": "One classroom visit is not a full ethnography.",
+      "syllabusTerms": [
+        "Case study",
+        "Data collection"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            18,
+            19
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-ethnography-and-reflexivity-core",
+          "prompt": "Explain ethnography and reflexivity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Ethnography investigates a group's shared practices and meanings through sustained contextual engagement.",
+          "answer": "Ethnography investigates a group's shared practices and meanings through sustained contextual engagement. Participant observation, field notes, interviews and artefacts help connect participants' emic meanings with analytical perspectives.",
+          "keyPoints": [
+            "Ethnography investigates a group's shared practices and meanings through sustained contextual engagement."
+          ],
+          "followUps": [
+            "e413-ethnography-and-reflexivity-apply"
+          ]
+        },
+        {
+          "id": "e413-ethnography-and-reflexivity-apply",
+          "prompt": "What makes a description of code-switching 'thick'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It explains the interaction's setting, participants, timing and social meaning, rather than simply recording that a language switch occurred.",
+          "answer": "It explains the interaction's setting, participants, timing and social meaning, rather than simply recording that a language switch occurred.",
+          "keyPoints": [
+            "It explains the interaction's setting, participants, timing and social meaning, rather than simply recording that a language switch occurred."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-problem-and-scope",
+      "groupId": "e413-basics",
+      "title": "Research problem and scope",
+      "aliases": [],
+      "core": "A research problem identifies a specific uncertainty or difficulty requiring investigation.",
+      "explanation": "A problem statement sets the context, explains what is not adequately understood and defines boundaries. The four Ps—people, problems, programmes and phenomena—can help locate a manageable focus.",
+      "example": "Narrow 'English speaking' to peer judgment and participation among first-year students in one department.",
+      "confusion": "A broad topic or interesting title is not yet a research problem.",
+      "syllabusTerms": [
+        "Statement of the problem"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            7
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-problem-and-scope-core",
+          "prompt": "Explain research problem and scope briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A research problem identifies a specific uncertainty or difficulty requiring investigation.",
+          "answer": "A research problem identifies a specific uncertainty or difficulty requiring investigation. A problem statement sets the context, explains what is not adequately understood and defines boundaries.",
+          "keyPoints": [
+            "A research problem identifies a specific uncertainty or difficulty requiring investigation."
+          ],
+          "followUps": [
+            "e413-research-problem-and-scope-apply"
+          ]
+        },
+        {
+          "id": "e413-research-problem-and-scope-apply",
+          "prompt": "How would you narrow 'technology and English learning' into a researchable problem?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Select a population, setting, activity and uncertainty—for example, how first-year learners use mobile dictionaries during reading tasks—and check that evidence is accessible.",
+          "answer": "Select a population, setting, activity and uncertainty—for example, how first-year learners use mobile dictionaries during reading tasks—and check that evidence is accessible.",
+          "keyPoints": [
+            "Select a population, setting, activity and uncertainty—for example, how first-year learners use mobile dictionaries during reading tasks—and check that evidence is accessible."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-objectives-and-justification",
+      "groupId": "e413-basics",
+      "title": "Research objectives and justification",
+      "aliases": [],
+      "core": "Objectives state what the study will achieve; justification explains why that achievement matters.",
+      "explanation": "Use clear action verbs such as describe, examine or compare. Link each objective to a research question and explain its theoretical, practical or stakeholder relevance.",
+      "example": "Objective: compare fluency gains. Justification: clarify whether the activity warrants classroom time.",
+      "confusion": "Expected contribution is not a promise of positive results.",
+      "syllabusTerms": [
+        "Objective of the study",
+        "Justification of the study"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            8,
+            11
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-objectives-and-justification-core",
+          "prompt": "Explain research objectives and justification briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Objectives state what the study will achieve; justification explains why that achievement matters.",
+          "answer": "Objectives state what the study will achieve; justification explains why that achievement matters. Use clear action verbs such as describe, examine or compare.",
+          "keyPoints": [
+            "Objectives state what the study will achieve; justification explains why that achievement matters."
+          ],
+          "followUps": [
+            "e413-research-objectives-and-justification-apply"
+          ]
+        },
+        {
+          "id": "e413-research-objectives-and-justification-apply",
+          "prompt": "What is wrong with the objective 'to prove role-play is effective'?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It prejudges the outcome.",
+          "answer": "It prejudges the outcome. Use an open, measurable objective such as comparing fluency outcomes under role-play and usual instruction.",
+          "keyPoints": [
+            "It prejudges the outcome.",
+            "Use an open, measurable objective such as comparing fluency outcomes under role-play and usual instruction."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-questions-and-hypotheses",
+      "groupId": "e413-basics",
+      "title": "Research questions and hypotheses",
+      "aliases": [],
+      "core": "A research question asks what will be investigated; a hypothesis predicts a testable relationship or outcome.",
+      "explanation": "Questions should be focused, researchable and aligned with obtainable evidence. A null hypothesis commonly specifies no population difference; an alternative specifies a difference. Exploratory studies may use questions without formal hypotheses.",
+      "example": "Ask whether feedback type affects revision quality; predict greater improvement with one type.",
+      "confusion": "A hypothesis is provisional, not an established fact.",
+      "syllabusTerms": [
+        "Research questions and hypotheses"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            11
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-questions-and-hypotheses-core",
+          "prompt": "Explain research questions and hypotheses briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A research question asks what will be investigated; a hypothesis predicts a testable relationship or outcome.",
+          "answer": "A research question asks what will be investigated; a hypothesis predicts a testable relationship or outcome. Questions should be focused, researchable and aligned with obtainable evidence.",
+          "keyPoints": [
+            "A research question asks what will be investigated; a hypothesis predicts a testable relationship or outcome."
+          ],
+          "followUps": [
+            "e413-research-questions-and-hypotheses-apply"
+          ]
+        },
+        {
+          "id": "e413-research-questions-and-hypotheses-apply",
+          "prompt": "Does every qualitative study need a formal hypothesis?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Exploratory qualitative research often uses open research questions to understand meanings and processes without a predetermined statistical prediction.",
+          "keyPoints": [
+            "No.",
+            "Exploratory qualitative research often uses open research questions to understand meanings and processes without a predetermined statistical prediction."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-operational-definitions-and-variables",
+      "groupId": "e413-basics",
+      "title": "Operational definitions and variables",
+      "aliases": [],
+      "core": "An operational definition states how a concept will be observed or measured in a particular study.",
+      "explanation": "Distinguish the independent variable, outcome variable and possible confound. The operational measure must fit the construct and its limits must be acknowledged.",
+      "example": "Define a fluency measure as words per minute during a comparable two-minute speaking task.",
+      "confusion": "Words per minute measures one aspect of fluency, not all speaking ability.",
+      "syllabusTerms": [
+        "Definition of terms"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-operational-definitions-and-variables-core",
+          "prompt": "Explain operational definitions and variables briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "An operational definition states how a concept will be observed or measured in a particular study.",
+          "answer": "An operational definition states how a concept will be observed or measured in a particular study. Distinguish the independent variable, outcome variable and possible confound.",
+          "keyPoints": [
+            "An operational definition states how a concept will be observed or measured in a particular study."
+          ],
+          "followUps": [
+            "e413-operational-definitions-and-variables-apply"
+          ]
+        },
+        {
+          "id": "e413-operational-definitions-and-variables-apply",
+          "prompt": "Why is 'students improved their English' an inadequate operational definition?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It does not specify which ability, measurement task, scoring rule or comparison establishes improvement.",
+          "answer": "It does not specify which ability, measurement task, scoring rule or comparison establishes improvement. Define an observable outcome linked to the research question.",
+          "keyPoints": [
+            "It does not specify which ability, measurement task, scoring rule or comparison establishes improvement.",
+            "Define an observable outcome linked to the research question."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-limitations-and-confounds",
+      "groupId": "e413-basics",
+      "title": "Limitations and confounds",
+      "aliases": [],
+      "core": "Limitations are constraints on the strength, scope or interpretation of a study's conclusions.",
+      "explanation": "Discuss sampling bias, measurement limits, confounding and contextual boundaries. A confound varies with the proposed cause and can influence the outcome, creating a competing explanation.",
+      "example": "Only the experimental class has a highly experienced teacher.",
+      "confusion": "A large sample cannot repair a biased selection method.",
+      "syllabusTerms": [
+        "Limitations of the study"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            13,
+            21,
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-limitations-and-confounds-core",
+          "prompt": "Explain limitations and confounds briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Limitations are constraints on the strength, scope or interpretation of a study's conclusions.",
+          "answer": "Limitations are constraints on the strength, scope or interpretation of a study's conclusions. Discuss sampling bias, measurement limits, confounding and contextual boundaries.",
+          "keyPoints": [
+            "Limitations are constraints on the strength, scope or interpretation of a study's conclusions."
+          ],
+          "followUps": [
+            "e413-limitations-and-confounds-apply"
+          ]
+        },
+        {
+          "id": "e413-limitations-and-confounds-apply",
+          "prompt": "The new method's group has the best teacher. What threatens the conclusion?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Teacher experience is confounded with method.",
+          "answer": "Teacher experience is confounded with method. Differences could reflect teaching expertise rather than the method, so the design or conclusion must address that alternative.",
+          "keyPoints": [
+            "Teacher experience is confounded with method.",
+            "Differences could reflect teaching expertise rather than the method, so the design or conclusion must address that alternative."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-literature-review-and-synthesis",
+      "groupId": "e413-literature",
+      "title": "Literature review and synthesis",
+      "aliases": [],
+      "core": "A literature review critically synthesises relevant research to establish what is known, debated and missing.",
+      "explanation": "Search, evaluate, compare themes and methods, organise the argument, then connect the review to the study. Thematic, chronological, methodological and theoretical structures are possible.",
+      "example": "Compare surveys and observations of anxiety instead of listing one author after another.",
+      "confusion": "An annotated bibliography describes individual sources; a review connects them.",
+      "syllabusTerms": [
+        "Literature review: what, why and how"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-literature-review-and-synthesis-core",
+          "prompt": "Explain literature review and synthesis briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A literature review critically synthesises relevant research to establish what is known, debated and missing.",
+          "answer": "A literature review critically synthesises relevant research to establish what is known, debated and missing. Search, evaluate, compare themes and methods, organise the argument, then connect the review to the study.",
+          "keyPoints": [
+            "A literature review critically synthesises relevant research to establish what is known, debated and missing."
+          ],
+          "followUps": [
+            "e413-literature-review-and-synthesis-apply"
+          ]
+        },
+        {
+          "id": "e413-literature-review-and-synthesis-apply",
+          "prompt": "How can a literature review justify a new study without claiming that nobody studied the topic?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Identify a specific unresolved issue supported by the reviewed evidence, such as limited observation of a particular population or disagreement between findings.",
+          "answer": "Identify a specific unresolved issue supported by the reviewed evidence, such as limited observation of a particular population or disagreement between findings.",
+          "keyPoints": [
+            "Identify a specific unresolved issue supported by the reviewed evidence, such as limited observation of a particular population or disagreement between findings."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-gaps",
+      "groupId": "e413-literature",
+      "title": "Research gaps",
+      "aliases": [],
+      "core": "A research gap is an important absence, weakness or unresolved issue in existing knowledge.",
+      "explanation": "The guide distinguishes evidence, knowledge, methodological, population, theoretical, empirical and practical-knowledge gaps. Categories can overlap, so explain the specific missing element.",
+      "example": "Several studies use self-report only; observation could address a methodological gap.",
+      "confusion": "A topic being new to you does not make it a research gap.",
+      "syllabusTerms": [
+        "Literature review: what, why and how"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            10
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-gaps-core",
+          "prompt": "Explain research gaps briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A research gap is an important absence, weakness or unresolved issue in existing knowledge.",
+          "answer": "A research gap is an important absence, weakness or unresolved issue in existing knowledge. The guide distinguishes evidence, knowledge, methodological, population, theoretical, empirical and practical-knowledge gaps.",
+          "keyPoints": [
+            "A research gap is an important absence, weakness or unresolved issue in existing knowledge."
+          ],
+          "followUps": [
+            "e413-research-gaps-apply"
+          ]
+        },
+        {
+          "id": "e413-research-gaps-apply",
+          "prompt": "How does a population gap differ from a methodological gap?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A population gap concerns an underrepresented group.",
+          "answer": "A population gap concerns an underrepresented group. A methodological gap concerns limitations in how evidence was obtained or analysed; one study may address both.",
+          "keyPoints": [
+            "A population gap concerns an underrepresented group.",
+            "A methodological gap concerns limitations in how evidence was obtained or analysed; one study may address both."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-population-sample-and-sampling",
+      "groupId": "e413-evidence",
+      "title": "Population, sample and sampling",
+      "aliases": [],
+      "core": "A population is the defined group of interest; a sample is the subset actually investigated.",
+      "explanation": "Sampling specifies how units enter the study. Define the target population, accessible population, selection procedure and reasons for sample size.",
+      "example": "Select 40 learners from a department of 400.",
+      "confusion": "A sample is not automatically representative because it is large.",
+      "syllabusTerms": [
+        "Sampling"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-population-sample-and-sampling-core",
+          "prompt": "Explain population, sample and sampling briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A population is the defined group of interest; a sample is the subset actually investigated.",
+          "answer": "A population is the defined group of interest; a sample is the subset actually investigated. Sampling specifies how units enter the study.",
+          "keyPoints": [
+            "A population is the defined group of interest; a sample is the subset actually investigated."
+          ],
+          "followUps": [
+            "e413-population-sample-and-sampling-apply"
+          ]
+        },
+        {
+          "id": "e413-population-sample-and-sampling-apply",
+          "prompt": "What is the difference between random selection and random assignment?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Selection chooses who enters the sample; assignment places sampled participants into study conditions.",
+          "answer": "Selection chooses who enters the sample; assignment places sampled participants into study conditions. The former supports representativeness, while the latter helps reduce confounding.",
+          "keyPoints": [
+            "Selection chooses who enters the sample; assignment places sampled participants into study conditions.",
+            "The former supports representativeness, while the latter helps reduce confounding."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-probability-sampling",
+      "groupId": "e413-evidence",
+      "title": "Probability sampling",
+      "aliases": [],
+      "core": "Probability sampling gives each population member a known non-zero chance of selection.",
+      "explanation": "Simple random sampling selects individuals; systematic sampling uses a random start and interval; stratified sampling draws within subgroups; cluster sampling selects natural groups.",
+      "example": "Randomly select learners within each academic year for a stratified sample.",
+      "confusion": "Probability sampling does not always give equal selection chances.",
+      "syllabusTerms": [
+        "Sampling"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-probability-sampling-core",
+          "prompt": "What is probability sampling?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Probability sampling gives each population member a known non-zero chance of selection.",
+          "answer": "Probability sampling gives each population member a known non-zero chance of selection. Simple random sampling selects individuals; systematic sampling uses a random start and interval; stratified sampling draws within subgroups; cluster sampling selects natural groups..",
+          "keyPoints": [
+            "Probability sampling gives each population member a known non-zero chance of selection."
+          ],
+          "followUps": [
+            "e413-probability-sampling-apply"
+          ]
+        },
+        {
+          "id": "e413-probability-sampling-apply",
+          "prompt": "How do stratified and cluster sampling differ?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Stratified sampling draws from each relevant subgroup.",
+          "answer": "Stratified sampling draws from each relevant subgroup. Cluster sampling selects some natural groups, then studies all or sampled members within those groups.",
+          "keyPoints": [
+            "Stratified sampling draws from each relevant subgroup.",
+            "Cluster sampling selects some natural groups, then studies all or sampled members within those groups."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-non-probability-sampling",
+      "groupId": "e413-evidence",
+      "title": "Non-probability sampling",
+      "aliases": [],
+      "core": "Non-probability sampling selects cases without known random selection probabilities.",
+      "explanation": "Convenience selects accessible participants; purposive selects relevant experience; snowball uses referrals; quota fills subgroup targets without random selection; maximum variation seeks diverse cases.",
+      "example": "Recruit teachers with experience of multilingual classrooms for in-depth interviews.",
+      "confusion": "Purposive selection can serve a qualitative goal without supporting statistical representativeness.",
+      "syllabusTerms": [
+        "Sampling"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-non-probability-sampling-core",
+          "prompt": "What is non-probability sampling?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Non-probability sampling selects cases without known random selection probabilities.",
+          "answer": "Non-probability sampling selects cases without known random selection probabilities. Convenience selects accessible participants; purposive selects relevant experience; snowball uses referrals; quota fills subgroup targets without random selection; maximum variation seeks diverse cases..",
+          "keyPoints": [
+            "Non-probability sampling selects cases without known random selection probabilities."
+          ],
+          "followUps": [
+            "e413-non-probability-sampling-apply"
+          ]
+        },
+        {
+          "id": "e413-non-probability-sampling-apply",
+          "prompt": "Why might purposive sampling fit an interview study better than convenience sampling?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The research may require participants with particular experiences.",
+          "answer": "The research may require participants with particular experiences. Purposeful selection aligns the evidence with that focus rather than relying only on whoever is easiest to reach.",
+          "keyPoints": [
+            "The research may require participants with particular experiences.",
+            "Purposeful selection aligns the evidence with that focus rather than relying only on whoever is easiest to reach."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-sample-size-and-saturation",
+      "groupId": "e413-evidence",
+      "title": "Sample size and saturation",
+      "aliases": [],
+      "core": "Sample size should fit the research question, variation, analytical needs and available resources.",
+      "explanation": "Quantitative studies consider precision and power; qualitative studies consider information richness and adequacy. Saturation refers to diminishing relevant new information, not a universal interview count.",
+      "example": "A diverse population may require broader sampling than one narrow experiential group.",
+      "confusion": "A fixed number such as 20 interviews does not guarantee saturation.",
+      "syllabusTerms": [
+        "Sampling"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-sample-size-and-saturation-core",
+          "prompt": "Explain sample size and saturation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Sample size should fit the research question, variation, analytical needs and available resources.",
+          "answer": "Sample size should fit the research question, variation, analytical needs and available resources. Quantitative studies consider precision and power; qualitative studies consider information richness and adequacy.",
+          "keyPoints": [
+            "Sample size should fit the research question, variation, analytical needs and available resources."
+          ],
+          "followUps": [
+            "e413-sample-size-and-saturation-apply"
+          ]
+        },
+        {
+          "id": "e413-sample-size-and-saturation-apply",
+          "prompt": "Why is 'I interviewed 20 people, therefore saturation occurred' weak reasoning?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The adequacy of the data depends on diversity, depth, scope and analysis.",
+          "answer": "The adequacy of the data depends on diversity, depth, scope and analysis. Explain what additional interviews contributed and how the relevant categories became sufficiently developed.",
+          "keyPoints": [
+            "The adequacy of the data depends on diversity, depth, scope and analysis.",
+            "Explain what additional interviews contributed and how the relevant categories became sufficiently developed."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-questionnaires-and-instrumentation",
+      "groupId": "e413-evidence",
+      "title": "Questionnaires and instrumentation",
+      "aliases": [],
+      "core": "Instrumentation concerns the tools and procedures used to gather or measure evidence.",
+      "explanation": "A questionnaire can include closed, open or mixed items. Use neutral, clear wording, one issue per item, defined timeframes and a pilot. Match the response format to the evidence needed.",
+      "example": "Separate 'The app is easy and improves pronunciation' into two questions.",
+      "confusion": "A self-reported confidence scale is not a direct test of speaking skill.",
+      "syllabusTerms": [
+        "Instrumentation"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-questionnaires-and-instrumentation-core",
+          "prompt": "Explain questionnaires and instrumentation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Instrumentation concerns the tools and procedures used to gather or measure evidence.",
+          "answer": "Instrumentation concerns the tools and procedures used to gather or measure evidence. A questionnaire can include closed, open or mixed items.",
+          "keyPoints": [
+            "Instrumentation concerns the tools and procedures used to gather or measure evidence."
+          ],
+          "followUps": [
+            "e413-questionnaires-and-instrumentation-apply"
+          ]
+        },
+        {
+          "id": "e413-questionnaires-and-instrumentation-apply",
+          "prompt": "Why is 'How helpful is this excellent app?' a poor questionnaire item?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It leads the respondent through positive wording.",
+          "answer": "It leads the respondent through positive wording. A neutral version asks how helpful, if at all, the app was and allows negative or uncertain responses.",
+          "keyPoints": [
+            "It leads the respondent through positive wording.",
+            "A neutral version asks how helpful, if at all, the app was and allows negative or uncertain responses."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-validity-and-reliability",
+      "groupId": "e413-evidence",
+      "title": "Validity and reliability",
+      "aliases": [],
+      "core": "Validity concerns the appropriateness of an interpretation; reliability concerns measurement consistency.",
+      "explanation": "Use measures that fit the construct and procedures that minimise avoidable inconsistency. Training raters and piloting instruments can reveal weaknesses.",
+      "example": "Two raters consistently apply a speaking rubric, but a vocabulary-only test would inadequately represent fluency.",
+      "confusion": "Consistency alone does not establish validity.",
+      "syllabusTerms": [
+        "Instrumentation"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            3,
+            16
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-validity-and-reliability-core",
+          "prompt": "Explain validity and reliability briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Validity concerns the appropriateness of an interpretation; reliability concerns measurement consistency.",
+          "answer": "Validity concerns the appropriateness of an interpretation; reliability concerns measurement consistency. Use measures that fit the construct and procedures that minimise avoidable inconsistency.",
+          "keyPoints": [
+            "Validity concerns the appropriateness of an interpretation; reliability concerns measurement consistency."
+          ],
+          "followUps": [
+            "e413-validity-and-reliability-apply"
+          ]
+        },
+        {
+          "id": "e413-validity-and-reliability-apply",
+          "prompt": "Can an instrument be reliable but invalid for a purpose?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. It may consistently measure the wrong construct—for example, a stable vocabulary score used as if it fully measured spontaneous speaking fluency.",
+          "keyPoints": [
+            "Yes.",
+            "It may consistently measure the wrong construct—for example, a stable vocabulary score used as if it fully measured spontaneous speaking fluency."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-observation-and-interviews",
+      "groupId": "e413-evidence",
+      "title": "Observation and interviews",
+      "aliases": [],
+      "core": "Observation records actions and interaction; interviews explore participants' accounts and interpretations.",
+      "explanation": "Specify observation categories, participation, disclosure and setting. Interviews may be structured, semi-structured or unstructured; flexible probes help clarify meaning.",
+      "example": "Observe participation and ask learners how they experienced the interaction.",
+      "confusion": "What people report doing can differ from what is observed.",
+      "syllabusTerms": [
+        "Data collection"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            24,
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-observation-and-interviews-core",
+          "prompt": "Explain observation and interviews briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Observation records actions and interaction; interviews explore participants' accounts and interpretations.",
+          "answer": "Observation records actions and interaction; interviews explore participants' accounts and interpretations. Specify observation categories, participation, disclosure and setting.",
+          "keyPoints": [
+            "Observation records actions and interaction; interviews explore participants' accounts and interpretations."
+          ],
+          "followUps": [
+            "e413-observation-and-interviews-apply"
+          ]
+        },
+        {
+          "id": "e413-observation-and-interviews-apply",
+          "prompt": "Why combine an interview with classroom observation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Observation provides evidence of practice; interviews explain participants' meanings and experiences.",
+          "answer": "Observation provides evidence of practice; interviews explain participants' meanings and experiences. Their differences can identify questions that either source alone would miss.",
+          "keyPoints": [
+            "Observation provides evidence of practice; interviews explain participants' meanings and experiences.",
+            "Their differences can identify questions that either source alone would miss."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-triangulation",
+      "groupId": "e413-evidence",
+      "title": "Triangulation",
+      "aliases": [],
+      "core": "Triangulation examines a phenomenon using multiple evidence sources or approaches.",
+      "explanation": "Comparing perspectives can strengthen an interpretation or expose contradictions. Disagreement should be investigated rather than hidden to produce apparent agreement.",
+      "example": "Compare learner interviews, class recordings and teacher notes about participation.",
+      "confusion": "Several methods do not automatically guarantee truth.",
+      "syllabusTerms": [
+        "Triangulation"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-triangulation-core",
+          "prompt": "What is triangulation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Triangulation examines a phenomenon using multiple evidence sources or approaches.",
+          "answer": "Triangulation examines a phenomenon using multiple evidence sources or approaches. Comparing perspectives can strengthen an interpretation or expose contradictions.",
+          "keyPoints": [
+            "Triangulation examines a phenomenon using multiple evidence sources or approaches."
+          ],
+          "followUps": [
+            "e413-triangulation-apply"
+          ]
+        },
+        {
+          "id": "e413-triangulation-apply",
+          "prompt": "What should you do if interviews report high participation but observation shows little?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Examine the timeframe, definitions, observer effects and participants' interpretations.",
+          "answer": "Examine the timeframe, definitions, observer effects and participants' interpretations. The disagreement is evidence to explain, not a reason to discard an inconvenient source.",
+          "keyPoints": [
+            "Examine the timeframe, definitions, observer effects and participants' interpretations.",
+            "The disagreement is evidence to explain, not a reason to discard an inconvenient source."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-ethics-and-consent",
+      "groupId": "e413-evidence",
+      "title": "Ethics and consent",
+      "aliases": [],
+      "core": "Research ethics requires informed, voluntary participation and appropriate protection of people and data.",
+      "explanation": "Explain the tasks, uses, risks, withdrawal conditions and privacy arrangements. Confidentiality protects identifiable information; anonymity means identities are not known or recorded in the relevant process.",
+      "example": "Explain recording use before an interview and avoid coercing students whose grades you control.",
+      "confusion": "Researchers cannot guarantee what fellow focus-group members will disclose later.",
+      "syllabusTerms": [
+        "Data collection"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            21,
+            22,
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-ethics-and-consent-core",
+          "prompt": "Explain ethics and consent briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Research ethics requires informed, voluntary participation and appropriate protection of people and data.",
+          "answer": "Research ethics requires informed, voluntary participation and appropriate protection of people and data. Explain the tasks, uses, risks, withdrawal conditions and privacy arrangements.",
+          "keyPoints": [
+            "Research ethics requires informed, voluntary participation and appropriate protection of people and data."
+          ],
+          "followUps": [
+            "e413-ethics-and-consent-apply"
+          ]
+        },
+        {
+          "id": "e413-ethics-and-consent-apply",
+          "prompt": "Why is teacher-led research with the teacher's own students ethically sensitive?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The power relationship may make refusal feel unsafe.",
+          "answer": "The power relationship may make refusal feel unsafe. Participation and assessment should be separated, and students need a credible way to decline without disadvantage.",
+          "keyPoints": [
+            "The power relationship may make refusal feel unsafe.",
+            "Participation and assessment should be separated, and students need a credible way to decline without disadvantage."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-transcription",
+      "groupId": "e413-analysis",
+      "title": "Research transcription",
+      "aliases": [],
+      "core": "Transcription represents recorded speech in written form using conventions appropriate to the research question.",
+      "explanation": "Verbatim records retain relevant repetitions, pauses and false starts. Intelligent-verbatim and edited versions improve readability but may remove interactional evidence. Document decisions and check the record against the recording.",
+      "example": "Preserve a pause and self-correction when investigating repair, because their placement can explain how the exchange develops.",
+      "confusion": "A cleaned transcript is not a neutral copy: removing a feature can remove evidence.",
+      "syllabusTerms": [
+        "Data collection"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-transcription-core",
+          "prompt": "What is research transcription?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Transcription represents recorded speech in written form using conventions appropriate to the research question.",
+          "answer": "Transcription represents recorded speech in written form using conventions appropriate to the research question. Verbatim records retain relevant repetitions, pauses and false starts.",
+          "keyPoints": [
+            "Transcription represents recorded speech in written form using conventions appropriate to the research question."
+          ],
+          "followUps": [
+            "e413-research-transcription-apply"
+          ]
+        },
+        {
+          "id": "e413-research-transcription-apply",
+          "prompt": "Why might edited transcription be unsuitable for conversation analysis?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Editing can erase pauses, overlaps and repairs that show how turns and actions are organised.",
+          "answer": "Editing can erase pauses, overlaps and repairs that show how turns and actions are organised. Preserve the details needed by the analysis and state the transcription conventions.",
+          "keyPoints": [
+            "Editing can erase pauses, overlaps and repairs that show how turns and actions are organised.",
+            "Preserve the details needed by the analysis and state the transcription conventions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-qualitative-coding",
+      "groupId": "e413-analysis",
+      "title": "Qualitative coding",
+      "aliases": [],
+      "core": "Coding labels meaningful data segments; analysis develops relationships and interpretations from those labels.",
+      "explanation": "Codes can form categories and themes. A theme should address a meaningful pattern relevant to the question, supported by extracts and checked against contrary cases.",
+      "example": "Code 'I stay quiet because classmates laugh' as fear of peer judgment.",
+      "confusion": "A frequent word or broad topic is not automatically an analytical theme.",
+      "syllabusTerms": [
+        "Data collection"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-qualitative-coding-core",
+          "prompt": "What is qualitative coding?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Coding labels meaningful data segments; analysis develops relationships and interpretations from those labels.",
+          "answer": "Coding labels meaningful data segments; analysis develops relationships and interpretations from those labels. Codes can form categories and themes.",
+          "keyPoints": [
+            "Coding labels meaningful data segments; analysis develops relationships and interpretations from those labels."
+          ],
+          "followUps": [
+            "e413-qualitative-coding-apply"
+          ]
+        },
+        {
+          "id": "e413-qualitative-coding-apply",
+          "prompt": "What is the difference between the code 'anxiety' and a developed theme?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A code labels a segment or idea.",
+          "answer": "A code labels a segment or idea. A theme articulates a broader pattern, such as peer judgment limiting participation, and explains its relevance across the evidence.",
+          "keyPoints": [
+            "A code labels a segment or idea.",
+            "A theme articulates a broader pattern, such as peer judgment limiting participation, and explains its relevance across the evidence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-frequency-and-distributions",
+      "groupId": "e413-analysis",
+      "title": "Frequency and distributions",
+      "aliases": [],
+      "core": "Frequency counts occurrences; a distribution shows how observations are spread across values or categories.",
+      "explanation": "Tables and graphs reveal patterns, concentrations and variation. Percentages express counts relative to a total; check the denominator and missing data.",
+      "example": "18 of 30 learners is 60 percent, provided all 30 supplied relevant responses.",
+      "confusion": "A numeric code for a category is not a measured quantity.",
+      "syllabusTerms": [
+        "Frequency",
+        "Distribution"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-frequency-and-distributions-core",
+          "prompt": "Explain frequency and distributions briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Frequency counts occurrences; a distribution shows how observations are spread across values or categories.",
+          "answer": "Frequency counts occurrences; a distribution shows how observations are spread across values or categories. Tables and graphs reveal patterns, concentrations and variation.",
+          "keyPoints": [
+            "Frequency counts occurrences; a distribution shows how observations are spread across values or categories."
+          ],
+          "followUps": [
+            "e413-frequency-and-distributions-apply"
+          ]
+        },
+        {
+          "id": "e413-frequency-and-distributions-apply",
+          "prompt": "If 18 of 30 students use a dictionary daily, what percentage is that?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It is 60 percent: 18 divided by 30, multiplied by 100.",
+          "answer": "It is 60 percent: 18 divided by 30, multiplied by 100. State the sample and what daily use means.",
+          "keyPoints": [
+            "It is 60 percent: 18 divided by 30, multiplied by 100.",
+            "State the sample and what daily use means."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-central-tendency-and-spread",
+      "groupId": "e413-analysis",
+      "title": "Central tendency and spread",
+      "aliases": [],
+      "core": "Mean, median and mode describe central tendency; range and standard deviation describe spread.",
+      "explanation": "The mean uses all values, the median is the sorted middle, and the mode is most frequent. Standard deviation summarises dispersion around the mean.",
+      "example": "For 2, 4, 4, 6: mean 4, median 4, mode 4 and range 4.",
+      "confusion": "Two groups with equal means can have very different distributions.",
+      "syllabusTerms": [
+        "Distribution"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-central-tendency-and-spread-core",
+          "prompt": "Explain central tendency and spread briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Mean, median and mode describe central tendency; range and standard deviation describe spread.",
+          "answer": "Mean, median and mode describe central tendency; range and standard deviation describe spread. The mean uses all values, the median is the sorted middle, and the mode is most frequent.",
+          "keyPoints": [
+            "Mean, median and mode describe central tendency; range and standard deviation describe spread."
+          ],
+          "followUps": [
+            "e413-central-tendency-and-spread-apply"
+          ]
+        },
+        {
+          "id": "e413-central-tendency-and-spread-apply",
+          "prompt": "Why report standard deviation alongside a mean speaking score?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The mean gives the centre but not how varied learners are.",
+          "answer": "The mean gives the centre but not how varied learners are. Standard deviation helps describe the spread and prevents equal means from hiding different patterns.",
+          "keyPoints": [
+            "The mean gives the centre but not how varied learners are.",
+            "Standard deviation helps describe the spread and prevents equal means from hiding different patterns."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-chi-square",
+      "groupId": "e413-analysis",
+      "title": "Chi-square",
+      "aliases": [],
+      "core": "A chi-square test of independence assesses association between categorical variables using observed and expected counts.",
+      "explanation": "The test compares counts with those expected under independence. Use a suitable contingency table and check expected-count and independence assumptions.",
+      "example": "Test whether preferred feedback type is associated with year of study.",
+      "confusion": "A significant association does not establish causation or its strength by itself.",
+      "syllabusTerms": [
+        "Chi-square"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-chi-square-core",
+          "prompt": "What is chi-square?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A chi-square test of independence assesses association between categorical variables using observed and expected counts.",
+          "answer": "A chi-square test of independence assesses association between categorical variables using observed and expected counts. The test compares counts with those expected under independence.",
+          "keyPoints": [
+            "A chi-square test of independence assesses association between categorical variables using observed and expected counts."
+          ],
+          "followUps": [
+            "e413-chi-square-apply"
+          ]
+        },
+        {
+          "id": "e413-chi-square-apply",
+          "prompt": "Would chi-square normally compare two mean fluency scores?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. A chi-square independence test is for categorical counts. A comparison of means requires an appropriate mean-comparison procedure and its assumptions.",
+          "keyPoints": [
+            "No.",
+            "A chi-square independence test is for categorical counts.",
+            "A comparison of means requires an appropriate mean-comparison procedure and its assumptions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-pearson-correlation",
+      "groupId": "e413-analysis",
+      "title": "Pearson correlation",
+      "aliases": [],
+      "core": "Pearson's r measures the direction and strength of a linear relationship between two quantitative variables.",
+      "explanation": "It ranges from minus one to plus one. Zero indicates no linear association, not necessarily no relationship. Outliers and nonlinearity can make a summary misleading.",
+      "example": "A negative relationship could link higher anxiety scores with lower participation counts.",
+      "confusion": "Correlation does not by itself show that one variable causes another.",
+      "syllabusTerms": [
+        "Pearson correlation coefficient"
+      ],
+      "sources": [
+        {
+          "id": "e413-pearson"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-pearson-correlation-core",
+          "prompt": "What is pearson correlation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Pearson's r measures the direction and strength of a linear relationship between two quantitative variables.",
+          "answer": "Pearson's r measures the direction and strength of a linear relationship between two quantitative variables. It ranges from minus one to plus one.",
+          "keyPoints": [
+            "Pearson's r measures the direction and strength of a linear relationship between two quantitative variables."
+          ],
+          "followUps": [
+            "e413-pearson-correlation-apply"
+          ]
+        },
+        {
+          "id": "e413-pearson-correlation-apply",
+          "prompt": "If r is zero, must two variables be unrelated?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. There may be a nonlinear relationship. Inspect the pattern and the measurement context instead of treating zero correlation as proof of complete independence.",
+          "keyPoints": [
+            "No.",
+            "There may be a nonlinear relationship.",
+            "Inspect the pattern and the measurement context instead of treating zero correlation as proof of complete independence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-z-tests-and-t-tests",
+      "groupId": "e413-analysis",
+      "title": "Z-tests and t-tests",
+      "aliases": [],
+      "core": "A z-test uses the standard normal reference distribution; a t-test for a mean uses a t distribution when population variation is estimated.",
+      "explanation": "For the classic one-sample mean z-test, the population standard deviation is known and other distributional conditions must hold. A t-test uses sample variation. Test selection is not determined by sample size alone.",
+      "example": "Use a paired t-test to examine within-person pretest–posttest differences when its assumptions fit.",
+      "confusion": "A sample above 30 does not automatically require a z-test.",
+      "syllabusTerms": [
+        "Zed test",
+        "T-test"
+      ],
+      "sources": [
+        {
+          "id": "e413-ztest"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-z-tests-and-t-tests-core",
+          "prompt": "Explain z-tests and t-tests briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A z-test uses the standard normal reference distribution; a t-test for a mean uses a t distribution when population variation is estimated.",
+          "answer": "A z-test uses the standard normal reference distribution; a t-test for a mean uses a t distribution when population variation is estimated. For the classic one-sample mean z-test, the population standard deviation is known and other distributional conditions must hold.",
+          "keyPoints": [
+            "A z-test uses the standard normal reference distribution; a t-test for a mean uses a t distribution when population variation is estimated."
+          ],
+          "followUps": [
+            "e413-z-tests-and-t-tests-apply"
+          ]
+        },
+        {
+          "id": "e413-z-tests-and-t-tests-apply",
+          "prompt": "Would you use an independent or paired t-test for the same learners' pretest and posttest scores?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A paired t-test treats each learner's two scores as a matched pair and analyses the differences, assuming the difference scores meet the required conditions.",
+          "answer": "A paired t-test treats each learner's two scores as a matched pair and analyses the differences, assuming the difference scores meet the required conditions.",
+          "keyPoints": [
+            "A paired t-test treats each learner's two scores as a matched pair and analyses the differences, assuming the difference scores meet the required conditions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-factor-analysis",
+      "groupId": "e413-analysis",
+      "title": "Factor analysis",
+      "aliases": [],
+      "core": "Factor analysis models shared patterns among observed variables using a smaller number of latent factors.",
+      "explanation": "It can explore whether questionnaire items reflect underlying constructs. The number and interpretation of factors require evidence and theoretical judgment.",
+      "example": "An anxiety questionnaire may contain related items about communication apprehension and evaluation fears.",
+      "confusion": "A statistical factor is not automatically a proven psychological cause.",
+      "syllabusTerms": [
+        "Factor analysis"
+      ],
+      "sources": [
+        {
+          "id": "e413-factor"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-factor-analysis-core",
+          "prompt": "Explain factor analysis briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Factor analysis models shared patterns among observed variables using a smaller number of latent factors.",
+          "answer": "Factor analysis models shared patterns among observed variables using a smaller number of latent factors. It can explore whether questionnaire items reflect underlying constructs.",
+          "keyPoints": [
+            "Factor analysis models shared patterns among observed variables using a smaller number of latent factors."
+          ],
+          "followUps": [
+            "e413-factor-analysis-apply"
+          ]
+        },
+        {
+          "id": "e413-factor-analysis-apply",
+          "prompt": "Why use factor analysis while developing a learner-attitude questionnaire?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "To examine patterns of shared variation and whether items cluster into plausible underlying dimensions, while also considering theory and other validity evidence.",
+          "answer": "To examine patterns of shared variation and whether items cluster into plausible underlying dimensions, while also considering theory and other validity evidence.",
+          "keyPoints": [
+            "To examine patterns of shared variation and whether items cluster into plausible underlying dimensions, while also considering theory and other validity evidence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-results-and-discussion",
+      "groupId": "e413-findings",
+      "title": "Results and discussion",
+      "aliases": [],
+      "core": "Results present the evidence; discussion explains what the findings mean in relation to questions and prior research.",
+      "explanation": "Use tables, figures, extracts and clear prose as appropriate. Interpretation should address alternative explanations and limits, not simply repeat the numbers.",
+      "example": "Report an observed score change, then discuss its possible meaning and relation to earlier findings.",
+      "confusion": "Qualitative findings are results too; results are not only statistical tables.",
+      "syllabusTerms": [
+        "Presentation of findings",
+        "Discussion"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-results-and-discussion-core",
+          "prompt": "Explain results and discussion briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Results present the evidence; discussion explains what the findings mean in relation to questions and prior research.",
+          "answer": "Results present the evidence; discussion explains what the findings mean in relation to questions and prior research. Use tables, figures, extracts and clear prose as appropriate.",
+          "keyPoints": [
+            "Results present the evidence; discussion explains what the findings mean in relation to questions and prior research."
+          ],
+          "followUps": [
+            "e413-results-and-discussion-apply"
+          ]
+        },
+        {
+          "id": "e413-results-and-discussion-apply",
+          "prompt": "How does 'the mean increased by 15' differ from a discussion claim?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The first describes a result.",
+          "answer": "The first describes a result. Discussion explains its significance and possible reasons, compares it with prior work and considers whether the design supports a causal interpretation.",
+          "keyPoints": [
+            "The first describes a result.",
+            "Discussion explains its significance and possible reasons, compares it with prior work and considers whether the design supports a causal interpretation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-inference-and-recommendations",
+      "groupId": "e413-conclusion",
+      "title": "Inference and recommendations",
+      "aliases": [],
+      "core": "Inference draws conclusions from evidence; recommendations propose actions supported by those conclusions.",
+      "explanation": "Keep claims within the design, sample and measurement limits. Recommendations can address practice or future research and should specify the context in which they apply.",
+      "example": "A small local case may suggest testing a strategy in other settings before wider adoption.",
+      "confusion": "A promising local result is not a universal teaching prescription.",
+      "syllabusTerms": [
+        "Inference",
+        "Recommendations"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            3,
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-inference-and-recommendations-core",
+          "prompt": "Explain inference and recommendations briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Inference draws conclusions from evidence; recommendations propose actions supported by those conclusions.",
+          "answer": "Inference draws conclusions from evidence; recommendations propose actions supported by those conclusions. Keep claims within the design, sample and measurement limits.",
+          "keyPoints": [
+            "Inference draws conclusions from evidence; recommendations propose actions supported by those conclusions."
+          ],
+          "followUps": [
+            "e413-inference-and-recommendations-apply"
+          ]
+        },
+        {
+          "id": "e413-inference-and-recommendations-apply",
+          "prompt": "Can a study of one class justify a policy for every university?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Not by itself.",
+          "answer": "Not by itself. It can provide contextual insight and motivate broader investigation, but sweeping recommendations exceed the evidence's scope.",
+          "keyPoints": [
+            "Not by itself.",
+            "It can provide contextual insight and motivate broader investigation, but sweeping recommendations exceed the evidence's scope."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-citation-and-plagiarism",
+      "groupId": "e413-writing",
+      "title": "Citation and plagiarism",
+      "aliases": [],
+      "core": "Citation credits borrowed ideas and words; plagiarism presents another person's work as one's own.",
+      "explanation": "A genuine paraphrase changes the structure and wording while retaining the meaning and citing the source. Exact wording requires quotation treatment and a locator.",
+      "example": "After explaining an author's idea in your own words, include author and year and a matching reference.",
+      "confusion": "Changing a few words does not turn copied structure into an adequate paraphrase.",
+      "syllabusTerms": [
+        "Plagiarism",
+        "Citations",
+        "In-text references"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            31
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-citation-and-plagiarism-core",
+          "prompt": "Explain citation and plagiarism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Citation credits borrowed ideas and words; plagiarism presents another person's work as one's own.",
+          "answer": "Citation credits borrowed ideas and words; plagiarism presents another person's work as one's own. A genuine paraphrase changes the structure and wording while retaining the meaning and citing the source.",
+          "keyPoints": [
+            "Citation credits borrowed ideas and words; plagiarism presents another person's work as one's own."
+          ],
+          "followUps": [
+            "e413-citation-and-plagiarism-apply"
+          ]
+        },
+        {
+          "id": "e413-citation-and-plagiarism-apply",
+          "prompt": "Does paraphrasing remove the need for a citation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. The idea still comes from a source. Credit the author and year even when using your own wording.",
+          "keyPoints": [
+            "No.",
+            "The idea still comes from a source.",
+            "Credit the author and year even when using your own wording."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-apa-in-text-citation-and-quotation",
+      "groupId": "e413-writing",
+      "title": "APA in-text citation and quotation",
+      "aliases": [],
+      "core": "APA uses author–date in-text citations linked to entries in a reference list.",
+      "explanation": "Ordinary three-or-more-author in-text citations use the first surname and et al. Direct quotations need a page or other suitable locator. Quotations of 40 words or more use block format.",
+      "example": "A fictional example is (Rahman et al., 2024); a quotation might add p. 12.",
+      "confusion": "The reference list uses full author details under APA rules, not ordinary in-text et al. shortening.",
+      "syllabusTerms": [
+        "APA style",
+        "In-text references"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            31,
+            32
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-apa-in-text-citation-and-quotation-core",
+          "prompt": "Explain apa in-text citation and quotation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "APA uses author–date in-text citations linked to entries in a reference list.",
+          "answer": "APA uses author–date in-text citations linked to entries in a reference list. Ordinary three-or-more-author in-text citations use the first surname and et al.",
+          "keyPoints": [
+            "APA uses author–date in-text citations linked to entries in a reference list."
+          ],
+          "followUps": [
+            "e413-apa-in-text-citation-and-quotation-apply"
+          ]
+        },
+        {
+          "id": "e413-apa-in-text-citation-and-quotation-apply",
+          "prompt": "What extra information does a direct quotation need compared with an ordinary paraphrase?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It needs quotation formatting and a specific locator such as a page number, as well as the author and year.",
+          "answer": "It needs quotation formatting and a specific locator such as a page number, as well as the author and year. A locator is optional but often useful for a paraphrase.",
+          "keyPoints": [
+            "It needs quotation formatting and a specific locator such as a page number, as well as the author and year.",
+            "A locator is optional but often useful for a paraphrase."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-apa-reference-entries",
+      "groupId": "e413-writing",
+      "title": "APA reference entries",
+      "aliases": [],
+      "core": "A reference entry identifies a source through its author, date, title and publication information.",
+      "explanation": "Identify the source type first. Books, journal articles and chapters require different arrangements. APA 7 omits a publisher's city and presents available DOIs as URLs.",
+      "example": "A chapter entry starts with its chapter author, then identifies the editor and book.",
+      "confusion": "Do not invent missing dates, page ranges, journals or DOIs to fill a format.",
+      "syllabusTerms": [
+        "APA style"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            32
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-apa-reference-entries-core",
+          "prompt": "Explain apa reference entries briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A reference entry identifies a source through its author, date, title and publication information.",
+          "answer": "A reference entry identifies a source through its author, date, title and publication information. Identify the source type first.",
+          "keyPoints": [
+            "A reference entry identifies a source through its author, date, title and publication information."
+          ],
+          "followUps": [
+            "e413-apa-reference-entries-apply"
+          ]
+        },
+        {
+          "id": "e413-apa-reference-entries-apply",
+          "prompt": "Who appears first in an APA reference for a chapter in an edited book?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The chapter author.",
+          "answer": "The chapter author. The editor appears later with the book information because the specific cited contribution is the chapter.",
+          "keyPoints": [
+            "The chapter author.",
+            "The editor appears later with the book information because the specific cited contribution is the chapter."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-proposals-and-frameworks",
+      "groupId": "e413-writing",
+      "title": "Research proposals and frameworks",
+      "aliases": [],
+      "core": "A proposal explains what a study plans to investigate, why it matters and how it will be conducted.",
+      "explanation": "Include the problem, literature, questions, framework, methods, ethics, expected contribution, timeline and references. A theoretical framework draws on theory; a conceptual framework specifies the study's concepts and relationships.",
+      "example": "Plan a study of role-play and fluency with participants, measures, comparison and analysis.",
+      "confusion": "A proposal must not present invented results as if the study has happened.",
+      "syllabusTerms": [
+        "Writing a research proposal"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-proposals-and-frameworks-core",
+          "prompt": "Explain research proposals and frameworks briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A proposal explains what a study plans to investigate, why it matters and how it will be conducted.",
+          "answer": "A proposal explains what a study plans to investigate, why it matters and how it will be conducted. Include the problem, literature, questions, framework, methods, ethics, expected contribution, timeline and references.",
+          "keyPoints": [
+            "A proposal explains what a study plans to investigate, why it matters and how it will be conducted."
+          ],
+          "followUps": [
+            "e413-research-proposals-and-frameworks-apply"
+          ]
+        },
+        {
+          "id": "e413-research-proposals-and-frameworks-apply",
+          "prompt": "What should a proposal say about findings before data are collected?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It may state hypotheses or expected contributions, clearly as expectations.",
+          "answer": "It may state hypotheses or expected contributions, clearly as expectations. It must not fabricate findings; it should explain how the eventual evidence will answer the questions.",
+          "keyPoints": [
+            "It may state hypotheses or expected contributions, clearly as expectations.",
+            "It must not fabricate findings; it should explain how the eventual evidence will answer the questions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e413-research-papers-and-dissertations",
+      "groupId": "e413-writing",
+      "title": "Research papers and dissertations",
+      "aliases": [],
+      "core": "A research report explains the question, methods, evidence and reasoned conclusions of a completed study.",
+      "explanation": "A common dissertation structure includes introduction, literature review, methodology, results, discussion and conclusion. Articles often compress these functions; requirements vary by discipline and venue.",
+      "example": "A report connects its discussion back to the research questions and ends with implications and limits.",
+      "confusion": "An abstract summarises the whole study rather than serving as another general introduction.",
+      "syllabusTerms": [
+        "Structures of research papers and dissertations",
+        "Writing a research article"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e413-research-papers-and-dissertations-core",
+          "prompt": "Explain research papers and dissertations briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A research report explains the question, methods, evidence and reasoned conclusions of a completed study.",
+          "answer": "A research report explains the question, methods, evidence and reasoned conclusions of a completed study. A common dissertation structure includes introduction, literature review, methodology, results, discussion and conclusion.",
+          "keyPoints": [
+            "A research report explains the question, methods, evidence and reasoned conclusions of a completed study."
+          ],
+          "followUps": [
+            "e413-research-papers-and-dissertations-apply"
+          ]
+        },
+        {
+          "id": "e413-research-papers-and-dissertations-apply",
+          "prompt": "What should a concise research-article abstract normally cover?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The problem or purpose, the main methods, central findings and conclusion or implication.",
+          "answer": "The problem or purpose, the main methods, central findings and conclusion or implication. For a proposal, describe planned work and omit invented findings.",
+          "keyPoints": [
+            "The problem or purpose, the main methods, central findings and conclusion or implication.",
+            "For a proposal, describe planned work and omit invented findings."
+          ],
+          "followUps": []
+        }
+      ]
+    }
+  ]
+}

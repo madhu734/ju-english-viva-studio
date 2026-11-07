@@ -1,0 +1,2235 @@
+[
+  {
+    "id": "bridge-001",
+    "prompt": "How does a semiotic sign connect with the study of linguistic meaning?",
+    "courseIds": [
+      "E403",
+      "E405"
+    ],
+    "topicIds": [
+      "e403-sign-and-signification",
+      "e405-meaning-and-its-difficulties"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Semiotics examines how signs signify, while semantics studies meaning in language.",
+    "answer": "Semiotics examines how signs signify, while semantics studies meaning in language. A linguistic sign links a form with a concept within a system of contrasts; reference to a particular entity is a further issue, not simply the same relationship.",
+    "keyPoints": [
+      "Semiotics examines how signs signify, while semantics studies meaning in language",
+      "A linguistic sign links a form with a concept within a system of contrasts; reference to a particular entity is a further issue, not simply the same relationship."
+    ],
+    "explanation": "Semiotics examines how signs signify, while semantics studies meaning in language. A linguistic sign links a form with a concept within a system of contrasts; reference to a particular entity is a further issue, not simply the same relationship.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      {
+        "id": "E405",
+        "pages": [
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-002",
+    "prompt": "How can speech act theory connect literary theory and pragmatics?",
+    "courseIds": [
+      "E403",
+      "E405"
+    ],
+    "topicIds": [
+      "e403-speech-acts",
+      "e405-searle-s-speech-act-categories"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Pragmatics examines how utterances perform actions under contextual conditions.",
+    "answer": "Pragmatics examines how utterances perform actions under contextual conditions. Literary analysis can ask how a narrator, character or text invites, promises or positions a reader, while recognising that fictional and institutional settings change the conditions of those actions.",
+    "keyPoints": [
+      "Pragmatics examines how utterances perform actions under contextual conditions",
+      "Literary analysis can ask how a narrator, character or text invites, promises or positions a reader, while recognising that fictional and institutional settings change the conditions of those actions."
+    ],
+    "explanation": "Pragmatics examines how utterances perform actions under contextual conditions. Literary analysis can ask how a narrator, character or text invites, promises or positions a reader, while recognising that fictional and institutional settings change the conditions of those actions.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          15
+        ]
+      },
+      {
+        "id": "E405",
+        "pages": [
+          69,
+          70,
+          71,
+          72
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-003",
+    "prompt": "How can Stuart Hall's representation connect cultural theory and sociolinguistics?",
+    "courseIds": [
+      "E403",
+      "E404"
+    ],
+    "topicIds": [
+      "e403-representation",
+      "e404-representation-and-cultural-codes"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Representation treats meaning as constructed through signifying practices.",
+    "answer": "Representation treats meaning as constructed through signifying practices. Sociolinguistics can examine how labels, accents and language choices represent social groups, making some identities appear normal or prestigious and others marginal. Analysis needs contextual evidence rather than assuming a word has one fixed social effect.",
+    "keyPoints": [
+      "Representation treats meaning as constructed through signifying practices",
+      "Sociolinguistics can examine how labels, accents and language choices represent social groups, making some identities appear normal or prestigious and others marginal",
+      "Analysis needs contextual evidence rather than assuming a word has one fixed social effect."
+    ],
+    "explanation": "Representation treats meaning as constructed through signifying practices. Sociolinguistics can examine how labels, accents and language choices represent social groups, making some identities appear normal or prestigious and others marginal. Analysis needs contextual evidence rather than assuming a word has one fixed social effect.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          44,
+          45,
+          46
+        ]
+      },
+      {
+        "id": "E404",
+        "pages": [
+          39,
+          40
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-004",
+    "prompt": "How can language standardisation be studied through hegemony?",
+    "courseIds": [
+      "E403",
+      "E404"
+    ],
+    "topicIds": [
+      "e403-hegemony",
+      "e404-standard-language"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "A standard variety can gain authority through institutions and everyday consent.",
+    "answer": "A standard variety can gain authority through institutions and everyday consent. Hegemony helps explain why that authority may feel natural. Standardisation serves practical purposes, but prestige does not make one variety inherently more logical or linguistically complete than another.",
+    "keyPoints": [
+      "A standard variety can gain authority through institutions and everyday consent",
+      "Hegemony helps explain why that authority may feel natural",
+      "Standardisation serves practical purposes, but prestige does not make one variety inherently more logical or linguistically complete than another."
+    ],
+    "explanation": "A standard variety can gain authority through institutions and everyday consent. Hegemony helps explain why that authority may feel natural. Standardisation serves practical purposes, but prestige does not make one variety inherently more logical or linguistically complete than another.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          19
+        ]
+      },
+      {
+        "id": "E404",
+        "pages": [
+          12,
+          13
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-005",
+    "prompt": "How can ideology help explain linguistic imperialism?",
+    "courseIds": [
+      "E403",
+      "E404"
+    ],
+    "topicIds": [
+      "e403-ideology",
+      "e404-linguistic-imperialism"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Ideologies can portray a dominant language as naturally superior or necessary for success.",
+    "answer": "Ideologies can portray a dominant language as naturally superior or necessary for success. Linguistic imperialism examines how such beliefs interact with institutional and material inequalities. The analysis concerns structures and consequences, not a claim that every individual language learner intends domination.",
+    "keyPoints": [
+      "Ideologies can portray a dominant language as naturally superior or necessary for success",
+      "Linguistic imperialism examines how such beliefs interact with institutional and material inequalities",
+      "The analysis concerns structures and consequences, not a claim that every individual language learner intends domination."
+    ],
+    "explanation": "Ideologies can portray a dominant language as naturally superior or necessary for success. Linguistic imperialism examines how such beliefs interact with institutional and material inequalities. The analysis concerns structures and consequences, not a claim that every individual language learner intends domination.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "E404",
+        "pages": [
+          45,
+          46,
+          47,
+          48
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-006",
+    "prompt": "What connects feminist criticism with language-and-gender research?",
+    "courseIds": [
+      "E403",
+      "E404"
+    ],
+    "topicIds": [
+      "e403-images-of-women-criticism",
+      "e404-gender-and-language-practices"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Both can investigate how gendered identities and unequal relations are produced or challenged.",
+    "answer": "Both can investigate how gendered identities and unequal relations are produced or challenged. Linguistic evidence includes naming, representation and interaction. Gender differences must be interpreted with context and power rather than treated as universal biological speech rules.",
+    "keyPoints": [
+      "Both can investigate how gendered identities and unequal relations are produced or challenged",
+      "Linguistic evidence includes naming, representation and interaction",
+      "Gender differences must be interpreted with context and power rather than treated as universal biological speech rules."
+    ],
+    "explanation": "Both can investigate how gendered identities and unequal relations are produced or challenged. Linguistic evidence includes naming, representation and interaction. Gender differences must be interpreted with context and power rather than treated as universal biological speech rules.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          22
+        ]
+      },
+      {
+        "id": "E404",
+        "pages": [
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      {
+        "id": "e404-gender-local"
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-007",
+    "prompt": "How could postcolonial theory help analyse a bilingual learner's identity?",
+    "courseIds": [
+      "E403",
+      "E404"
+    ],
+    "topicIds": [
+      "e403-hybridity",
+      "e404-language-and-identity"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "It can highlight the effects of colonial histories, unequal language prestige and hybrid affiliations.",
+    "answer": "It can highlight the effects of colonial histories, unequal language prestige and hybrid affiliations. Sociolinguistics supplies evidence about actual language choices and identity work. A bilingual learner's identity need not be divided into two fixed, mutually exclusive cultures.",
+    "keyPoints": [
+      "It can highlight the effects of colonial histories, unequal language prestige and hybrid affiliations",
+      "Sociolinguistics supplies evidence about actual language choices and identity work",
+      "A bilingual learner's identity need not be divided into two fixed, mutually exclusive cultures."
+    ],
+    "explanation": "It can highlight the effects of colonial histories, unequal language prestige and hybrid affiliations. Sociolinguistics supplies evidence about actual language choices and identity work. A bilingual learner's identity need not be divided into two fixed, mutually exclusive cultures.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          40
+        ]
+      },
+      {
+        "id": "E404",
+        "pages": [
+          44
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-008",
+    "prompt": "How can stress contribute to foregrounding?",
+    "courseIds": [
+      "E403",
+      "E410"
+    ],
+    "topicIds": [
+      "e403-foregrounding",
+      "e410-stress-and-prominence"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Unusual stress or a striking rhythmic pattern can make wording perceptually prominent.",
+    "answer": "Unusual stress or a striking rhythmic pattern can make wording perceptually prominent. Phonetics describes the sound cues and phonology their organisation; stylistic analysis explains how the prominence contributes to interpretation in a particular text or performance.",
+    "keyPoints": [
+      "Unusual stress or a striking rhythmic pattern can make wording perceptually prominent",
+      "Phonetics describes the sound cues and phonology their organisation; stylistic analysis explains how the prominence contributes to interpretation in a particular text or performance."
+    ],
+    "explanation": "Unusual stress or a striking rhythmic pattern can make wording perceptually prominent. Phonetics describes the sound cues and phonology their organisation; stylistic analysis explains how the prominence contributes to interpretation in a particular text or performance.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          4,
+          49,
+          50
+        ]
+      },
+      {
+        "id": "E410",
+        "pages": [
+          32,
+          33
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-009",
+    "prompt": "How do paradigmatic relations connect structuralism and morphology?",
+    "courseIds": [
+      "E403",
+      "E411"
+    ],
+    "topicIds": [
+      "e403-paradigm-and-syntagm",
+      "e411-syntagmatic-and-paradigmatic-relations"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Paradigmatic relations concern alternatives that can occupy a position, such as walk, walks and walked in a verbal paradigm.",
+    "answer": "Paradigmatic relations concern alternatives that can occupy a position, such as walk, walks and walked in a verbal paradigm. Syntagmatic relations concern combinations. Morphology applies these relations to contrasts and arrangements within word systems.",
+    "keyPoints": [
+      "Paradigmatic relations concern alternatives that can occupy a position, such as walk, walks and walked in a verbal paradigm",
+      "Syntagmatic relations concern combinations",
+      "Morphology applies these relations to contrasts and arrangements within word systems."
+    ],
+    "explanation": "Paradigmatic relations concern alternatives that can occupy a position, such as walk, walks and walked in a verbal paradigm. Syntagmatic relations concern combinations. Morphology applies these relations to contrasts and arrangements within word systems.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          20,
+          21
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-010",
+    "prompt": "Why should psychoanalytic criticism and psycholinguistics not be treated as the same field?",
+    "courseIds": [
+      "E403",
+      "E412"
+    ],
+    "topicIds": [
+      "e403-the-unconscious",
+      "e412-psycholinguistics"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Psychoanalytic criticism interprets texts through concepts such as unconscious conflict and desire.",
+    "answer": "Psychoanalytic criticism interprets texts through concepts such as unconscious conflict and desire. Psycholinguistics investigates language acquisition, processing and representation using explicit theories and evidence. Their concern with the mind does not make their methods or claims interchangeable.",
+    "keyPoints": [
+      "Psychoanalytic criticism interprets texts through concepts such as unconscious conflict and desire",
+      "Psycholinguistics investigates language acquisition, processing and representation using explicit theories and evidence",
+      "Their concern with the mind does not make their methods or claims interchangeable."
+    ],
+    "explanation": "Psychoanalytic criticism interprets texts through concepts such as unconscious conflict and desire. Psycholinguistics investigates language acquisition, processing and representation using explicit theories and evidence. Their concern with the mind does not make their methods or claims interchangeable.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          26
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-011",
+    "prompt": "What connects reader-oriented criticism with contextual meaning?",
+    "courseIds": [
+      "E403",
+      "E405"
+    ],
+    "topicIds": [
+      "e403-reception-theory-and-gaps",
+      "e405-context"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Both recognise that interpretation involves more than isolated wording.",
+    "answer": "Both recognise that interpretation involves more than isolated wording. Reader-oriented criticism examines readers' expectations and responses; pragmatics examines contextual inference in communication. This connection does not mean every interpretation is equally supported by the text and context.",
+    "keyPoints": [
+      "Both recognise that interpretation involves more than isolated wording",
+      "Reader-oriented criticism examines readers' expectations and responses; pragmatics examines contextual inference in communication",
+      "This connection does not mean every interpretation is equally supported by the text and context."
+    ],
+    "explanation": "Both recognise that interpretation involves more than isolated wording. Reader-oriented criticism examines readers' expectations and responses; pragmatics examines contextual inference in communication. This connection does not mean every interpretation is equally supported by the text and context.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          14,
+          15
+        ]
+      },
+      {
+        "id": "E405",
+        "pages": [
+          41
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-012",
+    "prompt": "How can Foucault's discourse connect with critical language research?",
+    "courseIds": [
+      "E403",
+      "E413"
+    ],
+    "topicIds": [
+      "e403-disciplinary-discourse",
+      "e413-critical-research"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Foucauldian analysis asks how discourse helps organise knowledge, authority and possible subject positions.",
+    "answer": "Foucauldian analysis asks how discourse helps organise knowledge, authority and possible subject positions. Critical language research can investigate such relations in institutional texts and practices. The connection requires attention to historical context and evidence, not simply labelling any conversation oppressive.",
+    "keyPoints": [
+      "Foucauldian analysis asks how discourse helps organise knowledge, authority and possible subject positions",
+      "Critical language research can investigate such relations in institutional texts and practices",
+      "The connection requires attention to historical context and evidence, not simply labelling any conversation oppressive."
+    ],
+    "explanation": "Foucauldian analysis asks how discourse helps organise knowledge, authority and possible subject positions. Critical language research can investigate such relations in institutional texts and practices. The connection requires attention to historical context and evidence, not simply labelling any conversation oppressive.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          34,
+          35
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          26
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-013",
+    "prompt": "How might critical discourse analysis use ideas about ideology?",
+    "courseIds": [
+      "E403",
+      "E413"
+    ],
+    "topicIds": [
+      "e403-ideology",
+      "e413-discourse-analysis-and-cda"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "It can investigate how texts and interaction present particular social arrangements as natural or desirable.",
+    "answer": "It can investigate how texts and interaction present particular social arrangements as natural or desirable. Ideology supplies a question about interests and assumptions; close linguistic and contextual analysis must show how the representation operates.",
+    "keyPoints": [
+      "It can investigate how texts and interaction present particular social arrangements as natural or desirable",
+      "Ideology supplies a question about interests and assumptions; close linguistic and contextual analysis must show how the representation operates."
+    ],
+    "explanation": "It can investigate how texts and interaction present particular social arrangements as natural or desirable. Ideology supplies a question about interests and assumptions; close linguistic and contextual analysis must show how the representation operates.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          26
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-014",
+    "prompt": "Why is context needed to interpret code-switching?",
+    "courseIds": [
+      "E404",
+      "E405"
+    ],
+    "topicIds": [
+      "e404-code-switching",
+      "e405-context"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "A language switch may signal topic, quotation, solidarity, stance or another locally relevant action.",
+    "answer": "A language switch may signal topic, quotation, solidarity, stance or another locally relevant action. Pragmatics helps explain the inference; sociolinguistics connects the choice with speakers and social practices. The switch alone does not prove a particular motive.",
+    "keyPoints": [
+      "A language switch may signal topic, quotation, solidarity, stance or another locally relevant action",
+      "Pragmatics helps explain the inference; sociolinguistics connects the choice with speakers and social practices",
+      "The switch alone does not prove a particular motive."
+    ],
+    "explanation": "A language switch may signal topic, quotation, solidarity, stance or another locally relevant action. Pragmatics helps explain the inference; sociolinguistics connects the choice with speakers and social practices. The switch alone does not prove a particular motive.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          25,
+          26
+        ]
+      },
+      {
+        "id": "e404-codeswitch"
+      },
+      {
+        "id": "E405",
+        "pages": [
+          41
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-015",
+    "prompt": "Is formal register the same as politeness?",
+    "courseIds": [
+      "E404",
+      "E405"
+    ],
+    "topicIds": [
+      "e404-register",
+      "e405-politeness-and-context"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "No.",
+    "answer": "No. Register concerns language associated with a situation or activity, while politeness concerns social interpretation and relational action. Formal wording can still insult, and familiar informal wording can express solidarity; context and participants' expectations matter.",
+    "keyPoints": [
+      "No",
+      "Register concerns language associated with a situation or activity, while politeness concerns social interpretation and relational action",
+      "Formal wording can still insult, and familiar informal wording can express solidarity; context and participants' expectations matter."
+    ],
+    "explanation": "No. Register concerns language associated with a situation or activity, while politeness concerns social interpretation and relational action. Formal wording can still insult, and familiar informal wording can express solidarity; context and participants' expectations matter.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          12
+        ]
+      },
+      {
+        "id": "E405",
+        "pages": [
+          73,
+          74
+        ]
+      },
+      {
+        "id": "e405-polite"
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-016",
+    "prompt": "How can person deixis express social identity?",
+    "courseIds": [
+      "E404",
+      "E405"
+    ],
+    "topicIds": [
+      "e404-language-and-identity",
+      "e405-deixis-and-the-deictic-centre"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Pronouns locate participants in discourse, and choices such as we and they can construct affiliation or distance.",
+    "answer": "Pronouns locate participants in discourse, and choices such as we and they can construct affiliation or distance. Deictic reference identifies who is meant; sociolinguistic interpretation examines how that grouping becomes socially meaningful in context.",
+    "keyPoints": [
+      "Pronouns locate participants in discourse, and choices such as we and they can construct affiliation or distance",
+      "Deictic reference identifies who is meant; sociolinguistic interpretation examines how that grouping becomes socially meaningful in context."
+    ],
+    "explanation": "Pronouns locate participants in discourse, and choices such as we and they can construct affiliation or distance. Deictic reference identifies who is meant; sociolinguistic interpretation examines how that grouping becomes socially meaningful in context.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          44
+        ]
+      },
+      {
+        "id": "E405",
+        "pages": [
+          58,
+          59,
+          60
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-017",
+    "prompt": "How can face and politeness help study gendered interaction?",
+    "courseIds": [
+      "E404",
+      "E405"
+    ],
+    "topicIds": [
+      "e404-gender-and-language-practices",
+      "e405-positive-and-negative-face"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "They provide concepts for examining approval, autonomy and relational work in actual exchanges.",
+    "answer": "They provide concepts for examining approval, autonomy and relational work in actual exchanges. Gender may matter through social roles and expectations, but politeness strategies should not be assigned automatically to all women or all men.",
+    "keyPoints": [
+      "They provide concepts for examining approval, autonomy and relational work in actual exchanges",
+      "Gender may matter through social roles and expectations, but politeness strategies should not be assigned automatically to all women or all men."
+    ],
+    "explanation": "They provide concepts for examining approval, autonomy and relational work in actual exchanges. Gender may matter through social roles and expectations, but politeness strategies should not be assigned automatically to all women or all men.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      {
+        "id": "e404-gender-local"
+      },
+      {
+        "id": "e405-face"
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-018",
+    "prompt": "How does linguistic relativity relate to cognitive approaches to meaning?",
+    "courseIds": [
+      "E404",
+      "E405"
+    ],
+    "topicIds": [
+      "e404-linguistic-relativity-and-determinism",
+      "e405-cognitive-semantics"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Both raise questions about language and conceptualisation.",
+    "answer": "Both raise questions about language and conceptualisation. Relativity asks how linguistic patterns may influence habitual thought; cognitive semantics studies meaning in relation to conceptual structures and experience. Neither connection by itself proves that language completely determines thought.",
+    "keyPoints": [
+      "Both raise questions about language and conceptualisation",
+      "Relativity asks how linguistic patterns may influence habitual thought; cognitive semantics studies meaning in relation to conceptual structures and experience",
+      "Neither connection by itself proves that language completely determines thought."
+    ],
+    "explanation": "Both raise questions about language and conceptualisation. Relativity asks how linguistic patterns may influence habitual thought; cognitive semantics studies meaning in relation to conceptual structures and experience. Neither connection by itself proves that language completely determines thought.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          38,
+          39
+        ]
+      },
+      {
+        "id": "E405",
+        "pages": [
+          29,
+          30,
+          31,
+          32
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-019",
+    "prompt": "How does accent differ from dialect?",
+    "courseIds": [
+      "E404",
+      "E410"
+    ],
+    "topicIds": [
+      "e404-accent-dialect-and-idiolect",
+      "e410-phone-and-phoneme"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Accent concerns pronunciation patterns.",
+    "answer": "Accent concerns pronunciation patterns. Dialect can include pronunciation, grammar and vocabulary. Phonetics and phonology describe the sound differences; sociolinguistics examines their distribution, evaluation and relationship to social identity.",
+    "keyPoints": [
+      "Accent concerns pronunciation patterns",
+      "Dialect can include pronunciation, grammar and vocabulary",
+      "Phonetics and phonology describe the sound differences; sociolinguistics examines their distribution, evaluation and relationship to social identity."
+    ],
+    "explanation": "Accent concerns pronunciation patterns. Dialect can include pronunciation, grammar and vocabulary. Phonetics and phonology describe the sound differences; sociolinguistics examines their distribution, evaluation and relationship to social identity.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "id": "E410",
+        "pages": [
+          7,
+          8
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-020",
+    "prompt": "Why must a description of English vowels specify an accent?",
+    "courseIds": [
+      "E404",
+      "E410"
+    ],
+    "topicIds": [
+      "e404-standard-language",
+      "e410-vowel-classification"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "English varieties differ in their vowel contrasts and realisations.",
+    "answer": "English varieties differ in their vowel contrasts and realisations. A traditional British teaching inventory describes a particular model, not every English speaker. Sociolinguistics explains why one model may be institutionalised without being linguistically superior.",
+    "keyPoints": [
+      "English varieties differ in their vowel contrasts and realisations",
+      "A traditional British teaching inventory describes a particular model, not every English speaker",
+      "Sociolinguistics explains why one model may be institutionalised without being linguistically superior."
+    ],
+    "explanation": "English varieties differ in their vowel contrasts and realisations. A traditional British teaching inventory describes a particular model, not every English speaker. Sociolinguistics explains why one model may be institutionalised without being linguistically superior.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          12,
+          13
+        ]
+      },
+      {
+        "id": "E410",
+        "pages": [
+          15
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-021",
+    "prompt": "How can connected-speech processes relate to sociolinguistic variation?",
+    "courseIds": [
+      "E404",
+      "E410"
+    ],
+    "topicIds": [
+      "e404-variation-and-change",
+      "e410-regressive-assimilation"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Assimilation and reduction vary with phonetic context, speaking rate, style and community norms.",
+    "answer": "Assimilation and reduction vary with phonetic context, speaking rate, style and community norms. Phonology describes the patterns; sociolinguistics investigates how their use varies across situations and groups. Reduction is not automatically careless or incorrect speech.",
+    "keyPoints": [
+      "Assimilation and reduction vary with phonetic context, speaking rate, style and community norms",
+      "Phonology describes the patterns; sociolinguistics investigates how their use varies across situations and groups",
+      "Reduction is not automatically careless or incorrect speech."
+    ],
+    "explanation": "Assimilation and reduction vary with phonetic context, speaking rate, style and community norms. Phonology describes the patterns; sociolinguistics investigates how their use varies across situations and groups. Reduction is not automatically careless or incorrect speech.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "id": "E410",
+        "pages": [
+          30
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-022",
+    "prompt": "Can a non-standard dialect have systematic grammar?",
+    "courseIds": [
+      "E404",
+      "E411"
+    ],
+    "topicIds": [
+      "e404-language-and-dialect",
+      "e411-morphosyntax"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Yes.",
+    "answer": "Yes. A dialect can follow regular morphological and syntactic patterns that differ from a standard variety. Sociolinguistics explains the social evaluation of those patterns; grammatical analysis describes the system rather than equating prestige with structural complexity.",
+    "keyPoints": [
+      "Yes",
+      "A dialect can follow regular morphological and syntactic patterns that differ from a standard variety",
+      "Sociolinguistics explains the social evaluation of those patterns; grammatical analysis describes the system rather than equating prestige with structural complexity."
+    ],
+    "explanation": "Yes. A dialect can follow regular morphological and syntactic patterns that differ from a standard variety. Sociolinguistics explains the social evaluation of those patterns; grammatical analysis describes the system rather than equating prestige with structural complexity.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-023",
+    "prompt": "How does borrowing connect sociolinguistics and morphology?",
+    "courseIds": [
+      "E404",
+      "E411"
+    ],
+    "topicIds": [
+      "e404-borrowing",
+      "e411-inflection-and-derivation"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Borrowing introduces forms through language contact, and morphology examines how those forms participate in a receiving language's word system.",
+    "answer": "Borrowing introduces forms through language contact, and morphology examines how those forms participate in a receiving language's word system. A borrowed word may acquire local inflections or derivations. Its social history and internal grammatical behaviour answer different but related questions.",
+    "keyPoints": [
+      "Borrowing introduces forms through language contact, and morphology examines how those forms participate in a receiving language's word system",
+      "A borrowed word may acquire local inflections or derivations",
+      "Its social history and internal grammatical behaviour answer different but related questions."
+    ],
+    "explanation": "Borrowing introduces forms through language contact, and morphology examines how those forms participate in a receiving language's word system. A borrowed word may acquire local inflections or derivations. Its social history and internal grammatical behaviour answer different but related questions.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          28,
+          29
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          8
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-024",
+    "prompt": "Why can fossilisation have both social and psychological explanations?",
+    "courseIds": [
+      "E404",
+      "E412"
+    ],
+    "topicIds": [
+      "e404-fossilization",
+      "e412-fossilization-and-stabilisation"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Persistent learner forms may relate to processing, transfer, feedback, identity and opportunities for interaction.",
+    "answer": "Persistent learner forms may relate to processing, transfer, feedback, identity and opportunities for interaction. Psycholinguistics examines learning processes; sociolinguistics examines the environments and social meanings involved. One observed error is insufficient to establish fossilisation.",
+    "keyPoints": [
+      "Persistent learner forms may relate to processing, transfer, feedback, identity and opportunities for interaction",
+      "Psycholinguistics examines learning processes; sociolinguistics examines the environments and social meanings involved",
+      "One observed error is insufficient to establish fossilisation."
+    ],
+    "explanation": "Persistent learner forms may relate to processing, transfer, feedback, identity and opportunities for interaction. Psycholinguistics examines learning processes; sociolinguistics examines the environments and social meanings involved. One observed error is insufficient to establish fossilisation.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          49,
+          50,
+          51
+        ]
+      },
+      {
+        "id": "e404-fossilization"
+      },
+      {
+        "id": "E412",
+        "pages": [
+          75,
+          76
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-025",
+    "prompt": "How can bilingualism help explain language transfer?",
+    "courseIds": [
+      "E404",
+      "E412"
+    ],
+    "topicIds": [
+      "e404-bilingualism",
+      "e412-transfer-and-transfer-of-training"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "A bilingual learner has experience with more than one language, and existing knowledge can influence additional-language performance.",
+    "answer": "A bilingual learner has experience with more than one language, and existing knowledge can influence additional-language performance. Transfer can facilitate learning where patterns align or contribute to difficulty where they differ; bilingualism itself is not evidence of confusion or deficiency.",
+    "keyPoints": [
+      "A bilingual learner has experience with more than one language, and existing knowledge can influence additional-language performance",
+      "Transfer can facilitate learning where patterns align or contribute to difficulty where they differ; bilingualism itself is not evidence of confusion or deficiency."
+    ],
+    "explanation": "A bilingual learner has experience with more than one language, and existing knowledge can influence additional-language performance. Transfer can facilitate learning where patterns align or contribute to difficulty where they differ; bilingualism itself is not evidence of confusion or deficiency.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          22,
+          23
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          72,
+          73
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-026",
+    "prompt": "How can learner identity influence motivation to speak English?",
+    "courseIds": [
+      "E404",
+      "E412"
+    ],
+    "topicIds": [
+      "e404-language-and-identity",
+      "e412-motivation"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Participation can depend on whether learners see English use as compatible with valued identities and possible futures.",
+    "answer": "Participation can depend on whether learners see English use as compatible with valued identities and possible futures. Psychological motivation and social opportunities interact: a learner may want to speak but avoid a setting that threatens belonging or legitimacy.",
+    "keyPoints": [
+      "Participation can depend on whether learners see English use as compatible with valued identities and possible futures",
+      "Psychological motivation and social opportunities interact: a learner may want to speak but avoid a setting that threatens belonging or legitimacy."
+    ],
+    "explanation": "Participation can depend on whether learners see English use as compatible with valued identities and possible futures. Psychological motivation and social opportunities interact: a learner may want to speak but avoid a setting that threatens belonging or legitimacy.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          44
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          67,
+          68
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-027",
+    "prompt": "How could a case study investigate a school's language policy?",
+    "courseIds": [
+      "E404",
+      "E413"
+    ],
+    "topicIds": [
+      "e404-language-policy-and-ideology",
+      "e413-case-study"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Bound the school and period, examine policy documents, observe language practices and interview relevant participants.",
+    "answer": "Bound the school and period, examine policy documents, observe language practices and interview relevant participants. Compare official intentions with implementation. The case can explain local processes but does not automatically represent every school.",
+    "keyPoints": [
+      "Bound the school and period, examine policy documents, observe language practices and interview relevant participants",
+      "Compare official intentions with implementation",
+      "The case can explain local processes but does not automatically represent every school."
+    ],
+    "explanation": "Bound the school and period, examine policy documents, observe language practices and interview relevant participants. Compare official intentions with implementation. The case can explain local processes but does not automatically represent every school.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          31,
+          32
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          17
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-028",
+    "prompt": "How would you study the functions of classroom code-switching?",
+    "courseIds": [
+      "E404",
+      "E413"
+    ],
+    "topicIds": [
+      "e404-code-switching",
+      "e413-observation-and-interviews"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Record or observe interaction with consent, identify switches in their conversational context, and examine what speakers accomplish around them.",
+    "answer": "Record or observe interaction with consent, identify switches in their conversational context, and examine what speakers accomplish around them. Interviews can add participants' interpretations. Counting switches alone does not establish their communicative functions.",
+    "keyPoints": [
+      "Record or observe interaction with consent, identify switches in their conversational context, and examine what speakers accomplish around them",
+      "Interviews can add participants' interpretations",
+      "Counting switches alone does not establish their communicative functions."
+    ],
+    "explanation": "Record or observe interaction with consent, identify switches in their conversational context, and examine what speakers accomplish around them. Interviews can add participants' interpretations. Counting switches alone does not establish their communicative functions.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          25,
+          26
+        ]
+      },
+      {
+        "id": "e404-codeswitch"
+      },
+      {
+        "id": "E413",
+        "pages": [
+          24,
+          25
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-029",
+    "prompt": "Why does sampling matter in a language-variation study?",
+    "courseIds": [
+      "E404",
+      "E413"
+    ],
+    "topicIds": [
+      "e404-variation-and-change",
+      "e413-population-sample-and-sampling"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "A sample determines whose speech and situations enter the analysis.",
+    "answer": "A sample determines whose speech and situations enter the analysis. Include relevant social groups, contexts and tasks for the research question. A large convenience sample may still omit important varieties or create misleading generalisations.",
+    "keyPoints": [
+      "A sample determines whose speech and situations enter the analysis",
+      "Include relevant social groups, contexts and tasks for the research question",
+      "A large convenience sample may still omit important varieties or create misleading generalisations."
+    ],
+    "explanation": "A sample determines whose speech and situations enter the analysis. Include relevant social groups, contexts and tasks for the research question. A large convenience sample may still omit important varieties or create misleading generalisations.",
+    "sources": [
+      {
+        "id": "E404",
+        "pages": [
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          20,
+          21
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-030",
+    "prompt": "How can intonation change an utterance's pragmatic interpretation?",
+    "courseIds": [
+      "E405",
+      "E410"
+    ],
+    "topicIds": [
+      "e405-context",
+      "e410-intonation-and-its-functions"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Pitch patterns can help signal stance, information structure or interactional function.",
+    "answer": "Pitch patterns can help signal stance, information structure or interactional function. The words may remain constant while a contour supports a different interpretation. The effect depends on context and variety; a falling or rising tone does not have one universal meaning.",
+    "keyPoints": [
+      "Pitch patterns can help signal stance, information structure or interactional function",
+      "The words may remain constant while a contour supports a different interpretation",
+      "The effect depends on context and variety; a falling or rising tone does not have one universal meaning."
+    ],
+    "explanation": "Pitch patterns can help signal stance, information structure or interactional function. The words may remain constant while a contour supports a different interpretation. The effect depends on context and variety; a falling or rising tone does not have one universal meaning.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          41
+        ]
+      },
+      {
+        "id": "E410",
+        "pages": [
+          41,
+          42,
+          43,
+          44
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-031",
+    "prompt": "How can stress help resolve ambiguity?",
+    "courseIds": [
+      "E405",
+      "E410"
+    ],
+    "topicIds": [
+      "e405-ambiguity-homonymy-and-polysemy",
+      "e410-stress-and-prominence"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Prominence can highlight a contrastive element or guide grouping and information focus.",
+    "answer": "Prominence can highlight a contrastive element or guide grouping and information focus. This may favour one contextual interpretation of an ambiguous expression, although stress alone does not guarantee a unique reading.",
+    "keyPoints": [
+      "Prominence can highlight a contrastive element or guide grouping and information focus",
+      "This may favour one contextual interpretation of an ambiguous expression, although stress alone does not guarantee a unique reading."
+    ],
+    "explanation": "Prominence can highlight a contrastive element or guide grouping and information focus. This may favour one contextual interpretation of an ambiguous expression, although stress alone does not guarantee a unique reading.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          17,
+          18,
+          19,
+          35,
+          36
+        ]
+      },
+      {
+        "id": "E410",
+        "pages": [
+          32,
+          33
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-032",
+    "prompt": "Can pronunciation alone determine the speech act of a sentence?",
+    "courseIds": [
+      "E405",
+      "E410"
+    ],
+    "topicIds": [
+      "e405-searle-s-speech-act-categories",
+      "e410-intonation-and-its-functions"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "No.",
+    "answer": "No. Intonation contributes evidence, but wording, setting, roles and shared knowledge also matter. The same question form can request information, challenge someone or indirectly request an action depending on those conditions.",
+    "keyPoints": [
+      "No",
+      "Intonation contributes evidence, but wording, setting, roles and shared knowledge also matter",
+      "The same question form can request information, challenge someone or indirectly request an action depending on those conditions."
+    ],
+    "explanation": "No. Intonation contributes evidence, but wording, setting, roles and shared knowledge also matter. The same question form can request information, challenge someone or indirectly request an action depending on those conditions.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          69,
+          70,
+          71,
+          72
+        ]
+      },
+      {
+        "id": "E410",
+        "pages": [
+          41,
+          42,
+          43,
+          44
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-033",
+    "prompt": "How does syntax help explain structural ambiguity?",
+    "courseIds": [
+      "E405",
+      "E411"
+    ],
+    "topicIds": [
+      "e405-ambiguity-homonymy-and-polysemy",
+      "e411-constituency-and-attachment-ambiguity"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Different constituent groupings can produce different interpretations of the same word sequence.",
+    "answer": "Different constituent groupings can produce different interpretations of the same word sequence. Syntax represents the alternative structures, while semantics explains their meanings and pragmatics may help select a reading in context.",
+    "keyPoints": [
+      "Different constituent groupings can produce different interpretations of the same word sequence",
+      "Syntax represents the alternative structures, while semantics explains their meanings and pragmatics may help select a reading in context."
+    ],
+    "explanation": "Different constituent groupings can produce different interpretations of the same word sequence. Syntax represents the alternative structures, while semantics explains their meanings and pragmatics may help select a reading in context.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          17,
+          18,
+          19,
+          35,
+          36
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          41,
+          42,
+          43
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-034",
+    "prompt": "How does derivational morphology contribute to meaning?",
+    "courseIds": [
+      "E405",
+      "E411"
+    ],
+    "topicIds": [
+      "e405-lexical-and-grammatical-meaning",
+      "e411-morphosemantics"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Derivational patterns can form related lexemes and contribute meanings such as negation, agency or quality.",
+    "answer": "Derivational patterns can form related lexemes and contribute meanings such as negation, agency or quality. Interpretation also depends on the base and conventional usage, so the meaning of every derived word is not fully predictable from its pieces.",
+    "keyPoints": [
+      "Derivational patterns can form related lexemes and contribute meanings such as negation, agency or quality",
+      "Interpretation also depends on the base and conventional usage, so the meaning of every derived word is not fully predictable from its pieces."
+    ],
+    "explanation": "Derivational patterns can form related lexemes and contribute meanings such as negation, agency or quality. Interpretation also depends on the base and conventional usage, so the meaning of every derived word is not fully predictable from its pieces.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          20,
+          21
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          27,
+          28
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-035",
+    "prompt": "How do semantic roles differ from grammatical functions?",
+    "courseIds": [
+      "E405",
+      "E411"
+    ],
+    "topicIds": [
+      "e405-semantic-roles",
+      "e411-voice"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Semantic roles describe participation in an event, such as agent or patient.",
+    "answer": "Semantic roles describe participation in an event, such as agent or patient. Grammatical functions describe syntactic organisation, such as subject or object. A passive can make a patient the subject without turning it into the event's agent.",
+    "keyPoints": [
+      "Semantic roles describe participation in an event, such as agent or patient",
+      "Grammatical functions describe syntactic organisation, such as subject or object",
+      "A passive can make a patient the subject without turning it into the event's agent."
+    ],
+    "explanation": "Semantic roles describe participation in an event, such as agent or patient. Grammatical functions describe syntactic organisation, such as subject or object. A passive can make a patient the subject without turning it into the event's agent.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          23,
+          24
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          54,
+          55
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-036",
+    "prompt": "How can syntax interact with presupposition?",
+    "courseIds": [
+      "E405",
+      "E411"
+    ],
+    "topicIds": [
+      "e405-presupposition-and-triggers",
+      "e411-sentence-types-and-embedded-clauses"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Certain constructions help signal background assumptions, while embedding can affect how assumptions are understood.",
+    "answer": "Certain constructions help signal background assumptions, while embedding can affect how assumptions are understood. Syntax identifies the construction; pragmatics examines projection, context and possible cancellation. An assumption's behaviour should be tested in the actual sentence and setting.",
+    "keyPoints": [
+      "Certain constructions help signal background assumptions, while embedding can affect how assumptions are understood",
+      "Syntax identifies the construction; pragmatics examines projection, context and possible cancellation",
+      "An assumption's behaviour should be tested in the actual sentence and setting."
+    ],
+    "explanation": "Certain constructions help signal background assumptions, while embedding can affect how assumptions are understood. Syntax identifies the construction; pragmatics examines projection, context and possible cancellation. An assumption's behaviour should be tested in the actual sentence and setting.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          50,
+          52
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-037",
+    "prompt": "Why is learning vocabulary and grammar insufficient for pragmatic competence?",
+    "courseIds": [
+      "E405",
+      "E412"
+    ],
+    "topicIds": [
+      "e405-pragmatics",
+      "e412-social-interactionist-theory"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "A learner also needs to interpret intentions, relationships and contextual expectations.",
+    "answer": "A learner also needs to interpret intentions, relationships and contextual expectations. A grammatically well-formed sentence can be unsuitable as a request or response in a particular interaction, so language learning includes form–function–context relationships.",
+    "keyPoints": [
+      "A learner also needs to interpret intentions, relationships and contextual expectations",
+      "A grammatically well-formed sentence can be unsuitable as a request or response in a particular interaction, so language learning includes form–function–context relationships."
+    ],
+    "explanation": "A learner also needs to interpret intentions, relationships and contextual expectations. A grammatically well-formed sentence can be unsuitable as a request or response in a particular interaction, so language learning includes form–function–context relationships.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          38,
+          39
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          43,
+          44
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-038",
+    "prompt": "How could metaphor interpretation involve language processing?",
+    "courseIds": [
+      "E405",
+      "E412"
+    ],
+    "topicIds": [
+      "e405-metaphor",
+      "e412-comprehension-and-context"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "The listener must connect wording, conceptual knowledge and context to construct an intended meaning.",
+    "answer": "The listener must connect wording, conceptual knowledge and context to construct an intended meaning. Psycholinguistic research can investigate the timing or difficulty of that process rather than assuming figurative language always follows one fixed literal-first sequence.",
+    "keyPoints": [
+      "The listener must connect wording, conceptual knowledge and context to construct an intended meaning",
+      "Psycholinguistic research can investigate the timing or difficulty of that process rather than assuming figurative language always follows one fixed literal-first sequence."
+    ],
+    "explanation": "The listener must connect wording, conceptual knowledge and context to construct an intended meaning. Psycholinguistic research can investigate the timing or difficulty of that process rather than assuming figurative language always follows one fixed literal-first sequence.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          34
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          5,
+          12
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-039",
+    "prompt": "Why must a study of pragmatic competence define its task context?",
+    "courseIds": [
+      "E405",
+      "E413"
+    ],
+    "topicIds": [
+      "e405-context",
+      "e413-operational-definitions-and-variables"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Appropriateness depends on roles, purposes, relationships and situations.",
+    "answer": "Appropriateness depends on roles, purposes, relationships and situations. An operational measure should specify those conditions and scoring criteria; a decontextualised grammar test cannot simply stand in for pragmatic competence.",
+    "keyPoints": [
+      "Appropriateness depends on roles, purposes, relationships and situations",
+      "An operational measure should specify those conditions and scoring criteria; a decontextualised grammar test cannot simply stand in for pragmatic competence."
+    ],
+    "explanation": "Appropriateness depends on roles, purposes, relationships and situations. An operational measure should specify those conditions and scoring criteria; a decontextualised grammar test cannot simply stand in for pragmatic competence.",
+    "sources": [
+      {
+        "id": "E405",
+        "pages": [
+          41
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          13
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-040",
+    "prompt": "How can conversation analysis connect pragmatics and research methods?",
+    "courseIds": [
+      "E405",
+      "E413"
+    ],
+    "topicIds": [
+      "e405-repair",
+      "e413-ethnography-and-reflexivity"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Pragmatics considers meaning in interaction; conversation analysis investigates the sequential organisation of recorded talk, including actions, turn-taking and repair.",
+    "answer": "Pragmatics considers meaning in interaction; conversation analysis investigates the sequential organisation of recorded talk, including actions, turn-taking and repair. The method requires attention to what participants demonstrably orient to rather than relying only on an analyst's intuition.",
+    "keyPoints": [
+      "Pragmatics considers meaning in interaction; conversation analysis investigates the sequential organisation of recorded talk, including actions, turn-taking and repair",
+      "The method requires attention to what participants demonstrably orient to rather than relying only on an analyst's intuition."
+    ],
+    "explanation": "Pragmatics considers meaning in interaction; conversation analysis investigates the sequential organisation of recorded talk, including actions, turn-taking and repair. The method requires attention to what participants demonstrably orient to rather than relying only on an analyst's intuition.",
+    "sources": [
+      {
+        "id": "e405-repair"
+      },
+      {
+        "id": "E413",
+        "pages": [
+          18,
+          19
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-041",
+    "prompt": "How do allophones and allomorphs illustrate different kinds of variation?",
+    "courseIds": [
+      "E410",
+      "E411"
+    ],
+    "topicIds": [
+      "e410-allophones",
+      "e411-morpheme-morph-and-allomorph"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Allophones are variants of a phoneme; allomorphs are variants realising a morpheme.",
+    "answer": "Allophones are variants of a phoneme; allomorphs are variants realising a morpheme. English plural endings such as /s/, /z/ and /ɪz/ illustrate morphological variation conditioned by sound context. The units being realised differ.",
+    "keyPoints": [
+      "Allophones are variants of a phoneme; allomorphs are variants realising a morpheme",
+      "English plural endings such as /s/, /z/ and /ɪz/ illustrate morphological variation conditioned by sound context",
+      "The units being realised differ."
+    ],
+    "explanation": "Allophones are variants of a phoneme; allomorphs are variants realising a morpheme. English plural endings such as /s/, /z/ and /ɪz/ illustrate morphological variation conditioned by sound context. The units being realised differ.",
+    "sources": [
+      {
+        "id": "E410",
+        "pages": [
+          9,
+          10
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          22,
+          23
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-042",
+    "prompt": "How can a word-formation process interact with stress?",
+    "courseIds": [
+      "E410",
+      "E411"
+    ],
+    "topicIds": [
+      "e410-stress-and-prominence",
+      "e411-inflection-and-derivation"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Adding an affix can preserve or change stress according to the pattern and lexical item.",
+    "answer": "Adding an affix can preserve or change stress according to the pattern and lexical item. Morphology identifies the base and affix; phonology describes the resulting prominence. Stress behaviour should be checked rather than inferred from an absolute suffix rule.",
+    "keyPoints": [
+      "Adding an affix can preserve or change stress according to the pattern and lexical item",
+      "Morphology identifies the base and affix; phonology describes the resulting prominence",
+      "Stress behaviour should be checked rather than inferred from an absolute suffix rule."
+    ],
+    "explanation": "Adding an affix can preserve or change stress according to the pattern and lexical item. Morphology identifies the base and affix; phonology describes the resulting prominence. Stress behaviour should be checked rather than inferred from an absolute suffix rule.",
+    "sources": [
+      {
+        "id": "E410",
+        "pages": [
+          32,
+          33
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          8
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-043",
+    "prompt": "What connects phonotactics and prosodic morphology?",
+    "courseIds": [
+      "E410",
+      "E411"
+    ],
+    "topicIds": [
+      "e410-phonotactics",
+      "e411-prosodic-morphology"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Phonotactics constrains possible sound sequences and syllable patterns; prosodic morphology examines how units such as syllables and feet shape word formation.",
+    "answer": "Phonotactics constrains possible sound sequences and syllable patterns; prosodic morphology examines how units such as syllables and feet shape word formation. Both show that word structure can depend on sound organisation as well as a linear chain of morphemes.",
+    "keyPoints": [
+      "Phonotactics constrains possible sound sequences and syllable patterns; prosodic morphology examines how units such as syllables and feet shape word formation",
+      "Both show that word structure can depend on sound organisation as well as a linear chain of morphemes."
+    ],
+    "explanation": "Phonotactics constrains possible sound sequences and syllable patterns; prosodic morphology examines how units such as syllables and feet shape word formation. Both show that word structure can depend on sound organisation as well as a linear chain of morphemes.",
+    "sources": [
+      {
+        "id": "E410",
+        "pages": [
+          25,
+          26
+        ]
+      },
+      {
+        "id": "E411",
+        "pages": [
+          24
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-044",
+    "prompt": "How might first-language sound categories influence English pronunciation?",
+    "courseIds": [
+      "E410",
+      "E412"
+    ],
+    "topicIds": [
+      "e410-phone-and-phoneme",
+      "e412-transfer-and-transfer-of-training"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "Learners may interpret unfamiliar English contrasts through established categories or apply familiar phonotactic patterns.",
+    "answer": "Learners may interpret unfamiliar English contrasts through established categories or apply familiar phonotactic patterns. Transfer offers a possible explanation, but learning experience, perception, task and individual variation also matter; an accent is not proof of inability to learn.",
+    "keyPoints": [
+      "Learners may interpret unfamiliar English contrasts through established categories or apply familiar phonotactic patterns",
+      "Transfer offers a possible explanation, but learning experience, perception, task and individual variation also matter; an accent is not proof of inability to learn."
+    ],
+    "explanation": "Learners may interpret unfamiliar English contrasts through established categories or apply familiar phonotactic patterns. Transfer offers a possible explanation, but learning experience, perception, task and individual variation also matter; an accent is not proof of inability to learn.",
+    "sources": [
+      {
+        "id": "E410",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          72,
+          73
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-045",
+    "prompt": "Why should the critical period not be treated as a simple ban on adult pronunciation learning?",
+    "courseIds": [
+      "E410",
+      "E412"
+    ],
+    "topicIds": [
+      "e410-vowel-classification",
+      "e412-critical-and-sensitive-periods"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Age relates to language learning outcomes, but a strong age association does not imply that every adult has the same limit or that improvement is impossible.",
+    "answer": "Age relates to language learning outcomes, but a strong age association does not imply that every adult has the same limit or that improvement is impossible. Exposure, instruction, motivation and individual variation also contribute; different language abilities may show different patterns.",
+    "keyPoints": [
+      "Age relates to language learning outcomes, but a strong age association does not imply that every adult has the same limit or that improvement is impossible",
+      "Exposure, instruction, motivation and individual variation also contribute; different language abilities may show different patterns."
+    ],
+    "explanation": "Age relates to language learning outcomes, but a strong age association does not imply that every adult has the same limit or that improvement is impossible. Exposure, instruction, motivation and individual variation also contribute; different language abilities may show different patterns.",
+    "sources": [
+      {
+        "id": "E410",
+        "pages": [
+          15
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "id": "e412-cph-research"
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-046",
+    "prompt": "How would you test whether pronunciation instruction improves a sound contrast?",
+    "courseIds": [
+      "E410",
+      "E413"
+    ],
+    "topicIds": [
+      "e410-phonetics",
+      "e413-experimental-and-quasi-experimental-research"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Define a specific contrast and measure, use comparable pretest and posttest tasks, select an appropriate comparison design, and control relevant exposure and scoring conditions.",
+    "answer": "Define a specific contrast and measure, use comparable pretest and posttest tasks, select an appropriate comparison design, and control relevant exposure and scoring conditions. Analyse change while considering transfer, practice effects and variation between learners.",
+    "keyPoints": [
+      "Define a specific contrast and measure, use comparable pretest and posttest tasks, select an appropriate comparison design, and control relevant exposure and scoring conditions",
+      "Analyse change while considering transfer, practice effects and variation between learners."
+    ],
+    "explanation": "Define a specific contrast and measure, use comparable pretest and posttest tasks, select an appropriate comparison design, and control relevant exposure and scoring conditions. Analyse change while considering transfer, practice effects and variation between learners.",
+    "sources": [
+      {
+        "id": "E410",
+        "pages": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          6,
+          13,
+          14
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-047",
+    "prompt": "Why might a research transcription preserve pauses and pronunciation details?",
+    "courseIds": [
+      "E410",
+      "E413"
+    ],
+    "topicIds": [
+      "e410-ipa-and-transcription-levels",
+      "e413-research-transcription"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "If the question concerns processing, repair or pronunciation, those details can be the evidence.",
+    "answer": "If the question concerns processing, repair or pronunciation, those details can be the evidence. A readability edit may remove exactly what the analysis needs. Choose and document transcription conventions that fit the research purpose.",
+    "keyPoints": [
+      "If the question concerns processing, repair or pronunciation, those details can be the evidence",
+      "A readability edit may remove exactly what the analysis needs",
+      "Choose and document transcription conventions that fit the research purpose."
+    ],
+    "explanation": "If the question concerns processing, repair or pronunciation, those details can be the evidence. A readability edit may remove exactly what the analysis needs. Choose and document transcription conventions that fit the research purpose.",
+    "sources": [
+      {
+        "id": "E410",
+        "pages": [
+          45,
+          54,
+          55
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          27
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-048",
+    "prompt": "What can a child's form such as 'goed' suggest about morphological development?",
+    "courseIds": [
+      "E411",
+      "E412"
+    ],
+    "topicIds": [
+      "e411-morpheme-morph-and-allomorph",
+      "e412-overgeneralisation-and-the-wug-test"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "It can suggest productive use of a past-tense pattern beyond memorised words.",
+    "answer": "It can suggest productive use of a past-tense pattern beyond memorised words. It does not show that the child has mastered every rule or that a single theory fully explains acquisition; analyse the developmental pattern and input context.",
+    "keyPoints": [
+      "It can suggest productive use of a past-tense pattern beyond memorised words",
+      "It does not show that the child has mastered every rule or that a single theory fully explains acquisition; analyse the developmental pattern and input context."
+    ],
+    "explanation": "It can suggest productive use of a past-tense pattern beyond memorised words. It does not show that the child has mastered every rule or that a single theory fully explains acquisition; analyse the developmental pattern and input context.",
+    "sources": [
+      {
+        "id": "E411",
+        "pages": [
+          22,
+          23
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          26,
+          27,
+          28
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-049",
+    "prompt": "How does generative syntax relate to mentalist accounts of acquisition?",
+    "courseIds": [
+      "E411",
+      "E412"
+    ],
+    "topicIds": [
+      "e411-syntax-and-structure",
+      "e412-mentalist-and-innatist-theory"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Both can ask about the mental representations underlying grammatical knowledge.",
+    "answer": "Both can ask about the mental representations underlying grammatical knowledge. A mentalist acquisition account proposes an internal contribution to learning; a syntactic theory specifies properties of grammatical organisation. A shared emphasis does not make all generative theories identical.",
+    "keyPoints": [
+      "Both can ask about the mental representations underlying grammatical knowledge",
+      "A mentalist acquisition account proposes an internal contribution to learning; a syntactic theory specifies properties of grammatical organisation",
+      "A shared emphasis does not make all generative theories identical."
+    ],
+    "explanation": "Both can ask about the mental representations underlying grammatical knowledge. A mentalist acquisition account proposes an internal contribution to learning; a syntactic theory specifies properties of grammatical organisation. A shared emphasis does not make all generative theories identical.",
+    "sources": [
+      {
+        "id": "E411",
+        "pages": [
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-050",
+    "prompt": "How can structurally ambiguous sentences inform psycholinguistic research?",
+    "courseIds": [
+      "E411",
+      "E412"
+    ],
+    "topicIds": [
+      "e411-constituency-and-attachment-ambiguity",
+      "e412-comprehension-and-context"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Alternative syntactic analyses allow researchers to test how readers or listeners select and revise interpretations.",
+    "answer": "Alternative syntactic analyses allow researchers to test how readers or listeners select and revise interpretations. Measures such as reading time can reveal processing difficulty, but require controlled materials and a justified link between the task and the proposed process.",
+    "keyPoints": [
+      "Alternative syntactic analyses allow researchers to test how readers or listeners select and revise interpretations",
+      "Measures such as reading time can reveal processing difficulty, but require controlled materials and a justified link between the task and the proposed process."
+    ],
+    "explanation": "Alternative syntactic analyses allow researchers to test how readers or listeners select and revise interpretations. Measures such as reading time can reveal processing difficulty, but require controlled materials and a justified link between the task and the proposed process.",
+    "sources": [
+      {
+        "id": "E411",
+        "pages": [
+          41,
+          42,
+          43
+        ]
+      },
+      {
+        "id": "E412",
+        "pages": [
+          5,
+          12
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-051",
+    "prompt": "How could a corpus support a study of word-class patterns?",
+    "courseIds": [
+      "E411",
+      "E413"
+    ],
+    "topicIds": [
+      "e411-syntactic-categories",
+      "e413-corpus-research"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Define the target genres and categories, select a suitable corpus, identify or tag tokens, and compare patterns with appropriate denominators.",
+    "answer": "Define the target genres and categories, select a suitable corpus, identify or tag tokens, and compare patterns with appropriate denominators. Inspect examples for tagging errors and context; a frequency difference alone does not explain its cause.",
+    "keyPoints": [
+      "Define the target genres and categories, select a suitable corpus, identify or tag tokens, and compare patterns with appropriate denominators",
+      "Inspect examples for tagging errors and context; a frequency difference alone does not explain its cause."
+    ],
+    "explanation": "Define the target genres and categories, select a suitable corpus, identify or tag tokens, and compare patterns with appropriate denominators. Inspect examples for tagging errors and context; a frequency difference alone does not explain its cause.",
+    "sources": [
+      {
+        "id": "E411",
+        "pages": [
+          30,
+          31
+        ]
+      },
+      {
+        "id": "e413-corpus"
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-052",
+    "prompt": "Would a correlation between motivation and test scores prove motivation causes success?",
+    "courseIds": [
+      "E412",
+      "E413"
+    ],
+    "topicIds": [
+      "e412-motivation",
+      "e413-pearson-correlation"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "No.",
+    "answer": "No. The association may reflect reverse influence or another factor, and its form and measurement need checking. A causal claim requires stronger design and evidence than a correlation alone.",
+    "keyPoints": [
+      "No",
+      "The association may reflect reverse influence or another factor, and its form and measurement need checking",
+      "A causal claim requires stronger design and evidence than a correlation alone."
+    ],
+    "explanation": "No. The association may reflect reverse influence or another factor, and its form and measurement need checking. A causal claim requires stronger design and evidence than a correlation alone.",
+    "sources": [
+      {
+        "id": "E412",
+        "pages": [
+          67,
+          68
+        ]
+      },
+      {
+        "id": "e413-pearson"
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-053",
+    "prompt": "Why does a study of memory and vocabulary learning need an operational definition of memory?",
+    "courseIds": [
+      "E412",
+      "E413"
+    ],
+    "topicIds": [
+      "e412-memory-and-working-memory",
+      "e413-operational-definitions-and-variables"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Memory includes different processes and capacities.",
+    "answer": "Memory includes different processes and capacities. Specify the task and score being used, explain which aspect it represents, and avoid treating one performance measure as a complete measure of all memory.",
+    "keyPoints": [
+      "Memory includes different processes and capacities",
+      "Specify the task and score being used, explain which aspect it represents, and avoid treating one performance measure as a complete measure of all memory."
+    ],
+    "explanation": "Memory includes different processes and capacities. Specify the task and score being used, explain which aspect it represents, and avoid treating one performance measure as a complete measure of all memory.",
+    "sources": [
+      {
+        "id": "E412",
+        "pages": [
+          71,
+          72
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          13
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-054",
+    "prompt": "Why might a longitudinal design help investigate interlanguage?",
+    "courseIds": [
+      "E412",
+      "E413"
+    ],
+    "topicIds": [
+      "e412-interlanguage",
+      "e413-longitudinal-and-cross-sectional-designs"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "Repeated evidence can show how the same learners' language develops, stabilises or varies over time.",
+    "answer": "Repeated evidence can show how the same learners' language develops, stabilises or varies over time. Comparable tasks and contexts are needed, and apparent stability across a short interval is not enough to establish permanent fossilisation.",
+    "keyPoints": [
+      "Repeated evidence can show how the same learners' language develops, stabilises or varies over time",
+      "Comparable tasks and contexts are needed, and apparent stability across a short interval is not enough to establish permanent fossilisation."
+    ],
+    "explanation": "Repeated evidence can show how the same learners' language develops, stabilises or varies over time. Comparable tasks and contexts are needed, and apparent stability across a short interval is not enough to establish permanent fossilisation.",
+    "sources": [
+      {
+        "id": "E412",
+        "pages": [
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      {
+        "id": "E413",
+        "pages": [
+          6,
+          15
+        ]
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-055",
+    "prompt": "How might face concerns help explain anxiety during an English viva?",
+    "courseIds": [
+      "E412",
+      "E405"
+    ],
+    "topicIds": [
+      "e412-comprehensible-input-and-affect",
+      "e405-positive-and-negative-face"
+    ],
+    "type": "connection",
+    "difficulty": "applied",
+    "essential": false,
+    "shortAnswer": "A learner may worry about public evaluation and approval while managing demanding language production.",
+    "answer": "A learner may worry about public evaluation and approval while managing demanding language production. Face and anxiety provide complementary interactional and psychological perspectives; the explanation should be grounded in the learner's account and context rather than assumed.",
+    "keyPoints": [
+      "A learner may worry about public evaluation and approval while managing demanding language production",
+      "Face and anxiety provide complementary interactional and psychological perspectives; the explanation should be grounded in the learner's account and context rather than assumed."
+    ],
+    "explanation": "A learner may worry about public evaluation and approval while managing demanding language production. Face and anxiety provide complementary interactional and psychological perspectives; the explanation should be grounded in the learner's account and context rather than assumed.",
+    "sources": [
+      {
+        "id": "E412",
+        "pages": [
+          48,
+          49
+        ]
+      },
+      {
+        "id": "e405-face"
+      }
+    ],
+    "followUps": []
+  },
+  {
+    "id": "bridge-056",
+    "prompt": "How can structuralism help explain lexical sense relations?",
+    "courseIds": [
+      "E403",
+      "E405"
+    ],
+    "topicIds": [
+      "e403-paradigm-and-syntagm",
+      "e405-structural-theories-of-meaning"
+    ],
+    "type": "connection",
+    "difficulty": "challenge",
+    "essential": false,
+    "shortAnswer": "A structural approach treats meanings as related within a system of contrasts and combinations.",
+    "answer": "A structural approach treats meanings as related within a system of contrasts and combinations. Relations such as antonymy and hyponymy illustrate systematic connections, although contextual use and conceptual knowledge contribute additional dimensions.",
+    "keyPoints": [
+      "A structural approach treats meanings as related within a system of contrasts and combinations",
+      "Relations such as antonymy and hyponymy illustrate systematic connections, although contextual use and conceptual knowledge contribute additional dimensions."
+    ],
+    "explanation": "A structural approach treats meanings as related within a system of contrasts and combinations. Relations such as antonymy and hyponymy illustrate systematic connections, although contextual use and conceptual knowledge contribute additional dimensions.",
+    "sources": [
+      {
+        "id": "E403",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "id": "E405",
+        "pages": [
+          28
+        ]
+      }
+    ],
+    "followUps": []
+  }
+]

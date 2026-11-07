@@ -1,0 +1,3050 @@
+{
+  "id": "E411",
+  "title": "Morphology and Syntax",
+  "shortTitle": "Morphology & Syntax",
+  "overview": "Morphology explains the structure of words; syntax explains how words form larger structures. Track meaningful units, grammatical categories and hierarchical relationships, then connect form with sound, meaning and clause organisation.",
+  "journey": [
+    "Identify the pieces: lexemes, morphemes, bases and affixes.",
+    "Explain the patterns: formation, allomorphy and interfaces.",
+    "Build larger structures: categories, phrases, clauses and dependencies.",
+    "Compare analyses: structural rules and alternative syntactic theories."
+  ],
+  "sources": [
+    {
+      "id": "E411",
+      "title": "E411.pdf",
+      "file": "E411.pdf",
+      "kind": "pdf",
+      "pageCount": 62
+    }
+  ],
+  "groups": [
+    {
+      "id": "e411-intro",
+      "title": "Introduction to morphology",
+      "syllabus": [
+        "Definition of morphology",
+        "Classification of morphology",
+        "Functions of morphology"
+      ]
+    },
+    {
+      "id": "e411-words",
+      "title": "Words and lexemes",
+      "syllabus": [
+        "Words and lexemes",
+        "Empirical tests for wordhood",
+        "Types of words",
+        "Affixes, bases and roots",
+        "Processes of word formation",
+        "Words as linguistic units",
+        "Words and phrases"
+      ]
+    },
+    {
+      "id": "e411-analysis",
+      "title": "Morphological analysis",
+      "syllabus": [
+        "Morphological analysis",
+        "Morphological rules",
+        "Morphological trees",
+        "Syntagmatic and paradigmatic relations"
+      ]
+    },
+    {
+      "id": "e411-variants",
+      "title": "Morphological variants",
+      "syllabus": [
+        "Allomorphs",
+        "Prosodic morphology",
+        "Zero morph"
+      ]
+    },
+    {
+      "id": "e411-interfaces",
+      "title": "Morphological interfaces",
+      "syllabus": [
+        "Morphophonology",
+        "Morphosyntax",
+        "Morphosemantics"
+      ]
+    },
+    {
+      "id": "e411-syntax",
+      "title": "Introduction to syntax",
+      "syllabus": [
+        "Syntactic categories",
+        "Aspects of syntactic structure"
+      ]
+    },
+    {
+      "id": "e411-classes",
+      "title": "Word classes",
+      "syllabus": [
+        "Verbs",
+        "Nouns",
+        "Adjectives",
+        "Adverbs",
+        "Prepositions"
+      ]
+    },
+    {
+      "id": "e411-phrases",
+      "title": "Constituent structure",
+      "syllabus": [
+        "Noun phrase",
+        "Verb phrase",
+        "Adjective phrase",
+        "Adverb phrase",
+        "Prepositional phrase"
+      ]
+    },
+    {
+      "id": "e411-ic",
+      "title": "Immediate constituent analysis",
+      "syllabus": [
+        "IC analysis"
+      ]
+    },
+    {
+      "id": "e411-rules",
+      "title": "Building syntactic structure",
+      "syllabus": [
+        "Phrase structure rules",
+        "Transformational rules",
+        "Projection",
+        "Merger",
+        "Adjunction"
+      ]
+    },
+    {
+      "id": "e411-clauses",
+      "title": "Clauses",
+      "syllabus": [
+        "Clause types",
+        "Clause structure",
+        "Clause components"
+      ]
+    },
+    {
+      "id": "e411-tam",
+      "title": "Tense, aspect, voice and mood",
+      "syllabus": [
+        "Tense",
+        "Aspect",
+        "Voice",
+        "Mood"
+      ]
+    },
+    {
+      "id": "e411-theories",
+      "title": "Theories of syntax",
+      "syllabus": [
+        "Relational grammar",
+        "Lexical-Functional grammar",
+        "Government-Binding theory",
+        "Role and Reference grammar"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "e411-morphology",
+      "groupId": "e411-intro",
+      "title": "Morphology",
+      "aliases": [],
+      "core": "Morphology studies the internal structure of words and how their forms relate to meaning and grammar.",
+      "explanation": "It identifies recurring meaningful units and the rules or patterns that combine or alter them.",
+      "example": "Teaching example: Teachers contains teach, -er and plural -s; the parts contribute a lexical base, an agent noun and number.",
+      "confusion": "A meaningful unit need not be a whole word.",
+      "syllabusTerms": [
+        "Definition of morphology",
+        "Functions of morphology"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morphology-core",
+          "prompt": "What is morphology?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Morphology studies the internal structure of words and how their forms relate to meaning and grammar.",
+          "answer": "Morphology studies the internal structure of words and how their forms relate to meaning and grammar. It identifies recurring meaningful units and the rules or patterns that combine or alter them.",
+          "keyPoints": [
+            "Morphology studies the internal structure of words and how their forms relate to meaning and grammar."
+          ],
+          "followUps": [
+            "e411-morphology-apply"
+          ]
+        },
+        {
+          "id": "e411-morphology-apply",
+          "prompt": "Why is teachers a useful example of morphology?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It combines a root with derivational -er and inflectional -s.",
+          "answer": "It combines a root with derivational -er and inflectional -s. Their order and contribution show how word structure expresses both lexical and grammatical information.",
+          "keyPoints": [
+            "It combines a root with derivational -er and inflectional -s.",
+            "Their order and contribution show how word structure expresses both lexical and grammatical information."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-inflection-and-derivation",
+      "groupId": "e411-intro",
+      "title": "Inflection and derivation",
+      "aliases": [],
+      "core": "Inflection expresses grammatical forms of a lexeme; derivation typically creates a new lexeme.",
+      "explanation": "Derivation can change word class or meaning; inflection normally supplies contrasts such as number or tense within a paradigm.",
+      "example": "Teaching example: Teach to teacher is derivation; teacher to teachers is inflection.",
+      "confusion": "A derivational affix need not change word class.",
+      "syllabusTerms": [
+        "Classification of morphology"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            8
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-inflection-and-derivation-core",
+          "prompt": "Explain inflection and derivation briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Inflection expresses grammatical forms of a lexeme; derivation typically creates a new lexeme.",
+          "answer": "Inflection expresses grammatical forms of a lexeme; derivation typically creates a new lexeme. Derivation can change word class or meaning; inflection normally supplies contrasts such as number or tense within a paradigm.",
+          "keyPoints": [
+            "Inflection expresses grammatical forms of a lexeme; derivation typically creates a new lexeme."
+          ],
+          "followUps": [
+            "e411-inflection-and-derivation-apply"
+          ]
+        },
+        {
+          "id": "e411-inflection-and-derivation-apply",
+          "prompt": "Does unhappy show derivation although happy and unhappy are both adjectives?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Derivation can change lexical meaning without changing word class. Unhappy is a distinct adjective lexeme, while happier is normally an inflected comparative form.",
+          "keyPoints": [
+            "Yes.",
+            "Derivation can change lexical meaning without changing word class.",
+            "Unhappy is a distinct adjective lexeme, while happier is normally an inflected comparative form."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-word-word-form-and-lexeme",
+      "groupId": "e411-words",
+      "title": "Word, word form and lexeme",
+      "aliases": [],
+      "core": "A lexeme is an abstract vocabulary item; a word form is one grammatical realisation of it.",
+      "explanation": "Orthographic, phonological and grammatical notions of a word do not always coincide.",
+      "example": "Teaching example: Sing, sings, sang and sung are forms associated with the lexeme SING.",
+      "confusion": "A lexeme is not just a spelling stripped of its final letters.",
+      "syllabusTerms": [
+        "Words and lexemes",
+        "Words as linguistic units"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            11,
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-word-word-form-and-lexeme-core",
+          "prompt": "Explain word, word form and lexeme briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A lexeme is an abstract vocabulary item; a word form is one grammatical realisation of it.",
+          "answer": "A lexeme is an abstract vocabulary item; a word form is one grammatical realisation of it. Orthographic, phonological and grammatical notions of a word do not always coincide.",
+          "keyPoints": [
+            "A lexeme is an abstract vocabulary item; a word form is one grammatical realisation of it."
+          ],
+          "followUps": [
+            "e411-word-word-form-and-lexeme-apply"
+          ]
+        },
+        {
+          "id": "e411-word-word-form-and-lexeme-apply",
+          "prompt": "Are went and goes different lexemes merely because they look different?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. They are grammatical forms of GO. Lexeme identity concerns the vocabulary item and its paradigm, not visual similarity alone.",
+          "keyPoints": [
+            "No.",
+            "They are grammatical forms of GO.",
+            "Lexeme identity concerns the vocabulary item and its paradigm, not visual similarity alone."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-wordhood-diagnostics",
+      "groupId": "e411-words",
+      "title": "Wordhood diagnostics",
+      "aliases": [],
+      "core": "Wordhood diagnostics examine properties such as internal cohesion, stress and independent occurrence.",
+      "explanation": "No single diagnostic works without exceptions across all languages and constructions; combine evidence.",
+      "example": "Teaching example: The insertion test distinguishes a typical compound blackbird from the phrase very black bird.",
+      "confusion": "Space in writing is an orthographic convention, not a universal linguistic definition.",
+      "syllabusTerms": [
+        "Empirical tests for wordhood"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            12,
+            16
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-wordhood-diagnostics-core",
+          "prompt": "Explain wordhood diagnostics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Wordhood diagnostics examine properties such as internal cohesion, stress and independent occurrence.",
+          "answer": "Wordhood diagnostics examine properties such as internal cohesion, stress and independent occurrence. No single diagnostic works without exceptions across all languages and constructions; combine evidence.",
+          "keyPoints": [
+            "Wordhood diagnostics examine properties such as internal cohesion, stress and independent occurrence."
+          ],
+          "followUps": [
+            "e411-wordhood-diagnostics-apply"
+          ]
+        },
+        {
+          "id": "e411-wordhood-diagnostics-apply",
+          "prompt": "Can a space in writing settle whether an expression is one linguistic word?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Writing conventions vary, and compounds may be spaced. Consider grammatical cohesion, possible internal modification and relevant phonological evidence together.",
+          "keyPoints": [
+            "No.",
+            "Writing conventions vary, and compounds may be spaced.",
+            "Consider grammatical cohesion, possible internal modification and relevant phonological evidence together."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-simple-complex-and-compound-words",
+      "groupId": "e411-words",
+      "title": "Simple, complex and compound words",
+      "aliases": [],
+      "core": "A simple word has one morpheme; a complex word contains multiple morphemes; a compound combines bases.",
+      "explanation": "Terminology varies: compound words can also be described as morphologically complex in a broad sense.",
+      "example": "Teaching example: Cat is simple, unhappy is derived, and blackboard is a compound.",
+      "confusion": "Long words are not necessarily morphologically complex.",
+      "syllabusTerms": [
+        "Types of words"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-simple-complex-and-compound-words-core",
+          "prompt": "Explain simple, complex and compound words briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A simple word has one morpheme; a complex word contains multiple morphemes; a compound combines bases.",
+          "answer": "A simple word has one morpheme; a complex word contains multiple morphemes; a compound combines bases. Terminology varies: compound words can also be described as morphologically complex in a broad sense.",
+          "keyPoints": [
+            "A simple word has one morpheme; a complex word contains multiple morphemes; a compound combines bases."
+          ],
+          "followUps": [
+            "e411-simple-complex-and-compound-words-apply"
+          ]
+        },
+        {
+          "id": "e411-simple-complex-and-compound-words-apply",
+          "prompt": "Is elephant complex because it has several syllables?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Syllable count concerns sound structure. In ordinary modern English analysis elephant is a single morpheme despite its multiple syllables.",
+          "keyPoints": [
+            "No.",
+            "Syllable count concerns sound structure.",
+            "In ordinary modern English analysis elephant is a single morpheme despite its multiple syllables."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-root-base-and-stem",
+      "groupId": "e411-words",
+      "title": "Root, base and stem",
+      "aliases": [],
+      "core": "A root is the central lexical element; a base accepts a morphological process; a stem accepts inflection.",
+      "explanation": "A base can be larger than a root. The terms describe different roles in a derivation.",
+      "example": "Teaching example: In teachers, teach is the root and teacher is the stem to which plural -s attaches.",
+      "confusion": "Base and root are not always interchangeable.",
+      "syllabusTerms": [
+        "Affixes, bases and roots"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            13,
+            14
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-root-base-and-stem-core",
+          "prompt": "Explain root, base and stem briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A root is the central lexical element; a base accepts a morphological process; a stem accepts inflection.",
+          "answer": "A root is the central lexical element; a base accepts a morphological process; a stem accepts inflection. A base can be larger than a root. The terms describe different roles in a derivation.",
+          "keyPoints": [
+            "A root is the central lexical element; a base accepts a morphological process; a stem accepts inflection."
+          ],
+          "followUps": [
+            "e411-root-base-and-stem-apply"
+          ]
+        },
+        {
+          "id": "e411-root-base-and-stem-apply",
+          "prompt": "In unhappiness, can unhappy be a base although it is not the root?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Unhappy is the base for suffix -ness, while happy is the root. Bases can already contain affixes.",
+          "keyPoints": [
+            "Yes.",
+            "Unhappy is the base for suffix -ness, while happy is the root.",
+            "Bases can already contain affixes."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-affix-types",
+      "groupId": "e411-words",
+      "title": "Affix types",
+      "aliases": [],
+      "core": "An affix is a bound formative attached to a base, such as a prefix or suffix.",
+      "explanation": "An infix occurs within a base; a circumfix has discontinuous parts surrounding it. Languages vary in their affix systems.",
+      "example": "Teaching example: English un- precedes happy and -ness follows it.",
+      "confusion": "Not every bound morpheme is necessarily an affix; some are bound roots.",
+      "syllabusTerms": [
+        "Affixes, bases and roots"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            14
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-affix-types-core",
+          "prompt": "Explain affix types briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "An affix is a bound formative attached to a base, such as a prefix or suffix.",
+          "answer": "An affix is a bound formative attached to a base, such as a prefix or suffix. An infix occurs within a base; a circumfix has discontinuous parts surrounding it. Languages vary in their affix systems.",
+          "keyPoints": [
+            "An affix is a bound formative attached to a base, such as a prefix or suffix."
+          ],
+          "followUps": [
+            "e411-affix-types-apply"
+          ]
+        },
+        {
+          "id": "e411-affix-types-apply",
+          "prompt": "Why are un- and -ness both affixes despite different positions?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Both are bound units attached to a base.",
+          "answer": "Both are bound units attached to a base. Their position distinguishes prefix un- from suffix -ness.",
+          "keyPoints": [
+            "Both are bound units attached to a base.",
+            "Their position distinguishes prefix un- from suffix -ness."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-compounding-and-headedness",
+      "groupId": "e411-words",
+      "title": "Compounding and headedness",
+      "aliases": [],
+      "core": "Compounding forms a word from two or more bases.",
+      "explanation": "An endocentric compound has an internal head defining its type; an exocentric compound lacks that straightforward internal semantic head.",
+      "example": "Teaching example: A blackboard is a kind of board; a pickpocket is a person, not a kind of pocket.",
+      "confusion": "Compound stress is a useful tendency, not an exception-free rule.",
+      "syllabusTerms": [
+        "Processes of word formation"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            14,
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-compounding-and-headedness-core",
+          "prompt": "Explain compounding and headedness briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Compounding forms a word from two or more bases.",
+          "answer": "Compounding forms a word from two or more bases. An endocentric compound has an internal head defining its type; an exocentric compound lacks that straightforward internal semantic head.",
+          "keyPoints": [
+            "Compounding forms a word from two or more bases."
+          ],
+          "followUps": [
+            "e411-compounding-and-headedness-apply"
+          ]
+        },
+        {
+          "id": "e411-compounding-and-headedness-apply",
+          "prompt": "What makes blackboard endocentric and pickpocket exocentric?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Blackboard names a type of board, so board is its semantic head.",
+          "answer": "Blackboard names a type of board, so board is its semantic head. Pickpocket names a person rather than a type of pocket or picking.",
+          "keyPoints": [
+            "Blackboard names a type of board, so board is its semantic head.",
+            "Pickpocket names a person rather than a type of pocket or picking."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-conversion",
+      "groupId": "e411-words",
+      "title": "Conversion",
+      "aliases": [],
+      "core": "Conversion creates a new word-class use without an overt derivational affix.",
+      "explanation": "It is also called zero derivation, though analyses differ on whether a silent affix should be posited.",
+      "example": "Teaching example: Email functions as a noun in an email and as a verb in email me.",
+      "confusion": "Conversion concerns lexical category change, not ordinary inflection.",
+      "syllabusTerms": [
+        "Processes of word formation"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-conversion-core",
+          "prompt": "What is conversion?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Conversion creates a new word-class use without an overt derivational affix.",
+          "answer": "Conversion creates a new word-class use without an overt derivational affix. It is also called zero derivation, though analyses differ on whether a silent affix should be posited.",
+          "keyPoints": [
+            "Conversion creates a new word-class use without an overt derivational affix."
+          ],
+          "followUps": [
+            "e411-conversion-apply"
+          ]
+        },
+        {
+          "id": "e411-conversion-apply",
+          "prompt": "What process turns bottle into a verb in bottle the juice?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Conversion: a noun base is used as a verb without an overt category-changing suffix.",
+          "answer": "Conversion: a noun base is used as a verb without an overt category-changing suffix.",
+          "keyPoints": [
+            "Conversion: a noun base is used as a verb without an overt category-changing suffix."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-clipping-and-blending",
+      "groupId": "e411-words",
+      "title": "Clipping and blending",
+      "aliases": [],
+      "core": "Clipping shortens a word; blending combines parts of words into a new form.",
+      "explanation": "The new forms preserve enough source material for their origin to be recognised, but the processes differ.",
+      "example": "Teaching example: Lab clips laboratory; brunch blends breakfast and lunch.",
+      "confusion": "A blend does not simply concatenate two complete bases.",
+      "syllabusTerms": [
+        "Processes of word formation"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-clipping-and-blending-core",
+          "prompt": "Explain clipping and blending briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Clipping shortens a word; blending combines parts of words into a new form.",
+          "answer": "Clipping shortens a word; blending combines parts of words into a new form. The new forms preserve enough source material for their origin to be recognised, but the processes differ.",
+          "keyPoints": [
+            "Clipping shortens a word; blending combines parts of words into a new form."
+          ],
+          "followUps": [
+            "e411-clipping-and-blending-apply"
+          ]
+        },
+        {
+          "id": "e411-clipping-and-blending-apply",
+          "prompt": "How do lab and brunch illustrate different processes?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Lab is a shortened form of one source word.",
+          "answer": "Lab is a shortened form of one source word. Brunch merges portions of two source words into a new word.",
+          "keyPoints": [
+            "Lab is a shortened form of one source word.",
+            "Brunch merges portions of two source words into a new word."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-acronyms-and-initialisms",
+      "groupId": "e411-words",
+      "title": "Acronyms and initialisms",
+      "aliases": [],
+      "core": "Acronyms and initialisms use initial letters of longer expressions.",
+      "explanation": "Acronyms are pronounced as words, whereas initialisms are pronounced as letter names under a common terminology.",
+      "example": "Teaching example: NATO is pronounced as a word; BBC uses individual letter names.",
+      "confusion": "Usage of acronym as an umbrella term varies, so state the distinction intended.",
+      "syllabusTerms": [
+        "Processes of word formation"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-acronyms-and-initialisms-core",
+          "prompt": "Explain acronyms and initialisms briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Acronyms and initialisms use initial letters of longer expressions.",
+          "answer": "Acronyms and initialisms use initial letters of longer expressions. Acronyms are pronounced as words, whereas initialisms are pronounced as letter names under a common terminology.",
+          "keyPoints": [
+            "Acronyms and initialisms use initial letters of longer expressions."
+          ],
+          "followUps": [
+            "e411-acronyms-and-initialisms-apply"
+          ]
+        },
+        {
+          "id": "e411-acronyms-and-initialisms-apply",
+          "prompt": "How would you distinguish NATO from BBC as word-formation examples?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Both originate from initials, but NATO is a word-pronounced acronym and BBC a letter-pronounced initialism in the narrower distinction.",
+          "answer": "Both originate from initials, but NATO is a word-pronounced acronym and BBC a letter-pronounced initialism in the narrower distinction.",
+          "keyPoints": [
+            "Both originate from initials, but NATO is a word-pronounced acronym and BBC a letter-pronounced initialism in the narrower distinction."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-back-formation",
+      "groupId": "e411-words",
+      "title": "Back-formation",
+      "aliases": [],
+      "core": "Back-formation creates a new word by removing a part interpreted as an affix.",
+      "explanation": "The historical direction matters: apparent morphological simplicity does not prove which form came first.",
+      "example": "Teaching example: Edit was formed historically from editor, rather than editor simply being formed from edit.",
+      "confusion": "Back-formation is not the same as clipping a word casually.",
+      "syllabusTerms": [
+        "Processes of word formation"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-back-formation-core",
+          "prompt": "What is back-formation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Back-formation creates a new word by removing a part interpreted as an affix.",
+          "answer": "Back-formation creates a new word by removing a part interpreted as an affix. The historical direction matters: apparent morphological simplicity does not prove which form came first.",
+          "keyPoints": [
+            "Back-formation creates a new word by removing a part interpreted as an affix."
+          ],
+          "followUps": [
+            "e411-back-formation-apply"
+          ]
+        },
+        {
+          "id": "e411-back-formation-apply",
+          "prompt": "Why is edit from editor back-formation rather than ordinary suffixation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The longer noun existed first; speakers interpreted its ending as removable and created the verb.",
+          "answer": "The longer noun existed first; speakers interpreted its ending as removable and created the verb. The historical direction is from the longer form to the shorter one.",
+          "keyPoints": [
+            "The longer noun existed first; speakers interpreted its ending as removable and created the verb.",
+            "The historical direction is from the longer form to the shorter one."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-borrowing-and-reduplication",
+      "groupId": "e411-words",
+      "title": "Borrowing and reduplication",
+      "aliases": [],
+      "core": "Borrowing adopts linguistic material from another language; reduplication repeats all or part of a form.",
+      "explanation": "Borrowed forms may become adapted to the receiving language. Reduplication can serve grammatical or expressive functions, depending on the language.",
+      "example": "Teaching example: English borrowed bungalow; expressive forms such as bye-bye repeat material.",
+      "confusion": "Borrowing describes historical source, while derivation describes internal formation.",
+      "syllabusTerms": [
+        "Processes of word formation"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-borrowing-and-reduplication-core",
+          "prompt": "Explain borrowing and reduplication briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Borrowing adopts linguistic material from another language; reduplication repeats all or part of a form.",
+          "answer": "Borrowing adopts linguistic material from another language; reduplication repeats all or part of a form. Borrowed forms may become adapted to the receiving language. Reduplication can serve grammatical or expressive functions, depending on the language.",
+          "keyPoints": [
+            "Borrowing adopts linguistic material from another language; reduplication repeats all or part of a form."
+          ],
+          "followUps": [
+            "e411-borrowing-and-reduplication-apply"
+          ]
+        },
+        {
+          "id": "e411-borrowing-and-reduplication-apply",
+          "prompt": "Can a borrowed word later take English affixes?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Once integrated, a borrowing can participate in the receiving language's morphology. Historical origin and present grammatical behaviour describe different facts.",
+          "keyPoints": [
+            "Yes.",
+            "Once integrated, a borrowing can participate in the receiving language's morphology.",
+            "Historical origin and present grammatical behaviour describe different facts."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-words-and-phrases",
+      "groupId": "e411-words",
+      "title": "Words and phrases",
+      "aliases": [],
+      "core": "Words show internal cohesion; phrases are syntactic combinations whose parts can often be independently modified.",
+      "explanation": "Stress, meaning, inflection and insertion provide relevant evidence, but compound–phrase boundaries can be difficult.",
+      "example": "Teaching example: A greenhouse is a building for plants; a green house is a house described as green.",
+      "confusion": "Idiomatic meaning or initial stress alone does not provide a universal test.",
+      "syllabusTerms": [
+        "Words and phrases"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            16
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-words-and-phrases-core",
+          "prompt": "Explain words and phrases briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Words show internal cohesion; phrases are syntactic combinations whose parts can often be independently modified.",
+          "answer": "Words show internal cohesion; phrases are syntactic combinations whose parts can often be independently modified. Stress, meaning, inflection and insertion provide relevant evidence, but compound–phrase boundaries can be difficult.",
+          "keyPoints": [
+            "Words show internal cohesion; phrases are syntactic combinations whose parts can often be independently modified."
+          ],
+          "followUps": [
+            "e411-words-and-phrases-apply"
+          ]
+        },
+        {
+          "id": "e411-words-and-phrases-apply",
+          "prompt": "Why can greenhouse and green house differ despite sharing the same bases?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They have different grammatical organisation and conventional meanings.",
+          "answer": "They have different grammatical organisation and conventional meanings. The compound names a type of building, while the phrase combines an adjective with a noun productively.",
+          "keyPoints": [
+            "They have different grammatical organisation and conventional meanings.",
+            "The compound names a type of building, while the phrase combines an adjective with a noun productively."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-morphological-segmentation",
+      "groupId": "e411-analysis",
+      "title": "Morphological segmentation",
+      "aliases": [],
+      "core": "Morphological analysis identifies meaningful components and their structural relationships.",
+      "explanation": "Use recurring form–meaning correspondences and category information rather than splitting wherever letters happen to repeat.",
+      "example": "Teaching example: Teachers can be segmented teach-er-s; corner is not ordinarily corn-er.",
+      "confusion": "A recurring letter sequence is not sufficient evidence for a morpheme.",
+      "syllabusTerms": [
+        "Morphological analysis"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morphological-segmentation-core",
+          "prompt": "What is morphological segmentation?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Morphological analysis identifies meaningful components and their structural relationships.",
+          "answer": "Morphological analysis identifies meaningful components and their structural relationships. Use recurring form–meaning correspondences and category information rather than splitting wherever letters happen to repeat.",
+          "keyPoints": [
+            "Morphological analysis identifies meaningful components and their structural relationships."
+          ],
+          "followUps": [
+            "e411-morphological-segmentation-apply"
+          ]
+        },
+        {
+          "id": "e411-morphological-segmentation-apply",
+          "prompt": "Why should corner not normally be analysed as corn plus agentive -er?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The supposed parts do not contribute the relevant meanings or productive category relation.",
+          "answer": "The supposed parts do not contribute the relevant meanings or productive category relation. Segmentation requires linguistic evidence, not spelling resemblance.",
+          "keyPoints": [
+            "The supposed parts do not contribute the relevant meanings or productive category relation.",
+            "Segmentation requires linguistic evidence, not spelling resemblance."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-morphological-rules",
+      "groupId": "e411-analysis",
+      "title": "Morphological rules",
+      "aliases": [],
+      "core": "A morphological rule states a pattern relating bases and formed words, including meaning and category.",
+      "explanation": "For example, agentive -er commonly attaches to verbs to create nouns; productivity is restricted and exceptions matter.",
+      "example": "Teaching example: Teach plus -er gives teacher, a person associated with teaching.",
+      "confusion": "A rule describes productive patterns without claiming every possible formation is conventional.",
+      "syllabusTerms": [
+        "Morphological rules"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morphological-rules-core",
+          "prompt": "Explain morphological rules briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A morphological rule states a pattern relating bases and formed words, including meaning and category.",
+          "answer": "A morphological rule states a pattern relating bases and formed words, including meaning and category. For example, agentive -er commonly attaches to verbs to create nouns; productivity is restricted and exceptions matter.",
+          "keyPoints": [
+            "A morphological rule states a pattern relating bases and formed words, including meaning and category."
+          ],
+          "followUps": [
+            "e411-morphological-rules-apply"
+          ]
+        },
+        {
+          "id": "e411-morphological-rules-apply",
+          "prompt": "Why does knowing the suffix -ness not tell us that every adjective forms an equally natural noun?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Morphological productivity has lexical and conventional limits.",
+          "answer": "Morphological productivity has lexical and conventional limits. Speakers recognise patterns, but actual acceptability also depends on the base and established usage.",
+          "keyPoints": [
+            "Morphological productivity has lexical and conventional limits.",
+            "Speakers recognise patterns, but actual acceptability also depends on the base and established usage."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-morphological-trees-and-ambiguity",
+      "groupId": "e411-analysis",
+      "title": "Morphological trees and ambiguity",
+      "aliases": [],
+      "core": "Morphological trees show hierarchical grouping and the order in which bases and affixes combine.",
+      "explanation": "Different bracketings can support different interpretations even when the spoken string is identical.",
+      "example": "Teaching example: Unlockable can mean not lockable, [un-[lock-able]], or able to be unlocked, [[un-lock]-able].",
+      "confusion": "Linear segmentation alone cannot show which unit an affix attaches to.",
+      "syllabusTerms": [
+        "Morphological trees"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            18,
+            19,
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morphological-trees-and-ambiguity-core",
+          "prompt": "Explain morphological trees and ambiguity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Morphological trees show hierarchical grouping and the order in which bases and affixes combine.",
+          "answer": "Morphological trees show hierarchical grouping and the order in which bases and affixes combine. Different bracketings can support different interpretations even when the spoken string is identical.",
+          "keyPoints": [
+            "Morphological trees show hierarchical grouping and the order in which bases and affixes combine."
+          ],
+          "followUps": [
+            "e411-morphological-trees-and-ambiguity-apply"
+          ]
+        },
+        {
+          "id": "e411-morphological-trees-and-ambiguity-apply",
+          "prompt": "Give the two structural readings of unlockable.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "One brackets un- outside lockable, meaning not able to be locked.",
+          "answer": "One brackets un- outside lockable, meaning not able to be locked. The other forms unlock first, then adds -able, meaning able to be unlocked.",
+          "keyPoints": [
+            "One brackets un- outside lockable, meaning not able to be locked.",
+            "The other forms unlock first, then adds -able, meaning able to be unlocked."
+          ],
+          "followUps": []
+        }
+      ],
+      "diagram": "unhappiness\nN\n├── Adj\n│   ├── un-\n│   └── happy\n└── -ness\n\nBracketing: [[un-happy]Adj -ness]N"
+    },
+    {
+      "id": "e411-syntagmatic-and-paradigmatic-relations",
+      "groupId": "e411-analysis",
+      "title": "Syntagmatic and paradigmatic relations",
+      "aliases": [],
+      "core": "Syntagmatic relations concern combination; paradigmatic relations concern alternatives in a structural position.",
+      "explanation": "In morphology, affixes combine with bases while related forms contrast within a paradigm or word family.",
+      "example": "Teaching example: Teach-er-s illustrates combination; cat/cats illustrates a number contrast.",
+      "confusion": "Paradigmatic alternatives need not occur next to each other in the same utterance.",
+      "syllabusTerms": [
+        "Syntagmatic and paradigmatic relations"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-syntagmatic-and-paradigmatic-relations-core",
+          "prompt": "Explain syntagmatic and paradigmatic relations briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Syntagmatic relations concern combination; paradigmatic relations concern alternatives in a structural position.",
+          "answer": "Syntagmatic relations concern combination; paradigmatic relations concern alternatives in a structural position. In morphology, affixes combine with bases while related forms contrast within a paradigm or word family.",
+          "keyPoints": [
+            "Syntagmatic relations concern combination; paradigmatic relations concern alternatives in a structural position."
+          ],
+          "followUps": [
+            "e411-syntagmatic-and-paradigmatic-relations-apply"
+          ]
+        },
+        {
+          "id": "e411-syntagmatic-and-paradigmatic-relations-apply",
+          "prompt": "How do cats and cat illustrate a paradigmatic relation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They contrast as alternative number forms of the same lexeme.",
+          "answer": "They contrast as alternative number forms of the same lexeme. The relation is between available forms, not simply between adjacent morphemes.",
+          "keyPoints": [
+            "They contrast as alternative number forms of the same lexeme.",
+            "The relation is between available forms, not simply between adjacent morphemes."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-morpheme-morph-and-allomorph",
+      "groupId": "e411-variants",
+      "title": "Morpheme, morph and allomorph",
+      "aliases": [],
+      "core": "A morpheme is an abstract meaningful unit; a morph is a realisation; allomorphs are alternative realisations of a morpheme.",
+      "explanation": "Allomorphic choice can be conditioned by sound environment, grammatical context or particular lexical items.",
+      "example": "Teaching example: English plural has /s/ in cats, /z/ in dogs and /ɪz/ in buses in a common analysis.",
+      "confusion": "Allomorphs concern the same morpheme; allophones concern the same phoneme.",
+      "syllabusTerms": [
+        "Allomorphs"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morpheme-morph-and-allomorph-core",
+          "prompt": "Explain morpheme, morph and allomorph briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A morpheme is an abstract meaningful unit; a morph is a realisation; allomorphs are alternative realisations of a morpheme.",
+          "answer": "A morpheme is an abstract meaningful unit; a morph is a realisation; allomorphs are alternative realisations of a morpheme. Allomorphic choice can be conditioned by sound environment, grammatical context or particular lexical items.",
+          "keyPoints": [
+            "A morpheme is an abstract meaningful unit; a morph is a realisation; allomorphs are alternative realisations of a morpheme."
+          ],
+          "followUps": [
+            "e411-morpheme-morph-and-allomorph-apply"
+          ]
+        },
+        {
+          "id": "e411-morpheme-morph-and-allomorph-apply",
+          "prompt": "Why are /s/, /z/ and /ɪz/ in regular English plurals allomorphs?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They express the same plural function in different phonological environments.",
+          "answer": "They express the same plural function in different phonological environments. Their differences are realisations of a morphological category.",
+          "keyPoints": [
+            "They express the same plural function in different phonological environments.",
+            "Their differences are realisations of a morphological category."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-prosodic-morphology",
+      "groupId": "e411-variants",
+      "title": "Prosodic morphology",
+      "aliases": [],
+      "core": "Prosodic morphology studies how morphological patterns interact with units such as syllables, feet and stress.",
+      "explanation": "Morphological contrasts can involve changes in prosody rather than the addition of a straightforward segmental suffix.",
+      "example": "Teaching example: Some English noun–verb pairs contrast initial and final stress, such as REcord and reCORD.",
+      "confusion": "Not every stress difference belongs to a productive morphological rule.",
+      "syllabusTerms": [
+        "Prosodic morphology"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-prosodic-morphology-core",
+          "prompt": "What is prosodic morphology?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Prosodic morphology studies how morphological patterns interact with units such as syllables, feet and stress.",
+          "answer": "Prosodic morphology studies how morphological patterns interact with units such as syllables, feet and stress. Morphological contrasts can involve changes in prosody rather than the addition of a straightforward segmental suffix.",
+          "keyPoints": [
+            "Prosodic morphology studies how morphological patterns interact with units such as syllables, feet and stress."
+          ],
+          "followUps": [
+            "e411-prosodic-morphology-apply"
+          ]
+        },
+        {
+          "id": "e411-prosodic-morphology-apply",
+          "prompt": "How can a noun–verb stress pair illustrate the morphology–prosody interface?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The word-class contrast is associated with a difference in stress placement.",
+          "answer": "The word-class contrast is associated with a difference in stress placement. The pattern links grammatical form with prosodic organisation, though it has lexical limits.",
+          "keyPoints": [
+            "The word-class contrast is associated with a difference in stress placement.",
+            "The pattern links grammatical form with prosodic organisation, though it has lexical limits."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-zero-morph",
+      "groupId": "e411-variants",
+      "title": "Zero morph",
+      "aliases": [],
+      "core": "A zero morph is a posited absence of overt form representing a grammatical contrast in an analysis.",
+      "explanation": "A zero analysis preserves a distinction such as plural even when no segment is added; alternative morphological frameworks may represent it differently.",
+      "example": "Teaching example: In one analysis sheep plus zero expresses plural in three sheep.",
+      "confusion": "An unchanged form can still carry a grammatical contrast recoverable from context.",
+      "syllabusTerms": [
+        "Zero morph"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            24,
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-zero-morph-core",
+          "prompt": "What is zero morph?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A zero morph is a posited absence of overt form representing a grammatical contrast in an analysis.",
+          "answer": "A zero morph is a posited absence of overt form representing a grammatical contrast in an analysis. A zero analysis preserves a distinction such as plural even when no segment is added; alternative morphological frameworks may represent it differently.",
+          "keyPoints": [
+            "A zero morph is a posited absence of overt form representing a grammatical contrast in an analysis."
+          ],
+          "followUps": [
+            "e411-zero-morph-apply"
+          ]
+        },
+        {
+          "id": "e411-zero-morph-apply",
+          "prompt": "How can sheep be plural without an audible plural ending?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The grammatical number is clear from context, such as three sheep.",
+          "answer": "The grammatical number is clear from context, such as three sheep. A zero-morph analysis represents the plural contrast without an overt suffix.",
+          "keyPoints": [
+            "The grammatical number is clear from context, such as three sheep.",
+            "A zero-morph analysis represents the plural contrast without an overt suffix."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-morphophonology",
+      "groupId": "e411-interfaces",
+      "title": "Morphophonology",
+      "aliases": [],
+      "core": "Morphophonology examines interactions between morphological structure and sound patterns.",
+      "explanation": "It explains how combining meaningful units affects their realisation, including conditioned allomorphy.",
+      "example": "Teaching example: Regular past tense surfaces as /t/, /d/ or /ɪd/ according to the final sound of the verb.",
+      "confusion": "This interface studies grammatical units and sound structure together.",
+      "syllabusTerms": [
+        "Morphophonology"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            26
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morphophonology-core",
+          "prompt": "What is morphophonology?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Morphophonology examines interactions between morphological structure and sound patterns.",
+          "answer": "Morphophonology examines interactions between morphological structure and sound patterns. It explains how combining meaningful units affects their realisation, including conditioned allomorphy.",
+          "keyPoints": [
+            "Morphophonology examines interactions between morphological structure and sound patterns."
+          ],
+          "followUps": [
+            "e411-morphophonology-apply"
+          ]
+        },
+        {
+          "id": "e411-morphophonology-apply",
+          "prompt": "Why is the pronunciation difference between walked and wanted morphophonological?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The same past-tense category has different pronunciations conditioned by the base's final sound.",
+          "answer": "The same past-tense category has different pronunciations conditioned by the base's final sound. Both morphological function and phonological environment are necessary to explain it.",
+          "keyPoints": [
+            "The same past-tense category has different pronunciations conditioned by the base's final sound.",
+            "Both morphological function and phonological environment are necessary to explain it."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-morphosyntax",
+      "groupId": "e411-interfaces",
+      "title": "Morphosyntax",
+      "aliases": [],
+      "core": "Morphosyntax studies interactions between word forms and syntactic structure.",
+      "explanation": "Agreement, case and inflection link morphological choices to the grammatical relationships in a clause.",
+      "example": "Teaching example: She walks shows a subject-related agreement contrast; he/him reflects case distribution.",
+      "confusion": "Agreement is not determined merely by the nearest noun.",
+      "syllabusTerms": [
+        "Morphosyntax"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morphosyntax-core",
+          "prompt": "What is morphosyntax?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Morphosyntax studies interactions between word forms and syntactic structure.",
+          "answer": "Morphosyntax studies interactions between word forms and syntactic structure. Agreement, case and inflection link morphological choices to the grammatical relationships in a clause.",
+          "keyPoints": [
+            "Morphosyntax studies interactions between word forms and syntactic structure."
+          ],
+          "followUps": [
+            "e411-morphosyntax-apply"
+          ]
+        },
+        {
+          "id": "e411-morphosyntax-apply",
+          "prompt": "Why is The key to the cabinets is missing a useful agreement example?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The head of the subject is singular key, so standard agreement selects is despite nearby plural cabinets.",
+          "answer": "The head of the subject is singular key, so standard agreement selects is despite nearby plural cabinets. Syntactic structure guides the morphological form.",
+          "keyPoints": [
+            "The head of the subject is singular key, so standard agreement selects is despite nearby plural cabinets.",
+            "Syntactic structure guides the morphological form."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-morphosemantics",
+      "groupId": "e411-interfaces",
+      "title": "Morphosemantics",
+      "aliases": [],
+      "core": "Morphosemantics studies how morphological structure contributes to meaning.",
+      "explanation": "Affixes, compounding and hierarchical grouping can change semantic interpretation; some formations have conventionalised meanings.",
+      "example": "Teaching example: Unhappiness combines the meaning of unhappy with the nominalising contribution of -ness.",
+      "confusion": "Word meaning is not always completely predictable from its parts.",
+      "syllabusTerms": [
+        "Morphosemantics"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            27,
+            28
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-morphosemantics-core",
+          "prompt": "Explain morphosemantics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Morphosemantics studies how morphological structure contributes to meaning.",
+          "answer": "Morphosemantics studies how morphological structure contributes to meaning. Affixes, compounding and hierarchical grouping can change semantic interpretation; some formations have conventionalised meanings.",
+          "keyPoints": [
+            "Morphosemantics studies how morphological structure contributes to meaning."
+          ],
+          "followUps": [
+            "e411-morphosemantics-apply"
+          ]
+        },
+        {
+          "id": "e411-morphosemantics-apply",
+          "prompt": "Why does morphological analysis not always predict a compound's exact meaning?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Compounds can develop conventional or idiomatic meanings.",
+          "answer": "Compounds can develop conventional or idiomatic meanings. Structure helps identify relationships, while lexical knowledge and context supply further interpretation.",
+          "keyPoints": [
+            "Compounds can develop conventional or idiomatic meanings.",
+            "Structure helps identify relationships, while lexical knowledge and context supply further interpretation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-syntax-and-structure",
+      "groupId": "e411-syntax",
+      "title": "Syntax and structure",
+      "aliases": [],
+      "core": "Syntax studies how words form phrases and clauses through hierarchical relationships.",
+      "explanation": "Word order, constituency, dependency and grammatical functions all contribute to structure. A sequence may be structurally well formed yet semantically unusual.",
+      "example": "Teaching example: Colourless green ideas sleep furiously has familiar English syntactic patterns despite unusual interpretation.",
+      "confusion": "Such examples distinguish grammatical organisation from plausibility without proving complete independence of syntax and meaning.",
+      "syllabusTerms": [
+        "Aspects of syntactic structure"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            30,
+            31,
+            32
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-syntax-and-structure-core",
+          "prompt": "Explain syntax and structure briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Syntax studies how words form phrases and clauses through hierarchical relationships.",
+          "answer": "Syntax studies how words form phrases and clauses through hierarchical relationships. Word order, constituency, dependency and grammatical functions all contribute to structure. A sequence may be structurally well formed yet semantically unusual.",
+          "keyPoints": [
+            "Syntax studies how words form phrases and clauses through hierarchical relationships."
+          ],
+          "followUps": [
+            "e411-syntax-and-structure-apply"
+          ]
+        },
+        {
+          "id": "e411-syntax-and-structure-apply",
+          "prompt": "Why can an unusual sentence still be syntactically grammatical?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Its word classes, order and structural relationships can satisfy grammatical patterns even when its ordinary semantic interpretation is odd.",
+          "answer": "Its word classes, order and structural relationships can satisfy grammatical patterns even when its ordinary semantic interpretation is odd.",
+          "keyPoints": [
+            "Its word classes, order and structural relationships can satisfy grammatical patterns even when its ordinary semantic interpretation is odd."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-syntactic-categories",
+      "groupId": "e411-syntax",
+      "title": "Syntactic categories",
+      "aliases": [],
+      "core": "Syntactic categories group expressions by grammatical properties and distribution.",
+      "explanation": "Distinguish category labels such as noun phrase from functions such as subject. Lexical and functional categories play different roles, and particular classifications vary by framework.",
+      "example": "Teaching example: The same NP can function as subject or object.",
+      "confusion": "A function is not identical to a word class or phrase type.",
+      "syllabusTerms": [
+        "Syntactic categories"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            30,
+            31
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-syntactic-categories-core",
+          "prompt": "Explain syntactic categories briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Syntactic categories group expressions by grammatical properties and distribution.",
+          "answer": "Syntactic categories group expressions by grammatical properties and distribution. Distinguish category labels such as noun phrase from functions such as subject. Lexical and functional categories play different roles, and particular classifications vary by framework.",
+          "keyPoints": [
+            "Syntactic categories group expressions by grammatical properties and distribution."
+          ],
+          "followUps": [
+            "e411-syntactic-categories-apply"
+          ]
+        },
+        {
+          "id": "e411-syntactic-categories-apply",
+          "prompt": "Why is subject not a word class?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Subject is a grammatical function.",
+          "answer": "Subject is a grammatical function. It can be filled by different constituent types; noun is a category with its own morphological and distributional properties.",
+          "keyPoints": [
+            "Subject is a grammatical function.",
+            "It can be filled by different constituent types; noun is a category with its own morphological and distributional properties."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-verbs-and-valency",
+      "groupId": "e411-classes",
+      "title": "Verbs and valency",
+      "aliases": [],
+      "core": "Verbs head verb phrases and differ in the complements they license.",
+      "explanation": "Some are intransitive, transitive, ditransitive or copular. Lexical meaning and syntactic patterns both matter.",
+      "example": "Teaching example: Sleep is normally intransitive, admire licenses an object, and give can license two objects.",
+      "confusion": "Not every verb names a physical action.",
+      "syllabusTerms": [
+        "Verbs"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            33
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-verbs-and-valency-core",
+          "prompt": "Explain verbs and valency briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Verbs head verb phrases and differ in the complements they license.",
+          "answer": "Verbs head verb phrases and differ in the complements they license. Some are intransitive, transitive, ditransitive or copular. Lexical meaning and syntactic patterns both matter.",
+          "keyPoints": [
+            "Verbs head verb phrases and differ in the complements they license."
+          ],
+          "followUps": [
+            "e411-verbs-and-valency-apply"
+          ]
+        },
+        {
+          "id": "e411-verbs-and-valency-apply",
+          "prompt": "Why is know a verb even though knowing is not a visible action?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its grammatical distribution and forms identify it as a verb.",
+          "answer": "Its grammatical distribution and forms identify it as a verb. Semantic labels such as action word are too narrow for word-class analysis.",
+          "keyPoints": [
+            "Its grammatical distribution and forms identify it as a verb.",
+            "Semantic labels such as action word are too narrow for word-class analysis."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-nouns",
+      "groupId": "e411-classes",
+      "title": "Nouns",
+      "aliases": [],
+      "core": "Nouns head noun phrases and typically participate in determiner and number patterns.",
+      "explanation": "Use morphology and distribution together; mass nouns, proper nouns and other subclasses need not pass every common test.",
+      "example": "Teaching example: The arrival is a noun phrase even though arrival denotes an event.",
+      "confusion": "Person, place or thing is an incomplete definition of noun.",
+      "syllabusTerms": [
+        "Nouns"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            33,
+            34
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-nouns-core",
+          "prompt": "Explain nouns briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Nouns head noun phrases and typically participate in determiner and number patterns.",
+          "answer": "Nouns head noun phrases and typically participate in determiner and number patterns. Use morphology and distribution together; mass nouns, proper nouns and other subclasses need not pass every common test.",
+          "keyPoints": [
+            "Nouns head noun phrases and typically participate in determiner and number patterns."
+          ],
+          "followUps": [
+            "e411-nouns-apply"
+          ]
+        },
+        {
+          "id": "e411-nouns-apply",
+          "prompt": "Why is destruction a noun rather than a verb although it denotes an action?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It behaves grammatically as a noun, for example after a determiner and with of-complements.",
+          "answer": "It behaves grammatically as a noun, for example after a determiner and with of-complements. Meaning alone does not determine category.",
+          "keyPoints": [
+            "It behaves grammatically as a noun, for example after a determiner and with of-complements.",
+            "Meaning alone does not determine category."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-adjectives",
+      "groupId": "e411-classes",
+      "title": "Adjectives",
+      "aliases": [],
+      "core": "Adjectives typically modify nouns or function predicatively with appropriate verbs.",
+      "explanation": "Many are gradable and accept degree modification or comparison, but some are non-gradable or restricted to particular positions.",
+      "example": "Teaching example: Happy occurs in a happy learner and the learner is happy.",
+      "confusion": "Not every adjective accepts very or comparative -er.",
+      "syllabusTerms": [
+        "Adjectives"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            34,
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-adjectives-core",
+          "prompt": "Explain adjectives briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Adjectives typically modify nouns or function predicatively with appropriate verbs.",
+          "answer": "Adjectives typically modify nouns or function predicatively with appropriate verbs. Many are gradable and accept degree modification or comparison, but some are non-gradable or restricted to particular positions.",
+          "keyPoints": [
+            "Adjectives typically modify nouns or function predicatively with appropriate verbs."
+          ],
+          "followUps": [
+            "e411-adjectives-apply"
+          ]
+        },
+        {
+          "id": "e411-adjectives-apply",
+          "prompt": "Why is inability to say very unique not sufficient to show unique is not an adjective?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Degree modification is only one diagnostic and varies with meaning and usage.",
+          "answer": "Degree modification is only one diagnostic and varies with meaning and usage. Category is established through several grammatical properties.",
+          "keyPoints": [
+            "Degree modification is only one diagnostic and varies with meaning and usage.",
+            "Category is established through several grammatical properties."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-adverbs",
+      "groupId": "e411-classes",
+      "title": "Adverbs",
+      "aliases": [],
+      "core": "Adverbs form a varied class that can modify verbs, adjectives, other adverbs or clauses.",
+      "explanation": "An -ly ending is common but neither necessary nor sufficient. Determine what an expression modifies and where it can occur.",
+      "example": "Teaching example: Very modifies happy; often modifies a situation; carefully modifies an activity.",
+      "confusion": "Friendly is generally an adjective despite ending in -ly.",
+      "syllabusTerms": [
+        "Adverbs"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-adverbs-core",
+          "prompt": "Explain adverbs briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Adverbs form a varied class that can modify verbs, adjectives, other adverbs or clauses.",
+          "answer": "Adverbs form a varied class that can modify verbs, adjectives, other adverbs or clauses. An -ly ending is common but neither necessary nor sufficient. Determine what an expression modifies and where it can occur.",
+          "keyPoints": [
+            "Adverbs form a varied class that can modify verbs, adjectives, other adverbs or clauses."
+          ],
+          "followUps": [
+            "e411-adverbs-apply"
+          ]
+        },
+        {
+          "id": "e411-adverbs-apply",
+          "prompt": "Why are fast and friendly useful counterexamples to a suffix-only definition of adverbs?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Fast can function as an adverb without -ly, while friendly is normally an adjective with -ly.",
+          "answer": "Fast can function as an adverb without -ly, while friendly is normally an adjective with -ly. Distribution matters more than the spelling ending.",
+          "keyPoints": [
+            "Fast can function as an adverb without -ly, while friendly is normally an adjective with -ly.",
+            "Distribution matters more than the spelling ending."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-prepositions",
+      "groupId": "e411-classes",
+      "title": "Prepositions",
+      "aliases": [],
+      "core": "Prepositions head prepositional phrases and express a range of spatial, temporal and abstract relations.",
+      "explanation": "Traditional analyses often describe prepositions as taking NP complements; broader frameworks allow other complement types or intransitive uses.",
+      "example": "Teaching example: In the room and after lunch are typical prepositional phrases.",
+      "confusion": "Not all prepositions express physical location, and classifications vary.",
+      "syllabusTerms": [
+        "Prepositions"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            35,
+            36
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-prepositions-core",
+          "prompt": "Explain prepositions briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Prepositions head prepositional phrases and express a range of spatial, temporal and abstract relations.",
+          "answer": "Prepositions head prepositional phrases and express a range of spatial, temporal and abstract relations. Traditional analyses often describe prepositions as taking NP complements; broader frameworks allow other complement types or intransitive uses.",
+          "keyPoints": [
+            "Prepositions head prepositional phrases and express a range of spatial, temporal and abstract relations."
+          ],
+          "followUps": [
+            "e411-prepositions-apply"
+          ]
+        },
+        {
+          "id": "e411-prepositions-apply",
+          "prompt": "How can a prepositional phrase express something other than place?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It may express time, cause or another relation, as in after lunch or because of the rain.",
+          "answer": "It may express time, cause or another relation, as in after lunch or because of the rain. Its grammatical pattern is not limited to location.",
+          "keyPoints": [
+            "It may express time, cause or another relation, as in after lunch or because of the rain.",
+            "Its grammatical pattern is not limited to location."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-noun-phrases",
+      "groupId": "e411-phrases",
+      "title": "Noun phrases",
+      "aliases": [],
+      "core": "A noun phrase is a constituent organised around a nominal head in the course's analysis.",
+      "explanation": "It may include determiners, modifiers and complements, and can function in different clause positions.",
+      "example": "Teaching example: The very old book on the table is an NP headed by book.",
+      "confusion": "A phrase can consist of a single word in appropriate analyses.",
+      "syllabusTerms": [
+        "Noun phrase"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            37
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-noun-phrases-core",
+          "prompt": "Explain noun phrases briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A noun phrase is a constituent organised around a nominal head in the course's analysis.",
+          "answer": "A noun phrase is a constituent organised around a nominal head in the course's analysis. It may include determiners, modifiers and complements, and can function in different clause positions.",
+          "keyPoints": [
+            "A noun phrase is a constituent organised around a nominal head in the course's analysis."
+          ],
+          "followUps": [
+            "e411-noun-phrases-apply"
+          ]
+        },
+        {
+          "id": "e411-noun-phrases-apply",
+          "prompt": "Identify the head in those very useful books on syntax.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Books is the nominal head; those is a determiner, useful is an adjective modifier, and on syntax supplies further information about the books.",
+          "answer": "Books is the nominal head; those is a determiner, useful is an adjective modifier, and on syntax supplies further information about the books.",
+          "keyPoints": [
+            "Books is the nominal head; those is a determiner, useful is an adjective modifier, and on syntax supplies further information about the books."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-verb-phrases",
+      "groupId": "e411-phrases",
+      "title": "Verb phrases",
+      "aliases": [],
+      "core": "A verb phrase is a constituent headed by a verb, with dependents permitted by that verb and the analysis.",
+      "explanation": "Objects and other complements combine with verbs, and adjuncts may add information about the event.",
+      "example": "Teaching example: Read the book carefully contains a verbal head, an object NP and a manner adjunct.",
+      "confusion": "A VP should not be identified simply as all words after the subject without structural analysis.",
+      "syllabusTerms": [
+        "Verb phrase"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            37
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-verb-phrases-core",
+          "prompt": "Explain verb phrases briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A verb phrase is a constituent headed by a verb, with dependents permitted by that verb and the analysis.",
+          "answer": "A verb phrase is a constituent headed by a verb, with dependents permitted by that verb and the analysis. Objects and other complements combine with verbs, and adjuncts may add information about the event.",
+          "keyPoints": [
+            "A verb phrase is a constituent headed by a verb, with dependents permitted by that verb and the analysis."
+          ],
+          "followUps": [
+            "e411-verb-phrases-apply"
+          ]
+        },
+        {
+          "id": "e411-verb-phrases-apply",
+          "prompt": "In read the book carefully, what roles do the book and carefully play?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The book is the object licensed by read.",
+          "answer": "The book is the object licensed by read. Carefully is a manner adjunct modifying the reading event.",
+          "keyPoints": [
+            "The book is the object licensed by read.",
+            "Carefully is a manner adjunct modifying the reading event."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-adjective-and-adverb-phrases",
+      "groupId": "e411-phrases",
+      "title": "Adjective and adverb phrases",
+      "aliases": [],
+      "core": "Adjective phrases are headed by adjectives; adverb phrases are headed by adverbs.",
+      "explanation": "Degree modifiers may expand them, while complements depend on the head's grammatical possibilities.",
+      "example": "Teaching example: Very proud of her work is an AdjP; quite slowly is an AdvP.",
+      "confusion": "The first word is not necessarily a phrase's head.",
+      "syllabusTerms": [
+        "Adjective phrase",
+        "Adverb phrase"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-adjective-and-adverb-phrases-core",
+          "prompt": "Explain adjective and adverb phrases briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Adjective phrases are headed by adjectives; adverb phrases are headed by adverbs.",
+          "answer": "Adjective phrases are headed by adjectives; adverb phrases are headed by adverbs. Degree modifiers may expand them, while complements depend on the head's grammatical possibilities.",
+          "keyPoints": [
+            "Adjective phrases are headed by adjectives; adverb phrases are headed by adverbs."
+          ],
+          "followUps": [
+            "e411-adjective-and-adverb-phrases-apply"
+          ]
+        },
+        {
+          "id": "e411-adjective-and-adverb-phrases-apply",
+          "prompt": "What distinguishes very happy from very happily structurally?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Happy is an adjective head, so the first is an adjective phrase.",
+          "answer": "Happy is an adjective head, so the first is an adjective phrase. Happily is an adverb head, so the second is an adverb phrase.",
+          "keyPoints": [
+            "Happy is an adjective head, so the first is an adjective phrase.",
+            "Happily is an adverb head, so the second is an adverb phrase."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-prepositional-phrases",
+      "groupId": "e411-phrases",
+      "title": "Prepositional phrases",
+      "aliases": [],
+      "core": "A prepositional phrase is headed by a preposition and includes any dependents it licenses.",
+      "explanation": "PPs can function within clauses or inside other phrases, depending on their attachment and context.",
+      "example": "Teaching example: On the table modifies book in the book on the table, or supplies location in she waited on the table in an appropriate reading.",
+      "confusion": "Phrase category and grammatical function should be stated separately.",
+      "syllabusTerms": [
+        "Prepositional phrase"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            38
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-prepositional-phrases-core",
+          "prompt": "Explain prepositional phrases briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A prepositional phrase is headed by a preposition and includes any dependents it licenses.",
+          "answer": "A prepositional phrase is headed by a preposition and includes any dependents it licenses. PPs can function within clauses or inside other phrases, depending on their attachment and context.",
+          "keyPoints": [
+            "A prepositional phrase is headed by a preposition and includes any dependents it licenses."
+          ],
+          "followUps": [
+            "e411-prepositional-phrases-apply"
+          ]
+        },
+        {
+          "id": "e411-prepositional-phrases-apply",
+          "prompt": "In the book on the shelf, does on the shelf form part of the NP?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "In the ordinary reading it is a PP modifying book inside the larger noun phrase.",
+          "answer": "In the ordinary reading it is a PP modifying book inside the larger noun phrase. The nested categories differ from their functions.",
+          "keyPoints": [
+            "In the ordinary reading it is a PP modifying book inside the larger noun phrase.",
+            "The nested categories differ from their functions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-complements-and-adjuncts",
+      "groupId": "e411-phrases",
+      "title": "Complements and adjuncts",
+      "aliases": [],
+      "core": "Complements are licensed by a head's grammatical properties; adjuncts add relatively independent modification.",
+      "explanation": "Obligatoriness is a useful clue but is not a complete test: some complements can be omitted in context, and some required dependents are classified differently across frameworks.",
+      "example": "Teaching example: In she put it on the desk, the location is selected by this use of put; yesterday adds temporal modification.",
+      "confusion": "Complement does not always mean an overtly obligatory expression.",
+      "syllabusTerms": [
+        "Constituent structure"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-complements-and-adjuncts-core",
+          "prompt": "Explain complements and adjuncts briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Complements are licensed by a head's grammatical properties; adjuncts add relatively independent modification.",
+          "answer": "Complements are licensed by a head's grammatical properties; adjuncts add relatively independent modification. Obligatoriness is a useful clue but is not a complete test: some complements can be omitted in context, and some required dependents are classified differently across frameworks.",
+          "keyPoints": [
+            "Complements are licensed by a head's grammatical properties; adjuncts add relatively independent modification."
+          ],
+          "followUps": [
+            "e411-complements-and-adjuncts-apply"
+          ]
+        },
+        {
+          "id": "e411-complements-and-adjuncts-apply",
+          "prompt": "Why is optionality alone an unreliable complement test?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Some heads permit their complements to be unexpressed, as in she ate.",
+          "answer": "Some heads permit their complements to be unexpressed, as in she ate. Classification also depends on the head's selection and the construction, not just whether omission is possible.",
+          "keyPoints": [
+            "Some heads permit their complements to be unexpressed, as in she ate.",
+            "Classification also depends on the head's selection and the construction, not just whether omission is possible."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-immediate-constituents",
+      "groupId": "e411-ic",
+      "title": "Immediate constituents",
+      "aliases": [],
+      "core": "Immediate constituent analysis divides a larger unit into its directly contained structural parts.",
+      "explanation": "Successive divisions distinguish larger groupings from ultimate constituents. The analysis makes hierarchy explicit.",
+      "example": "Teaching example: Poor John ran away can first be grouped into subject NP and predicate VP.",
+      "confusion": "Immediate means directly contained, not merely adjacent in a word string.",
+      "syllabusTerms": [
+        "IC analysis"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            40,
+            41
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-immediate-constituents-core",
+          "prompt": "Explain immediate constituents briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Immediate constituent analysis divides a larger unit into its directly contained structural parts.",
+          "answer": "Immediate constituent analysis divides a larger unit into its directly contained structural parts. Successive divisions distinguish larger groupings from ultimate constituents. The analysis makes hierarchy explicit.",
+          "keyPoints": [
+            "Immediate constituent analysis divides a larger unit into its directly contained structural parts."
+          ],
+          "followUps": [
+            "e411-immediate-constituents-apply"
+          ]
+        },
+        {
+          "id": "e411-immediate-constituents-apply",
+          "prompt": "What is the difference between immediate and ultimate constituents?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Immediate constituents are the next structural parts of a given unit; ultimate constituents are the smallest units reached in the chosen analysis.",
+          "answer": "Immediate constituents are the next structural parts of a given unit; ultimate constituents are the smallest units reached in the chosen analysis.",
+          "keyPoints": [
+            "Immediate constituents are the next structural parts of a given unit; ultimate constituents are the smallest units reached in the chosen analysis."
+          ],
+          "followUps": []
+        }
+      ],
+      "diagram": "A simple phrase-structure analysis\nS\n├── NP\n│   ├── Det: The\n│   └── N: child\n└── VP\n    ├── V: read\n    └── NP\n        ├── Det: the\n        └── N: book\n\n[S [NP The child] [VP read [NP the book]]]"
+    },
+    {
+      "id": "e411-constituency-and-attachment-ambiguity",
+      "groupId": "e411-ic",
+      "title": "Constituency and attachment ambiguity",
+      "aliases": [],
+      "core": "Constituency tests provide evidence that words form a unit; different attachments can produce different readings.",
+      "explanation": "Substitution, movement and coordination offer diagnostics with limits. A structural analysis should connect grouping with interpretation.",
+      "example": "Teaching example: The man with a telescope can form an NP, or with a telescope can modify the seeing event.",
+      "confusion": "No single constituency test is mechanically decisive in every construction.",
+      "syllabusTerms": [
+        "IC analysis"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            41,
+            42,
+            43
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-constituency-and-attachment-ambiguity-core",
+          "prompt": "Explain constituency and attachment ambiguity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Constituency tests provide evidence that words form a unit; different attachments can produce different readings.",
+          "answer": "Constituency tests provide evidence that words form a unit; different attachments can produce different readings. Substitution, movement and coordination offer diagnostics with limits. A structural analysis should connect grouping with interpretation.",
+          "keyPoints": [
+            "Constituency tests provide evidence that words form a unit; different attachments can produce different readings."
+          ],
+          "followUps": [
+            "e411-constituency-and-attachment-ambiguity-apply"
+          ]
+        },
+        {
+          "id": "e411-constituency-and-attachment-ambiguity-apply",
+          "prompt": "Give two readings of I saw the man with a telescope.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The telescope may be my instrument for seeing, attached to the VP, or it may describe the man I saw, attached within the NP.",
+          "answer": "The telescope may be my instrument for seeing, attached to the VP, or it may describe the man I saw, attached within the NP.",
+          "keyPoints": [
+            "The telescope may be my instrument for seeing, attached to the VP, or it may describe the man I saw, attached within the NP."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-phrase-structure-rules",
+      "groupId": "e411-rules",
+      "title": "Phrase structure rules",
+      "aliases": [],
+      "core": "Phrase structure rules state how a constituent can be expanded into smaller constituents.",
+      "explanation": "They represent hierarchical structure and can include recursive possibilities. The exact rules depend on the grammar model.",
+      "example": "Teaching example: A simple teaching rule is S → NP VP; PP → P NP.",
+      "confusion": "A rewrite rule is a model of structure, not a prescription for how people must speak.",
+      "syllabusTerms": [
+        "Phrase structure rules"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            44
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-phrase-structure-rules-core",
+          "prompt": "Explain phrase structure rules briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Phrase structure rules state how a constituent can be expanded into smaller constituents.",
+          "answer": "Phrase structure rules state how a constituent can be expanded into smaller constituents. They represent hierarchical structure and can include recursive possibilities. The exact rules depend on the grammar model.",
+          "keyPoints": [
+            "Phrase structure rules state how a constituent can be expanded into smaller constituents."
+          ],
+          "followUps": [
+            "e411-phrase-structure-rules-apply"
+          ]
+        },
+        {
+          "id": "e411-phrase-structure-rules-apply",
+          "prompt": "How can phrase structure rules represent an indefinitely expandable NP?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A recursive rule can allow an NP to contain a modifier that itself contains an NP, such as the book on the shelf near the window.",
+          "answer": "A recursive rule can allow an NP to contain a modifier that itself contains an NP, such as the book on the shelf near the window.",
+          "keyPoints": [
+            "A recursive rule can allow an NP to contain a modifier that itself contains an NP, such as the book on the shelf near the window."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-transformational-rules",
+      "groupId": "e411-rules",
+      "title": "Transformational rules",
+      "aliases": [],
+      "core": "Transformational rules relate structural configurations, often through movement, in transformational grammars.",
+      "explanation": "Historical versions distinguish underlying and surface representations; later theories organise these relationships differently.",
+      "example": "Teaching example: Subject–auxiliary inversion relates she can swim and can she swim in an elementary analysis.",
+      "confusion": "Deep and surface structure are framework-specific terms rather than universal facts of all syntactic theories.",
+      "syllabusTerms": [
+        "Transformational rules"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            44,
+            45
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-transformational-rules-core",
+          "prompt": "Explain transformational rules briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Transformational rules relate structural configurations, often through movement, in transformational grammars.",
+          "answer": "Transformational rules relate structural configurations, often through movement, in transformational grammars. Historical versions distinguish underlying and surface representations; later theories organise these relationships differently.",
+          "keyPoints": [
+            "Transformational rules relate structural configurations, often through movement, in transformational grammars."
+          ],
+          "followUps": [
+            "e411-transformational-rules-apply"
+          ]
+        },
+        {
+          "id": "e411-transformational-rules-apply",
+          "prompt": "What does subject–auxiliary inversion change in Can she swim?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It places the auxiliary before the subject in this interrogative construction, while preserving relevant grammatical relationships.",
+          "answer": "It places the auxiliary before the subject in this interrogative construction, while preserving relevant grammatical relationships.",
+          "keyPoints": [
+            "It places the auxiliary before the subject in this interrogative construction, while preserving relevant grammatical relationships."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-projection",
+      "groupId": "e411-rules",
+      "title": "Projection",
+      "aliases": [],
+      "core": "Projection relates a head to larger structures that share its grammatical category in an analysis.",
+      "explanation": "In X-bar approaches, a head X projects intermediate and maximal levels, with positions for complements and modifiers.",
+      "example": "Teaching example: A noun head projects a nominal phrase containing its dependents.",
+      "confusion": "The labels and number of levels vary among frameworks.",
+      "syllabusTerms": [
+        "Projection"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            45,
+            46
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-projection-core",
+          "prompt": "What is projection?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Projection relates a head to larger structures that share its grammatical category in an analysis.",
+          "answer": "Projection relates a head to larger structures that share its grammatical category in an analysis. In X-bar approaches, a head X projects intermediate and maximal levels, with positions for complements and modifiers.",
+          "keyPoints": [
+            "Projection relates a head to larger structures that share its grammatical category in an analysis."
+          ],
+          "followUps": [
+            "e411-projection-apply"
+          ]
+        },
+        {
+          "id": "e411-projection-apply",
+          "prompt": "Why is an NP called a projection of its head noun in X-bar analysis?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The noun determines key category properties of the larger structure; the phrase expands that head with licensed dependents and modifiers.",
+          "answer": "The noun determines key category properties of the larger structure; the phrase expands that head with licensed dependents and modifiers.",
+          "keyPoints": [
+            "The noun determines key category properties of the larger structure; the phrase expands that head with licensed dependents and modifiers."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-merge",
+      "groupId": "e411-rules",
+      "title": "Merge",
+      "aliases": [],
+      "core": "Merge combines syntactic objects into a larger object in minimalist syntax.",
+      "explanation": "It builds hierarchical structure recursively. Describing it as a formal operation does not mean speakers consciously apply textbook rules.",
+      "example": "Teaching example: Combining a verb with an object forms a larger syntactic unit.",
+      "confusion": "Merge is not merely placing two words next to each other.",
+      "syllabusTerms": [
+        "Merger"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            46
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-merge-core",
+          "prompt": "What is merge?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Merge combines syntactic objects into a larger object in minimalist syntax.",
+          "answer": "Merge combines syntactic objects into a larger object in minimalist syntax. It builds hierarchical structure recursively. Describing it as a formal operation does not mean speakers consciously apply textbook rules.",
+          "keyPoints": [
+            "Merge combines syntactic objects into a larger object in minimalist syntax."
+          ],
+          "followUps": [
+            "e411-merge-apply"
+          ]
+        },
+        {
+          "id": "e411-merge-apply",
+          "prompt": "How does Merge differ from a simple list of words?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Merge creates a hierarchical object with structural relations, whereas a list supplies only a linear sequence and does not by itself specify constituency.",
+          "answer": "Merge creates a hierarchical object with structural relations, whereas a list supplies only a linear sequence and does not by itself specify constituency.",
+          "keyPoints": [
+            "Merge creates a hierarchical object with structural relations, whereas a list supplies only a linear sequence and does not by itself specify constituency."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-adjunction",
+      "groupId": "e411-rules",
+      "title": "Adjunction",
+      "aliases": [],
+      "core": "Adjunction attaches a modifying constituent to a larger structure within a syntactic analysis.",
+      "explanation": "The resulting structure generally retains the relevant category of the host. Analyses specify how modifiers relate to complements and heads.",
+      "example": "Teaching example: A time modifier such as yesterday can adjoin to a clause or verbal projection in a chosen model.",
+      "confusion": "Adjunction and complement combination have different structural relations in many frameworks.",
+      "syllabusTerms": [
+        "Adjunction"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            47
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-adjunction-core",
+          "prompt": "What is adjunction?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Adjunction attaches a modifying constituent to a larger structure within a syntactic analysis.",
+          "answer": "Adjunction attaches a modifying constituent to a larger structure within a syntactic analysis. The resulting structure generally retains the relevant category of the host. Analyses specify how modifiers relate to complements and heads.",
+          "keyPoints": [
+            "Adjunction attaches a modifying constituent to a larger structure within a syntactic analysis."
+          ],
+          "followUps": [
+            "e411-adjunction-apply"
+          ]
+        },
+        {
+          "id": "e411-adjunction-apply",
+          "prompt": "What changes when quietly is added to a simple reading clause as an adjunct?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It adds manner information about the reading event without changing the core argument relation between the verb and its object.",
+          "answer": "It adds manner information about the reading event without changing the core argument relation between the verb and its object.",
+          "keyPoints": [
+            "It adds manner information about the reading event without changing the core argument relation between the verb and its object."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-clause-types",
+      "groupId": "e411-clauses",
+      "title": "Clause types",
+      "aliases": [],
+      "core": "Clauses can be classified by dependence, finiteness and communicative form.",
+      "explanation": "Main and subordinate, finite and non-finite, declarative and interrogative describe different classification dimensions.",
+      "example": "Teaching example: Because she left is a finite subordinate clause; to leave can form a non-finite clause.",
+      "confusion": "Subordinate does not mean non-finite.",
+      "syllabusTerms": [
+        "Clause types"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            49,
+            50
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-clause-types-core",
+          "prompt": "Explain clause types briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Clauses can be classified by dependence, finiteness and communicative form.",
+          "answer": "Clauses can be classified by dependence, finiteness and communicative form. Main and subordinate, finite and non-finite, declarative and interrogative describe different classification dimensions.",
+          "keyPoints": [
+            "Clauses can be classified by dependence, finiteness and communicative form."
+          ],
+          "followUps": [
+            "e411-clause-types-apply"
+          ]
+        },
+        {
+          "id": "e411-clause-types-apply",
+          "prompt": "Can a subordinate clause be finite?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. In I know that she left, that she left is subordinate but contains a finite past-tense verb.",
+          "keyPoints": [
+            "Yes.",
+            "In I know that she left, that she left is subordinate but contains a finite past-tense verb."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-clause-functions-and-patterns",
+      "groupId": "e411-clauses",
+      "title": "Clause functions and patterns",
+      "aliases": [],
+      "core": "Clause analysis identifies functions such as subject, verb, object, complement and adverbial.",
+      "explanation": "The course uses patterns such as SV, SVO, SVC, SVA, SVOO, SVOC and SVOA. Identify functions from the construction rather than word order alone.",
+      "example": "Teaching example: She gave him a book is SVOO; they elected her chair is SVOC.",
+      "confusion": "An object complement describes or identifies an object; it is not a second object.",
+      "syllabusTerms": [
+        "Clause structure",
+        "Clause components"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            50,
+            51,
+            52
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-clause-functions-and-patterns-core",
+          "prompt": "Explain clause functions and patterns briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Clause analysis identifies functions such as subject, verb, object, complement and adverbial.",
+          "answer": "Clause analysis identifies functions such as subject, verb, object, complement and adverbial. The course uses patterns such as SV, SVO, SVC, SVA, SVOO, SVOC and SVOA. Identify functions from the construction rather than word order alone.",
+          "keyPoints": [
+            "Clause analysis identifies functions such as subject, verb, object, complement and adverbial."
+          ],
+          "followUps": [
+            "e411-clause-functions-and-patterns-apply"
+          ]
+        },
+        {
+          "id": "e411-clause-functions-and-patterns-apply",
+          "prompt": "In They elected her chair, why is chair an object complement?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Chair identifies the role assigned to her.",
+          "answer": "Chair identifies the role assigned to her. It is predicated of the object rather than denoting a separate recipient or transferred entity.",
+          "keyPoints": [
+            "Chair identifies the role assigned to her.",
+            "It is predicated of the object rather than denoting a separate recipient or transferred entity."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-sentence-types-and-embedded-clauses",
+      "groupId": "e411-clauses",
+      "title": "Sentence types and embedded clauses",
+      "aliases": [],
+      "core": "Simple, compound, complex and compound-complex sentences distinguish patterns of clause combination.",
+      "explanation": "Coordination joins units of comparable status; subordination embeds or depends one clause within another construction.",
+      "example": "Teaching example: She left and he stayed is compound; she left because she was tired is complex.",
+      "confusion": "The number of words does not determine whether a sentence is complex.",
+      "syllabusTerms": [
+        "Clause types",
+        "Clause structure"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            50,
+            52
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-sentence-types-and-embedded-clauses-core",
+          "prompt": "Explain sentence types and embedded clauses briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Simple, compound, complex and compound-complex sentences distinguish patterns of clause combination.",
+          "answer": "Simple, compound, complex and compound-complex sentences distinguish patterns of clause combination. Coordination joins units of comparable status; subordination embeds or depends one clause within another construction.",
+          "keyPoints": [
+            "Simple, compound, complex and compound-complex sentences distinguish patterns of clause combination."
+          ],
+          "followUps": [
+            "e411-sentence-types-and-embedded-clauses-apply"
+          ]
+        },
+        {
+          "id": "e411-sentence-types-and-embedded-clauses-apply",
+          "prompt": "Can a long sentence still be structurally simple?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. A single clause can contain many phrases and modifiers. Complexity in this classification concerns clause organisation, not length alone.",
+          "keyPoints": [
+            "Yes.",
+            "A single clause can contain many phrases and modifiers.",
+            "Complexity in this classification concerns clause organisation, not length alone."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-tense",
+      "groupId": "e411-tam",
+      "title": "Tense",
+      "aliases": [],
+      "core": "Tense grammatically locates a situation relative to a temporal reference point.",
+      "explanation": "English is commonly analysed as contrasting present and past inflection; future reference can use auxiliaries and other constructions. Pedagogical tense labels often combine tense and aspect.",
+      "example": "Teaching example: She walked has past inflection; she will walk uses an auxiliary construction for future reference.",
+      "confusion": "Time and grammatical tense do not map one to one.",
+      "syllabusTerms": [
+        "Tense"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            53
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-tense-core",
+          "prompt": "What is tense?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Tense grammatically locates a situation relative to a temporal reference point.",
+          "answer": "Tense grammatically locates a situation relative to a temporal reference point. English is commonly analysed as contrasting present and past inflection; future reference can use auxiliaries and other constructions. Pedagogical tense labels often combine tense and aspect.",
+          "keyPoints": [
+            "Tense grammatically locates a situation relative to a temporal reference point."
+          ],
+          "followUps": [
+            "e411-tense-apply"
+          ]
+        },
+        {
+          "id": "e411-tense-apply",
+          "prompt": "Why can The train leaves tomorrow use a present form for future time?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Grammatical tense interacts with context and construction.",
+          "answer": "Grammatical tense interacts with context and construction. A present-tense form can describe a scheduled future event without becoming a distinct future inflection.",
+          "keyPoints": [
+            "Grammatical tense interacts with context and construction.",
+            "A present-tense form can describe a scheduled future event without becoming a distinct future inflection."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-aspect",
+      "groupId": "e411-tam",
+      "title": "Aspect",
+      "aliases": [],
+      "core": "Aspect presents how a situation unfolds or relates to another time, such as progressive or perfect viewpoint.",
+      "explanation": "Progressive typically presents an event as ongoing around a reference time. Perfect relates a prior situation to a later reference point; interpretations vary with context.",
+      "example": "Teaching example: Was reading combines past tense with progressive aspect.",
+      "confusion": "Perfect does not simply mean finished action in every use.",
+      "syllabusTerms": [
+        "Aspect"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            53,
+            54
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-aspect-core",
+          "prompt": "What is aspect?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Aspect presents how a situation unfolds or relates to another time, such as progressive or perfect viewpoint.",
+          "answer": "Aspect presents how a situation unfolds or relates to another time, such as progressive or perfect viewpoint. Progressive typically presents an event as ongoing around a reference time. Perfect relates a prior situation to a later reference point; interpretations vary with context.",
+          "keyPoints": [
+            "Aspect presents how a situation unfolds or relates to another time, such as progressive or perfect viewpoint."
+          ],
+          "followUps": [
+            "e411-aspect-apply"
+          ]
+        },
+        {
+          "id": "e411-aspect-apply",
+          "prompt": "In She was reading, what do tense and aspect each contribute?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Past tense locates the reference in the past; progressive aspect presents the reading as in progress around that reference time.",
+          "answer": "Past tense locates the reference in the past; progressive aspect presents the reading as in progress around that reference time.",
+          "keyPoints": [
+            "Past tense locates the reference in the past; progressive aspect presents the reading as in progress around that reference time."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-voice",
+      "groupId": "e411-tam",
+      "title": "Voice",
+      "aliases": [],
+      "core": "Voice concerns how participant roles map onto grammatical functions, especially in active and passive constructions.",
+      "explanation": "A passive can promote an affected participant to subject while the agent is expressed in a by-phrase or left unexpressed.",
+      "example": "Teaching example: The committee approved it and it was approved by the committee organise the same event differently.",
+      "confusion": "An omitted agent does not mean the event has no agent.",
+      "syllabusTerms": [
+        "Voice"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            54,
+            55
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-voice-core",
+          "prompt": "What is voice?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Voice concerns how participant roles map onto grammatical functions, especially in active and passive constructions.",
+          "answer": "Voice concerns how participant roles map onto grammatical functions, especially in active and passive constructions. A passive can promote an affected participant to subject while the agent is expressed in a by-phrase or left unexpressed.",
+          "keyPoints": [
+            "Voice concerns how participant roles map onto grammatical functions, especially in active and passive constructions."
+          ],
+          "followUps": [
+            "e411-voice-apply"
+          ]
+        },
+        {
+          "id": "e411-voice-apply",
+          "prompt": "Why might a speaker choose a passive such as The results were checked?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The passive foregrounds the results and leaves the checker unexpressed when irrelevant, unknown or already understood.",
+          "answer": "The passive foregrounds the results and leaves the checker unexpressed when irrelevant, unknown or already understood. The choice also affects information organisation.",
+          "keyPoints": [
+            "The passive foregrounds the results and leaves the checker unexpressed when irrelevant, unknown or already understood.",
+            "The choice also affects information organisation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-mood-and-modality",
+      "groupId": "e411-tam",
+      "title": "Mood and modality",
+      "aliases": [],
+      "core": "Mood and modality express distinctions involving factuality, possibility, necessity, wishes and related meanings.",
+      "explanation": "Mood is a grammatical category; modality can be expressed through auxiliaries, adverbs and other devices. The relationship between the terms varies by framework.",
+      "example": "Teaching example: Might signals possibility; must can express obligation or inference.",
+      "confusion": "The same modal form can have different meanings in context.",
+      "syllabusTerms": [
+        "Mood"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            55
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-mood-and-modality-core",
+          "prompt": "Explain mood and modality briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Mood and modality express distinctions involving factuality, possibility, necessity, wishes and related meanings.",
+          "answer": "Mood and modality express distinctions involving factuality, possibility, necessity, wishes and related meanings. Mood is a grammatical category; modality can be expressed through auxiliaries, adverbs and other devices. The relationship between the terms varies by framework.",
+          "keyPoints": [
+            "Mood and modality express distinctions involving factuality, possibility, necessity, wishes and related meanings."
+          ],
+          "followUps": [
+            "e411-mood-and-modality-apply"
+          ]
+        },
+        {
+          "id": "e411-mood-and-modality-apply",
+          "prompt": "How does must differ in You must leave and She must be home?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The first commonly expresses obligation.",
+          "answer": "The first commonly expresses obligation. The second commonly expresses an inference based on evidence; the modal's interpretation depends on the proposition and context.",
+          "keyPoints": [
+            "The first commonly expresses obligation.",
+            "The second commonly expresses an inference based on evidence; the modal's interpretation depends on the proposition and context."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-relational-grammar",
+      "groupId": "e411-theories",
+      "title": "Relational Grammar",
+      "aliases": [],
+      "core": "Relational Grammar analyses grammatical relations such as subject and object as central primitives.",
+      "explanation": "It models changes in relations across grammatical structures rather than reducing all descriptions to word order alone.",
+      "example": "Teaching example: A passive can be described in terms of changes in the status of arguments.",
+      "confusion": "Grammatical relations are not identical to semantic roles.",
+      "syllabusTerms": [
+        "Relational grammar"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            56
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-relational-grammar-core",
+          "prompt": "What is relational grammar?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Relational Grammar analyses grammatical relations such as subject and object as central primitives.",
+          "answer": "Relational Grammar analyses grammatical relations such as subject and object as central primitives. It models changes in relations across grammatical structures rather than reducing all descriptions to word order alone.",
+          "keyPoints": [
+            "Relational Grammar analyses grammatical relations such as subject and object as central primitives."
+          ],
+          "followUps": [
+            "e411-relational-grammar-apply"
+          ]
+        },
+        {
+          "id": "e411-relational-grammar-apply",
+          "prompt": "How would Relational Grammar's focus differ from a phrase-label-only description of a passive?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It would emphasise changes in relations such as subject and object, while a phrase-label description primarily displays constituent categories and hierarchy.",
+          "answer": "It would emphasise changes in relations such as subject and object, while a phrase-label description primarily displays constituent categories and hierarchy.",
+          "keyPoints": [
+            "It would emphasise changes in relations such as subject and object, while a phrase-label description primarily displays constituent categories and hierarchy."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-lexical-functional-grammar",
+      "groupId": "e411-theories",
+      "title": "Lexical-Functional Grammar",
+      "aliases": [],
+      "core": "Lexical-Functional Grammar represents constituent structure and grammatical functions in parallel structures.",
+      "explanation": "C-structure represents constituent organisation; f-structure represents functions such as subject and object, linked by correspondence principles.",
+      "example": "Teaching example: Different word orders can correspond to comparable functional relationships.",
+      "confusion": "LFG does not simply use one phrase tree as its complete grammatical representation.",
+      "syllabusTerms": [
+        "Lexical-Functional grammar"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            56,
+            57
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-lexical-functional-grammar-core",
+          "prompt": "What is lexical-functional grammar?",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Lexical-Functional Grammar represents constituent structure and grammatical functions in parallel structures.",
+          "answer": "Lexical-Functional Grammar represents constituent structure and grammatical functions in parallel structures. C-structure represents constituent organisation; f-structure represents functions such as subject and object, linked by correspondence principles.",
+          "keyPoints": [
+            "Lexical-Functional Grammar represents constituent structure and grammatical functions in parallel structures."
+          ],
+          "followUps": [
+            "e411-lexical-functional-grammar-apply"
+          ]
+        },
+        {
+          "id": "e411-lexical-functional-grammar-apply",
+          "prompt": "What is the distinction between c-structure and f-structure in LFG?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "C-structure represents phrase organisation and order; f-structure represents grammatical functions and associated features.",
+          "answer": "C-structure represents phrase organisation and order; f-structure represents grammatical functions and associated features. They capture different aspects of the same sentence.",
+          "keyPoints": [
+            "C-structure represents phrase organisation and order; f-structure represents grammatical functions and associated features.",
+            "They capture different aspects of the same sentence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-government-and-binding",
+      "groupId": "e411-theories",
+      "title": "Government and Binding",
+      "aliases": [],
+      "core": "Government and Binding is a principles-and-parameters model of generative syntax with interacting modules.",
+      "explanation": "Case, theta roles, binding and movement constraints help explain dependencies. Its historical terminology should be distinguished from later minimalist formulations.",
+      "example": "Teaching example: Binding principles constrain interpretations of pronouns and reflexives.",
+      "confusion": "Government in this technical theory does not mean social or political authority.",
+      "syllabusTerms": [
+        "Government-Binding theory"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            57,
+            58
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-government-and-binding-core",
+          "prompt": "Explain government and binding briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Government and Binding is a principles-and-parameters model of generative syntax with interacting modules.",
+          "answer": "Government and Binding is a principles-and-parameters model of generative syntax with interacting modules. Case, theta roles, binding and movement constraints help explain dependencies. Its historical terminology should be distinguished from later minimalist formulations.",
+          "keyPoints": [
+            "Government and Binding is a principles-and-parameters model of generative syntax with interacting modules."
+          ],
+          "followUps": [
+            "e411-government-and-binding-apply"
+          ]
+        },
+        {
+          "id": "e411-government-and-binding-apply",
+          "prompt": "Why is John saw himself relevant to binding theory?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It illustrates a reflexive expression whose interpretation depends on an appropriately local antecedent; binding principles formalise such dependencies.",
+          "answer": "It illustrates a reflexive expression whose interpretation depends on an appropriately local antecedent; binding principles formalise such dependencies.",
+          "keyPoints": [
+            "It illustrates a reflexive expression whose interpretation depends on an appropriately local antecedent; binding principles formalise such dependencies."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e411-role-and-reference-grammar",
+      "groupId": "e411-theories",
+      "title": "Role and Reference Grammar",
+      "aliases": [],
+      "core": "Role and Reference Grammar links syntactic organisation with semantics and communicative functions.",
+      "explanation": "Its layered clause representation distinguishes nucleus, core and periphery; semantic roles and linking principles connect predicates with arguments.",
+      "example": "Teaching example: The verb forms the nucleus; its arguments belong to the core; some modifiers occur in the periphery.",
+      "confusion": "RRG is not simply a different set of phrase-structure labels for the same transformational analysis.",
+      "syllabusTerms": [
+        "Role and Reference grammar"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            58,
+            59,
+            60
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e411-role-and-reference-grammar-core",
+          "prompt": "Explain role and reference grammar briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Role and Reference Grammar links syntactic organisation with semantics and communicative functions.",
+          "answer": "Role and Reference Grammar links syntactic organisation with semantics and communicative functions. Its layered clause representation distinguishes nucleus, core and periphery; semantic roles and linking principles connect predicates with arguments.",
+          "keyPoints": [
+            "Role and Reference Grammar links syntactic organisation with semantics and communicative functions."
+          ],
+          "followUps": [
+            "e411-role-and-reference-grammar-apply"
+          ]
+        },
+        {
+          "id": "e411-role-and-reference-grammar-apply",
+          "prompt": "What distinguishes RRG's orientation from a syntax-only account?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It explicitly links syntactic patterns with predicate meaning, semantic roles and discourse-pragmatic considerations, rather than treating phrase structure as an entirely autonomous starting point.",
+          "answer": "It explicitly links syntactic patterns with predicate meaning, semantic roles and discourse-pragmatic considerations, rather than treating phrase structure as an entirely autonomous starting point.",
+          "keyPoints": [
+            "It explicitly links syntactic patterns with predicate meaning, semantic roles and discourse-pragmatic considerations, rather than treating phrase structure as an entirely autonomous starting point."
+          ],
+          "followUps": []
+        }
+      ]
+    }
+  ]
+}

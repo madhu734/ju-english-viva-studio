@@ -1,0 +1,7 @@
+.git
+.openai
+tmp
+tests
+scripts
+content
+**/__pycache__

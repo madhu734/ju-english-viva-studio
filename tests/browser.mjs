@@ -1,0 +1,35 @@
+import { createRequire } from 'node:module';
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+async function serve(context){await context.route('**/*',async route=>{const u=new URL(route.request().url());if(u.hostname!=='viva.local')return route.abort();if(u.pathname==='/api/ask')return route.fulfill({json:{status:'success',answer:'## Viva answer\n\nA **phoneme** distinguishes meaning.\n\n| Term | Meaning |\n| --- | --- |\n| /p/ | A sound contrast |',cached:false}});const rel=u.pathname==='/'?'index.html':decodeURIComponent(u.pathname.slice(1));const target=path.resolve('dist',rel);if(!target.startsWith(path.resolve('dist')+path.sep))return route.abort();try{const body=await fs.readFile(target);await route.fulfill({body,contentType:target.endsWith('.js')?'text/javascript':target.endsWith('.json')?'application/json':target.endsWith('.css')?'text/css':'text/html'});}catch{await route.fulfill({status:404,body:'Not found'});}});}
+const req=createRequire('C:/Program Files/WindowsApps/OpenAI.CodexPrimaryRuntime.v26-1105-1297-0_26.1105.1297.0_x64__3k8sg7r9htsxt/dependencies/node/node_modules/');
+const {chromium}=req('playwright');
+const browser=await chromium.launch({headless:true,executablePath:'C:/Users/madhu/AppData/Local/ms-playwright/chromium_headless_shell-1223/chrome-headless-shell-win64/chrome-headless-shell.exe'});
+const context=await browser.newContext({viewport:{width:1440,height:1000}}),page=await context.newPage();
+await serve(context);
+const errors=[];page.on('pageerror',e=>{errors.push(e.message);console.error(e.message);});
+await page.goto('http://viva.local');await page.waitForSelector('.hero');
+await page.screenshot({path:'tmp/desktop.png',fullPage:true});
+await page.click('[data-action="essentials"]');await page.click('[data-action="start"]');
+await page.waitForSelector('.question-card');assert.equal(await page.locator('.answer').count(),0);
+await page.fill('#answer-note','My recall note');await page.click('[data-action="dontknow"]');
+await page.waitForSelector('.answer');assert.equal(await page.locator('[data-rating="missed"]').getAttribute('aria-pressed'),'true');
+await page.reload();await page.waitForSelector('.answer');assert.equal(await page.inputValue('#answer-note'),'My recall note');
+await page.click('[data-action="bookmark"]');await page.click('[data-action="finish"]');await page.waitForSelector('.question-list');
+await page.goto('http://viva.local/#review');await page.waitForSelector('.question-list');assert(await page.locator('.question-row').count()>0);
+// Verify backup import/export through the actual browser controls.
+const downloadPromise=page.waitForEvent('download');await page.click('[data-action="export"]');const download=await downloadPromise;const backup=await fs.readFile(await download.path(),'utf8');assert.equal(JSON.parse(backup).version,1);
+await page.setInputFiles('#import-file',{name:'bad.json',mimeType:'application/json',buffer:Buffer.from('{"version":2,"questions":{}}')});await page.waitForTimeout(100);assert(await page.getByRole('status').textContent().then(t=>t.includes('not a Viva Studio')));
+page.once('dialog',d=>d.accept());await page.setInputFiles('#import-file',{name:'backup.json',mimeType:'application/json',buffer:Buffer.from(backup)});await page.waitForTimeout(100);assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('viva-studio-v1')).questions[JSON.parse(localStorage.getItem('viva-studio-v1')).session.ids[0]].note),'My recall note');
+await page.click('[data-action="search"]');await page.fill('#search-query','research');await page.waitForSelector('#search-results a');await page.click('[data-action="close"]');
+await page.click('[data-action="guide"]');await page.fill('#chat-input','phoneme কী?');await page.selectOption('#chat-course','E410');await page.click('#chat-form [type=submit]');await page.waitForSelector('[data-action=copy-answer]');assert(await page.locator('.ai-markdown').isVisible());await page.click('[data-action="close"]');
+await page.goto('http://viva.local/#home');await page.click('[data-action="mock"]');await page.click('[data-action="start"]');await page.waitForSelector('#timer');assert.equal(await page.locator('.answer').count(),0);
+await page.evaluate(()=>{const p=JSON.parse(localStorage.getItem('viva-studio-v1'));p.session.deadline=Date.now()-1000;localStorage.setItem('viva-studio-v1',JSON.stringify(p));});await page.reload();await page.waitForSelector('.question-list');assert(await page.getByText('Not reached',{exact:true}).count()>0);
+const other=await browser.newContext();await serve(other);const freshPage=await other.newPage();await freshPage.goto('http://viva.local');await freshPage.waitForSelector('.hero');assert.equal(await freshPage.evaluate(()=>localStorage.getItem('viva-studio-v1')),null);
+await page.setViewportSize({width:390,height:844});await page.goto('http://viva.local/#home');await page.waitForSelector('.hero');await page.screenshot({path:'tmp/mobile.png',fullPage:true});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+await page.goto('http://viva.local/#practice');await page.waitForSelector('.setup');assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+await page.goto('http://viva.local/#study/E411');await page.waitForSelector('.lesson');await page.locator('.topic-nav a').nth(1).click();await page.waitForSelector('.lesson .sources');assert(await page.locator('.sources').isVisible());assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+await page.goto('http://viva.local/#coverage');await page.waitForSelector('.coverage-table');assert.equal(await page.locator('.coverage-table').count(),7);
+const blocked=await browser.newContext();await serve(blocked);await blocked.addInitScript(()=>Object.defineProperty(window,'localStorage',{get(){throw Error('storage unavailable')}}));const blockedPage=await blocked.newPage();await blockedPage.goto('http://viva.local');await blockedPage.waitForSelector('.hero');assert(await blockedPage.locator('#storage-notice').isVisible());await blockedPage.click('[data-action="essentials"]');await blockedPage.click('[data-action="start"]');await blockedPage.waitForSelector('.question-card');await blockedPage.click('[data-action="dontknow"]');assert(await blockedPage.locator('.answer').isVisible());
+assert.deepEqual(errors,[]);console.log('Browser checks passed: reveal, rating, reload, notes, bookmarks, review, search, disconnected AI, mock expiry, isolated browsers, responsive layout.');await browser.close();

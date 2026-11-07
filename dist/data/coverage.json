@@ -1,0 +1,7501 @@
+{
+  "version": "2026-11-07.1",
+  "items": [
+    {
+      "courseId": "E403",
+      "group": "Formalism and New Criticism",
+      "syllabusTerm": "Defamiliarization (Shklovsky)",
+      "topicIds": [
+        "e403-defamiliarization"
+      ],
+      "questionIds": [
+        "e403-defamiliarization-core",
+        "e403-defamiliarization-apply",
+        "e403-form-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            3,
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Formalism and New Criticism",
+      "syllabusTerm": "Foregrounding (Mayakovsky)",
+      "topicIds": [
+        "e403-foregrounding"
+      ],
+      "questionIds": [
+        "e403-foregrounding-core",
+        "e403-foregrounding-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            4,
+            49,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Formalism and New Criticism",
+      "syllabusTerm": "Practical criticism (Richards)",
+      "topicIds": [
+        "e403-practical-criticism",
+        "e403-new-criticism-and-close-reading"
+      ],
+      "questionIds": [
+        "e403-practical-criticism-core",
+        "e403-practical-criticism-apply",
+        "e403-new-criticism-and-close-reading-core",
+        "e403-new-criticism-and-close-reading-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            4,
+            5
+          ]
+        },
+        {
+          "id": "E403",
+          "pages": [
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Structuralism and Semiotics",
+      "syllabusTerm": "Sign and signification",
+      "topicIds": [
+        "e403-sign-and-signification"
+      ],
+      "questionIds": [
+        "e403-sign-and-signification-core",
+        "e403-sign-and-signification-apply",
+        "e403-structural-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Structuralism and Semiotics",
+      "syllabusTerm": "Paradigm and syntagm",
+      "topicIds": [
+        "e403-paradigm-and-syntagm"
+      ],
+      "questionIds": [
+        "e403-paradigm-and-syntagm-core",
+        "e403-paradigm-and-syntagm-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Structuralism and Semiotics",
+      "syllabusTerm": "Binary oppositions",
+      "topicIds": [
+        "e403-binary-oppositions"
+      ],
+      "questionIds": [
+        "e403-binary-oppositions-core",
+        "e403-binary-oppositions-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Structuralism and Semiotics",
+      "syllabusTerm": "Mythoi",
+      "topicIds": [
+        "e403-mythoi-and-archetypal-criticism"
+      ],
+      "questionIds": [
+        "e403-mythoi-and-archetypal-criticism-core",
+        "e403-mythoi-and-archetypal-criticism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Structuralism and Semiotics",
+      "syllabusTerm": "Archetypal criticism (Frye)",
+      "topicIds": [
+        "e403-mythoi-and-archetypal-criticism"
+      ],
+      "questionIds": [
+        "e403-mythoi-and-archetypal-criticism-core",
+        "e403-mythoi-and-archetypal-criticism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Structuralism and Semiotics",
+      "syllabusTerm": "Narratology (Todorov)",
+      "topicIds": [
+        "e403-narratology-and-narrative-order"
+      ],
+      "questionIds": [
+        "e403-narratology-and-narrative-order-core",
+        "e403-narratology-and-narrative-order-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Structuralism and Semiotics",
+      "syllabusTerm": "Mythology (Barthes)",
+      "topicIds": [
+        "e403-barthes-s-myth"
+      ],
+      "questionIds": [
+        "e403-barthes-s-myth-core",
+        "e403-barthes-s-myth-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Reader-Oriented Theories",
+      "syllabusTerm": "Hermeneutics",
+      "topicIds": [
+        "e403-hermeneutics"
+      ],
+      "questionIds": [
+        "e403-hermeneutics-core",
+        "e403-hermeneutics-apply",
+        "e403-reader-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Reader-Oriented Theories",
+      "syllabusTerm": "Phenomenology",
+      "topicIds": [
+        "e403-phenomenology"
+      ],
+      "questionIds": [
+        "e403-phenomenology-core",
+        "e403-phenomenology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Reader-Oriented Theories",
+      "syllabusTerm": "Horizon of expectations (Jauss)",
+      "topicIds": [
+        "e403-horizon-of-expectations"
+      ],
+      "questionIds": [
+        "e403-horizon-of-expectations-core",
+        "e403-horizon-of-expectations-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Reader-Oriented Theories",
+      "syllabusTerm": "Reception theory (Iser)",
+      "topicIds": [
+        "e403-reception-theory-and-gaps"
+      ],
+      "questionIds": [
+        "e403-reception-theory-and-gaps-core",
+        "e403-reception-theory-and-gaps-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            14,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Reader-Oriented Theories",
+      "syllabusTerm": "Speech act theory",
+      "topicIds": [
+        "e403-speech-acts"
+      ],
+      "questionIds": [
+        "e403-speech-acts-core",
+        "e403-speech-acts-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Marxist Literary Theory",
+      "syllabusTerm": "Dialectical materialism",
+      "topicIds": [
+        "e403-dialectical-materialism"
+      ],
+      "questionIds": [
+        "e403-dialectical-materialism-core",
+        "e403-dialectical-materialism-apply",
+        "e403-marx-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Marxist Literary Theory",
+      "syllabusTerm": "Base and superstructure",
+      "topicIds": [
+        "e403-base-and-superstructure"
+      ],
+      "questionIds": [
+        "e403-base-and-superstructure-core",
+        "e403-base-and-superstructure-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Marxist Literary Theory",
+      "syllabusTerm": "Ideology",
+      "topicIds": [
+        "e403-ideology"
+      ],
+      "questionIds": [
+        "e403-ideology-core",
+        "e403-ideology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Marxist Literary Theory",
+      "syllabusTerm": "Alienation",
+      "topicIds": [
+        "e403-alienation"
+      ],
+      "questionIds": [
+        "e403-alienation-core",
+        "e403-alienation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Marxist Literary Theory",
+      "syllabusTerm": "Commodity fetishism",
+      "topicIds": [
+        "e403-commodity-fetishism"
+      ],
+      "questionIds": [
+        "e403-commodity-fetishism-core",
+        "e403-commodity-fetishism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            18,
+            19
+          ]
+        },
+        {
+          "id": "marx-capital-fetishism"
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Marxist Literary Theory",
+      "syllabusTerm": "Hegemony (Gramsci)",
+      "topicIds": [
+        "e403-hegemony"
+      ],
+      "questionIds": [
+        "e403-hegemony-core",
+        "e403-hegemony-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Marxist Literary Theory",
+      "syllabusTerm": "ISA (Althusser)",
+      "topicIds": [
+        "e403-ideological-state-apparatuses"
+      ],
+      "questionIds": [
+        "e403-ideological-state-apparatuses-core",
+        "e403-ideological-state-apparatuses-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Feminist Literary Theory",
+      "syllabusTerm": "Androgyny (Woolf)",
+      "topicIds": [
+        "e403-androgyny"
+      ],
+      "questionIds": [
+        "e403-androgyny-core",
+        "e403-androgyny-apply",
+        "e403-feminist-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Feminist Literary Theory",
+      "syllabusTerm": "Other (Beauvoir)",
+      "topicIds": [
+        "e403-woman-as-other"
+      ],
+      "questionIds": [
+        "e403-woman-as-other-core",
+        "e403-woman-as-other-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            21,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Feminist Literary Theory",
+      "syllabusTerm": "Images of Women criticism (Millett)",
+      "topicIds": [
+        "e403-images-of-women-criticism"
+      ],
+      "questionIds": [
+        "e403-images-of-women-criticism-core",
+        "e403-images-of-women-criticism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Feminist Literary Theory",
+      "syllabusTerm": "Gynocriticism (Showalter)",
+      "topicIds": [
+        "e403-gynocriticism"
+      ],
+      "questionIds": [
+        "e403-gynocriticism-core",
+        "e403-gynocriticism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Feminist Literary Theory",
+      "syllabusTerm": "Ecriture feminine (Cixous)",
+      "topicIds": [
+        "e403-ecriture-feminine"
+      ],
+      "questionIds": [
+        "e403-ecriture-feminine-core",
+        "e403-ecriture-feminine-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Feminist Literary Theory",
+      "syllabusTerm": "Black feminist criticism (Smith)",
+      "topicIds": [
+        "e403-black-feminist-criticism"
+      ],
+      "questionIds": [
+        "e403-black-feminist-criticism-core",
+        "e403-black-feminist-criticism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Feminist Literary Theory",
+      "syllabusTerm": "Postcolonial feminism (Spivak)",
+      "topicIds": [
+        "e403-postcolonial-feminism"
+      ],
+      "questionIds": [
+        "e403-postcolonial-feminism-core",
+        "e403-postcolonial-feminism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Psychoanalytic Criticism",
+      "syllabusTerm": "Oedipus complex",
+      "topicIds": [
+        "e403-oedipus-complex"
+      ],
+      "questionIds": [
+        "e403-oedipus-complex-core",
+        "e403-oedipus-complex-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Psychoanalytic Criticism",
+      "syllabusTerm": "The unconscious",
+      "topicIds": [
+        "e403-the-unconscious"
+      ],
+      "questionIds": [
+        "e403-the-unconscious-core",
+        "e403-the-unconscious-apply",
+        "e403-psycho-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Psychoanalytic Criticism",
+      "syllabusTerm": "Drives and defenses",
+      "topicIds": [
+        "e403-drives-and-defenses"
+      ],
+      "questionIds": [
+        "e403-drives-and-defenses-core",
+        "e403-drives-and-defenses-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            27,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Psychoanalytic Criticism",
+      "syllabusTerm": "Dream-work",
+      "topicIds": [
+        "e403-dream-work"
+      ],
+      "questionIds": [
+        "e403-dream-work-core",
+        "e403-dream-work-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Psychoanalytic Criticism",
+      "syllabusTerm": "Object relations theory",
+      "topicIds": [
+        "e403-object-relations-theory"
+      ],
+      "questionIds": [
+        "e403-object-relations-theory-core",
+        "e403-object-relations-theory-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Psychoanalytic Criticism",
+      "syllabusTerm": "Imaginary, Symbolic and Real",
+      "topicIds": [
+        "e403-imaginary-symbolic-and-real"
+      ],
+      "questionIds": [
+        "e403-imaginary-symbolic-and-real-core",
+        "e403-imaginary-symbolic-and-real-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Psychoanalytic Criticism",
+      "syllabusTerm": "Trauma",
+      "topicIds": [
+        "e403-trauma"
+      ],
+      "questionIds": [
+        "e403-trauma-core",
+        "e403-trauma-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            29,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Logocentrism",
+      "topicIds": [
+        "e403-logocentrism"
+      ],
+      "questionIds": [
+        "e403-logocentrism-core",
+        "e403-logocentrism-apply",
+        "e403-poststructural-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            31
+          ]
+        },
+        {
+          "id": "derrida-differance"
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Differance and aporia (Derrida)",
+      "topicIds": [
+        "e403-differance-and-aporia"
+      ],
+      "questionIds": [
+        "e403-differance-and-aporia-core",
+        "e403-differance-and-aporia-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            31,
+            32
+          ]
+        },
+        {
+          "id": "derrida-differance"
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Jouissance (Kristeva)",
+      "topicIds": [
+        "e403-jouissance"
+      ],
+      "questionIds": [
+        "e403-jouissance-core",
+        "e403-jouissance-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Death of the author (Barthes)",
+      "topicIds": [
+        "e403-death-of-the-author"
+      ],
+      "questionIds": [
+        "e403-death-of-the-author-core",
+        "e403-death-of-the-author-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Rhizome",
+      "topicIds": [
+        "e403-rhizome"
+      ],
+      "questionIds": [
+        "e403-rhizome-core",
+        "e403-rhizome-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            33,
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Deterritorialization",
+      "topicIds": [
+        "e403-deterritorialization-and-becoming"
+      ],
+      "questionIds": [
+        "e403-deterritorialization-and-becoming-core",
+        "e403-deterritorialization-and-becoming-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Becoming",
+      "topicIds": [
+        "e403-deterritorialization-and-becoming"
+      ],
+      "questionIds": [
+        "e403-deterritorialization-and-becoming-core",
+        "e403-deterritorialization-and-becoming-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Post-structuralism and Deconstruction",
+      "syllabusTerm": "Disciplinary discourse (Foucault)",
+      "topicIds": [
+        "e403-disciplinary-discourse"
+      ],
+      "questionIds": [
+        "e403-disciplinary-discourse-core",
+        "e403-disciplinary-discourse-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            34,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postmodernism",
+      "syllabusTerm": "Capitalism (Eagleton)",
+      "topicIds": [
+        "e403-capitalism-and-postmodern-culture"
+      ],
+      "questionIds": [
+        "e403-capitalism-and-postmodern-culture-core",
+        "e403-capitalism-and-postmodern-culture-apply",
+        "e403-postmodern-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postmodernism",
+      "syllabusTerm": "Grand narrative (Lyotard)",
+      "topicIds": [
+        "e403-grand-narratives"
+      ],
+      "questionIds": [
+        "e403-grand-narratives-core",
+        "e403-grand-narratives-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            36,
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postmodernism",
+      "syllabusTerm": "Intertextuality (Kristeva)",
+      "topicIds": [
+        "e403-intertextuality"
+      ],
+      "questionIds": [
+        "e403-intertextuality-core",
+        "e403-intertextuality-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postmodernism",
+      "syllabusTerm": "Hyperreality (Baudrillard)",
+      "topicIds": [
+        "e403-hyperreality"
+      ],
+      "questionIds": [
+        "e403-hyperreality-core",
+        "e403-hyperreality-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postmodernism",
+      "syllabusTerm": "Pastiche (Jameson)",
+      "topicIds": [
+        "e403-pastiche"
+      ],
+      "questionIds": [
+        "e403-pastiche-core",
+        "e403-pastiche-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postcolonialism",
+      "syllabusTerm": "Othering",
+      "topicIds": [
+        "e403-othering"
+      ],
+      "questionIds": [
+        "e403-othering-core",
+        "e403-othering-apply",
+        "e403-postcolonial-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postcolonialism",
+      "syllabusTerm": "Diaspora",
+      "topicIds": [
+        "e403-diaspora"
+      ],
+      "questionIds": [
+        "e403-diaspora-core",
+        "e403-diaspora-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            39,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postcolonialism",
+      "syllabusTerm": "Hybridity",
+      "topicIds": [
+        "e403-hybridity"
+      ],
+      "questionIds": [
+        "e403-hybridity-core",
+        "e403-hybridity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postcolonialism",
+      "syllabusTerm": "Double consciousness",
+      "topicIds": [
+        "e403-double-consciousness"
+      ],
+      "questionIds": [
+        "e403-double-consciousness-core",
+        "e403-double-consciousness-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            40,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postcolonialism",
+      "syllabusTerm": "Subaltern",
+      "topicIds": [
+        "e403-subaltern"
+      ],
+      "questionIds": [
+        "e403-subaltern-core",
+        "e403-subaltern-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            41,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postcolonialism",
+      "syllabusTerm": "Mimicry",
+      "topicIds": [
+        "e403-mimicry"
+      ],
+      "questionIds": [
+        "e403-mimicry-core",
+        "e403-mimicry-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Postcolonialism",
+      "syllabusTerm": "Neocolonialism",
+      "topicIds": [
+        "e403-neocolonialism"
+      ],
+      "questionIds": [
+        "e403-neocolonialism-core",
+        "e403-neocolonialism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Cultural Theory",
+      "syllabusTerm": "Culture",
+      "topicIds": [
+        "e403-culture"
+      ],
+      "questionIds": [
+        "e403-culture-core",
+        "e403-culture-apply",
+        "e403-culture-approach"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Cultural Theory",
+      "syllabusTerm": "Popular culture",
+      "topicIds": [
+        "e403-popular-culture"
+      ],
+      "questionIds": [
+        "e403-popular-culture-core",
+        "e403-popular-culture-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            43,
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Cultural Theory",
+      "syllabusTerm": "Consumption",
+      "topicIds": [
+        "e403-consumption"
+      ],
+      "questionIds": [
+        "e403-consumption-core",
+        "e403-consumption-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E403",
+      "group": "Cultural Theory",
+      "syllabusTerm": "Representation (Hall)",
+      "topicIds": [
+        "e403-representation"
+      ],
+      "questionIds": [
+        "e403-representation-core",
+        "e403-representation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E403",
+          "pages": [
+            44,
+            45,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Definition and scope",
+      "syllabusTerm": "Definition of sociolinguistics",
+      "topicIds": [
+        "e404-sociolinguistics"
+      ],
+      "questionIds": [
+        "e404-sociolinguistics-core",
+        "e404-sociolinguistics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Definition and scope",
+      "syllabusTerm": "Scope of sociolinguistics",
+      "topicIds": [
+        "e404-scope-and-language-attitudes"
+      ],
+      "questionIds": [
+        "e404-scope-and-language-attitudes-core",
+        "e404-scope-and-language-attitudes-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Sociolinguistics and sociology of language",
+      "syllabusTerm": "Sociolinguistics and sociology of language",
+      "topicIds": [
+        "e404-sociolinguistics-and-sociology-of-language"
+      ],
+      "questionIds": [
+        "e404-sociolinguistics-and-sociology-of-language-core",
+        "e404-sociolinguistics-and-sociology-of-language-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and dialect",
+      "syllabusTerm": "Language and dialect",
+      "topicIds": [
+        "e404-language-and-dialect",
+        "e404-regional-and-social-dialects",
+        "e404-accent-dialect-and-idiolect",
+        "e404-register"
+      ],
+      "questionIds": [
+        "e404-language-and-dialect-core",
+        "e404-language-and-dialect-apply",
+        "e404-regional-and-social-dialects-core",
+        "e404-regional-and-social-dialects-apply",
+        "e404-accent-dialect-and-idiolect-core",
+        "e404-accent-dialect-and-idiolect-apply",
+        "e404-register-core",
+        "e404-register-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            10,
+            11
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and dialect",
+      "syllabusTerm": "Standard language",
+      "topicIds": [
+        "e404-standard-language"
+      ],
+      "questionIds": [
+        "e404-standard-language-core",
+        "e404-standard-language-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and dialect",
+      "syllabusTerm": "Language standardization",
+      "topicIds": [
+        "e404-standardization"
+      ],
+      "questionIds": [
+        "e404-standardization-core",
+        "e404-standardization-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Pidgins and creoles",
+      "syllabusTerm": "Pidgin and pidginization",
+      "topicIds": [
+        "e404-pidgins-and-pidginization"
+      ],
+      "questionIds": [
+        "e404-pidgins-and-pidginization-core",
+        "e404-pidgins-and-pidginization-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            15,
+            17
+          ]
+        },
+        {
+          "id": "e404-creole-genesis"
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Pidgins and creoles",
+      "syllabusTerm": "Creole",
+      "topicIds": [
+        "e404-creoles-and-creolization"
+      ],
+      "questionIds": [
+        "e404-creoles-and-creolization-core",
+        "e404-creoles-and-creolization-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "e404-creole-genesis"
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Pidgins and creoles",
+      "syllabusTerm": "Post-creole continuum",
+      "topicIds": [
+        "e404-post-creole-continuum",
+        "e404-lexifier-and-decreolization"
+      ],
+      "questionIds": [
+        "e404-post-creole-continuum-core",
+        "e404-post-creole-continuum-apply",
+        "e404-lexifier-and-decreolization-core",
+        "e404-lexifier-and-decreolization-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            16,
+            17
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and geography",
+      "syllabusTerm": "Wave theory",
+      "topicIds": [
+        "e404-tree-and-wave-models",
+        "e404-diffusion-and-social-networks"
+      ],
+      "questionIds": [
+        "e404-tree-and-wave-models-core",
+        "e404-tree-and-wave-models-apply",
+        "e404-diffusion-and-social-networks-core",
+        "e404-diffusion-and-social-networks-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and geography",
+      "syllabusTerm": "Isogloss",
+      "topicIds": [
+        "e404-isogloss"
+      ],
+      "questionIds": [
+        "e404-isogloss-core",
+        "e404-isogloss-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Diglossia and multilingualism",
+      "syllabusTerm": "Diglossia",
+      "topicIds": [
+        "e404-diglossia"
+      ],
+      "questionIds": [
+        "e404-diglossia-core",
+        "e404-diglossia-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            22,
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Diglossia and multilingualism",
+      "syllabusTerm": "Bilingualism",
+      "topicIds": [
+        "e404-bilingualism",
+        "e404-simultaneous-and-sequential-bilingualism"
+      ],
+      "questionIds": [
+        "e404-bilingualism-core",
+        "e404-bilingualism-apply",
+        "e404-simultaneous-and-sequential-bilingualism-core",
+        "e404-simultaneous-and-sequential-bilingualism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            22,
+            23
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Diglossia and multilingualism",
+      "syllabusTerm": "Multilingualism",
+      "topicIds": [
+        "e404-multilingualism-and-domains"
+      ],
+      "questionIds": [
+        "e404-multilingualism-and-domains-core",
+        "e404-multilingualism-and-domains-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Code-switching, mixing and borrowing",
+      "syllabusTerm": "Code-switching",
+      "topicIds": [
+        "e404-code-switching",
+        "e404-types-of-code-switching"
+      ],
+      "questionIds": [
+        "e404-code-switching-core",
+        "e404-code-switching-apply",
+        "e404-types-of-code-switching-core",
+        "e404-types-of-code-switching-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            25,
+            26
+          ]
+        },
+        {
+          "id": "e404-codeswitch"
+        },
+        {
+          "id": "E404",
+          "pages": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Code-switching, mixing and borrowing",
+      "syllabusTerm": "Code-mixing",
+      "topicIds": [
+        "e404-code-mixing-and-the-matrix-language",
+        "e404-insertion-alternation-and-congruent-lexicalization"
+      ],
+      "questionIds": [
+        "e404-code-mixing-and-the-matrix-language-core",
+        "e404-code-mixing-and-the-matrix-language-apply",
+        "e404-insertion-alternation-and-congruent-lexicalization-core",
+        "e404-insertion-alternation-and-congruent-lexicalization-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            26,
+            27
+          ]
+        },
+        {
+          "id": "e404-codeswitch"
+        },
+        {
+          "id": "E404",
+          "pages": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Code-switching, mixing and borrowing",
+      "syllabusTerm": "Borrowing",
+      "topicIds": [
+        "e404-borrowing",
+        "e404-loanwords-blends-and-calques"
+      ],
+      "questionIds": [
+        "e404-borrowing-core",
+        "e404-borrowing-apply",
+        "e404-loanwords-blends-and-calques-core",
+        "e404-loanwords-blends-and-calques-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            28,
+            29
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language planning and policy",
+      "syllabusTerm": "Language planning",
+      "topicIds": [
+        "e404-language-planning",
+        "e404-status-corpus-and-acquisition-planning"
+      ],
+      "questionIds": [
+        "e404-language-planning-core",
+        "e404-language-planning-apply",
+        "e404-status-corpus-and-acquisition-planning-core",
+        "e404-status-corpus-and-acquisition-planning-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            30,
+            31
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            30,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language planning and policy",
+      "syllabusTerm": "Language policy: theories and ideologies",
+      "topicIds": [
+        "e404-language-policy-and-ideology",
+        "e404-critical-language-policy"
+      ],
+      "questionIds": [
+        "e404-language-policy-and-ideology-core",
+        "e404-language-policy-and-ideology-apply",
+        "e404-critical-language-policy-core",
+        "e404-critical-language-policy-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            31,
+            32
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language planning and policy",
+      "syllabusTerm": "Language policy case studies",
+      "topicIds": [
+        "e404-analysing-a-policy-case"
+      ],
+      "questionIds": [
+        "e404-analysing-a-policy-case-core",
+        "e404-analysing-a-policy-case-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            30,
+            31,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language variation and change",
+      "syllabusTerm": "Language variation",
+      "topicIds": [
+        "e404-orderly-heterogeneity",
+        "e404-variation-and-change",
+        "e404-prestige-and-linguistic-insecurity"
+      ],
+      "questionIds": [
+        "e404-orderly-heterogeneity-core",
+        "e404-orderly-heterogeneity-apply",
+        "e404-variation-and-change-core",
+        "e404-variation-and-change-apply",
+        "e404-prestige-and-linguistic-insecurity-core",
+        "e404-prestige-and-linguistic-insecurity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            33,
+            34
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language variation and change",
+      "syllabusTerm": "Language change",
+      "topicIds": [
+        "e404-variation-and-change",
+        "e404-levels-and-mechanisms-of-change",
+        "e404-problems-in-language-change-research"
+      ],
+      "questionIds": [
+        "e404-variation-and-change-core",
+        "e404-variation-and-change-apply",
+        "e404-levels-and-mechanisms-of-change-core",
+        "e404-levels-and-mechanisms-of-change-apply",
+        "e404-problems-in-language-change-research-core",
+        "e404-problems-in-language-change-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            34,
+            35
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            35,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and culture",
+      "syllabusTerm": "Language and culture",
+      "topicIds": [
+        "e404-language-and-culture"
+      ],
+      "questionIds": [
+        "e404-language-and-culture-core",
+        "e404-language-and-culture-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and culture",
+      "syllabusTerm": "Sapir-Whorf hypothesis",
+      "topicIds": [
+        "e404-linguistic-relativity-and-determinism"
+      ],
+      "questionIds": [
+        "e404-linguistic-relativity-and-determinism-core",
+        "e404-linguistic-relativity-and-determinism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language and culture",
+      "syllabusTerm": "Representation theory (Stuart Hall)",
+      "topicIds": [
+        "e404-representation-and-cultural-codes"
+      ],
+      "questionIds": [
+        "e404-representation-and-cultural-codes-core",
+        "e404-representation-and-cultural-codes-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            39,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language, gender and identity",
+      "syllabusTerm": "Language and gender",
+      "topicIds": [
+        "e404-gender-and-language-practices",
+        "e404-gendered-interaction",
+        "e404-sexism-and-language-reform"
+      ],
+      "questionIds": [
+        "e404-gender-and-language-practices-core",
+        "e404-gender-and-language-practices-apply",
+        "e404-gendered-interaction-core",
+        "e404-gendered-interaction-apply",
+        "e404-sexism-and-language-reform-core",
+        "e404-sexism-and-language-reform-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "id": "e404-gender-local"
+        },
+        {
+          "id": "E404",
+          "pages": [
+            42,
+            43
+          ]
+        },
+        {
+          "id": "e404-gender-local"
+        },
+        {
+          "id": "E404",
+          "pages": [
+            43,
+            44
+          ]
+        },
+        {
+          "id": "e404-gender-local"
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language, gender and identity",
+      "syllabusTerm": "Language identity",
+      "topicIds": [
+        "e404-language-and-identity"
+      ],
+      "questionIds": [
+        "e404-language-and-identity-core",
+        "e404-language-and-identity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Linguistic imperialism",
+      "syllabusTerm": "Linguistic imperialism",
+      "topicIds": [
+        "e404-linguistic-imperialism",
+        "e404-linguicism-and-native-speakerism",
+        "e404-english-empowerment-and-inequality",
+        "e404-world-englishes-and-unequal-englishes"
+      ],
+      "questionIds": [
+        "e404-linguistic-imperialism-core",
+        "e404-linguistic-imperialism-apply",
+        "e404-linguicism-and-native-speakerism-core",
+        "e404-linguicism-and-native-speakerism-apply",
+        "e404-english-empowerment-and-inequality-core",
+        "e404-english-empowerment-and-inequality-apply",
+        "e404-world-englishes-and-unequal-englishes-core",
+        "e404-world-englishes-and-unequal-englishes-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            46,
+            47
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            47,
+            48
+          ]
+        },
+        {
+          "id": "E404",
+          "pages": [
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E404",
+      "group": "Language fossilization",
+      "syllabusTerm": "Language fossilization",
+      "topicIds": [
+        "e404-fossilization",
+        "e404-stabilization-and-fossilization"
+      ],
+      "questionIds": [
+        "e404-fossilization-core",
+        "e404-fossilization-apply",
+        "e404-stabilization-and-fossilization-core",
+        "e404-stabilization-and-fossilization-apply"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            49,
+            50,
+            51
+          ]
+        },
+        {
+          "id": "e404-fossilization"
+        },
+        {
+          "id": "E404",
+          "pages": [
+            49,
+            50,
+            51
+          ]
+        },
+        {
+          "id": "e404-fossilization"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Meaning and its analysis",
+      "syllabusTerm": "Defining meaning",
+      "topicIds": [
+        "e405-meaning-and-its-difficulties"
+      ],
+      "questionIds": [
+        "e405-meaning-and-its-difficulties-define",
+        "e405-meaning-and-its-difficulties-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Meaning and its analysis",
+      "syllabusTerm": "Meaning of meaning",
+      "topicIds": [
+        "e405-meaning-and-its-difficulties"
+      ],
+      "questionIds": [
+        "e405-meaning-and-its-difficulties-define",
+        "e405-meaning-and-its-difficulties-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Meaning and its analysis",
+      "syllabusTerm": "Difficulties of studying meaning",
+      "topicIds": [
+        "e405-meaning-and-its-difficulties"
+      ],
+      "questionIds": [
+        "e405-meaning-and-its-difficulties-define",
+        "e405-meaning-and-its-difficulties-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Meaning and its analysis",
+      "syllabusTerm": "Levels of analysis of meaning",
+      "topicIds": [
+        "e405-levels-of-meaning"
+      ],
+      "questionIds": [
+        "e405-levels-of-meaning-define",
+        "e405-levels-of-meaning-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Meaning and its analysis",
+      "syllabusTerm": "Types of meaning",
+      "topicIds": [
+        "e405-descriptive-social-and-expressive-meaning"
+      ],
+      "questionIds": [
+        "e405-descriptive-social-and-expressive-meaning-define",
+        "e405-descriptive-social-and-expressive-meaning-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Sense",
+      "topicIds": [
+        "e405-sense"
+      ],
+      "questionIds": [
+        "e405-sense-define",
+        "e405-sense-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Reference and denotation",
+      "topicIds": [
+        "e405-reference-and-denotation"
+      ],
+      "questionIds": [
+        "e405-reference-and-denotation-define",
+        "e405-reference-and-denotation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Proposition",
+      "topicIds": [
+        "e405-propositions"
+      ],
+      "questionIds": [
+        "e405-propositions-define",
+        "e405-propositions-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Ambiguity",
+      "topicIds": [
+        "e405-ambiguity-homonymy-and-polysemy",
+        "e405-vagueness"
+      ],
+      "questionIds": [
+        "e405-ambiguity-homonymy-and-polysemy-define",
+        "e405-ambiguity-homonymy-and-polysemy-apply",
+        "e405-vagueness-define",
+        "e405-vagueness-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            17,
+            18,
+            19,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Lexical and grammatical meaning",
+      "topicIds": [
+        "e405-lexical-and-grammatical-meaning"
+      ],
+      "questionIds": [
+        "e405-lexical-and-grammatical-meaning-define",
+        "e405-lexical-and-grammatical-meaning-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Componential analysis",
+      "topicIds": [
+        "e405-componential-analysis"
+      ],
+      "questionIds": [
+        "e405-componential-analysis-define",
+        "e405-componential-analysis-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Lexical roles analysis",
+      "topicIds": [
+        "e405-semantic-roles"
+      ],
+      "questionIds": [
+        "e405-semantic-roles-define",
+        "e405-semantic-roles-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Key semantic notions",
+      "syllabusTerm": "Lexical sense relations",
+      "topicIds": [
+        "e405-synonymy-and-near-synonymy",
+        "e405-hyponymy-and-meronymy",
+        "e405-antonymy-and-complementarity"
+      ],
+      "questionIds": [
+        "e405-synonymy-and-near-synonymy-define",
+        "e405-synonymy-and-near-synonymy-apply",
+        "e405-hyponymy-and-meronymy-define",
+        "e405-hyponymy-and-meronymy-apply",
+        "e405-antonymy-and-complementarity-define",
+        "e405-antonymy-and-complementarity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            24,
+            25
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            25,
+            26
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Theories of meaning",
+      "syllabusTerm": "Structural theory",
+      "topicIds": [
+        "e405-structural-theories-of-meaning"
+      ],
+      "questionIds": [
+        "e405-structural-theories-of-meaning-define",
+        "e405-structural-theories-of-meaning-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Theories of meaning",
+      "syllabusTerm": "Behaviourist theory",
+      "topicIds": [
+        "e405-behaviourist-approaches-to-meaning"
+      ],
+      "questionIds": [
+        "e405-behaviourist-approaches-to-meaning-define",
+        "e405-behaviourist-approaches-to-meaning-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-behavior"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Theories of meaning",
+      "syllabusTerm": "Cognitive theory",
+      "topicIds": [
+        "e405-cognitive-semantics"
+      ],
+      "questionIds": [
+        "e405-cognitive-semantics-define",
+        "e405-cognitive-semantics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            29,
+            30,
+            31,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Theories of meaning",
+      "syllabusTerm": "Truth-conditional theory",
+      "topicIds": [
+        "e405-truth-conditional-semantics"
+      ],
+      "questionIds": [
+        "e405-truth-conditional-semantics-define",
+        "e405-truth-conditional-semantics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Theories of meaning",
+      "syllabusTerm": "Generative theory",
+      "topicIds": [
+        "e405-generative-semantics"
+      ],
+      "questionIds": [
+        "e405-generative-semantics-define",
+        "e405-generative-semantics-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-generative"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Figurative language",
+      "syllabusTerm": "Metaphor",
+      "topicIds": [
+        "e405-metaphor"
+      ],
+      "questionIds": [
+        "e405-metaphor-define",
+        "e405-metaphor-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Figurative language",
+      "syllabusTerm": "Irony",
+      "topicIds": [
+        "e405-irony-and-hyperbole"
+      ],
+      "questionIds": [
+        "e405-irony-and-hyperbole-define",
+        "e405-irony-and-hyperbole-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            34,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Figurative language",
+      "syllabusTerm": "Polysemy",
+      "topicIds": [
+        "e405-ambiguity-homonymy-and-polysemy"
+      ],
+      "questionIds": [
+        "e405-ambiguity-homonymy-and-polysemy-define",
+        "e405-ambiguity-homonymy-and-polysemy-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            17,
+            18,
+            19,
+            35,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Figurative language",
+      "syllabusTerm": "Metonymy",
+      "topicIds": [
+        "e405-metonymy"
+      ],
+      "questionIds": [
+        "e405-metonymy-define",
+        "e405-metonymy-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            36,
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Pragmatics and inference",
+      "syllabusTerm": "Scope and position of pragmatics",
+      "topicIds": [
+        "e405-pragmatics"
+      ],
+      "questionIds": [
+        "e405-pragmatics-define",
+        "e405-pragmatics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Pragmatics and inference",
+      "syllabusTerm": "Features of everyday language use",
+      "topicIds": [
+        "e405-pragmatics"
+      ],
+      "questionIds": [
+        "e405-pragmatics-define",
+        "e405-pragmatics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Pragmatics and inference",
+      "syllabusTerm": "Sentence and utterance",
+      "topicIds": [
+        "e405-sentence-and-utterance"
+      ],
+      "questionIds": [
+        "e405-sentence-and-utterance-define",
+        "e405-sentence-and-utterance-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Pragmatics and inference",
+      "syllabusTerm": "Context",
+      "topicIds": [
+        "e405-context"
+      ],
+      "questionIds": [
+        "e405-context-define",
+        "e405-context-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Pragmatics and inference",
+      "syllabusTerm": "Entailment and presupposition",
+      "topicIds": [
+        "e405-entailment",
+        "e405-presupposition-and-triggers"
+      ],
+      "questionIds": [
+        "e405-entailment-define",
+        "e405-entailment-apply",
+        "e405-presupposition-and-triggers-define",
+        "e405-presupposition-and-triggers-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            41,
+            42
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Implicature and cooperation",
+      "syllabusTerm": "Conventional implicature",
+      "topicIds": [
+        "e405-conventional-and-conversational-implicature"
+      ],
+      "questionIds": [
+        "e405-conventional-and-conversational-implicature-define",
+        "e405-conventional-and-conversational-implicature-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            50,
+            51,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Implicature and cooperation",
+      "syllabusTerm": "Conversational implicature",
+      "topicIds": [
+        "e405-conventional-and-conversational-implicature"
+      ],
+      "questionIds": [
+        "e405-conventional-and-conversational-implicature-define",
+        "e405-conventional-and-conversational-implicature-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            50,
+            51,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Implicature and cooperation",
+      "syllabusTerm": "Cooperative principle",
+      "topicIds": [
+        "e405-cooperation-and-conversational-maxims"
+      ],
+      "questionIds": [
+        "e405-cooperation-and-conversational-maxims-define",
+        "e405-cooperation-and-conversational-maxims-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            53,
+            54,
+            55,
+            56
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Implicature and cooperation",
+      "syllabusTerm": "Conversational maxims",
+      "topicIds": [
+        "e405-cooperation-and-conversational-maxims",
+        "e405-flouting-and-violating-maxims"
+      ],
+      "questionIds": [
+        "e405-cooperation-and-conversational-maxims-define",
+        "e405-cooperation-and-conversational-maxims-apply",
+        "e405-flouting-and-violating-maxims-define",
+        "e405-flouting-and-violating-maxims-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            54,
+            55,
+            56,
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Deixis",
+      "syllabusTerm": "Deictic centre",
+      "topicIds": [
+        "e405-deixis-and-the-deictic-centre"
+      ],
+      "questionIds": [
+        "e405-deixis-and-the-deictic-centre-define",
+        "e405-deixis-and-the-deictic-centre-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            58,
+            59,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Deixis",
+      "syllabusTerm": "Deictic projection",
+      "topicIds": [
+        "e405-deictic-projection"
+      ],
+      "questionIds": [
+        "e405-deictic-projection-define",
+        "e405-deictic-projection-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-projection"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Deixis",
+      "syllabusTerm": "Deictic and non-deictic expressions",
+      "topicIds": [
+        "e405-deixis-and-the-deictic-centre"
+      ],
+      "questionIds": [
+        "e405-deixis-and-the-deictic-centre-define",
+        "e405-deixis-and-the-deictic-centre-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            58,
+            59,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Deixis",
+      "syllabusTerm": "Types of deixis",
+      "topicIds": [
+        "e405-types-of-deixis"
+      ],
+      "questionIds": [
+        "e405-types-of-deixis-define",
+        "e405-types-of-deixis-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            59,
+            60
+          ]
+        },
+        {
+          "id": "e405-deixis"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Deixis",
+      "syllabusTerm": "Honorifics",
+      "topicIds": [
+        "e405-honorifics"
+      ],
+      "questionIds": [
+        "e405-honorifics-define",
+        "e405-honorifics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            61,
+            62
+          ]
+        },
+        {
+          "id": "e405-deixis"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Speech acts",
+      "syllabusTerm": "Performatives and constatives",
+      "topicIds": [
+        "e405-performatives-and-constatives"
+      ],
+      "questionIds": [
+        "e405-performatives-and-constatives-define",
+        "e405-performatives-and-constatives-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            63,
+            64
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Speech acts",
+      "syllabusTerm": "Felicity conditions",
+      "topicIds": [
+        "e405-felicity-conditions"
+      ],
+      "questionIds": [
+        "e405-felicity-conditions-define",
+        "e405-felicity-conditions-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            64,
+            65,
+            66,
+            67
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Speech acts",
+      "syllabusTerm": "Types of speech acts",
+      "topicIds": [
+        "e405-locution-illocution-and-perlocution"
+      ],
+      "questionIds": [
+        "e405-locution-illocution-and-perlocution-define",
+        "e405-locution-illocution-and-perlocution-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            67,
+            68,
+            69
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Speech acts",
+      "syllabusTerm": "Searle typology",
+      "topicIds": [
+        "e405-searle-s-speech-act-categories"
+      ],
+      "questionIds": [
+        "e405-searle-s-speech-act-categories-define",
+        "e405-searle-s-speech-act-categories-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            69,
+            70,
+            71,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Speech acts",
+      "syllabusTerm": "Indirect speech acts",
+      "topicIds": [
+        "e405-indirect-speech-acts"
+      ],
+      "questionIds": [
+        "e405-indirect-speech-acts-define",
+        "e405-indirect-speech-acts-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Politeness and face",
+      "syllabusTerm": "Characteristics of politeness",
+      "topicIds": [
+        "e405-politeness-and-context"
+      ],
+      "questionIds": [
+        "e405-politeness-and-context-define",
+        "e405-politeness-and-context-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            73,
+            74
+          ]
+        },
+        {
+          "id": "e405-polite"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Politeness and face",
+      "syllabusTerm": "Face wants",
+      "topicIds": [
+        "e405-positive-and-negative-face"
+      ],
+      "questionIds": [
+        "e405-positive-and-negative-face-define",
+        "e405-positive-and-negative-face-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-face"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Politeness and face",
+      "syllabusTerm": "Negative and positive face",
+      "topicIds": [
+        "e405-positive-and-negative-face"
+      ],
+      "questionIds": [
+        "e405-positive-and-negative-face-define",
+        "e405-positive-and-negative-face-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-face"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Politeness and face",
+      "syllabusTerm": "Negative and positive politeness",
+      "topicIds": [
+        "e405-positive-and-negative-politeness"
+      ],
+      "questionIds": [
+        "e405-positive-and-negative-politeness-define",
+        "e405-positive-and-negative-politeness-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-strategies"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Politeness and face",
+      "syllabusTerm": "Impoliteness",
+      "topicIds": [
+        "e405-impoliteness"
+      ],
+      "questionIds": [
+        "e405-impoliteness-define",
+        "e405-impoliteness-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            74
+          ]
+        },
+        {
+          "id": "e405-impolite"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Conversation analysis",
+      "syllabusTerm": "Topic",
+      "topicIds": [
+        "e405-topic-management"
+      ],
+      "questionIds": [
+        "e405-topic-management-define",
+        "e405-topic-management-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            75,
+            76
+          ]
+        },
+        {
+          "id": "e405-sequence"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Conversation analysis",
+      "syllabusTerm": "Topic change",
+      "topicIds": [
+        "e405-topic-management"
+      ],
+      "questionIds": [
+        "e405-topic-management-define",
+        "e405-topic-management-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            75,
+            76
+          ]
+        },
+        {
+          "id": "e405-sequence"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Conversation analysis",
+      "syllabusTerm": "Topic conflict",
+      "topicIds": [
+        "e405-topic-management"
+      ],
+      "questionIds": [
+        "e405-topic-management-define",
+        "e405-topic-management-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            75,
+            76
+          ]
+        },
+        {
+          "id": "e405-sequence"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Conversation analysis",
+      "syllabusTerm": "Repairs",
+      "topicIds": [
+        "e405-repair"
+      ],
+      "questionIds": [
+        "e405-repair-define",
+        "e405-repair-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-repair"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Conversation analysis",
+      "syllabusTerm": "Inserted sequence",
+      "topicIds": [
+        "e405-insertion-sequences"
+      ],
+      "questionIds": [
+        "e405-insertion-sequences-define",
+        "e405-insertion-sequences-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-insertion"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Conversation analysis",
+      "syllabusTerm": "Adjacency pair",
+      "topicIds": [
+        "e405-adjacency-pairs"
+      ],
+      "questionIds": [
+        "e405-adjacency-pairs-define",
+        "e405-adjacency-pairs-apply"
+      ],
+      "sources": [
+        {
+          "id": "e405-adjacency"
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "The semantics–pragmatics interface",
+      "syllabusTerm": "Semantics–pragmatics distinction",
+      "topicIds": [
+        "e405-the-semantics-pragmatics-interface"
+      ],
+      "questionIds": [
+        "e405-the-semantics-pragmatics-interface-define",
+        "e405-the-semantics-pragmatics-interface-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            77,
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "The semantics–pragmatics interface",
+      "syllabusTerm": "Semantics–pragmatics interface",
+      "topicIds": [
+        "e405-the-semantics-pragmatics-interface"
+      ],
+      "questionIds": [
+        "e405-the-semantics-pragmatics-interface-define",
+        "e405-the-semantics-pragmatics-interface-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            77,
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Cohesion and coherence",
+      "syllabusTerm": "Cohesion",
+      "topicIds": [
+        "e405-cohesion",
+        "e405-reference-ties",
+        "e405-substitution-and-ellipsis",
+        "e405-lexical-cohesion",
+        "e405-conjunction-in-discourse"
+      ],
+      "questionIds": [
+        "e405-cohesion-define",
+        "e405-cohesion-apply",
+        "e405-reference-ties-define",
+        "e405-reference-ties-apply",
+        "e405-substitution-and-ellipsis-define",
+        "e405-substitution-and-ellipsis-apply",
+        "e405-lexical-cohesion-define",
+        "e405-lexical-cohesion-apply",
+        "e405-conjunction-in-discourse-define",
+        "e405-conjunction-in-discourse-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            79
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            79,
+            80,
+            81
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            86,
+            87,
+            88
+          ]
+        },
+        {
+          "id": "E405",
+          "pages": [
+            89,
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E405",
+      "group": "Cohesion and coherence",
+      "syllabusTerm": "Coherence",
+      "topicIds": [
+        "e405-coherence"
+      ],
+      "questionIds": [
+        "e405-coherence-define",
+        "e405-coherence-apply"
+      ],
+      "sources": [
+        {
+          "id": "E405",
+          "pages": [
+            91,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phonetics and phonology",
+      "syllabusTerm": "Definitions of phonetics and phonology",
+      "topicIds": [
+        "e410-phonetics",
+        "e410-phonology"
+      ],
+      "questionIds": [
+        "e410-phonetics-define",
+        "e410-phonetics-apply",
+        "e410-phonology-define",
+        "e410-phonology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            3,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phonetics and phonology",
+      "syllabusTerm": "Differences and correlation",
+      "topicIds": [
+        "e410-phonology"
+      ],
+      "questionIds": [
+        "e410-phonology-define",
+        "e410-phonology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            3,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phonetics and phonology",
+      "syllabusTerm": "Classification of phonetics",
+      "topicIds": [
+        "e410-branches-of-phonetics"
+      ],
+      "questionIds": [
+        "e410-branches-of-phonetics-define",
+        "e410-branches-of-phonetics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phones, phonemes and theories",
+      "syllabusTerm": "Phone and phoneme",
+      "topicIds": [
+        "e410-phone-and-phoneme",
+        "e410-minimal-pairs"
+      ],
+      "questionIds": [
+        "e410-phone-and-phoneme-define",
+        "e410-phone-and-phoneme-apply",
+        "e410-minimal-pairs-define",
+        "e410-minimal-pairs-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phones, phonemes and theories",
+      "syllabusTerm": "Allophones",
+      "topicIds": [
+        "e410-allophones",
+        "e410-complementary-distribution",
+        "e410-free-variation"
+      ],
+      "questionIds": [
+        "e410-allophones-define",
+        "e410-allophones-apply",
+        "e410-complementary-distribution-define",
+        "e410-complementary-distribution-apply",
+        "e410-free-variation-define",
+        "e410-free-variation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            9,
+            10
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            10,
+            55
+          ]
+        },
+        {
+          "id": "e410-allophony"
+        },
+        {
+          "id": "E410",
+          "pages": [
+            10,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phones, phonemes and theories",
+      "syllabusTerm": "Trubetzkoy",
+      "topicIds": [
+        "e410-trubetzkoy-and-phonological-opposition"
+      ],
+      "questionIds": [
+        "e410-trubetzkoy-and-phonological-opposition-define",
+        "e410-trubetzkoy-and-phonological-opposition-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phones, phonemes and theories",
+      "syllabusTerm": "Jakobson",
+      "topicIds": [
+        "e410-jakobson-and-distinctive-features"
+      ],
+      "questionIds": [
+        "e410-jakobson-and-distinctive-features-define",
+        "e410-jakobson-and-distinctive-features-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phones, phonemes and theories",
+      "syllabusTerm": "Daniel Jones",
+      "topicIds": [
+        "e410-daniel-jones"
+      ],
+      "questionIds": [
+        "e410-daniel-jones-define",
+        "e410-daniel-jones-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Phones, phonemes and theories",
+      "syllabusTerm": "Chomsky and Halle",
+      "topicIds": [
+        "e410-generative-phonology"
+      ],
+      "questionIds": [
+        "e410-generative-phonology-define",
+        "e410-generative-phonology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            13,
+            14,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English vowels",
+      "syllabusTerm": "Vowel definition and classification",
+      "topicIds": [
+        "e410-vowel-classification"
+      ],
+      "questionIds": [
+        "e410-vowel-classification-define",
+        "e410-vowel-classification-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English vowels",
+      "syllabusTerm": "Monophthongs",
+      "topicIds": [
+        "e410-monophthongs",
+        "e410-vowel-length-and-quality",
+        "e410-schwa-and-vowel-reduction"
+      ],
+      "questionIds": [
+        "e410-monophthongs-define",
+        "e410-monophthongs-apply",
+        "e410-vowel-length-and-quality-define",
+        "e410-vowel-length-and-quality-apply",
+        "e410-schwa-and-vowel-reduction-define",
+        "e410-schwa-and-vowel-reduction-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            15,
+            16
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            16,
+            18
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            15,
+            18,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English vowels",
+      "syllabusTerm": "Diphthongs",
+      "topicIds": [
+        "e410-diphthongs",
+        "e410-closing-and-centring-diphthongs"
+      ],
+      "questionIds": [
+        "e410-diphthongs-define",
+        "e410-diphthongs-apply",
+        "e410-closing-and-centring-diphthongs-define",
+        "e410-closing-and-centring-diphthongs-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            16,
+            17
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English vowels",
+      "syllabusTerm": "Triphthongs",
+      "topicIds": [
+        "e410-triphthong-sequences"
+      ],
+      "questionIds": [
+        "e410-triphthong-sequences-define",
+        "e410-triphthong-sequences-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            17,
+            18
+          ]
+        },
+        {
+          "id": "e410-triphthongs"
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English consonants",
+      "syllabusTerm": "Consonant definition",
+      "topicIds": [
+        "e410-consonant-classification"
+      ],
+      "questionIds": [
+        "e410-consonant-classification-define",
+        "e410-consonant-classification-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English consonants",
+      "syllabusTerm": "Places of articulation",
+      "topicIds": [
+        "e410-consonant-classification",
+        "e410-places-of-articulation"
+      ],
+      "questionIds": [
+        "e410-consonant-classification-define",
+        "e410-consonant-classification-apply",
+        "e410-places-of-articulation-define",
+        "e410-places-of-articulation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English consonants",
+      "syllabusTerm": "Manners of articulation",
+      "topicIds": [
+        "e410-consonant-classification",
+        "e410-stops-and-fricatives",
+        "e410-affricates",
+        "e410-nasals-laterals-and-approximants"
+      ],
+      "questionIds": [
+        "e410-consonant-classification-define",
+        "e410-consonant-classification-apply",
+        "e410-stops-and-fricatives-define",
+        "e410-stops-and-fricatives-apply",
+        "e410-affricates-define",
+        "e410-affricates-apply",
+        "e410-nasals-laterals-and-approximants-define",
+        "e410-nasals-laterals-and-approximants-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            20
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            20,
+            22
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "English consonants",
+      "syllabusTerm": "Voicing",
+      "topicIds": [
+        "e410-consonant-classification",
+        "e410-voicing-contrasts"
+      ],
+      "questionIds": [
+        "e410-consonant-classification-define",
+        "e410-consonant-classification-apply",
+        "e410-voicing-contrasts-define",
+        "e410-voicing-contrasts-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            19,
+            21,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Syllables and phonotactics",
+      "syllabusTerm": "Phonetic and phonological syllable",
+      "topicIds": [
+        "e410-phonetic-and-phonological-syllables"
+      ],
+      "questionIds": [
+        "e410-phonetic-and-phonological-syllables-define",
+        "e410-phonetic-and-phonological-syllables-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Syllables and phonotactics",
+      "syllabusTerm": "Syllable structure",
+      "topicIds": [
+        "e410-onset-nucleus-coda-and-rhyme",
+        "e410-open-closed-and-syllabic-consonants"
+      ],
+      "questionIds": [
+        "e410-onset-nucleus-coda-and-rhyme-define",
+        "e410-onset-nucleus-coda-and-rhyme-apply",
+        "e410-open-closed-and-syllabic-consonants-define",
+        "e410-open-closed-and-syllabic-consonants-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            24,
+            25
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            24,
+            25,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Syllables and phonotactics",
+      "syllabusTerm": "Phonotactic possibilities",
+      "topicIds": [
+        "e410-phonotactics"
+      ],
+      "questionIds": [
+        "e410-phonotactics-define",
+        "e410-phonotactics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            25,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Strong and weak forms and connected speech",
+      "syllabusTerm": "Strong and weak forms",
+      "topicIds": [
+        "e410-schwa-and-vowel-reduction",
+        "e410-strong-and-weak-forms"
+      ],
+      "questionIds": [
+        "e410-schwa-and-vowel-reduction-define",
+        "e410-schwa-and-vowel-reduction-apply",
+        "e410-strong-and-weak-forms-define",
+        "e410-strong-and-weak-forms-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            15,
+            18,
+            27
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            27,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Strong and weak forms and connected speech",
+      "syllabusTerm": "Contractions",
+      "topicIds": [
+        "e410-contractions"
+      ],
+      "questionIds": [
+        "e410-contractions-define",
+        "e410-contractions-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Strong and weak forms and connected speech",
+      "syllabusTerm": "Elision",
+      "topicIds": [
+        "e410-elision"
+      ],
+      "questionIds": [
+        "e410-elision-define",
+        "e410-elision-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Strong and weak forms and connected speech",
+      "syllabusTerm": "Assimilation",
+      "topicIds": [
+        "e410-regressive-assimilation",
+        "e410-progressive-and-coalescent-assimilation"
+      ],
+      "questionIds": [
+        "e410-regressive-assimilation-define",
+        "e410-regressive-assimilation-apply",
+        "e410-progressive-and-coalescent-assimilation-define",
+        "e410-progressive-and-coalescent-assimilation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            30
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            30,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Stress",
+      "syllabusTerm": "Definition of stress",
+      "topicIds": [
+        "e410-stress-and-prominence"
+      ],
+      "questionIds": [
+        "e410-stress-and-prominence-define",
+        "e410-stress-and-prominence-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Stress",
+      "syllabusTerm": "Types of stress",
+      "topicIds": [
+        "e410-primary-secondary-and-word-stress",
+        "e410-compound-and-contrastive-stress"
+      ],
+      "questionIds": [
+        "e410-primary-secondary-and-word-stress-define",
+        "e410-primary-secondary-and-word-stress-apply",
+        "e410-compound-and-contrastive-stress-define",
+        "e410-compound-and-contrastive-stress-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            32,
+            33
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            35,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Stress",
+      "syllabusTerm": "Factors of stress prominence",
+      "topicIds": [
+        "e410-stress-and-prominence"
+      ],
+      "questionIds": [
+        "e410-stress-and-prominence-define",
+        "e410-stress-and-prominence-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Stress",
+      "syllabusTerm": "Stress placement in isolated and connected words",
+      "topicIds": [
+        "e410-stress-placement-and-suffixes",
+        "e410-compound-and-contrastive-stress"
+      ],
+      "questionIds": [
+        "e410-stress-placement-and-suffixes-define",
+        "e410-stress-placement-and-suffixes-apply",
+        "e410-compound-and-contrastive-stress-define",
+        "e410-compound-and-contrastive-stress-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            35,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Chunking and tone",
+      "syllabusTerm": "Rules for chunking",
+      "topicIds": [
+        "e410-chunking-speech"
+      ],
+      "questionIds": [
+        "e410-chunking-speech-define",
+        "e410-chunking-speech-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Chunking and tone",
+      "syllabusTerm": "Types of tone",
+      "topicIds": [
+        "e410-types-of-tone"
+      ],
+      "questionIds": [
+        "e410-types-of-tone-define",
+        "e410-types-of-tone-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            39,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Chunking and tone",
+      "syllabusTerm": "Tone units",
+      "topicIds": [
+        "e410-tone-unit-structure"
+      ],
+      "questionIds": [
+        "e410-tone-unit-structure-define",
+        "e410-tone-unit-structure-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Intonation",
+      "syllabusTerm": "Intonation definition",
+      "topicIds": [
+        "e410-intonation-and-its-functions"
+      ],
+      "questionIds": [
+        "e410-intonation-and-its-functions-define",
+        "e410-intonation-and-its-functions-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            41,
+            42,
+            43,
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "Intonation",
+      "syllabusTerm": "Functions of intonation",
+      "topicIds": [
+        "e410-intonation-and-its-functions",
+        "e410-tag-questions-and-interpretation"
+      ],
+      "questionIds": [
+        "e410-intonation-and-its-functions-define",
+        "e410-intonation-and-its-functions-apply",
+        "e410-tag-questions-and-interpretation-define",
+        "e410-tag-questions-and-interpretation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "id": "E410",
+          "pages": [
+            43,
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "IPA and connected speech",
+      "syllabusTerm": "IPA transcription of connected speech",
+      "topicIds": [
+        "e410-connected-speech-transcription"
+      ],
+      "questionIds": [
+        "e410-connected-speech-transcription-define",
+        "e410-connected-speech-transcription-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            45,
+            46,
+            48,
+            49,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "IPA and connected speech",
+      "syllabusTerm": "Broad and narrow transcription",
+      "topicIds": [
+        "e410-ipa-and-transcription-levels"
+      ],
+      "questionIds": [
+        "e410-ipa-and-transcription-levels-define",
+        "e410-ipa-and-transcription-levels-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            45,
+            54,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E410",
+      "group": "IPA and connected speech",
+      "syllabusTerm": "Linking",
+      "topicIds": [
+        "e410-linking-and-intrusive-r"
+      ],
+      "questionIds": [
+        "e410-linking-and-intrusive-r-define",
+        "e410-linking-and-intrusive-r-apply"
+      ],
+      "sources": [
+        {
+          "id": "E410",
+          "pages": [
+            46,
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Introduction to morphology",
+      "syllabusTerm": "Definition of morphology",
+      "topicIds": [
+        "e411-morphology"
+      ],
+      "questionIds": [
+        "e411-morphology-core",
+        "e411-morphology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Introduction to morphology",
+      "syllabusTerm": "Classification of morphology",
+      "topicIds": [
+        "e411-inflection-and-derivation"
+      ],
+      "questionIds": [
+        "e411-inflection-and-derivation-core",
+        "e411-inflection-and-derivation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Introduction to morphology",
+      "syllabusTerm": "Functions of morphology",
+      "topicIds": [
+        "e411-morphology"
+      ],
+      "questionIds": [
+        "e411-morphology-core",
+        "e411-morphology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Words and lexemes",
+      "syllabusTerm": "Words and lexemes",
+      "topicIds": [
+        "e411-word-word-form-and-lexeme"
+      ],
+      "questionIds": [
+        "e411-word-word-form-and-lexeme-core",
+        "e411-word-word-form-and-lexeme-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Words and lexemes",
+      "syllabusTerm": "Empirical tests for wordhood",
+      "topicIds": [
+        "e411-wordhood-diagnostics"
+      ],
+      "questionIds": [
+        "e411-wordhood-diagnostics-core",
+        "e411-wordhood-diagnostics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            12,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Words and lexemes",
+      "syllabusTerm": "Types of words",
+      "topicIds": [
+        "e411-simple-complex-and-compound-words"
+      ],
+      "questionIds": [
+        "e411-simple-complex-and-compound-words-core",
+        "e411-simple-complex-and-compound-words-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Words and lexemes",
+      "syllabusTerm": "Affixes, bases and roots",
+      "topicIds": [
+        "e411-root-base-and-stem",
+        "e411-affix-types"
+      ],
+      "questionIds": [
+        "e411-root-base-and-stem-core",
+        "e411-root-base-and-stem-apply",
+        "e411-affix-types-core",
+        "e411-affix-types-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            13,
+            14
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Words and lexemes",
+      "syllabusTerm": "Processes of word formation",
+      "topicIds": [
+        "e411-compounding-and-headedness",
+        "e411-conversion",
+        "e411-clipping-and-blending",
+        "e411-acronyms-and-initialisms",
+        "e411-back-formation",
+        "e411-borrowing-and-reduplication"
+      ],
+      "questionIds": [
+        "e411-compounding-and-headedness-core",
+        "e411-compounding-and-headedness-apply",
+        "e411-conversion-core",
+        "e411-conversion-apply",
+        "e411-clipping-and-blending-core",
+        "e411-clipping-and-blending-apply",
+        "e411-acronyms-and-initialisms-core",
+        "e411-acronyms-and-initialisms-apply",
+        "e411-back-formation-core",
+        "e411-back-formation-apply",
+        "e411-borrowing-and-reduplication-core",
+        "e411-borrowing-and-reduplication-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            14,
+            15
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Words and lexemes",
+      "syllabusTerm": "Words as linguistic units",
+      "topicIds": [
+        "e411-word-word-form-and-lexeme"
+      ],
+      "questionIds": [
+        "e411-word-word-form-and-lexeme-core",
+        "e411-word-word-form-and-lexeme-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Words and lexemes",
+      "syllabusTerm": "Words and phrases",
+      "topicIds": [
+        "e411-words-and-phrases"
+      ],
+      "questionIds": [
+        "e411-words-and-phrases-core",
+        "e411-words-and-phrases-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological analysis",
+      "syllabusTerm": "Morphological analysis",
+      "topicIds": [
+        "e411-morphological-segmentation"
+      ],
+      "questionIds": [
+        "e411-morphological-segmentation-core",
+        "e411-morphological-segmentation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological analysis",
+      "syllabusTerm": "Morphological rules",
+      "topicIds": [
+        "e411-morphological-rules"
+      ],
+      "questionIds": [
+        "e411-morphological-rules-core",
+        "e411-morphological-rules-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological analysis",
+      "syllabusTerm": "Morphological trees",
+      "topicIds": [
+        "e411-morphological-trees-and-ambiguity"
+      ],
+      "questionIds": [
+        "e411-morphological-trees-and-ambiguity-core",
+        "e411-morphological-trees-and-ambiguity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological analysis",
+      "syllabusTerm": "Syntagmatic and paradigmatic relations",
+      "topicIds": [
+        "e411-syntagmatic-and-paradigmatic-relations"
+      ],
+      "questionIds": [
+        "e411-syntagmatic-and-paradigmatic-relations-core",
+        "e411-syntagmatic-and-paradigmatic-relations-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological variants",
+      "syllabusTerm": "Allomorphs",
+      "topicIds": [
+        "e411-morpheme-morph-and-allomorph"
+      ],
+      "questionIds": [
+        "e411-morpheme-morph-and-allomorph-core",
+        "e411-morpheme-morph-and-allomorph-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological variants",
+      "syllabusTerm": "Prosodic morphology",
+      "topicIds": [
+        "e411-prosodic-morphology"
+      ],
+      "questionIds": [
+        "e411-prosodic-morphology-core",
+        "e411-prosodic-morphology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological variants",
+      "syllabusTerm": "Zero morph",
+      "topicIds": [
+        "e411-zero-morph"
+      ],
+      "questionIds": [
+        "e411-zero-morph-core",
+        "e411-zero-morph-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            24,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological interfaces",
+      "syllabusTerm": "Morphophonology",
+      "topicIds": [
+        "e411-morphophonology"
+      ],
+      "questionIds": [
+        "e411-morphophonology-core",
+        "e411-morphophonology-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological interfaces",
+      "syllabusTerm": "Morphosyntax",
+      "topicIds": [
+        "e411-morphosyntax"
+      ],
+      "questionIds": [
+        "e411-morphosyntax-core",
+        "e411-morphosyntax-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Morphological interfaces",
+      "syllabusTerm": "Morphosemantics",
+      "topicIds": [
+        "e411-morphosemantics"
+      ],
+      "questionIds": [
+        "e411-morphosemantics-core",
+        "e411-morphosemantics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            27,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Introduction to syntax",
+      "syllabusTerm": "Syntactic categories",
+      "topicIds": [
+        "e411-syntactic-categories"
+      ],
+      "questionIds": [
+        "e411-syntactic-categories-core",
+        "e411-syntactic-categories-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            30,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Introduction to syntax",
+      "syllabusTerm": "Aspects of syntactic structure",
+      "topicIds": [
+        "e411-syntax-and-structure"
+      ],
+      "questionIds": [
+        "e411-syntax-and-structure-core",
+        "e411-syntax-and-structure-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            30,
+            31,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Word classes",
+      "syllabusTerm": "Verbs",
+      "topicIds": [
+        "e411-verbs-and-valency"
+      ],
+      "questionIds": [
+        "e411-verbs-and-valency-core",
+        "e411-verbs-and-valency-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Word classes",
+      "syllabusTerm": "Nouns",
+      "topicIds": [
+        "e411-nouns"
+      ],
+      "questionIds": [
+        "e411-nouns-core",
+        "e411-nouns-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            33,
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Word classes",
+      "syllabusTerm": "Adjectives",
+      "topicIds": [
+        "e411-adjectives"
+      ],
+      "questionIds": [
+        "e411-adjectives-core",
+        "e411-adjectives-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            34,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Word classes",
+      "syllabusTerm": "Adverbs",
+      "topicIds": [
+        "e411-adverbs"
+      ],
+      "questionIds": [
+        "e411-adverbs-core",
+        "e411-adverbs-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Word classes",
+      "syllabusTerm": "Prepositions",
+      "topicIds": [
+        "e411-prepositions"
+      ],
+      "questionIds": [
+        "e411-prepositions-core",
+        "e411-prepositions-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            35,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Constituent structure",
+      "syllabusTerm": "Noun phrase",
+      "topicIds": [
+        "e411-noun-phrases"
+      ],
+      "questionIds": [
+        "e411-noun-phrases-core",
+        "e411-noun-phrases-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Constituent structure",
+      "syllabusTerm": "Verb phrase",
+      "topicIds": [
+        "e411-verb-phrases"
+      ],
+      "questionIds": [
+        "e411-verb-phrases-core",
+        "e411-verb-phrases-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Constituent structure",
+      "syllabusTerm": "Adjective phrase",
+      "topicIds": [
+        "e411-adjective-and-adverb-phrases"
+      ],
+      "questionIds": [
+        "e411-adjective-and-adverb-phrases-core",
+        "e411-adjective-and-adverb-phrases-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Constituent structure",
+      "syllabusTerm": "Adverb phrase",
+      "topicIds": [
+        "e411-adjective-and-adverb-phrases"
+      ],
+      "questionIds": [
+        "e411-adjective-and-adverb-phrases-core",
+        "e411-adjective-and-adverb-phrases-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Constituent structure",
+      "syllabusTerm": "Prepositional phrase",
+      "topicIds": [
+        "e411-prepositional-phrases"
+      ],
+      "questionIds": [
+        "e411-prepositional-phrases-core",
+        "e411-prepositional-phrases-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Immediate constituent analysis",
+      "syllabusTerm": "IC analysis",
+      "topicIds": [
+        "e411-immediate-constituents",
+        "e411-constituency-and-attachment-ambiguity"
+      ],
+      "questionIds": [
+        "e411-immediate-constituents-core",
+        "e411-immediate-constituents-apply",
+        "e411-constituency-and-attachment-ambiguity-core",
+        "e411-constituency-and-attachment-ambiguity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            40,
+            41
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            41,
+            42,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Building syntactic structure",
+      "syllabusTerm": "Phrase structure rules",
+      "topicIds": [
+        "e411-phrase-structure-rules"
+      ],
+      "questionIds": [
+        "e411-phrase-structure-rules-core",
+        "e411-phrase-structure-rules-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Building syntactic structure",
+      "syllabusTerm": "Transformational rules",
+      "topicIds": [
+        "e411-transformational-rules"
+      ],
+      "questionIds": [
+        "e411-transformational-rules-core",
+        "e411-transformational-rules-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            44,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Building syntactic structure",
+      "syllabusTerm": "Projection",
+      "topicIds": [
+        "e411-projection"
+      ],
+      "questionIds": [
+        "e411-projection-core",
+        "e411-projection-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            45,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Building syntactic structure",
+      "syllabusTerm": "Merger",
+      "topicIds": [
+        "e411-merge"
+      ],
+      "questionIds": [
+        "e411-merge-core",
+        "e411-merge-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Building syntactic structure",
+      "syllabusTerm": "Adjunction",
+      "topicIds": [
+        "e411-adjunction"
+      ],
+      "questionIds": [
+        "e411-adjunction-core",
+        "e411-adjunction-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Clauses",
+      "syllabusTerm": "Clause types",
+      "topicIds": [
+        "e411-clause-types",
+        "e411-sentence-types-and-embedded-clauses"
+      ],
+      "questionIds": [
+        "e411-clause-types-core",
+        "e411-clause-types-apply",
+        "e411-sentence-types-and-embedded-clauses-core",
+        "e411-sentence-types-and-embedded-clauses-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            49,
+            50
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            50,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Clauses",
+      "syllabusTerm": "Clause structure",
+      "topicIds": [
+        "e411-clause-functions-and-patterns",
+        "e411-sentence-types-and-embedded-clauses"
+      ],
+      "questionIds": [
+        "e411-clause-functions-and-patterns-core",
+        "e411-clause-functions-and-patterns-apply",
+        "e411-sentence-types-and-embedded-clauses-core",
+        "e411-sentence-types-and-embedded-clauses-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "id": "E411",
+          "pages": [
+            50,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Clauses",
+      "syllabusTerm": "Clause components",
+      "topicIds": [
+        "e411-clause-functions-and-patterns"
+      ],
+      "questionIds": [
+        "e411-clause-functions-and-patterns-core",
+        "e411-clause-functions-and-patterns-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            50,
+            51,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Tense, aspect, voice and mood",
+      "syllabusTerm": "Tense",
+      "topicIds": [
+        "e411-tense"
+      ],
+      "questionIds": [
+        "e411-tense-core",
+        "e411-tense-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Tense, aspect, voice and mood",
+      "syllabusTerm": "Aspect",
+      "topicIds": [
+        "e411-aspect"
+      ],
+      "questionIds": [
+        "e411-aspect-core",
+        "e411-aspect-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            53,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Tense, aspect, voice and mood",
+      "syllabusTerm": "Voice",
+      "topicIds": [
+        "e411-voice"
+      ],
+      "questionIds": [
+        "e411-voice-core",
+        "e411-voice-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            54,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Tense, aspect, voice and mood",
+      "syllabusTerm": "Mood",
+      "topicIds": [
+        "e411-mood-and-modality"
+      ],
+      "questionIds": [
+        "e411-mood-and-modality-core",
+        "e411-mood-and-modality-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Theories of syntax",
+      "syllabusTerm": "Relational grammar",
+      "topicIds": [
+        "e411-relational-grammar"
+      ],
+      "questionIds": [
+        "e411-relational-grammar-core",
+        "e411-relational-grammar-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            56
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Theories of syntax",
+      "syllabusTerm": "Lexical-Functional grammar",
+      "topicIds": [
+        "e411-lexical-functional-grammar"
+      ],
+      "questionIds": [
+        "e411-lexical-functional-grammar-core",
+        "e411-lexical-functional-grammar-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            56,
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Theories of syntax",
+      "syllabusTerm": "Government-Binding theory",
+      "topicIds": [
+        "e411-government-and-binding"
+      ],
+      "questionIds": [
+        "e411-government-and-binding-core",
+        "e411-government-and-binding-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            57,
+            58
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E411",
+      "group": "Theories of syntax",
+      "syllabusTerm": "Role and Reference grammar",
+      "topicIds": [
+        "e411-role-and-reference-grammar"
+      ],
+      "questionIds": [
+        "e411-role-and-reference-grammar-core",
+        "e411-role-and-reference-grammar-apply"
+      ],
+      "sources": [
+        {
+          "id": "E411",
+          "pages": [
+            58,
+            59,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Introduction to psycholinguistics",
+      "syllabusTerm": "Definition of psycholinguistics",
+      "topicIds": [
+        "e412-psycholinguistics"
+      ],
+      "questionIds": [
+        "e412-psycholinguistics-core",
+        "e412-psycholinguistics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            4,
+            5,
+            6,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Introduction to psycholinguistics",
+      "syllabusTerm": "History and development",
+      "topicIds": [
+        "e412-history-of-psycholinguistics"
+      ],
+      "questionIds": [
+        "e412-history-of-psycholinguistics-core",
+        "e412-history-of-psycholinguistics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Introduction to psycholinguistics",
+      "syllabusTerm": "Scope of psycholinguistics",
+      "topicIds": [
+        "e412-psycholinguistics",
+        "e412-speech-production",
+        "e412-comprehension-and-context"
+      ],
+      "questionIds": [
+        "e412-psycholinguistics-core",
+        "e412-psycholinguistics-apply",
+        "e412-speech-production-core",
+        "e412-speech-production-apply",
+        "e412-comprehension-and-context-core",
+        "e412-comprehension-and-context-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            4,
+            5,
+            6,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            5,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Introduction to psycholinguistics",
+      "syllabusTerm": "Branches of psycholinguistics",
+      "topicIds": [
+        "e412-branches-of-psycholinguistics"
+      ],
+      "questionIds": [
+        "e412-branches-of-psycholinguistics-core",
+        "e412-branches-of-psycholinguistics-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Child language acquisition",
+      "syllabusTerm": "Pre-linguistic stage",
+      "topicIds": [
+        "e412-pre-linguistic-development",
+        "e412-caretaker-speech",
+        "e412-critical-and-sensitive-periods",
+        "e412-deprivation-evidence"
+      ],
+      "questionIds": [
+        "e412-pre-linguistic-development-core",
+        "e412-pre-linguistic-development-apply",
+        "e412-caretaker-speech-core",
+        "e412-caretaker-speech-apply",
+        "e412-critical-and-sensitive-periods-core",
+        "e412-critical-and-sensitive-periods-apply",
+        "e412-deprivation-evidence-core",
+        "e412-deprivation-evidence-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "e412-cph-research"
+        },
+        {
+          "id": "E412",
+          "pages": [
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Child language acquisition",
+      "syllabusTerm": "Babbling stage",
+      "topicIds": [
+        "e412-babbling"
+      ],
+      "questionIds": [
+        "e412-babbling-core",
+        "e412-babbling-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Child language acquisition",
+      "syllabusTerm": "Sensori-motor stage",
+      "topicIds": [
+        "e412-sensori-motor-development"
+      ],
+      "questionIds": [
+        "e412-sensori-motor-development-core",
+        "e412-sensori-motor-development-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Child language acquisition",
+      "syllabusTerm": "Holophrastic stage",
+      "topicIds": [
+        "e412-holophrastic-stage"
+      ],
+      "questionIds": [
+        "e412-holophrastic-stage-core",
+        "e412-holophrastic-stage-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            21,
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Child language acquisition",
+      "syllabusTerm": "Two-word stage",
+      "topicIds": [
+        "e412-two-word-combinations"
+      ],
+      "questionIds": [
+        "e412-two-word-combinations-core",
+        "e412-two-word-combinations-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Child language acquisition",
+      "syllabusTerm": "Telegraphic stage",
+      "topicIds": [
+        "e412-telegraphic-speech",
+        "e412-overgeneralisation-and-the-wug-test"
+      ],
+      "questionIds": [
+        "e412-telegraphic-speech-core",
+        "e412-telegraphic-speech-apply",
+        "e412-overgeneralisation-and-the-wug-test-core",
+        "e412-overgeneralisation-and-the-wug-test-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            24,
+            25
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            26,
+            27,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L1 acquisition theories",
+      "syllabusTerm": "Behaviourist theory",
+      "topicIds": [
+        "e412-behaviourist-acquisition-theory",
+        "e412-nature-and-nurture"
+      ],
+      "questionIds": [
+        "e412-behaviourist-acquisition-theory-core",
+        "e412-behaviourist-acquisition-theory-apply",
+        "e412-nature-and-nurture-core",
+        "e412-nature-and-nurture-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            45,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L1 acquisition theories",
+      "syllabusTerm": "Mentalist theory",
+      "topicIds": [
+        "e412-mentalist-and-innatist-theory",
+        "e412-nature-and-nurture"
+      ],
+      "questionIds": [
+        "e412-mentalist-and-innatist-theory-core",
+        "e412-mentalist-and-innatist-theory-apply",
+        "e412-nature-and-nurture-core",
+        "e412-nature-and-nurture-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            45,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L1 acquisition theories",
+      "syllabusTerm": "Biological theory",
+      "topicIds": [
+        "e412-biological-theory",
+        "e412-nature-and-nurture"
+      ],
+      "questionIds": [
+        "e412-biological-theory-core",
+        "e412-biological-theory-apply",
+        "e412-nature-and-nurture-core",
+        "e412-nature-and-nurture-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            45,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L1 acquisition theories",
+      "syllabusTerm": "Cognitive theory",
+      "topicIds": [
+        "e412-cognitive-acquisition-theory",
+        "e412-nature-and-nurture"
+      ],
+      "questionIds": [
+        "e412-cognitive-acquisition-theory-core",
+        "e412-cognitive-acquisition-theory-apply",
+        "e412-nature-and-nurture-core",
+        "e412-nature-and-nurture-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            41,
+            42
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            45,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L1 acquisition theories",
+      "syllabusTerm": "Sociological theory",
+      "topicIds": [
+        "e412-social-interactionist-theory",
+        "e412-nature-and-nurture"
+      ],
+      "questionIds": [
+        "e412-social-interactionist-theory-core",
+        "e412-social-interactionist-theory-apply",
+        "e412-nature-and-nurture-core",
+        "e412-nature-and-nurture-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            43,
+            44
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            35,
+            45,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L2 learning theories",
+      "syllabusTerm": "Monitor Model",
+      "topicIds": [
+        "e412-krashen-s-monitor-model",
+        "e412-acquisition-learning-and-monitoring",
+        "e412-comprehensible-input-and-affect"
+      ],
+      "questionIds": [
+        "e412-krashen-s-monitor-model-core",
+        "e412-krashen-s-monitor-model-apply",
+        "e412-acquisition-learning-and-monitoring-core",
+        "e412-acquisition-learning-and-monitoring-apply",
+        "e412-comprehensible-input-and-affect-core",
+        "e412-comprehensible-input-and-affect-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            48,
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L2 learning theories",
+      "syllabusTerm": "Interlanguage theory",
+      "topicIds": [
+        "e412-interlanguage"
+      ],
+      "questionIds": [
+        "e412-interlanguage-core",
+        "e412-interlanguage-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            49,
+            50,
+            51,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L2 learning theories",
+      "syllabusTerm": "Linguistic universals",
+      "topicIds": [
+        "e412-linguistic-universals"
+      ],
+      "questionIds": [
+        "e412-linguistic-universals-core",
+        "e412-linguistic-universals-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            52,
+            53,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L2 learning theories",
+      "syllabusTerm": "Acculturation theory",
+      "topicIds": [
+        "e412-acculturation-theory"
+      ],
+      "questionIds": [
+        "e412-acculturation-theory-core",
+        "e412-acculturation-theory-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            54,
+            55,
+            56
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "L2 learning theories",
+      "syllabusTerm": "Cognitive theory of L2 learning",
+      "topicIds": [
+        "e412-mclaughlin-s-cognitive-theory",
+        "e412-sociocultural-theory-and-zpd"
+      ],
+      "questionIds": [
+        "e412-mclaughlin-s-cognitive-theory-core",
+        "e412-mclaughlin-s-cognitive-theory-apply",
+        "e412-sociocultural-theory-and-zpd-core",
+        "e412-sociocultural-theory-and-zpd-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            56,
+            57
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            58,
+            59
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Age",
+      "topicIds": [
+        "e412-age-and-ultimate-attainment"
+      ],
+      "questionIds": [
+        "e412-age-and-ultimate-attainment-core",
+        "e412-age-and-ultimate-attainment-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            63,
+            64
+          ]
+        },
+        {
+          "id": "e412-cph-research"
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Aptitude",
+      "topicIds": [
+        "e412-language-aptitude"
+      ],
+      "questionIds": [
+        "e412-language-aptitude-core",
+        "e412-language-aptitude-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            64,
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Attitude",
+      "topicIds": [
+        "e412-attitude"
+      ],
+      "questionIds": [
+        "e412-attitude-core",
+        "e412-attitude-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            65,
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Motivation",
+      "topicIds": [
+        "e412-motivation",
+        "e412-identity-investment-and-learner-strategies"
+      ],
+      "questionIds": [
+        "e412-motivation-core",
+        "e412-motivation-apply",
+        "e412-identity-investment-and-learner-strategies-core",
+        "e412-identity-investment-and-learner-strategies-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            67,
+            68
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            76,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Personality",
+      "topicIds": [
+        "e412-personality-anxiety-and-willingness-to-communicate",
+        "e412-identity-investment-and-learner-strategies"
+      ],
+      "questionIds": [
+        "e412-personality-anxiety-and-willingness-to-communicate-core",
+        "e412-personality-anxiety-and-willingness-to-communicate-apply",
+        "e412-identity-investment-and-learner-strategies-core",
+        "e412-identity-investment-and-learner-strategies-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            76,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Cognitive style",
+      "topicIds": [
+        "e412-cognitive-style-and-learning-style-claims"
+      ],
+      "questionIds": [
+        "e412-cognitive-style-and-learning-style-claims-core",
+        "e412-cognitive-style-and-learning-style-claims-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            70,
+            71
+          ]
+        },
+        {
+          "id": "e412-styles-review"
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Memory",
+      "topicIds": [
+        "e412-memory-and-working-memory"
+      ],
+      "questionIds": [
+        "e412-memory-and-working-memory-core",
+        "e412-memory-and-working-memory-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            71,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Transfer of training",
+      "topicIds": [
+        "e412-transfer-and-transfer-of-training"
+      ],
+      "questionIds": [
+        "e412-transfer-and-transfer-of-training-core",
+        "e412-transfer-and-transfer-of-training-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            72,
+            73
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Intelligence",
+      "topicIds": [
+        "e412-intelligence-and-language-learning"
+      ],
+      "questionIds": [
+        "e412-intelligence-and-language-learning-core",
+        "e412-intelligence-and-language-learning-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            73,
+            74
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Individual factors in L2 learning",
+      "syllabusTerm": "Fossilization",
+      "topicIds": [
+        "e412-fossilization-and-stabilisation"
+      ],
+      "questionIds": [
+        "e412-fossilization-and-stabilisation-core",
+        "e412-fossilization-and-stabilisation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            75,
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Neurolinguistics",
+      "syllabusTerm": "Aphasia",
+      "topicIds": [
+        "e412-neurolinguistics-and-lateralisation",
+        "e412-aphasia",
+        "e412-broca-type-and-wernicke-type-profiles",
+        "e412-brain-imaging-and-behavioural-methods",
+        "e412-plasticity-and-modularity"
+      ],
+      "questionIds": [
+        "e412-neurolinguistics-and-lateralisation-core",
+        "e412-neurolinguistics-and-lateralisation-apply",
+        "e412-aphasia-core",
+        "e412-aphasia-apply",
+        "e412-broca-type-and-wernicke-type-profiles-core",
+        "e412-broca-type-and-wernicke-type-profiles-apply",
+        "e412-brain-imaging-and-behavioural-methods-core",
+        "e412-brain-imaging-and-behavioural-methods-apply",
+        "e412-plasticity-and-modularity-core",
+        "e412-plasticity-and-modularity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            80,
+            81,
+            82
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            83,
+            84
+          ]
+        },
+        {
+          "id": "e412-aphasia-nidcd"
+        },
+        {
+          "id": "E412",
+          "pages": [
+            83,
+            84
+          ]
+        },
+        {
+          "id": "e412-aphasia-nidcd"
+        },
+        {
+          "id": "E412",
+          "pages": [
+            87,
+            88
+          ]
+        },
+        {
+          "id": "E412",
+          "pages": [
+            88,
+            89,
+            90,
+            91
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Neurolinguistics",
+      "syllabusTerm": "Dyslexia",
+      "topicIds": [
+        "e412-dyslexia"
+      ],
+      "questionIds": [
+        "e412-dyslexia-core",
+        "e412-dyslexia-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            84,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E412",
+      "group": "Neurolinguistics",
+      "syllabusTerm": "Language therapy",
+      "topicIds": [
+        "e412-language-therapy",
+        "e412-plasticity-and-modularity"
+      ],
+      "questionIds": [
+        "e412-language-therapy-core",
+        "e412-language-therapy-apply",
+        "e412-plasticity-and-modularity-core",
+        "e412-plasticity-and-modularity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E412",
+          "pages": [
+            86
+          ]
+        },
+        {
+          "id": "e412-aphasia-nidcd"
+        },
+        {
+          "id": "E412",
+          "pages": [
+            88,
+            89,
+            90,
+            91
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research: concept, nature and types",
+      "syllabusTerm": "Research concept and nature",
+      "topicIds": [
+        "e413-research-and-its-quality",
+        "e413-research-classifications",
+        "e413-induction-and-deduction",
+        "e413-longitudinal-and-cross-sectional-designs"
+      ],
+      "questionIds": [
+        "e413-research-and-its-quality-core",
+        "e413-research-and-its-quality-apply",
+        "e413-research-classifications-core",
+        "e413-research-classifications-apply",
+        "e413-induction-and-deduction-core",
+        "e413-induction-and-deduction-apply",
+        "e413-longitudinal-and-cross-sectional-designs-core",
+        "e413-longitudinal-and-cross-sectional-designs-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            3
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            5
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            6,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research: concept, nature and types",
+      "syllabusTerm": "Qualitative research",
+      "topicIds": [
+        "e413-qualitative-research"
+      ],
+      "questionIds": [
+        "e413-qualitative-research-core",
+        "e413-qualitative-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research: concept, nature and types",
+      "syllabusTerm": "Quantitative research",
+      "topicIds": [
+        "e413-quantitative-research"
+      ],
+      "questionIds": [
+        "e413-quantitative-research-core",
+        "e413-quantitative-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research: concept, nature and types",
+      "syllabusTerm": "Mixed methods",
+      "topicIds": [
+        "e413-mixed-methods"
+      ],
+      "questionIds": [
+        "e413-mixed-methods-core",
+        "e413-mixed-methods-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            5,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Narrative inquiry",
+      "topicIds": [
+        "e413-narrative-inquiry"
+      ],
+      "questionIds": [
+        "e413-narrative-inquiry-core",
+        "e413-narrative-inquiry-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            12,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Case study",
+      "topicIds": [
+        "e413-case-study",
+        "e413-case-study-types",
+        "e413-ethnography-and-reflexivity"
+      ],
+      "questionIds": [
+        "e413-case-study-core",
+        "e413-case-study-apply",
+        "e413-case-study-types-core",
+        "e413-case-study-types-apply",
+        "e413-ethnography-and-reflexivity-core",
+        "e413-ethnography-and-reflexivity-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            17
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            17
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Action research",
+      "topicIds": [
+        "e413-action-research"
+      ],
+      "questionIds": [
+        "e413-action-research-core",
+        "e413-action-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Grounded theory method",
+      "topicIds": [
+        "e413-grounded-theory"
+      ],
+      "questionIds": [
+        "e413-grounded-theory-core",
+        "e413-grounded-theory-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Survey research",
+      "topicIds": [
+        "e413-survey-research"
+      ],
+      "questionIds": [
+        "e413-survey-research-core",
+        "e413-survey-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Experimental research",
+      "topicIds": [
+        "e413-experimental-and-quasi-experimental-research",
+        "e413-experimental-designs"
+      ],
+      "questionIds": [
+        "e413-experimental-and-quasi-experimental-research-core",
+        "e413-experimental-and-quasi-experimental-research-apply",
+        "e413-experimental-designs-core",
+        "e413-experimental-designs-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            6,
+            13,
+            14
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Corpus research",
+      "topicIds": [
+        "e413-corpus-research"
+      ],
+      "questionIds": [
+        "e413-corpus-research-core",
+        "e413-corpus-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-corpus"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Digital discourse research",
+      "topicIds": [
+        "e413-digital-discourse-research"
+      ],
+      "questionIds": [
+        "e413-digital-discourse-research-core",
+        "e413-digital-discourse-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-digital"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Psycholinguistics methods",
+      "topicIds": [
+        "e413-psycholinguistic-methods"
+      ],
+      "questionIds": [
+        "e413-psycholinguistic-methods-core",
+        "e413-psycholinguistic-methods-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-psychomethod"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Critical research",
+      "topicIds": [
+        "e413-critical-research"
+      ],
+      "questionIds": [
+        "e413-critical-research-core",
+        "e413-critical-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Interdisciplinary research",
+      "topicIds": [
+        "e413-interdisciplinary-research"
+      ],
+      "questionIds": [
+        "e413-interdisciplinary-research-core",
+        "e413-interdisciplinary-research-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-interdisciplinary"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Discourse analysis",
+      "topicIds": [
+        "e413-discourse-analysis-and-cda"
+      ],
+      "questionIds": [
+        "e413-discourse-analysis-and-cda-core",
+        "e413-discourse-analysis-and-cda-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Research methods in Applied Linguistics and ELT",
+      "syllabusTerm": "Critical discourse analysis",
+      "topicIds": [
+        "e413-discourse-analysis-and-cda"
+      ],
+      "questionIds": [
+        "e413-discourse-analysis-and-cda-core",
+        "e413-discourse-analysis-and-cda-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Basics of research",
+      "syllabusTerm": "Statement of the problem",
+      "topicIds": [
+        "e413-research-problem-and-scope"
+      ],
+      "questionIds": [
+        "e413-research-problem-and-scope-core",
+        "e413-research-problem-and-scope-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Basics of research",
+      "syllabusTerm": "Objective of the study",
+      "topicIds": [
+        "e413-research-objectives-and-justification"
+      ],
+      "questionIds": [
+        "e413-research-objectives-and-justification-core",
+        "e413-research-objectives-and-justification-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            8,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Basics of research",
+      "syllabusTerm": "Justification of the study",
+      "topicIds": [
+        "e413-research-objectives-and-justification"
+      ],
+      "questionIds": [
+        "e413-research-objectives-and-justification-core",
+        "e413-research-objectives-and-justification-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            8,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Basics of research",
+      "syllabusTerm": "Research questions and hypotheses",
+      "topicIds": [
+        "e413-research-questions-and-hypotheses"
+      ],
+      "questionIds": [
+        "e413-research-questions-and-hypotheses-core",
+        "e413-research-questions-and-hypotheses-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Basics of research",
+      "syllabusTerm": "Definition of terms",
+      "topicIds": [
+        "e413-operational-definitions-and-variables"
+      ],
+      "questionIds": [
+        "e413-operational-definitions-and-variables-core",
+        "e413-operational-definitions-and-variables-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Basics of research",
+      "syllabusTerm": "Limitations of the study",
+      "topicIds": [
+        "e413-limitations-and-confounds"
+      ],
+      "questionIds": [
+        "e413-limitations-and-confounds-core",
+        "e413-limitations-and-confounds-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            13,
+            21,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Literature review",
+      "syllabusTerm": "Literature review: what, why and how",
+      "topicIds": [
+        "e413-literature-review-and-synthesis",
+        "e413-research-gaps"
+      ],
+      "questionIds": [
+        "e413-literature-review-and-synthesis-core",
+        "e413-literature-review-and-synthesis-apply",
+        "e413-research-gaps-core",
+        "e413-research-gaps-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            8,
+            9
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Sampling and evidence",
+      "syllabusTerm": "Sampling",
+      "topicIds": [
+        "e413-population-sample-and-sampling",
+        "e413-probability-sampling",
+        "e413-non-probability-sampling",
+        "e413-sample-size-and-saturation"
+      ],
+      "questionIds": [
+        "e413-population-sample-and-sampling-core",
+        "e413-population-sample-and-sampling-apply",
+        "e413-probability-sampling-core",
+        "e413-probability-sampling-apply",
+        "e413-non-probability-sampling-core",
+        "e413-non-probability-sampling-apply",
+        "e413-sample-size-and-saturation-core",
+        "e413-sample-size-and-saturation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            20,
+            21
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            20
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            20
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Sampling and evidence",
+      "syllabusTerm": "Instrumentation",
+      "topicIds": [
+        "e413-questionnaires-and-instrumentation",
+        "e413-validity-and-reliability"
+      ],
+      "questionIds": [
+        "e413-questionnaires-and-instrumentation-core",
+        "e413-questionnaires-and-instrumentation-apply",
+        "e413-validity-and-reliability-core",
+        "e413-validity-and-reliability-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            22,
+            23
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            3,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Sampling and evidence",
+      "syllabusTerm": "Triangulation",
+      "topicIds": [
+        "e413-triangulation"
+      ],
+      "questionIds": [
+        "e413-triangulation-core",
+        "e413-triangulation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Sampling and evidence",
+      "syllabusTerm": "Data collection",
+      "topicIds": [
+        "e413-ethnography-and-reflexivity",
+        "e413-observation-and-interviews",
+        "e413-ethics-and-consent",
+        "e413-research-transcription",
+        "e413-qualitative-coding"
+      ],
+      "questionIds": [
+        "e413-ethnography-and-reflexivity-core",
+        "e413-ethnography-and-reflexivity-apply",
+        "e413-observation-and-interviews-core",
+        "e413-observation-and-interviews-apply",
+        "e413-ethics-and-consent-core",
+        "e413-ethics-and-consent-apply",
+        "e413-research-transcription-core",
+        "e413-research-transcription-apply",
+        "e413-qualitative-coding-core",
+        "e413-qualitative-coding-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            18,
+            19
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            24,
+            25
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            21,
+            22,
+            25
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            27
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            26,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Data analysis",
+      "syllabusTerm": "Frequency",
+      "topicIds": [
+        "e413-frequency-and-distributions"
+      ],
+      "questionIds": [
+        "e413-frequency-and-distributions-core",
+        "e413-frequency-and-distributions-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Data analysis",
+      "syllabusTerm": "Distribution",
+      "topicIds": [
+        "e413-frequency-and-distributions",
+        "e413-central-tendency-and-spread"
+      ],
+      "questionIds": [
+        "e413-frequency-and-distributions-core",
+        "e413-frequency-and-distributions-apply",
+        "e413-central-tendency-and-spread-core",
+        "e413-central-tendency-and-spread-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            28,
+            29
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Data analysis",
+      "syllabusTerm": "Chi-square",
+      "topicIds": [
+        "e413-chi-square"
+      ],
+      "questionIds": [
+        "e413-chi-square-core",
+        "e413-chi-square-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Data analysis",
+      "syllabusTerm": "Pearson correlation coefficient",
+      "topicIds": [
+        "e413-pearson-correlation"
+      ],
+      "questionIds": [
+        "e413-pearson-correlation-core",
+        "e413-pearson-correlation-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-pearson"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Data analysis",
+      "syllabusTerm": "Zed test",
+      "topicIds": [
+        "e413-z-tests-and-t-tests"
+      ],
+      "questionIds": [
+        "e413-z-tests-and-t-tests-core",
+        "e413-z-tests-and-t-tests-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-ztest"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Data analysis",
+      "syllabusTerm": "T-test",
+      "topicIds": [
+        "e413-z-tests-and-t-tests"
+      ],
+      "questionIds": [
+        "e413-z-tests-and-t-tests-core",
+        "e413-z-tests-and-t-tests-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-ztest"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Data analysis",
+      "syllabusTerm": "Factor analysis",
+      "topicIds": [
+        "e413-factor-analysis"
+      ],
+      "questionIds": [
+        "e413-factor-analysis-core",
+        "e413-factor-analysis-apply"
+      ],
+      "sources": [
+        {
+          "id": "e413-factor"
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Findings and discussion",
+      "syllabusTerm": "Presentation of findings",
+      "topicIds": [
+        "e413-results-and-discussion"
+      ],
+      "questionIds": [
+        "e413-results-and-discussion-core",
+        "e413-results-and-discussion-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Findings and discussion",
+      "syllabusTerm": "Discussion",
+      "topicIds": [
+        "e413-results-and-discussion"
+      ],
+      "questionIds": [
+        "e413-results-and-discussion-core",
+        "e413-results-and-discussion-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Conclusion",
+      "syllabusTerm": "Inference",
+      "topicIds": [
+        "e413-inference-and-recommendations"
+      ],
+      "questionIds": [
+        "e413-inference-and-recommendations-core",
+        "e413-inference-and-recommendations-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            3,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Conclusion",
+      "syllabusTerm": "Recommendations",
+      "topicIds": [
+        "e413-inference-and-recommendations"
+      ],
+      "questionIds": [
+        "e413-inference-and-recommendations-core",
+        "e413-inference-and-recommendations-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            3,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Documentation and writing",
+      "syllabusTerm": "Plagiarism",
+      "topicIds": [
+        "e413-citation-and-plagiarism"
+      ],
+      "questionIds": [
+        "e413-citation-and-plagiarism-core",
+        "e413-citation-and-plagiarism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Documentation and writing",
+      "syllabusTerm": "Citations",
+      "topicIds": [
+        "e413-citation-and-plagiarism"
+      ],
+      "questionIds": [
+        "e413-citation-and-plagiarism-core",
+        "e413-citation-and-plagiarism-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Documentation and writing",
+      "syllabusTerm": "In-text references",
+      "topicIds": [
+        "e413-citation-and-plagiarism",
+        "e413-apa-in-text-citation-and-quotation"
+      ],
+      "questionIds": [
+        "e413-citation-and-plagiarism-core",
+        "e413-citation-and-plagiarism-apply",
+        "e413-apa-in-text-citation-and-quotation-core",
+        "e413-apa-in-text-citation-and-quotation-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            31
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            31,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Documentation and writing",
+      "syllabusTerm": "APA style",
+      "topicIds": [
+        "e413-apa-in-text-citation-and-quotation",
+        "e413-apa-reference-entries"
+      ],
+      "questionIds": [
+        "e413-apa-in-text-citation-and-quotation-core",
+        "e413-apa-in-text-citation-and-quotation-apply",
+        "e413-apa-reference-entries-core",
+        "e413-apa-reference-entries-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            31,
+            32
+          ]
+        },
+        {
+          "id": "E413",
+          "pages": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Documentation and writing",
+      "syllabusTerm": "Structures of research papers and dissertations",
+      "topicIds": [
+        "e413-research-papers-and-dissertations"
+      ],
+      "questionIds": [
+        "e413-research-papers-and-dissertations-core",
+        "e413-research-papers-and-dissertations-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Documentation and writing",
+      "syllabusTerm": "Writing a research proposal",
+      "topicIds": [
+        "e413-research-proposals-and-frameworks"
+      ],
+      "questionIds": [
+        "e413-research-proposals-and-frameworks-core",
+        "e413-research-proposals-and-frameworks-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "E413",
+      "group": "Documentation and writing",
+      "syllabusTerm": "Writing a research article",
+      "topicIds": [
+        "e413-research-papers-and-dissertations"
+      ],
+      "questionIds": [
+        "e413-research-papers-and-dissertations-core",
+        "e413-research-papers-and-dissertations-apply"
+      ],
+      "sources": [
+        {
+          "id": "E413",
+          "pages": [
+            30
+          ]
+        }
+      ]
+    }
+  ]
+}

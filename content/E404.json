@@ -1,0 +1,2836 @@
+{
+  "id": "E404",
+  "title": "Sociolinguistics",
+  "shortTitle": "Sociolinguistics",
+  "overview": "Sociolinguistics connects language patterns with communities, institutions and everyday relationships. Start with varieties and contact, follow variation across place and time, then examine how policy, culture, gender and power shape language opportunities and identities.",
+  "journey": [
+    "Recognise systematic varieties and their social meanings.",
+    "Understand multilingual contact, switching and language change.",
+    "Examine planning, institutions and language ideologies.",
+    "Connect culture, identity and inequality with evidence from real language use."
+  ],
+  "sources": [
+    {
+      "id": "E404",
+      "title": "E404.pdf",
+      "kind": "pdf",
+      "file": "E404.pdf",
+      "pageCount": 51
+    },
+    {
+      "id": "e404-creole-genesis",
+      "title": "DeGraff: Creoles, Cambridge Encyclopedia of the Language Sciences",
+      "kind": "web",
+      "url": "https://lingphil.mit.edu/papers/degraff/degraff2011creoles_in_cambridge_encyclopedia.pdf"
+    },
+    {
+      "id": "e404-codeswitch",
+      "title": "Cambridge Handbook of Linguistic Code-switching: Themes",
+      "kind": "web",
+      "url": "https://assets.cambridge.org/97805218/75912/excerpt/9780521875912_excerpt.htm"
+    },
+    {
+      "id": "e404-gender-local",
+      "title": "Eckert and McConnell-Ginet: Communities of practice, where language, gender, and power all live",
+      "kind": "web",
+      "url": "https://web.stanford.edu/~eckert/PDF/Communitiesof.pdf"
+    },
+    {
+      "id": "e404-fossilization",
+      "title": "Han: Forty years later, updating the Fossilization Hypothesis",
+      "kind": "web",
+      "url": "https://www.cambridge.org/core/journals/language-teaching/article/abs/forty-years-later-updating-the-fossilization-hypothesis/FC11A96BBCBF0790994DC1FE26915052"
+    }
+  ],
+  "groups": [
+    {
+      "id": "e404-intro",
+      "title": "Definition and scope",
+      "syllabus": [
+        "Definition of sociolinguistics",
+        "Scope of sociolinguistics"
+      ]
+    },
+    {
+      "id": "e404-sociology",
+      "title": "Sociolinguistics and sociology of language",
+      "syllabus": [
+        "Sociolinguistics and sociology of language"
+      ]
+    },
+    {
+      "id": "e404-varieties",
+      "title": "Language and dialect",
+      "syllabus": [
+        "Language and dialect",
+        "Standard language",
+        "Language standardization"
+      ]
+    },
+    {
+      "id": "e404-contact",
+      "title": "Pidgins and creoles",
+      "syllabus": [
+        "Pidgin and pidginization",
+        "Creole",
+        "Post-creole continuum"
+      ]
+    },
+    {
+      "id": "e404-geography",
+      "title": "Language and geography",
+      "syllabus": [
+        "Wave theory",
+        "Isogloss"
+      ]
+    },
+    {
+      "id": "e404-multilingual",
+      "title": "Diglossia and multilingualism",
+      "syllabus": [
+        "Diglossia",
+        "Bilingualism",
+        "Multilingualism"
+      ]
+    },
+    {
+      "id": "e404-codes",
+      "title": "Code-switching, mixing and borrowing",
+      "syllabus": [
+        "Code-switching",
+        "Code-mixing",
+        "Borrowing"
+      ]
+    },
+    {
+      "id": "e404-policy",
+      "title": "Language planning and policy",
+      "syllabus": [
+        "Language planning",
+        "Language policy: theories and ideologies",
+        "Language policy case studies"
+      ]
+    },
+    {
+      "id": "e404-variation",
+      "title": "Language variation and change",
+      "syllabus": [
+        "Language variation",
+        "Language change"
+      ]
+    },
+    {
+      "id": "e404-culture",
+      "title": "Language and culture",
+      "syllabus": [
+        "Language and culture",
+        "Sapir-Whorf hypothesis",
+        "Representation theory (Stuart Hall)"
+      ]
+    },
+    {
+      "id": "e404-gender",
+      "title": "Language, gender and identity",
+      "syllabus": [
+        "Language and gender",
+        "Language identity"
+      ]
+    },
+    {
+      "id": "e404-imperialism",
+      "title": "Linguistic imperialism",
+      "syllabus": [
+        "Linguistic imperialism"
+      ]
+    },
+    {
+      "id": "e404-fossilization",
+      "title": "Language fossilization",
+      "syllabus": [
+        "Language fossilization"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "e404-sociolinguistics",
+      "groupId": "e404-intro",
+      "title": "Sociolinguistics",
+      "aliases": [],
+      "core": "Sociolinguistics studies relationships between language and social life.",
+      "explanation": "It examines variation, interaction, identity, attitudes and institutions, asking how language both reflects and helps organise social relations.",
+      "example": "Teaching illustration: Compare how the same speaker addresses friends and a lecturer.",
+      "confusion": "Social influences do not make variation random or ruleless.",
+      "syllabusTerms": [
+        "Definition of sociolinguistics"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            5,
+            6
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-sociolinguistics-core",
+          "prompt": "Explain sociolinguistics briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Sociolinguistics studies relationships between language and social life.",
+          "answer": "Sociolinguistics studies relationships between language and social life. It examines variation, interaction, identity, attitudes and institutions, asking how language both reflects and helps organise social relations.",
+          "keyPoints": [
+            "Sociolinguistics studies relationships between language and social life.",
+            "It examines variation, interaction, identity, attitudes and institutions, asking how language both reflects and helps organise social relations."
+          ],
+          "followUps": [
+            "e404-sociolinguistics-apply"
+          ]
+        },
+        {
+          "id": "e404-sociolinguistics-apply",
+          "prompt": "Why is sociolinguistics relevant to teaching English?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It helps teachers understand learners' varieties, identities and communicative contexts, and question prejudices that confuse linguistic difference with lack of ability.",
+          "answer": "It helps teachers understand learners' varieties, identities and communicative contexts, and question prejudices that confuse linguistic difference with lack of ability.",
+          "keyPoints": [
+            "It helps teachers understand learners' varieties, identities and communicative contexts, and question prejudices that confuse linguistic difference with lack of ability."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-scope-and-language-attitudes",
+      "groupId": "e404-intro",
+      "title": "Scope and language attitudes",
+      "aliases": [],
+      "core": "The field includes language variation, contact, policy, identities and attitudes.",
+      "explanation": "Language attitudes are evaluations of languages, varieties or speakers; they can affect educational opportunity and linguistic choices.",
+      "example": "Teaching illustration: An accent is praised in one group and stigmatised in another.",
+      "confusion": "Judgments of a speaker's intelligence may reflect social stereotypes about an accent.",
+      "syllabusTerms": [
+        "Scope of sociolinguistics"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-scope-and-language-attitudes-core",
+          "prompt": "Explain scope and language attitudes briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "The field includes language variation, contact, policy, identities and attitudes.",
+          "answer": "The field includes language variation, contact, policy, identities and attitudes. Language attitudes are evaluations of languages, varieties or speakers; they can affect educational opportunity and linguistic choices.",
+          "keyPoints": [
+            "The field includes language variation, contact, policy, identities and attitudes.",
+            "Language attitudes are evaluations of languages, varieties or speakers; they can affect educational opportunity and linguistic choices."
+          ],
+          "followUps": [
+            "e404-scope-and-language-attitudes-apply"
+          ]
+        },
+        {
+          "id": "e404-scope-and-language-attitudes-apply",
+          "prompt": "What could an accent-attitude study reveal beyond pronunciation differences?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It could show how listeners attach prestige, competence or group membership to speech and how these evaluations influence social opportunities.",
+          "answer": "It could show how listeners attach prestige, competence or group membership to speech and how these evaluations influence social opportunities.",
+          "keyPoints": [
+            "It could show how listeners attach prestige, competence or group membership to speech and how these evaluations influence social opportunities."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-sociolinguistics-and-sociology-of-language",
+      "groupId": "e404-sociology",
+      "title": "Sociolinguistics and sociology of language",
+      "aliases": [],
+      "core": "The two fields overlap but differ in analytical emphasis.",
+      "explanation": "Sociolinguistics often starts with linguistic variation or use; sociology of language often starts with institutions, groups and the social distribution of languages.",
+      "example": "Teaching illustration: Compare a pronunciation variable across classes, or examine how official-language policy structures access.",
+      "confusion": "The distinction is an emphasis, not a rigid one-way society-to-language versus language-to-society split.",
+      "syllabusTerms": [
+        "Sociolinguistics and sociology of language"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-sociolinguistics-and-sociology-of-language-core",
+          "prompt": "Explain sociolinguistics and sociology of language briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "The two fields overlap but differ in analytical emphasis.",
+          "answer": "The two fields overlap but differ in analytical emphasis. Sociolinguistics often starts with linguistic variation or use; sociology of language often starts with institutions, groups and the social distribution of languages.",
+          "keyPoints": [
+            "The two fields overlap but differ in analytical emphasis.",
+            "Sociolinguistics often starts with linguistic variation or use; sociology of language often starts with institutions, groups and the social distribution of languages."
+          ],
+          "followUps": [
+            "e404-sociolinguistics-and-sociology-of-language-apply"
+          ]
+        },
+        {
+          "id": "e404-sociolinguistics-and-sociology-of-language-apply",
+          "prompt": "Would studying language use across government institutions fit sociology of language?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. It examines how languages are distributed within social institutions, though the same project may also use sociolinguistic analysis.",
+          "keyPoints": [
+            "Yes. It examines how languages are distributed within social institutions, though the same project may also use sociolinguistic analysis."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-language-and-dialect",
+      "groupId": "e404-varieties",
+      "title": "Language and dialect",
+      "aliases": [],
+      "core": "A dialect is a systematic variety; language boundaries also involve social and political histories.",
+      "explanation": "Mutual intelligibility is useful but not decisive. Standard varieties are dialects too, and a dialect does not require a written tradition.",
+      "example": "Teaching illustration: Two closely related varieties may have separate institutional identities.",
+      "confusion": "Dialect does not mean defective language or only rural speech.",
+      "syllabusTerms": [
+        "Language and dialect"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            10,
+            11
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-language-and-dialect-core",
+          "prompt": "Explain language and dialect briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A dialect is a systematic variety; language boundaries also involve social and political histories.",
+          "answer": "A dialect is a systematic variety; language boundaries also involve social and political histories. Mutual intelligibility is useful but not decisive. Standard varieties are dialects too, and a dialect does not require a written tradition.",
+          "keyPoints": [
+            "A dialect is a systematic variety; language boundaries also involve social and political histories.",
+            "Mutual intelligibility is useful but not decisive. Standard varieties are dialects too, and a dialect does not require a written tradition."
+          ],
+          "followUps": [
+            "e404-language-and-dialect-apply"
+          ]
+        },
+        {
+          "id": "e404-language-and-dialect-apply",
+          "prompt": "Why can mutual intelligibility fail as a complete test of language status?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Understanding can be partial or asymmetrical, while political identity, history and standardisation also shape which varieties are recognised as separate languages.",
+          "answer": "Understanding can be partial or asymmetrical, while political identity, history and standardisation also shape which varieties are recognised as separate languages.",
+          "keyPoints": [
+            "Understanding can be partial or asymmetrical, while political identity, history and standardisation also shape which varieties are recognised as separate languages."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-regional-and-social-dialects",
+      "groupId": "e404-varieties",
+      "title": "Regional and social dialects",
+      "aliases": [],
+      "core": "Regional dialects correlate with place; sociolects correlate with social groups.",
+      "explanation": "Pronunciation, grammar and vocabulary can vary along several intersecting dimensions. A speaker is not reducible to one regional or social category.",
+      "example": "Teaching illustration: A regional pronunciation pattern coexists with a professional vocabulary.",
+      "confusion": "Regional and social variation can occur together.",
+      "syllabusTerms": [
+        "Language and dialect"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            11,
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-regional-and-social-dialects-core",
+          "prompt": "Explain regional and social dialects briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Regional dialects correlate with place; sociolects correlate with social groups.",
+          "answer": "Regional dialects correlate with place; sociolects correlate with social groups. Pronunciation, grammar and vocabulary can vary along several intersecting dimensions. A speaker is not reducible to one regional or social category.",
+          "keyPoints": [
+            "Regional dialects correlate with place; sociolects correlate with social groups.",
+            "Pronunciation, grammar and vocabulary can vary along several intersecting dimensions. A speaker is not reducible to one regional or social category."
+          ],
+          "followUps": [
+            "e404-regional-and-social-dialects-apply"
+          ]
+        },
+        {
+          "id": "e404-regional-and-social-dialects-apply",
+          "prompt": "Can two people from the same town speak different dialects?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Age, social networks, ethnicity, class and other experiences can correlate with different patterns within the same region.",
+          "keyPoints": [
+            "Yes. Age, social networks, ethnicity, class and other experiences can correlate with different patterns within the same region."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-accent-dialect-and-idiolect",
+      "groupId": "e404-varieties",
+      "title": "Accent, dialect and idiolect",
+      "aliases": [],
+      "core": "Accent concerns pronunciation; dialect includes grammar and vocabulary; idiolect concerns an individual's usage.",
+      "explanation": "These terms focus on different aspects of variation rather than marking degrees of linguistic sophistication.",
+      "example": "Teaching illustration: Two speakers share grammar but pronounce vowels differently.",
+      "confusion": "Everyone has an accent, including speakers of prestigious varieties.",
+      "syllabusTerms": [
+        "Language and dialect"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            10,
+            11,
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-accent-dialect-and-idiolect-core",
+          "prompt": "Explain accent, dialect and idiolect briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Accent concerns pronunciation; dialect includes grammar and vocabulary; idiolect concerns an individual's usage.",
+          "answer": "Accent concerns pronunciation; dialect includes grammar and vocabulary; idiolect concerns an individual's usage. These terms focus on different aspects of variation rather than marking degrees of linguistic sophistication.",
+          "keyPoints": [
+            "Accent concerns pronunciation; dialect includes grammar and vocabulary; idiolect concerns an individual's usage.",
+            "These terms focus on different aspects of variation rather than marking degrees of linguistic sophistication."
+          ],
+          "followUps": [
+            "e404-accent-dialect-and-idiolect-apply"
+          ]
+        },
+        {
+          "id": "e404-accent-dialect-and-idiolect-apply",
+          "prompt": "Can someone use a standard dialect with a regional accent?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Standard grammatical and lexical conventions do not require one uniform pronunciation; accent and dialect describe related but distinguishable aspects.",
+          "keyPoints": [
+            "Yes. Standard grammatical and lexical conventions do not require one uniform pronunciation; accent and dialect describe related but distinguishable aspects."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-register",
+      "groupId": "e404-varieties",
+      "title": "Register",
+      "aliases": [],
+      "core": "Register is language variation associated with situations, activities or uses.",
+      "explanation": "Specialised vocabulary and grammatical patterns can help realise a particular communicative task. The same person can use several registers.",
+      "example": "Teaching illustration: A doctor explains a diagnosis differently to a patient and to a specialist colleague.",
+      "confusion": "Register is not simply a speaker's social class or an individual language.",
+      "syllabusTerms": [
+        "Language and dialect"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            12
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-register-core",
+          "prompt": "Explain register briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Register is language variation associated with situations, activities or uses.",
+          "answer": "Register is language variation associated with situations, activities or uses. Specialised vocabulary and grammatical patterns can help realise a particular communicative task. The same person can use several registers.",
+          "keyPoints": [
+            "Register is language variation associated with situations, activities or uses.",
+            "Specialised vocabulary and grammatical patterns can help realise a particular communicative task. The same person can use several registers."
+          ],
+          "followUps": [
+            "e404-register-apply"
+          ]
+        },
+        {
+          "id": "e404-register-apply",
+          "prompt": "How can a student's register change during the same day?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The student may use informal conversation with friends and a more specialised academic register in a seminar, depending on purpose, audience and activity.",
+          "answer": "The student may use informal conversation with friends and a more specialised academic register in a seminar, depending on purpose, audience and activity.",
+          "keyPoints": [
+            "The student may use informal conversation with friends and a more specialised academic register in a seminar, depending on purpose, audience and activity."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-standard-language",
+      "groupId": "e404-varieties",
+      "title": "Standard language",
+      "aliases": [],
+      "core": "A standard variety is socially selected, codified and institutionally supported.",
+      "explanation": "Its prestige and public functions arise through social history. Standardisation can aid shared communication while also producing hierarchies.",
+      "example": "Teaching illustration: A school adopts a codified spelling system for textbooks.",
+      "confusion": "Institutional prestige does not establish intrinsic linguistic superiority.",
+      "syllabusTerms": [
+        "Standard language"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            12,
+            13
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-standard-language-core",
+          "prompt": "Explain standard language briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A standard variety is socially selected, codified and institutionally supported.",
+          "answer": "A standard variety is socially selected, codified and institutionally supported. Its prestige and public functions arise through social history. Standardisation can aid shared communication while also producing hierarchies.",
+          "keyPoints": [
+            "A standard variety is socially selected, codified and institutionally supported.",
+            "Its prestige and public functions arise through social history. Standardisation can aid shared communication while also producing hierarchies."
+          ],
+          "followUps": [
+            "e404-standard-language-apply"
+          ]
+        },
+        {
+          "id": "e404-standard-language-apply",
+          "prompt": "Why should a teacher distinguish teaching a standard from calling other dialects inferior?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A standard can serve specific public purposes, while other dialects remain systematic varieties.",
+          "answer": "A standard can serve specific public purposes, while other dialects remain systematic varieties. Learners can gain access to the standard without having their home language devalued.",
+          "keyPoints": [
+            "A standard can serve specific public purposes, while other dialects remain systematic varieties. Learners can gain access to the standard without having their home language devalued."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-standardization",
+      "groupId": "e404-varieties",
+      "title": "Standardization",
+      "aliases": [],
+      "core": "Standardization develops shared norms through selection, codification, functional elaboration and acceptance.",
+      "explanation": "These processes can overlap and be contested. Codification records norms; elaboration extends their use into new domains.",
+      "example": "Teaching illustration: A selected variety receives dictionaries, technical terminology and educational support.",
+      "confusion": "Producing a dictionary does not automatically secure public acceptance.",
+      "syllabusTerms": [
+        "Language standardization"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-standardization-core",
+          "prompt": "Explain standardization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Standardization develops shared norms through selection, codification, functional elaboration and acceptance.",
+          "answer": "Standardization develops shared norms through selection, codification, functional elaboration and acceptance. These processes can overlap and be contested. Codification records norms; elaboration extends their use into new domains.",
+          "keyPoints": [
+            "Standardization develops shared norms through selection, codification, functional elaboration and acceptance.",
+            "These processes can overlap and be contested. Codification records norms; elaboration extends their use into new domains."
+          ],
+          "followUps": [
+            "e404-standardization-apply"
+          ]
+        },
+        {
+          "id": "e404-standardization-apply",
+          "prompt": "A language has a dictionary but lacks scientific terminology. Which standardization task remains?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Functional elaboration: developing resources for additional domains such as science, along with use and acceptance in those settings.",
+          "answer": "Functional elaboration: developing resources for additional domains such as science, along with use and acceptance in those settings.",
+          "keyPoints": [
+            "Functional elaboration: developing resources for additional domains such as science, along with use and acceptance in those settings."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-pidgins-and-pidginization",
+      "groupId": "e404-contact",
+      "title": "Pidgins and pidginization",
+      "aliases": [],
+      "core": "A pidgin is a contact variety conventionally used as an additional means of communication among groups.",
+      "explanation": "Pidginization concerns its development in contact settings. Pidgins have structured grammars; some expand across functions and persist over time.",
+      "example": "Teaching illustration: A contact variety develops for communication among speakers without a shared first language.",
+      "confusion": "Pidgins are not random broken speech, and not all are temporary.",
+      "syllabusTerms": [
+        "Pidgin and pidginization"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            15,
+            17
+          ]
+        },
+        {
+          "id": "e404-creole-genesis"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-pidgins-and-pidginization-core",
+          "prompt": "Explain pidgins and pidginization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A pidgin is a contact variety conventionally used as an additional means of communication among groups.",
+          "answer": "A pidgin is a contact variety conventionally used as an additional means of communication among groups. Pidginization concerns its development in contact settings. Pidgins have structured grammars; some expand across functions and persist over time.",
+          "keyPoints": [
+            "A pidgin is a contact variety conventionally used as an additional means of communication among groups.",
+            "Pidginization concerns its development in contact settings. Pidgins have structured grammars; some expand across functions and persist over time."
+          ],
+          "followUps": [
+            "e404-pidgins-and-pidginization-apply"
+          ]
+        },
+        {
+          "id": "e404-pidgins-and-pidginization-apply",
+          "prompt": "Why is 'a pidgin is broken English' an inadequate description?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It confuses a systematic contact variety with failed learning and ignores that pidgins may draw on multiple source languages and develop their own conventions.",
+          "answer": "It confuses a systematic contact variety with failed learning and ignores that pidgins may draw on multiple source languages and develop their own conventions.",
+          "keyPoints": [
+            "It confuses a systematic contact variety with failed learning and ignores that pidgins may draw on multiple source languages and develop their own conventions."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-creoles-and-creolization",
+      "groupId": "e404-contact",
+      "title": "Creoles and creolization",
+      "aliases": [],
+      "core": "Creoles are established community languages that developed in particular language-contact histories.",
+      "explanation": "The textbook pidgin-to-native-language route is one account, but creole origins are diverse and debated. Creoles are fully systematic languages.",
+      "example": "Teaching illustration: A contact language serves everyday community life and is acquired by children.",
+      "confusion": "Not every creole is demonstrated to have passed through the same prior pidgin stage.",
+      "syllabusTerms": [
+        "Creole"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "e404-creole-genesis"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-creoles-and-creolization-core",
+          "prompt": "Explain creoles and creolization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Creoles are established community languages that developed in particular language-contact histories.",
+          "answer": "Creoles are established community languages that developed in particular language-contact histories. The textbook pidgin-to-native-language route is one account, but creole origins are diverse and debated. Creoles are fully systematic languages.",
+          "keyPoints": [
+            "Creoles are established community languages that developed in particular language-contact histories.",
+            "The textbook pidgin-to-native-language route is one account, but creole origins are diverse and debated. Creoles are fully systematic languages."
+          ],
+          "followUps": [
+            "e404-creoles-and-creolization-apply"
+          ]
+        },
+        {
+          "id": "e404-creoles-and-creolization-apply",
+          "prompt": "Must every creole be explained as a pidgin that children simply expanded?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. That is an influential introductory model, but scholarship debates diverse developmental histories and the roles of adult speakers, contact conditions and child acquisition.",
+          "keyPoints": [
+            "No. That is an influential introductory model, but scholarship debates diverse developmental histories and the roles of adult speakers, contact conditions and child acquisition."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-post-creole-continuum",
+      "groupId": "e404-contact",
+      "title": "Post-creole continuum",
+      "aliases": [],
+      "core": "A post-creole continuum is a range of socially related varieties between more creole-like and more lexifier-like forms.",
+      "explanation": "Basilect, mesolect and acrolect name relative positions in such a continuum. Speakers may vary by situation and access.",
+      "example": "Teaching illustration: A speaker uses different features in informal conversation and an official interview.",
+      "confusion": "The three labels do not necessarily describe three chronological stages every speaker passes through.",
+      "syllabusTerms": [
+        "Post-creole continuum"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-post-creole-continuum-core",
+          "prompt": "Explain post-creole continuum briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A post-creole continuum is a range of socially related varieties between more creole-like and more lexifier-like forms.",
+          "answer": "A post-creole continuum is a range of socially related varieties between more creole-like and more lexifier-like forms. Basilect, mesolect and acrolect name relative positions in such a continuum. Speakers may vary by situation and access.",
+          "keyPoints": [
+            "A post-creole continuum is a range of socially related varieties between more creole-like and more lexifier-like forms.",
+            "Basilect, mesolect and acrolect name relative positions in such a continuum. Speakers may vary by situation and access."
+          ],
+          "followUps": [
+            "e404-post-creole-continuum-apply"
+          ]
+        },
+        {
+          "id": "e404-post-creole-continuum-apply",
+          "prompt": "How do basilect, mesolect and acrolect differ?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "They identify varieties relatively furthest from, intermediate to and closest to the socially prestigious lexifier-associated variety, in a particular continuum.",
+          "answer": "They identify varieties relatively furthest from, intermediate to and closest to the socially prestigious lexifier-associated variety, in a particular continuum.",
+          "keyPoints": [
+            "They identify varieties relatively furthest from, intermediate to and closest to the socially prestigious lexifier-associated variety, in a particular continuum."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-lexifier-and-decreolization",
+      "groupId": "e404-contact",
+      "title": "Lexifier and decreolization",
+      "aliases": [],
+      "core": "A lexifier supplies much of a contact language's vocabulary; decreolization refers to convergence toward a lexifier-associated prestigious variety.",
+      "explanation": "The contribution of vocabulary does not make the resulting language merely a corrupt form of its lexifier. Social conditions shape convergence and maintenance.",
+      "example": "Teaching illustration: Some speakers increasingly use features associated with a prestigious standard.",
+      "confusion": "Every contact situation does not necessarily lead to decreolization.",
+      "syllabusTerms": [
+        "Post-creole continuum"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            16,
+            17
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-lexifier-and-decreolization-core",
+          "prompt": "Explain lexifier and decreolization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A lexifier supplies much of a contact language's vocabulary; decreolization refers to convergence toward a lexifier-associated prestigious variety.",
+          "answer": "A lexifier supplies much of a contact language's vocabulary; decreolization refers to convergence toward a lexifier-associated prestigious variety. The contribution of vocabulary does not make the resulting language merely a corrupt form of its lexifier. Social conditions shape convergence and maintenance.",
+          "keyPoints": [
+            "A lexifier supplies much of a contact language's vocabulary; decreolization refers to convergence toward a lexifier-associated prestigious variety.",
+            "The contribution of vocabulary does not make the resulting language merely a corrupt form of its lexifier. Social conditions shape convergence and maintenance."
+          ],
+          "followUps": [
+            "e404-lexifier-and-decreolization-apply"
+          ]
+        },
+        {
+          "id": "e404-lexifier-and-decreolization-apply",
+          "prompt": "Why does having English-derived vocabulary not make a creole simply English with errors?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The creole has its own systematic grammatical and social history; vocabulary source alone does not determine the identity or rules of a language.",
+          "answer": "The creole has its own systematic grammatical and social history; vocabulary source alone does not determine the identity or rules of a language.",
+          "keyPoints": [
+            "The creole has its own systematic grammatical and social history; vocabulary source alone does not determine the identity or rules of a language."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-tree-and-wave-models",
+      "groupId": "e404-geography",
+      "title": "Tree and wave models",
+      "aliases": [],
+      "core": "A tree represents genealogical branching; a wave represents diffusion of innovations across communities.",
+      "explanation": "The models emphasise inheritance and contact respectively. Contact can cross genealogical boundaries, so neither model alone captures every relation.",
+      "example": "Teaching illustration: A pronunciation innovation spreads across neighbouring dialects while their genealogical histories remain distinct.",
+      "confusion": "The wave model complements rather than simply disproves genealogical classification.",
+      "syllabusTerms": [
+        "Wave theory"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-tree-and-wave-models-core",
+          "prompt": "Explain tree and wave models briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "A tree represents genealogical branching; a wave represents diffusion of innovations across communities.",
+          "answer": "A tree represents genealogical branching; a wave represents diffusion of innovations across communities. The models emphasise inheritance and contact respectively. Contact can cross genealogical boundaries, so neither model alone captures every relation.",
+          "keyPoints": [
+            "A tree represents genealogical branching; a wave represents diffusion of innovations across communities.",
+            "The models emphasise inheritance and contact respectively. Contact can cross genealogical boundaries, so neither model alone captures every relation."
+          ],
+          "followUps": [
+            "e404-tree-and-wave-models-apply"
+          ]
+        },
+        {
+          "id": "e404-tree-and-wave-models-apply",
+          "prompt": "What kind of evidence is a wave model better placed to represent than a simple family tree?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Overlapping innovations spreading through contact across dialect areas, rather than only clean splits into separate descendant branches.",
+          "answer": "Overlapping innovations spreading through contact across dialect areas, rather than only clean splits into separate descendant branches.",
+          "keyPoints": [
+            "Overlapping innovations spreading through contact across dialect areas, rather than only clean splits into separate descendant branches."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-isogloss",
+      "groupId": "e404-geography",
+      "title": "Isogloss",
+      "aliases": [],
+      "core": "An isogloss maps the geographical distribution boundary of a linguistic feature.",
+      "explanation": "Several isoglosses may cluster into a bundle, helping identify dialect areas. Different features need not have identical boundaries.",
+      "example": "Teaching illustration: Map where one word for an everyday object gives way to another.",
+      "confusion": "One isogloss does not by itself define a complete language or dialect boundary.",
+      "syllabusTerms": [
+        "Isogloss"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            19
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-isogloss-core",
+          "prompt": "Explain isogloss briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "An isogloss maps the geographical distribution boundary of a linguistic feature.",
+          "answer": "An isogloss maps the geographical distribution boundary of a linguistic feature. Several isoglosses may cluster into a bundle, helping identify dialect areas. Different features need not have identical boundaries.",
+          "keyPoints": [
+            "An isogloss maps the geographical distribution boundary of a linguistic feature.",
+            "Several isoglosses may cluster into a bundle, helping identify dialect areas. Different features need not have identical boundaries."
+          ],
+          "followUps": [
+            "e404-isogloss-apply"
+          ]
+        },
+        {
+          "id": "e404-isogloss-apply",
+          "prompt": "Why are bundles of isoglosses more informative than a single line?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Several shared feature distributions can support a broader dialect pattern, whereas one feature may have a distinctive local history.",
+          "answer": "Several shared feature distributions can support a broader dialect pattern, whereas one feature may have a distinctive local history.",
+          "keyPoints": [
+            "Several shared feature distributions can support a broader dialect pattern, whereas one feature may have a distinctive local history."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-diffusion-and-social-networks",
+      "groupId": "e404-geography",
+      "title": "Diffusion and social networks",
+      "aliases": [],
+      "core": "Diffusion is the spread of linguistic innovations through contact and social relations.",
+      "explanation": "Access, prestige, identity and networks affect adoption. Spread need not be uniform or form perfectly circular waves.",
+      "example": "Teaching illustration: A youth expression spreads through friendship networks and later reaches other groups.",
+      "confusion": "Geographical proximity alone does not guarantee adoption.",
+      "syllabusTerms": [
+        "Wave theory"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            19,
+            20
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-diffusion-and-social-networks-core",
+          "prompt": "Explain diffusion and social networks briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Diffusion is the spread of linguistic innovations through contact and social relations.",
+          "answer": "Diffusion is the spread of linguistic innovations through contact and social relations. Access, prestige, identity and networks affect adoption. Spread need not be uniform or form perfectly circular waves.",
+          "keyPoints": [
+            "Diffusion is the spread of linguistic innovations through contact and social relations.",
+            "Access, prestige, identity and networks affect adoption. Spread need not be uniform or form perfectly circular waves."
+          ],
+          "followUps": [
+            "e404-diffusion-and-social-networks-apply"
+          ]
+        },
+        {
+          "id": "e404-diffusion-and-social-networks-apply",
+          "prompt": "Why might a nearby community resist an innovation that spreads elsewhere?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Its networks, identities or attitudes may favour different norms.",
+          "answer": "Its networks, identities or attitudes may favour different norms. Social boundaries can reduce diffusion even when physical distance is small.",
+          "keyPoints": [
+            "Its networks, identities or attitudes may favour different norms. Social boundaries can reduce diffusion even when physical distance is small."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-diglossia",
+      "groupId": "e404-multilingual",
+      "title": "Diglossia",
+      "aliases": [],
+      "core": "Diglossia involves a relatively stable functional distribution of varieties or languages within a community.",
+      "explanation": "Ferguson's classic account contrasts high and low varieties; later usage extends the concept. The labels refer to social functions and prestige.",
+      "example": "Teaching illustration: A community reserves one variety for formal religious texts and another for everyday conversation.",
+      "confusion": "High does not mean inherently more logical or linguistically superior.",
+      "syllabusTerms": [
+        "Diglossia"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            22,
+            23,
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-diglossia-core",
+          "prompt": "Explain diglossia briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Diglossia involves a relatively stable functional distribution of varieties or languages within a community.",
+          "answer": "Diglossia involves a relatively stable functional distribution of varieties or languages within a community. Ferguson's classic account contrasts high and low varieties; later usage extends the concept. The labels refer to social functions and prestige.",
+          "keyPoints": [
+            "Diglossia involves a relatively stable functional distribution of varieties or languages within a community.",
+            "Ferguson's classic account contrasts high and low varieties; later usage extends the concept. The labels refer to social functions and prestige."
+          ],
+          "followUps": [
+            "e404-diglossia-apply"
+          ]
+        },
+        {
+          "id": "e404-diglossia-apply",
+          "prompt": "How does diglossia differ from an individual's bilingual ability?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Diglossia concerns the community's functional allocation of codes, while bilingualism concerns use or knowledge of two languages; they can coexist without being identical.",
+          "answer": "Diglossia concerns the community's functional allocation of codes, while bilingualism concerns use or knowledge of two languages; they can coexist without being identical.",
+          "keyPoints": [
+            "Diglossia concerns the community's functional allocation of codes, while bilingualism concerns use or knowledge of two languages; they can coexist without being identical."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-bilingualism",
+      "groupId": "e404-multilingual",
+      "title": "Bilingualism",
+      "aliases": [],
+      "core": "Bilingualism is the use or knowledge of two languages by individuals or communities.",
+      "explanation": "Competence varies across skills, domains and time. Balanced native-like proficiency in every domain is not necessary.",
+      "example": "Teaching illustration: A person reads academic material in one language and talks with family in another.",
+      "confusion": "Bilingual does not require equal proficiency or perfect translation ability.",
+      "syllabusTerms": [
+        "Bilingualism"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-bilingualism-core",
+          "prompt": "Explain bilingualism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Bilingualism is the use or knowledge of two languages by individuals or communities.",
+          "answer": "Bilingualism is the use or knowledge of two languages by individuals or communities. Competence varies across skills, domains and time. Balanced native-like proficiency in every domain is not necessary.",
+          "keyPoints": [
+            "Bilingualism is the use or knowledge of two languages by individuals or communities.",
+            "Competence varies across skills, domains and time. Balanced native-like proficiency in every domain is not necessary."
+          ],
+          "followUps": [
+            "e404-bilingualism-apply"
+          ]
+        },
+        {
+          "id": "e404-bilingualism-apply",
+          "prompt": "Can someone be bilingual while reading better in one language and speaking better in another?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Language skills and domains of use are often unevenly distributed; bilingualism is not an all-or-nothing equal-proficiency condition.",
+          "keyPoints": [
+            "Yes. Language skills and domains of use are often unevenly distributed; bilingualism is not an all-or-nothing equal-proficiency condition."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-simultaneous-and-sequential-bilingualism",
+      "groupId": "e404-multilingual",
+      "title": "Simultaneous and sequential bilingualism",
+      "aliases": [],
+      "core": "Simultaneous bilingual development begins with two languages early together; sequential development adds another after initial first-language development.",
+      "explanation": "The timing distinction does not predict identical outcomes for all learners. Input, use and social conditions matter.",
+      "example": "Teaching illustration: A child hears two home languages from infancy, while another begins a new school language later.",
+      "confusion": "Sequential bilingualism is not automatically inferior development.",
+      "syllabusTerms": [
+        "Bilingualism"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            23
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-simultaneous-and-sequential-bilingualism-core",
+          "prompt": "Explain simultaneous and sequential bilingualism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Simultaneous bilingual development begins with two languages early together; sequential development adds another after initial first-language development.",
+          "answer": "Simultaneous bilingual development begins with two languages early together; sequential development adds another after initial first-language development. The timing distinction does not predict identical outcomes for all learners. Input, use and social conditions matter.",
+          "keyPoints": [
+            "Simultaneous bilingual development begins with two languages early together; sequential development adds another after initial first-language development.",
+            "The timing distinction does not predict identical outcomes for all learners. Input, use and social conditions matter."
+          ],
+          "followUps": [
+            "e404-simultaneous-and-sequential-bilingualism-apply"
+          ]
+        },
+        {
+          "id": "e404-simultaneous-and-sequential-bilingualism-apply",
+          "prompt": "What information would help distinguish simultaneous from sequential bilingual development?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "The child's language-exposure history and timing of meaningful acquisition, rather than just current proficiency in the two languages.",
+          "answer": "The child's language-exposure history and timing of meaningful acquisition, rather than just current proficiency in the two languages.",
+          "keyPoints": [
+            "The child's language-exposure history and timing of meaningful acquisition, rather than just current proficiency in the two languages."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-multilingualism-and-domains",
+      "groupId": "e404-multilingual",
+      "title": "Multilingualism and domains",
+      "aliases": [],
+      "core": "Multilingualism concerns the use or knowledge of multiple languages, at individual or societal levels.",
+      "explanation": "A society may distribute languages across home, education, work or worship without every member speaking every language.",
+      "example": "Teaching illustration: A city uses several languages across neighbourhoods and public institutions.",
+      "confusion": "Societal multilingualism does not imply that each resident is multilingual.",
+      "syllabusTerms": [
+        "Multilingualism"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-multilingualism-and-domains-core",
+          "prompt": "Explain multilingualism and domains briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Multilingualism concerns the use or knowledge of multiple languages, at individual or societal levels.",
+          "answer": "Multilingualism concerns the use or knowledge of multiple languages, at individual or societal levels. A society may distribute languages across home, education, work or worship without every member speaking every language.",
+          "keyPoints": [
+            "Multilingualism concerns the use or knowledge of multiple languages, at individual or societal levels.",
+            "A society may distribute languages across home, education, work or worship without every member speaking every language."
+          ],
+          "followUps": [
+            "e404-multilingualism-and-domains-apply"
+          ]
+        },
+        {
+          "id": "e404-multilingualism-and-domains-apply",
+          "prompt": "Can a multilingual society contain monolingual individuals?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Multilingualism may describe the community's repertoire and distribution of languages, even if some individuals use only one.",
+          "keyPoints": [
+            "Yes. Multilingualism may describe the community's repertoire and distribution of languages, even if some individuals use only one."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-code-switching",
+      "groupId": "e404-codes",
+      "title": "Code-switching",
+      "aliases": [],
+      "core": "Code-switching alternates languages or varieties within an interaction or utterance.",
+      "explanation": "Switching may mark topic, audience, solidarity, stance or clarification. Linguistic competence and social purposes both matter.",
+      "example": "Teaching illustration: A bilingual speaker quotes someone in the language of the original exchange.",
+      "confusion": "Switching is not by itself evidence of low proficiency or confusion.",
+      "syllabusTerms": [
+        "Code-switching"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            25,
+            26
+          ]
+        },
+        {
+          "id": "e404-codeswitch"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-code-switching-core",
+          "prompt": "Explain code-switching briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Code-switching alternates languages or varieties within an interaction or utterance.",
+          "answer": "Code-switching alternates languages or varieties within an interaction or utterance. Switching may mark topic, audience, solidarity, stance or clarification. Linguistic competence and social purposes both matter.",
+          "keyPoints": [
+            "Code-switching alternates languages or varieties within an interaction or utterance.",
+            "Switching may mark topic, audience, solidarity, stance or clarification. Linguistic competence and social purposes both matter."
+          ],
+          "followUps": [
+            "e404-code-switching-apply"
+          ]
+        },
+        {
+          "id": "e404-code-switching-apply",
+          "prompt": "Why might a fluent bilingual deliberately switch language mid-conversation?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "To signal a relationship, quote another voice, mark a topic shift, clarify a point or position an identity; the local interaction determines the interpretation.",
+          "answer": "To signal a relationship, quote another voice, mark a topic shift, clarify a point or position an identity; the local interaction determines the interpretation.",
+          "keyPoints": [
+            "To signal a relationship, quote another voice, mark a topic shift, clarify a point or position an identity; the local interaction determines the interpretation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-types-of-code-switching",
+      "groupId": "e404-codes",
+      "title": "Types of code-switching",
+      "aliases": [],
+      "core": "Inter-sentential switching occurs across sentence boundaries; intra-sentential switching occurs within a sentence.",
+      "explanation": "Tag-switching inserts a tag or discourse marker. Situational and metaphorical labels concern social motivation rather than sentence position.",
+      "example": "Teaching illustration: A speaker changes language when a new participant joins the conversation.",
+      "confusion": "Structural position and interactional purpose are different classification dimensions.",
+      "syllabusTerms": [
+        "Code-switching"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            25
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-types-of-code-switching-core",
+          "prompt": "Explain types of code-switching briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Inter-sentential switching occurs across sentence boundaries; intra-sentential switching occurs within a sentence.",
+          "answer": "Inter-sentential switching occurs across sentence boundaries; intra-sentential switching occurs within a sentence. Tag-switching inserts a tag or discourse marker. Situational and metaphorical labels concern social motivation rather than sentence position.",
+          "keyPoints": [
+            "Inter-sentential switching occurs across sentence boundaries; intra-sentential switching occurs within a sentence.",
+            "Tag-switching inserts a tag or discourse marker. Situational and metaphorical labels concern social motivation rather than sentence position."
+          ],
+          "followUps": [
+            "e404-types-of-code-switching-apply"
+          ]
+        },
+        {
+          "id": "e404-types-of-code-switching-apply",
+          "prompt": "Can the same switch be both intra-sentential and metaphorical?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Yes.",
+          "answer": "Yes. Intra-sentential identifies where the switch occurs, while metaphorical concerns a shift in social meaning or stance within the interaction.",
+          "keyPoints": [
+            "Yes. Intra-sentential identifies where the switch occurs, while metaphorical concerns a shift in social meaning or stance within the interaction."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-code-mixing-and-the-matrix-language",
+      "groupId": "e404-codes",
+      "title": "Code-mixing and the matrix language",
+      "aliases": [],
+      "core": "Code-mixing commonly refers to combining elements from different languages within an utterance.",
+      "explanation": "Terminology overlaps with code-switching across frameworks. Matrix-language approaches ask which language supplies the grammatical frame and which contributes embedded material.",
+      "example": "Teaching illustration: A sentence uses one language's grammatical frame with a noun from another.",
+      "confusion": "Mixing is not necessarily ruleless; definitions vary by analytical framework.",
+      "syllabusTerms": [
+        "Code-mixing"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            26,
+            27
+          ]
+        },
+        {
+          "id": "e404-codeswitch"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-code-mixing-and-the-matrix-language-core",
+          "prompt": "Explain code-mixing and the matrix language briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Code-mixing commonly refers to combining elements from different languages within an utterance.",
+          "answer": "Code-mixing commonly refers to combining elements from different languages within an utterance. Terminology overlaps with code-switching across frameworks. Matrix-language approaches ask which language supplies the grammatical frame and which contributes embedded material.",
+          "keyPoints": [
+            "Code-mixing commonly refers to combining elements from different languages within an utterance.",
+            "Terminology overlaps with code-switching across frameworks. Matrix-language approaches ask which language supplies the grammatical frame and which contributes embedded material."
+          ],
+          "followUps": [
+            "e404-code-mixing-and-the-matrix-language-apply"
+          ]
+        },
+        {
+          "id": "e404-code-mixing-and-the-matrix-language-apply",
+          "prompt": "Why should a researcher define code-mixing before counting it in a classroom study?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Different frameworks classify mixed utterances differently.",
+          "answer": "Different frameworks classify mixed utterances differently. An explicit definition makes examples, coding and comparisons interpretable and reproducible.",
+          "keyPoints": [
+            "Different frameworks classify mixed utterances differently. An explicit definition makes examples, coding and comparisons interpretable and reproducible."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-insertion-alternation-and-congruent-lexicalization",
+      "groupId": "e404-codes",
+      "title": "Insertion, alternation and congruent lexicalization",
+      "aliases": [],
+      "core": "These are analytical patterns for different forms of bilingual combination.",
+      "explanation": "Insertion places material within a frame; alternation moves between structures; congruent lexicalization involves shared structural patterns filled by material from both languages.",
+      "example": "Teaching illustration: Analyse whether an embedded phrase fits one dominant frame or whether both structures alternate.",
+      "confusion": "A short example may not supply enough evidence to establish a complete structural analysis.",
+      "syllabusTerms": [
+        "Code-mixing"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            27
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-insertion-alternation-and-congruent-lexicalization-core",
+          "prompt": "Explain insertion, alternation and congruent lexicalization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "These are analytical patterns for different forms of bilingual combination.",
+          "answer": "These are analytical patterns for different forms of bilingual combination. Insertion places material within a frame; alternation moves between structures; congruent lexicalization involves shared structural patterns filled by material from both languages.",
+          "keyPoints": [
+            "These are analytical patterns for different forms of bilingual combination.",
+            "Insertion places material within a frame; alternation moves between structures; congruent lexicalization involves shared structural patterns filled by material from both languages."
+          ],
+          "followUps": [
+            "e404-insertion-alternation-and-congruent-lexicalization-apply"
+          ]
+        },
+        {
+          "id": "e404-insertion-alternation-and-congruent-lexicalization-apply",
+          "prompt": "What makes insertion different from simply switching between two full clauses?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Insertion integrates material into an existing grammatical frame, whereas full-clause alternation can involve a transition between larger structures associated with different languages.",
+          "answer": "Insertion integrates material into an existing grammatical frame, whereas full-clause alternation can involve a transition between larger structures associated with different languages.",
+          "keyPoints": [
+            "Insertion integrates material into an existing grammatical frame, whereas full-clause alternation can involve a transition between larger structures associated with different languages."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-borrowing",
+      "groupId": "e404-codes",
+      "title": "Borrowing",
+      "aliases": [],
+      "core": "Borrowing incorporates linguistic material into another language's conventional repertoire.",
+      "explanation": "Loanwords can become socially established and may undergo phonological or morphological adaptation. Speakers need not be bilingual to use established loans.",
+      "example": "Teaching illustration: Restaurant functions as an ordinary English word despite its French source.",
+      "confusion": "An isolated foreign-looking word does not always clearly distinguish a loan from a switch.",
+      "syllabusTerms": [
+        "Borrowing"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-borrowing-core",
+          "prompt": "Explain borrowing briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Borrowing incorporates linguistic material into another language's conventional repertoire.",
+          "answer": "Borrowing incorporates linguistic material into another language's conventional repertoire. Loanwords can become socially established and may undergo phonological or morphological adaptation. Speakers need not be bilingual to use established loans.",
+          "keyPoints": [
+            "Borrowing incorporates linguistic material into another language's conventional repertoire.",
+            "Loanwords can become socially established and may undergo phonological or morphological adaptation. Speakers need not be bilingual to use established loans."
+          ],
+          "followUps": [
+            "e404-borrowing-apply"
+          ]
+        },
+        {
+          "id": "e404-borrowing-apply",
+          "prompt": "How can borrowing differ from a momentary code-switch?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A borrowing is established in the recipient language's usage, while a code-switch concerns an interactional use of multiple codes; ambiguous cases require contextual and community evidence.",
+          "answer": "A borrowing is established in the recipient language's usage, while a code-switch concerns an interactional use of multiple codes; ambiguous cases require contextual and community evidence.",
+          "keyPoints": [
+            "A borrowing is established in the recipient language's usage, while a code-switch concerns an interactional use of multiple codes; ambiguous cases require contextual and community evidence."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-loanwords-blends-and-calques",
+      "groupId": "e404-codes",
+      "title": "Loanwords, blends and calques",
+      "aliases": [],
+      "core": "A loanword borrows form; a loan translation or calque translates component meanings; loan-blends combine borrowed and recipient material.",
+      "explanation": "Borrowing categories concern the relation between imported and substituted material. Not every newly blended word is a cross-language loan-blend.",
+      "example": "Teaching illustration: A phrase modelled component by component on a foreign expression illustrates a calque.",
+      "confusion": "Spork is a blend within English, not automatically a cross-language loan-blend.",
+      "syllabusTerms": [
+        "Borrowing"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-loanwords-blends-and-calques-core",
+          "prompt": "Explain loanwords, blends and calques briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A loanword borrows form; a loan translation or calque translates component meanings; loan-blends combine borrowed and recipient material.",
+          "answer": "A loanword borrows form; a loan translation or calque translates component meanings; loan-blends combine borrowed and recipient material. Borrowing categories concern the relation between imported and substituted material. Not every newly blended word is a cross-language loan-blend.",
+          "keyPoints": [
+            "A loanword borrows form; a loan translation or calque translates component meanings; loan-blends combine borrowed and recipient material.",
+            "Borrowing categories concern the relation between imported and substituted material. Not every newly blended word is a cross-language loan-blend."
+          ],
+          "followUps": [
+            "e404-loanwords-blends-and-calques-apply"
+          ]
+        },
+        {
+          "id": "e404-loanwords-blends-and-calques-apply",
+          "prompt": "Why is a calque different from importing a foreign word unchanged?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A calque reproduces an expression's structure or meaning through recipient-language material, rather than importing its complete foreign form.",
+          "answer": "A calque reproduces an expression's structure or meaning through recipient-language material, rather than importing its complete foreign form.",
+          "keyPoints": [
+            "A calque reproduces an expression's structure or meaning through recipient-language material, rather than importing its complete foreign form."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-language-planning",
+      "groupId": "e404-policy",
+      "title": "Language planning",
+      "aliases": [],
+      "core": "Language planning is deliberate activity intended to influence language functions, forms or acquisition.",
+      "explanation": "It can be carried out by states, institutions and local actors. Plans interact with existing practices, resources and attitudes.",
+      "example": "Teaching illustration: A school expands bilingual teaching and prepares supporting materials.",
+      "confusion": "Language planning is not necessarily neutral or limited to central government.",
+      "syllabusTerms": [
+        "Language planning"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            30,
+            31
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-language-planning-core",
+          "prompt": "Explain language planning briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Language planning is deliberate activity intended to influence language functions, forms or acquisition.",
+          "answer": "Language planning is deliberate activity intended to influence language functions, forms or acquisition. It can be carried out by states, institutions and local actors. Plans interact with existing practices, resources and attitudes.",
+          "keyPoints": [
+            "Language planning is deliberate activity intended to influence language functions, forms or acquisition.",
+            "It can be carried out by states, institutions and local actors. Plans interact with existing practices, resources and attitudes."
+          ],
+          "followUps": [
+            "e404-language-planning-apply"
+          ]
+        },
+        {
+          "id": "e404-language-planning-apply",
+          "prompt": "Why might a language plan fail despite an official announcement?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Implementation depends on resources, teacher preparation, public attitudes, institutional incentives and the fit between the plan and everyday practices.",
+          "answer": "Implementation depends on resources, teacher preparation, public attitudes, institutional incentives and the fit between the plan and everyday practices.",
+          "keyPoints": [
+            "Implementation depends on resources, teacher preparation, public attitudes, institutional incentives and the fit between the plan and everyday practices."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-status-corpus-and-acquisition-planning",
+      "groupId": "e404-policy",
+      "title": "Status, corpus and acquisition planning",
+      "aliases": [],
+      "core": "Status planning concerns functions, corpus planning concerns linguistic forms, and acquisition planning concerns learning and users.",
+      "explanation": "The categories can work together within a policy. New public functions may require terminology, materials and teaching.",
+      "example": "Teaching illustration: Making a language a school medium requires status decisions, curricular resources and teacher education.",
+      "confusion": "Corpus planning here is not the same as corpus linguistics research.",
+      "syllabusTerms": [
+        "Language planning"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            30,
+            31
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-status-corpus-and-acquisition-planning-core",
+          "prompt": "Explain status, corpus and acquisition planning briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Status planning concerns functions, corpus planning concerns linguistic forms, and acquisition planning concerns learning and users.",
+          "answer": "Status planning concerns functions, corpus planning concerns linguistic forms, and acquisition planning concerns learning and users. The categories can work together within a policy. New public functions may require terminology, materials and teaching.",
+          "keyPoints": [
+            "Status planning concerns functions, corpus planning concerns linguistic forms, and acquisition planning concerns learning and users.",
+            "The categories can work together within a policy. New public functions may require terminology, materials and teaching."
+          ],
+          "followUps": [
+            "e404-status-corpus-and-acquisition-planning-apply"
+          ]
+        },
+        {
+          "id": "e404-status-corpus-and-acquisition-planning-apply",
+          "prompt": "Classify creating technical vocabulary and training teachers to teach it.",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Terminology development is corpus planning; increasing teachers' and learners' ability to use it is acquisition planning.",
+          "answer": "Terminology development is corpus planning; increasing teachers' and learners' ability to use it is acquisition planning. Their classroom role also relates to status planning.",
+          "keyPoints": [
+            "Terminology development is corpus planning; increasing teachers' and learners' ability to use it is acquisition planning. Their classroom role also relates to status planning."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-language-policy-and-ideology",
+      "groupId": "e404-policy",
+      "title": "Language policy and ideology",
+      "aliases": [],
+      "core": "Language policy includes decisions and practices shaping which codes are used, valued or learned.",
+      "explanation": "Ideologies can frame one language as unity, progress or authenticity while marginalising others. Examine both explicit rules and institutional practice.",
+      "example": "Teaching illustration: A hypothetical university rewards English publications while officially praising multilingualism.",
+      "confusion": "An official multilingual statement does not guarantee equal practical support.",
+      "syllabusTerms": [
+        "Language policy: theories and ideologies"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            31,
+            32
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-language-policy-and-ideology-core",
+          "prompt": "Explain language policy and ideology briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Language policy includes decisions and practices shaping which codes are used, valued or learned.",
+          "answer": "Language policy includes decisions and practices shaping which codes are used, valued or learned. Ideologies can frame one language as unity, progress or authenticity while marginalising others. Examine both explicit rules and institutional practice.",
+          "keyPoints": [
+            "Language policy includes decisions and practices shaping which codes are used, valued or learned.",
+            "Ideologies can frame one language as unity, progress or authenticity while marginalising others. Examine both explicit rules and institutional practice."
+          ],
+          "followUps": [
+            "e404-language-policy-and-ideology-apply"
+          ]
+        },
+        {
+          "id": "e404-language-policy-and-ideology-apply",
+          "prompt": "How can a policy be unequal even if it never explicitly bans a minority language?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Resource allocation, assessment, employment rules or medium-of-instruction requirements may systematically privilege another language and restrict participation.",
+          "answer": "Resource allocation, assessment, employment rules or medium-of-instruction requirements may systematically privilege another language and restrict participation.",
+          "keyPoints": [
+            "Resource allocation, assessment, employment rules or medium-of-instruction requirements may systematically privilege another language and restrict participation."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-critical-language-policy",
+      "groupId": "e404-policy",
+      "title": "Critical language policy",
+      "aliases": [],
+      "core": "Critical language policy examines how policies reproduce or challenge unequal power.",
+      "explanation": "It asks whose interests and rights policies serve, while attending to local agency and negotiation rather than assuming people are passive.",
+      "example": "Teaching illustration: Interview students and teachers about how they interpret a medium-of-instruction rule.",
+      "confusion": "Structural explanation should not erase resistance and local reinterpretation.",
+      "syllabusTerms": [
+        "Language policy: theories and ideologies"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            32
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-critical-language-policy-core",
+          "prompt": "Explain critical language policy briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Critical language policy examines how policies reproduce or challenge unequal power.",
+          "answer": "Critical language policy examines how policies reproduce or challenge unequal power. It asks whose interests and rights policies serve, while attending to local agency and negotiation rather than assuming people are passive.",
+          "keyPoints": [
+            "Critical language policy examines how policies reproduce or challenge unequal power.",
+            "It asks whose interests and rights policies serve, while attending to local agency and negotiation rather than assuming people are passive."
+          ],
+          "followUps": [
+            "e404-critical-language-policy-apply"
+          ]
+        },
+        {
+          "id": "e404-critical-language-policy-apply",
+          "prompt": "What would a critical policy analysis add to checking whether a rule was implemented?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It would examine who benefits, who bears costs, how inequality is reproduced, and how people negotiate or resist the rule.",
+          "answer": "It would examine who benefits, who bears costs, how inequality is reproduced, and how people negotiate or resist the rule.",
+          "keyPoints": [
+            "It would examine who benefits, who bears costs, how inequality is reproduced, and how people negotiate or resist the rule."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-analysing-a-policy-case",
+      "groupId": "e404-policy",
+      "title": "Analysing a policy case",
+      "aliases": [],
+      "core": "A policy case connects stated aims, implementation practices, resources and social effects.",
+      "explanation": "Identify stakeholders and evidence about access and outcomes. Distinguish the policy text from classroom enactment.",
+      "example": "Teaching illustration: In a hypothetical bilingual school, compare the official policy with observed language use and available materials.",
+      "confusion": "This illustration describes a proposed investigation, not an actual research finding.",
+      "syllabusTerms": [
+        "Language policy case studies"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            30,
+            31,
+            32
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-analysing-a-policy-case-core",
+          "prompt": "Explain analysing a policy case briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "A policy case connects stated aims, implementation practices, resources and social effects.",
+          "answer": "A policy case connects stated aims, implementation practices, resources and social effects. Identify stakeholders and evidence about access and outcomes. Distinguish the policy text from classroom enactment.",
+          "keyPoints": [
+            "A policy case connects stated aims, implementation practices, resources and social effects.",
+            "Identify stakeholders and evidence about access and outcomes. Distinguish the policy text from classroom enactment."
+          ],
+          "followUps": [
+            "e404-analysing-a-policy-case-apply"
+          ]
+        },
+        {
+          "id": "e404-analysing-a-policy-case-apply",
+          "prompt": "How would you investigate whether a bilingual school policy supports both languages?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Analyse policy documents, observe teaching, examine materials and assessment, and interview participants.",
+          "answer": "Analyse policy documents, observe teaching, examine materials and assessment, and interview participants. Compare actual opportunities and resources for each language.",
+          "keyPoints": [
+            "Analyse policy documents, observe teaching, examine materials and assessment, and interview participants. Compare actual opportunities and resources for each language."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-orderly-heterogeneity",
+      "groupId": "e404-variation",
+      "title": "Orderly heterogeneity",
+      "aliases": [],
+      "core": "Orderly heterogeneity means linguistic variation is structured rather than random.",
+      "explanation": "Forms can vary with linguistic environments, speakers, situations and social meanings. A variable pattern can still be rule-governed.",
+      "example": "Teaching illustration: One pronunciation variant occurs more often in particular sounds and social settings.",
+      "confusion": "Variation does not mean absence of grammar.",
+      "syllabusTerms": [
+        "Language variation"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            33,
+            34
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-orderly-heterogeneity-core",
+          "prompt": "Explain orderly heterogeneity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Orderly heterogeneity means linguistic variation is structured rather than random.",
+          "answer": "Orderly heterogeneity means linguistic variation is structured rather than random. Forms can vary with linguistic environments, speakers, situations and social meanings. A variable pattern can still be rule-governed.",
+          "keyPoints": [
+            "Orderly heterogeneity means linguistic variation is structured rather than random.",
+            "Forms can vary with linguistic environments, speakers, situations and social meanings. A variable pattern can still be rule-governed."
+          ],
+          "followUps": [
+            "e404-orderly-heterogeneity-apply"
+          ]
+        },
+        {
+          "id": "e404-orderly-heterogeneity-apply",
+          "prompt": "How could two pronunciations of the same suffix both fit a systematic account?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Their occurrence may be conditioned by phonological environments and social use.",
+          "answer": "Their occurrence may be conditioned by phonological environments and social use. Analyse distributions and constraints rather than labelling all variation careless.",
+          "keyPoints": [
+            "Their occurrence may be conditioned by phonological environments and social use. Analyse distributions and constraints rather than labelling all variation careless."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-variation-and-change",
+      "groupId": "e404-variation",
+      "title": "Variation and change",
+      "aliases": [],
+      "core": "Variation concerns coexisting alternatives; change concerns shifts in their distribution over time.",
+      "explanation": "Not all variation becomes change. Age patterns can reflect ongoing change or age-grading, so stronger claims need appropriate temporal evidence.",
+      "example": "Teaching illustration: Compare a feature across age groups and, where possible, across repeated surveys.",
+      "confusion": "A difference between young and old speakers does not automatically prove community change.",
+      "syllabusTerms": [
+        "Language variation",
+        "Language change"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            33,
+            34,
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-variation-and-change-core",
+          "prompt": "Explain variation and change briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Variation concerns coexisting alternatives; change concerns shifts in their distribution over time.",
+          "answer": "Variation concerns coexisting alternatives; change concerns shifts in their distribution over time. Not all variation becomes change. Age patterns can reflect ongoing change or age-grading, so stronger claims need appropriate temporal evidence.",
+          "keyPoints": [
+            "Variation concerns coexisting alternatives; change concerns shifts in their distribution over time.",
+            "Not all variation becomes change. Age patterns can reflect ongoing change or age-grading, so stronger claims need appropriate temporal evidence."
+          ],
+          "followUps": [
+            "e404-variation-and-change-apply"
+          ]
+        },
+        {
+          "id": "e404-variation-and-change-apply",
+          "prompt": "Why is real-time evidence useful when interpreting an age difference in speech?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It helps distinguish an ongoing community change from a recurring life-stage pattern in which speakers alter their behaviour as they age.",
+          "answer": "It helps distinguish an ongoing community change from a recurring life-stage pattern in which speakers alter their behaviour as they age.",
+          "keyPoints": [
+            "It helps distinguish an ongoing community change from a recurring life-stage pattern in which speakers alter their behaviour as they age."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-levels-and-mechanisms-of-change",
+      "groupId": "e404-variation",
+      "title": "Levels and mechanisms of change",
+      "aliases": [],
+      "core": "Change can affect sounds, word structure, syntax, vocabulary and meaning.",
+      "explanation": "Contact, analogy, internal patterns and social evaluation can interact. Distinguish an example of different languages from evidence of historical change within one language.",
+      "example": "Teaching illustration: An irregular past-tense form becomes regular over generations.",
+      "confusion": "English SVO and Japanese SOV show cross-language difference, not by themselves a historical syntactic change.",
+      "syllabusTerms": [
+        "Language change"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            34,
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-levels-and-mechanisms-of-change-core",
+          "prompt": "Explain levels and mechanisms of change briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Change can affect sounds, word structure, syntax, vocabulary and meaning.",
+          "answer": "Change can affect sounds, word structure, syntax, vocabulary and meaning. Contact, analogy, internal patterns and social evaluation can interact. Distinguish an example of different languages from evidence of historical change within one language.",
+          "keyPoints": [
+            "Change can affect sounds, word structure, syntax, vocabulary and meaning.",
+            "Contact, analogy, internal patterns and social evaluation can interact. Distinguish an example of different languages from evidence of historical change within one language."
+          ],
+          "followUps": [
+            "e404-levels-and-mechanisms-of-change-apply"
+          ]
+        },
+        {
+          "id": "e404-levels-and-mechanisms-of-change-apply",
+          "prompt": "How does regularization illustrate morphological change?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "An exceptional form is remodelled on a more general pattern, changing the distribution of inflectional forms over time.",
+          "answer": "An exceptional form is remodelled on a more general pattern, changing the distribution of inflectional forms over time.",
+          "keyPoints": [
+            "An exceptional form is remodelled on a more general pattern, changing the distribution of inflectional forms over time."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-prestige-and-linguistic-insecurity",
+      "groupId": "e404-variation",
+      "title": "Prestige and linguistic insecurity",
+      "aliases": [],
+      "core": "Overt prestige attaches to publicly approved forms; covert prestige attaches to forms valued within particular groups.",
+      "explanation": "Speakers may orient to standard norms and local solidarity in different situations. Linguistic insecurity concerns anxiety about one's speech relative to valued norms.",
+      "example": "Teaching illustration: A speaker avoids a local feature in an interview but uses it with friends.",
+      "confusion": "A stigmatised form can still carry positive local social meaning.",
+      "syllabusTerms": [
+        "Language variation"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            35
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-prestige-and-linguistic-insecurity-core",
+          "prompt": "Explain prestige and linguistic insecurity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Overt prestige attaches to publicly approved forms; covert prestige attaches to forms valued within particular groups.",
+          "answer": "Overt prestige attaches to publicly approved forms; covert prestige attaches to forms valued within particular groups. Speakers may orient to standard norms and local solidarity in different situations. Linguistic insecurity concerns anxiety about one's speech relative to valued norms.",
+          "keyPoints": [
+            "Overt prestige attaches to publicly approved forms; covert prestige attaches to forms valued within particular groups.",
+            "Speakers may orient to standard norms and local solidarity in different situations. Linguistic insecurity concerns anxiety about one's speech relative to valued norms."
+          ],
+          "followUps": [
+            "e404-prestige-and-linguistic-insecurity-apply"
+          ]
+        },
+        {
+          "id": "e404-prestige-and-linguistic-insecurity-apply",
+          "prompt": "Why might someone keep a nonstandard feature despite knowing it is publicly stigmatised?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It may index solidarity, authenticity or group membership and carry covert prestige within the community.",
+          "answer": "It may index solidarity, authenticity or group membership and carry covert prestige within the community.",
+          "keyPoints": [
+            "It may index solidarity, authenticity or group membership and carry covert prestige within the community."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-problems-in-language-change-research",
+      "groupId": "e404-variation",
+      "title": "Problems in language-change research",
+      "aliases": [],
+      "core": "Change research asks about constraints, embedding, transition, evaluation and actuation.",
+      "explanation": "These concerns address possible pathways, social and linguistic location, stages, judgments and why a change arises at a particular time.",
+      "example": "Teaching illustration: Ask why an available pronunciation option begins spreading in one generation but not earlier.",
+      "confusion": "Naming a cause such as prestige is not a complete explanation of every actuation event.",
+      "syllabusTerms": [
+        "Language change"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            35,
+            36
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-problems-in-language-change-research-core",
+          "prompt": "Explain problems in language-change research briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Change research asks about constraints, embedding, transition, evaluation and actuation.",
+          "answer": "Change research asks about constraints, embedding, transition, evaluation and actuation. These concerns address possible pathways, social and linguistic location, stages, judgments and why a change arises at a particular time.",
+          "keyPoints": [
+            "Change research asks about constraints, embedding, transition, evaluation and actuation.",
+            "These concerns address possible pathways, social and linguistic location, stages, judgments and why a change arises at a particular time."
+          ],
+          "followUps": [
+            "e404-problems-in-language-change-research-apply"
+          ]
+        },
+        {
+          "id": "e404-problems-in-language-change-research-apply",
+          "prompt": "What distinguishes evaluation from actuation in language-change research?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Evaluation concerns how speakers judge variants.",
+          "answer": "Evaluation concerns how speakers judge variants. Actuation asks why a particular change begins in a particular place and time.",
+          "keyPoints": [
+            "Evaluation concerns how speakers judge variants. Actuation asks why a particular change begins in a particular place and time."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-language-and-culture",
+      "groupId": "e404-culture",
+      "title": "Language and culture",
+      "aliases": [],
+      "core": "Language expresses, constructs and symbolises cultural meanings.",
+      "explanation": "Shared practices and communicative conventions connect linguistic choices with ways of interpreting experience; cultures also contain diversity and disagreement.",
+      "example": "Teaching illustration: A form of address conveys respect through conventions shared in a setting.",
+      "confusion": "A culture is not a uniform box that determines every member's behaviour.",
+      "syllabusTerms": [
+        "Language and culture"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            37,
+            38
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-language-and-culture-core",
+          "prompt": "Explain language and culture briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Language expresses, constructs and symbolises cultural meanings.",
+          "answer": "Language expresses, constructs and symbolises cultural meanings. Shared practices and communicative conventions connect linguistic choices with ways of interpreting experience; cultures also contain diversity and disagreement.",
+          "keyPoints": [
+            "Language expresses, constructs and symbolises cultural meanings.",
+            "Shared practices and communicative conventions connect linguistic choices with ways of interpreting experience; cultures also contain diversity and disagreement."
+          ],
+          "followUps": [
+            "e404-language-and-culture-apply"
+          ]
+        },
+        {
+          "id": "e404-language-and-culture-apply",
+          "prompt": "Why can knowing grammar still leave a learner uncertain about appropriate address?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Appropriateness also depends on relationships, activity and culturally situated conventions that grammatical knowledge alone does not specify.",
+          "answer": "Appropriateness also depends on relationships, activity and culturally situated conventions that grammatical knowledge alone does not specify.",
+          "keyPoints": [
+            "Appropriateness also depends on relationships, activity and culturally situated conventions that grammatical knowledge alone does not specify."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-linguistic-relativity-and-determinism",
+      "groupId": "e404-culture",
+      "title": "Linguistic relativity and determinism",
+      "aliases": [],
+      "core": "Linguistic relativity concerns language-related influences on habitual thought; determinism claims stronger constraints on what can be thought.",
+      "explanation": "Treat specific effects as empirical questions. The claim that language completely confines thought is much stronger than evidence of an influence under particular conditions.",
+      "example": "Teaching illustration: Test whether language-specific categories affect attention in a defined task.",
+      "confusion": "Lacking a single word does not make a concept impossible to understand.",
+      "syllabusTerms": [
+        "Sapir-Whorf hypothesis"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-linguistic-relativity-and-determinism-core",
+          "prompt": "Explain linguistic relativity and determinism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Linguistic relativity concerns language-related influences on habitual thought; determinism claims stronger constraints on what can be thought.",
+          "answer": "Linguistic relativity concerns language-related influences on habitual thought; determinism claims stronger constraints on what can be thought. Treat specific effects as empirical questions. The claim that language completely confines thought is much stronger than evidence of an influence under particular conditions.",
+          "keyPoints": [
+            "Linguistic relativity concerns language-related influences on habitual thought; determinism claims stronger constraints on what can be thought.",
+            "Treat specific effects as empirical questions. The claim that language completely confines thought is much stronger than evidence of an influence under particular conditions."
+          ],
+          "followUps": [
+            "e404-linguistic-relativity-and-determinism-apply"
+          ]
+        },
+        {
+          "id": "e404-linguistic-relativity-and-determinism-apply",
+          "prompt": "Does a language without a single word for a concept prevent its speakers from thinking it?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "No.",
+          "answer": "No. Speakers can use descriptions, learn distinctions or coin expressions. Evidence of habitual linguistic influence does not establish absolute conceptual imprisonment.",
+          "keyPoints": [
+            "No. Speakers can use descriptions, learn distinctions or coin expressions. Evidence of habitual linguistic influence does not establish absolute conceptual imprisonment."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-representation-and-cultural-codes",
+      "groupId": "e404-culture",
+      "title": "Representation and cultural codes",
+      "aliases": [],
+      "core": "Hall's representation theory explains meaning production through concepts and signifying systems.",
+      "explanation": "Shared cultural codes enable signs to communicate; meanings can be contested and historically changed.",
+      "example": "Teaching illustration: A colour gains different social associations through different conventions.",
+      "confusion": "Construction of meaning does not deny material existence.",
+      "syllabusTerms": [
+        "Representation theory (Stuart Hall)"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            39,
+            40
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-representation-and-cultural-codes-core",
+          "prompt": "Explain representation and cultural codes briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Hall's representation theory explains meaning production through concepts and signifying systems.",
+          "answer": "Hall's representation theory explains meaning production through concepts and signifying systems. Shared cultural codes enable signs to communicate; meanings can be contested and historically changed.",
+          "keyPoints": [
+            "Hall's representation theory explains meaning production through concepts and signifying systems.",
+            "Shared cultural codes enable signs to communicate; meanings can be contested and historically changed."
+          ],
+          "followUps": [
+            "e404-representation-and-cultural-codes-apply"
+          ]
+        },
+        {
+          "id": "e404-representation-and-cultural-codes-apply",
+          "prompt": "How could one image produce different interpretations across audiences?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Audiences may bring different cultural codes, histories and contexts, so the image's signs do not carry one entirely self-contained meaning.",
+          "answer": "Audiences may bring different cultural codes, histories and contexts, so the image's signs do not carry one entirely self-contained meaning.",
+          "keyPoints": [
+            "Audiences may bring different cultural codes, histories and contexts, so the image's signs do not carry one entirely self-contained meaning."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-gender-and-language-practices",
+      "groupId": "e404-gender",
+      "title": "Gender and language practices",
+      "aliases": [],
+      "core": "Language and gender are connected through social practices, identities and relations of power.",
+      "explanation": "Investigate local contexts rather than treating all women and men as homogeneous speech groups. Historical claims about hedges or pitch need contextual evidence.",
+      "example": "Teaching illustration: Compare the same form's meaning across a classroom, workplace and friendship group.",
+      "confusion": "A hedge can mark caution, politeness or expertise; it does not automatically reveal female insecurity.",
+      "syllabusTerms": [
+        "Language and gender"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "id": "e404-gender-local"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-gender-and-language-practices-core",
+          "prompt": "Explain gender and language practices briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Language and gender are connected through social practices, identities and relations of power.",
+          "answer": "Language and gender are connected through social practices, identities and relations of power. Investigate local contexts rather than treating all women and men as homogeneous speech groups. Historical claims about hedges or pitch need contextual evidence.",
+          "keyPoints": [
+            "Language and gender are connected through social practices, identities and relations of power.",
+            "Investigate local contexts rather than treating all women and men as homogeneous speech groups. Historical claims about hedges or pitch need contextual evidence."
+          ],
+          "followUps": [
+            "e404-gender-and-language-practices-apply"
+          ]
+        },
+        {
+          "id": "e404-gender-and-language-practices-apply",
+          "prompt": "Why is 'women always hedge because they lack confidence' an inadequate claim?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "It generalises across people and settings and assigns one function to a form with several possible uses.",
+          "answer": "It generalises across people and settings and assigns one function to a form with several possible uses. Analyse interaction, role and local meanings.",
+          "keyPoints": [
+            "It generalises across people and settings and assigns one function to a form with several possible uses. Analyse interaction, role and local meanings."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-gendered-interaction",
+      "groupId": "e404-gender",
+      "title": "Gendered interaction",
+      "aliases": [],
+      "core": "Gendered interaction concerns how turn-taking, topics and other practices participate in social relations.",
+      "explanation": "Overlap can be supportive or competitive; roles, status and activity affect its meaning. Counted forms need contextual interpretation.",
+      "example": "Teaching illustration: A brief overlap supplies a word to help a speaker finish rather than taking the floor.",
+      "confusion": "Overlap and hostile interruption are not identical.",
+      "syllabusTerms": [
+        "Language and gender"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            42,
+            43
+          ]
+        },
+        {
+          "id": "e404-gender-local"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-gendered-interaction-core",
+          "prompt": "Explain gendered interaction briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Gendered interaction concerns how turn-taking, topics and other practices participate in social relations.",
+          "answer": "Gendered interaction concerns how turn-taking, topics and other practices participate in social relations. Overlap can be supportive or competitive; roles, status and activity affect its meaning. Counted forms need contextual interpretation.",
+          "keyPoints": [
+            "Gendered interaction concerns how turn-taking, topics and other practices participate in social relations.",
+            "Overlap can be supportive or competitive; roles, status and activity affect its meaning. Counted forms need contextual interpretation."
+          ],
+          "followUps": [
+            "e404-gendered-interaction-apply"
+          ]
+        },
+        {
+          "id": "e404-gendered-interaction-apply",
+          "prompt": "Why does counting interruptions alone not prove that one group dominates a conversation?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The analyst must define interruption, examine functions, participation opportunities, roles and context, and distinguish supportive overlap from floor-taking.",
+          "answer": "The analyst must define interruption, examine functions, participation opportunities, roles and context, and distinguish supportive overlap from floor-taking.",
+          "keyPoints": [
+            "The analyst must define interruption, examine functions, participation opportunities, roles and context, and distinguish supportive overlap from floor-taking."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-sexism-and-language-reform",
+      "groupId": "e404-gender",
+      "title": "Sexism and language reform",
+      "aliases": [],
+      "core": "Sexist language practices construct or reproduce unequal gender relations.",
+      "explanation": "Reform can change occupational labels and address conventions while examining continuing stereotypes and institutional practices.",
+      "example": "Teaching illustration: Use chair or firefighter when gender is irrelevant to the role.",
+      "confusion": "Changing vocabulary alone does not eliminate every social inequality.",
+      "syllabusTerms": [
+        "Language and gender"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            43,
+            44
+          ]
+        },
+        {
+          "id": "e404-gender-local"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-sexism-and-language-reform-core",
+          "prompt": "Explain sexism and language reform briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Sexist language practices construct or reproduce unequal gender relations.",
+          "answer": "Sexist language practices construct or reproduce unequal gender relations. Reform can change occupational labels and address conventions while examining continuing stereotypes and institutional practices.",
+          "keyPoints": [
+            "Sexist language practices construct or reproduce unequal gender relations.",
+            "Reform can change occupational labels and address conventions while examining continuing stereotypes and institutional practices."
+          ],
+          "followUps": [
+            "e404-sexism-and-language-reform-apply"
+          ]
+        },
+        {
+          "id": "e404-sexism-and-language-reform-apply",
+          "prompt": "Why might replacing chairman with chair help but remain insufficient?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It removes an unnecessarily gendered label, but participation, representation and institutional power also need attention.",
+          "answer": "It removes an unnecessarily gendered label, but participation, representation and institutional power also need attention.",
+          "keyPoints": [
+            "It removes an unnecessarily gendered label, but participation, representation and institutional power also need attention."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-language-and-identity",
+      "groupId": "e404-gender",
+      "title": "Language and identity",
+      "aliases": [],
+      "core": "Language choices can express and actively construct identities and affiliations.",
+      "explanation": "Accent, code choice, stance and register can position speakers relative to audiences and groups. Identity is negotiated, multiple and context-sensitive.",
+      "example": "Teaching illustration: A speaker uses a local expression to emphasise belonging during a reunion.",
+      "confusion": "A single linguistic form does not reveal one fixed identity in every context.",
+      "syllabusTerms": [
+        "Language identity"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            44
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-language-and-identity-core",
+          "prompt": "Explain language and identity briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Language choices can express and actively construct identities and affiliations.",
+          "answer": "Language choices can express and actively construct identities and affiliations. Accent, code choice, stance and register can position speakers relative to audiences and groups. Identity is negotiated, multiple and context-sensitive.",
+          "keyPoints": [
+            "Language choices can express and actively construct identities and affiliations.",
+            "Accent, code choice, stance and register can position speakers relative to audiences and groups. Identity is negotiated, multiple and context-sensitive."
+          ],
+          "followUps": [
+            "e404-language-and-identity-apply"
+          ]
+        },
+        {
+          "id": "e404-language-and-identity-apply",
+          "prompt": "How can code-switching construct identity rather than merely reflect it?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A speaker can use the switch to claim solidarity, distance, expertise or another position in the moment, shaping how others understand the relationship.",
+          "answer": "A speaker can use the switch to claim solidarity, distance, expertise or another position in the moment, shaping how others understand the relationship.",
+          "keyPoints": [
+            "A speaker can use the switch to claim solidarity, distance, expertise or another position in the moment, shaping how others understand the relationship."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-linguistic-imperialism",
+      "groupId": "e404-imperialism",
+      "title": "Linguistic imperialism",
+      "aliases": [],
+      "core": "Linguistic imperialism analyses dominance maintained through unequal linguistic resources, rights and ideologies.",
+      "explanation": "Phillipson's framework examines structural and ideological advantages for dominant languages and the marginalisation of others.",
+      "example": "Teaching illustration: An educational system privileges one language's users while underfunding local-language learning.",
+      "confusion": "The spread of a language alone does not explain all local histories or establish every use as oppression.",
+      "syllabusTerms": [
+        "Linguistic imperialism"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            45,
+            46,
+            47,
+            48
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-linguistic-imperialism-core",
+          "prompt": "Explain linguistic imperialism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Linguistic imperialism analyses dominance maintained through unequal linguistic resources, rights and ideologies.",
+          "answer": "Linguistic imperialism analyses dominance maintained through unequal linguistic resources, rights and ideologies. Phillipson's framework examines structural and ideological advantages for dominant languages and the marginalisation of others.",
+          "keyPoints": [
+            "Linguistic imperialism analyses dominance maintained through unequal linguistic resources, rights and ideologies.",
+            "Phillipson's framework examines structural and ideological advantages for dominant languages and the marginalisation of others."
+          ],
+          "followUps": [
+            "e404-linguistic-imperialism-apply"
+          ]
+        },
+        {
+          "id": "e404-linguistic-imperialism-apply",
+          "prompt": "What evidence is needed beyond the popularity of English to argue linguistic imperialism?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "Examine unequal resources, exclusion, institutional incentives, rights and ideological claims, while also considering local appropriation and resistance.",
+          "answer": "Examine unequal resources, exclusion, institutional incentives, rights and ideological claims, while also considering local appropriation and resistance.",
+          "keyPoints": [
+            "Examine unequal resources, exclusion, institutional incentives, rights and ideological claims, while also considering local appropriation and resistance."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-linguicism-and-native-speakerism",
+      "groupId": "e404-imperialism",
+      "title": "Linguicism and native-speakerism",
+      "aliases": [],
+      "core": "Linguicism legitimises unequal power on linguistic grounds; native-speakerism privileges idealised native speakers in language education.",
+      "explanation": "Language-based gatekeeping can shape employment and access. Teacher quality should be examined through relevant skills rather than birth-based stereotypes.",
+      "example": "Teaching illustration: A qualified teacher is rejected solely for not being labelled a native English speaker.",
+      "confusion": "A native-speaker label is not a sufficient measure of teaching ability.",
+      "syllabusTerms": [
+        "Linguistic imperialism"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            46,
+            47
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-linguicism-and-native-speakerism-core",
+          "prompt": "Explain linguicism and native-speakerism briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Linguicism legitimises unequal power on linguistic grounds; native-speakerism privileges idealised native speakers in language education.",
+          "answer": "Linguicism legitimises unequal power on linguistic grounds; native-speakerism privileges idealised native speakers in language education. Language-based gatekeeping can shape employment and access. Teacher quality should be examined through relevant skills rather than birth-based stereotypes.",
+          "keyPoints": [
+            "Linguicism legitimises unequal power on linguistic grounds; native-speakerism privileges idealised native speakers in language education.",
+            "Language-based gatekeeping can shape employment and access. Teacher quality should be examined through relevant skills rather than birth-based stereotypes."
+          ],
+          "followUps": [
+            "e404-linguicism-and-native-speakerism-apply"
+          ]
+        },
+        {
+          "id": "e404-linguicism-and-native-speakerism-apply",
+          "prompt": "How could a teacher recruitment rule reproduce native-speakerism?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "It may treat origin or first-language status as an automatic guarantee of competence and exclude qualified multilingual teachers without evaluating their actual expertise.",
+          "answer": "It may treat origin or first-language status as an automatic guarantee of competence and exclude qualified multilingual teachers without evaluating their actual expertise.",
+          "keyPoints": [
+            "It may treat origin or first-language status as an automatic guarantee of competence and exclude qualified multilingual teachers without evaluating their actual expertise."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-english-empowerment-and-inequality",
+      "groupId": "e404-imperialism",
+      "title": "English, empowerment and inequality",
+      "aliases": [],
+      "core": "English can provide opportunities while also operating within unequal linguistic systems.",
+      "explanation": "A critical ELT approach considers access, local identities and multilingual rights, and treats learners as active users rather than passive recipients.",
+      "example": "Teaching illustration: An English programme supports global communication while valuing learners' other languages.",
+      "confusion": "Learning English does not inherently require abandoning local languages.",
+      "syllabusTerms": [
+        "Linguistic imperialism"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            47,
+            48
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-english-empowerment-and-inequality-core",
+          "prompt": "Explain english, empowerment and inequality briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "English can provide opportunities while also operating within unequal linguistic systems.",
+          "answer": "English can provide opportunities while also operating within unequal linguistic systems. A critical ELT approach considers access, local identities and multilingual rights, and treats learners as active users rather than passive recipients.",
+          "keyPoints": [
+            "English can provide opportunities while also operating within unequal linguistic systems.",
+            "A critical ELT approach considers access, local identities and multilingual rights, and treats learners as active users rather than passive recipients."
+          ],
+          "followUps": [
+            "e404-english-empowerment-and-inequality-apply"
+          ]
+        },
+        {
+          "id": "e404-english-empowerment-and-inequality-apply",
+          "prompt": "How might an English course support access without devaluing local languages?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "Use inclusive materials, recognise multilingual resources, avoid native-speaker hierarchies and make English an additional capability rather than a measure of human worth.",
+          "answer": "Use inclusive materials, recognise multilingual resources, avoid native-speaker hierarchies and make English an additional capability rather than a measure of human worth.",
+          "keyPoints": [
+            "Use inclusive materials, recognise multilingual resources, avoid native-speaker hierarchies and make English an additional capability rather than a measure of human worth."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-world-englishes-and-unequal-englishes",
+      "groupId": "e404-imperialism",
+      "title": "World Englishes and unequal Englishes",
+      "aliases": [],
+      "core": "World Englishes examines diverse English varieties; unequal Englishes highlights hierarchies among their users and forms.",
+      "explanation": "Recognition of multiple varieties can challenge one-centre norms, while institutional judgments may still distribute prestige unequally.",
+      "example": "Teaching illustration: Two intelligible English varieties receive different employment evaluations because of accent stereotypes.",
+      "confusion": "Recognising a variety does not automatically remove its speakers' social disadvantages.",
+      "syllabusTerms": [
+        "Linguistic imperialism"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            48
+          ]
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-world-englishes-and-unequal-englishes-core",
+          "prompt": "Explain world englishes and unequal englishes briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "World Englishes examines diverse English varieties; unequal Englishes highlights hierarchies among their users and forms.",
+          "answer": "World Englishes examines diverse English varieties; unequal Englishes highlights hierarchies among their users and forms. Recognition of multiple varieties can challenge one-centre norms, while institutional judgments may still distribute prestige unequally.",
+          "keyPoints": [
+            "World Englishes examines diverse English varieties; unequal Englishes highlights hierarchies among their users and forms.",
+            "Recognition of multiple varieties can challenge one-centre norms, while institutional judgments may still distribute prestige unequally."
+          ],
+          "followUps": [
+            "e404-world-englishes-and-unequal-englishes-apply"
+          ]
+        },
+        {
+          "id": "e404-world-englishes-and-unequal-englishes-apply",
+          "prompt": "Why might celebrating World Englishes leave inequality unresolved?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "A variety may gain scholarly recognition while schools, employers and media continue to reward a narrow prestigious norm.",
+          "answer": "A variety may gain scholarly recognition while schools, employers and media continue to reward a narrow prestigious norm.",
+          "keyPoints": [
+            "A variety may gain scholarly recognition while schools, employers and media continue to reward a narrow prestigious norm."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-fossilization",
+      "groupId": "e404-fossilization",
+      "title": "Fossilization",
+      "aliases": [],
+      "core": "Fossilization concerns persistent non-targetlike features in an interlanguage despite opportunities for further development.",
+      "explanation": "It can be selective rather than a total stop in learning. Longitudinal evidence is needed to distinguish persistent patterns from temporary performance or a plateau.",
+      "example": "Teaching illustration: A learner improves vocabulary while a particular inflectional pattern remains resistant to change.",
+      "confusion": "An accent difference is not automatically an error or proof of fossilization.",
+      "syllabusTerms": [
+        "Language fossilization"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            49,
+            50,
+            51
+          ]
+        },
+        {
+          "id": "e404-fossilization"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-fossilization-core",
+          "prompt": "Explain fossilization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": true,
+          "shortAnswer": "Fossilization concerns persistent non-targetlike features in an interlanguage despite opportunities for further development.",
+          "answer": "Fossilization concerns persistent non-targetlike features in an interlanguage despite opportunities for further development. It can be selective rather than a total stop in learning. Longitudinal evidence is needed to distinguish persistent patterns from temporary performance or a plateau.",
+          "keyPoints": [
+            "Fossilization concerns persistent non-targetlike features in an interlanguage despite opportunities for further development.",
+            "It can be selective rather than a total stop in learning. Longitudinal evidence is needed to distinguish persistent patterns from temporary performance or a plateau."
+          ],
+          "followUps": [
+            "e404-fossilization-apply"
+          ]
+        },
+        {
+          "id": "e404-fossilization-apply",
+          "prompt": "Why should one avoid declaring fossilization after observing an error once?",
+          "type": "application",
+          "difficulty": "applied",
+          "essential": false,
+          "shortAnswer": "A single occurrence could reflect performance, task conditions or ongoing development.",
+          "answer": "A single occurrence could reflect performance, task conditions or ongoing development. Fossilization is a claim about persistent patterns over time.",
+          "keyPoints": [
+            "A single occurrence could reflect performance, task conditions or ongoing development. Fossilization is a claim about persistent patterns over time."
+          ],
+          "followUps": []
+        }
+      ]
+    },
+    {
+      "id": "e404-stabilization-and-fossilization",
+      "groupId": "e404-fossilization",
+      "title": "Stabilization and fossilization",
+      "aliases": [],
+      "core": "Stabilization describes relative persistence; fossilization makes a stronger claim about enduring resistance to development.",
+      "explanation": "Input, feedback, processing and social conditions may affect patterns. Motivation alone is not a universal explanation.",
+      "example": "Teaching illustration: A learner's stable form later changes after focused practice, showing that earlier stability did not establish permanence.",
+      "confusion": "A temporary plateau cannot securely demonstrate permanent cessation.",
+      "syllabusTerms": [
+        "Language fossilization"
+      ],
+      "sources": [
+        {
+          "id": "E404",
+          "pages": [
+            49,
+            50,
+            51
+          ]
+        },
+        {
+          "id": "e404-fossilization"
+        }
+      ],
+      "related": [],
+      "questions": [
+        {
+          "id": "e404-stabilization-and-fossilization-core",
+          "prompt": "Explain stabilization and fossilization briefly.",
+          "type": "definition",
+          "difficulty": "foundation",
+          "essential": false,
+          "shortAnswer": "Stabilization describes relative persistence; fossilization makes a stronger claim about enduring resistance to development.",
+          "answer": "Stabilization describes relative persistence; fossilization makes a stronger claim about enduring resistance to development. Input, feedback, processing and social conditions may affect patterns. Motivation alone is not a universal explanation.",
+          "keyPoints": [
+            "Stabilization describes relative persistence; fossilization makes a stronger claim about enduring resistance to development.",
+            "Input, feedback, processing and social conditions may affect patterns. Motivation alone is not a universal explanation."
+          ],
+          "followUps": [
+            "e404-stabilization-and-fossilization-apply"
+          ]
+        },
+        {
+          "id": "e404-stabilization-and-fossilization-apply",
+          "prompt": "If a previously persistent form changes after instruction, what does that imply?",
+          "type": "criticism",
+          "difficulty": "challenge",
+          "essential": false,
+          "shortAnswer": "The earlier pattern may have been stabilization rather than demonstrated permanent fossilization.",
+          "answer": "The earlier pattern may have been stabilization rather than demonstrated permanent fossilization. Avoid treating persistence during a limited observation period as proof that change is impossible.",
+          "keyPoints": [
+            "The earlier pattern may have been stabilization rather than demonstrated permanent fossilization. Avoid treating persistence during a limited observation period as proof that change is impossible."
+          ],
+          "followUps": []
+        }
+      ]
+    }
+  ]
+}
