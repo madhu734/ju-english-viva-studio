@@ -12,9 +12,9 @@ Edit the seven `content/E*.json` files and `content/connections.json`. The files
 
 Versioned browser localStorage stores self-ratings, attempt history, notes, bookmarks and the current session. Export/import transfers a copy; it is not automatic sync. Import replaces existing local progress after confirmation. A second browser starts independently. A mock timer uses an absolute deadline, so leaving the page does not pause it. Unreached and skipped questions are not automatically marked incorrect.
 
-## Future AI service
+## Live AI service
 
-Set `guideConfig.endpoint` in `dist/js/guide-client.js` only after deploying a retrieval service. The frontend POSTs `{messages, courseIds?, topicIds?, questionId?, contentVersion}`. Return `{answer: string, citations: [{id: sourceId, pages?: number[]}]}`. Source IDs must come from the content library. Serve the same content version to the backend. Configure CORS if using a different origin. Keep provider API keys on the backend. Error and timeout states are already handled; disabled mode makes no AI requests. Nothing is automatically sent to the guide during practice.
+The frontend posts `{question, course}` to `/api/ask` on the same origin. The host service returns `{status: "success", answer: "Markdown", cached: boolean}`. Nginx proxies `/api/` to host port 8055. Marked and DOMPurify render and sanitize responses, and Copy Answer copies the original Markdown. The browser waits up to 125 seconds; Nginx read/send limits are 120 seconds. No API keys are stored in the frontend. See DEPLOYMENT.md for Docker configuration and new-domain progress transfer.
 
 ## Source boundaries
 
